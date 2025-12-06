@@ -1,38 +1,63 @@
-# AKTUELLE KI NEWS – Trends, Tools & Insights
+# AKTUELLE KI NEWS – Wöchentliche KI-News-Website
 
-Wöchentliche KI-News aus Deutschland und der Welt - Trends, Tools und Insights
+## 📋 Übersicht
 
-## Website
+Diese Website bietet eine wöchentliche Zusammenfassung der wichtigsten KI-News aus deutschen und internationalen Quellen. Die Inhalte werden in übersichtlichen Kategorien präsentiert und durch einen Audio-Podcast ergänzt.
 
-Die Website ist verfügbar unter: https://rogerbasler.github.io/aktuelle-ki-news/
+## 🌐 Live-Website
 
-## Setup GitHub Pages
+**URL:** https://rogerbasler.github.io/aktuelle-ki-news/
 
-Um GitHub Pages zu aktivieren:
-1. Gehen Sie zu Repository Settings
-2. Navigieren Sie zu "Pages" in der linken Seitenleiste
-3. Wählen Sie unter "Source": Deploy from a branch
-4. Wählen Sie Branch: master
-5. Wählen Sie Folder: / (root)
-6. Klicken Sie auf "Save"
+Die Website ist permanent online und wird wöchentlich aktualisiert.
 
-Die Website wird dann unter https://rogerbasler.github.io/aktuelle-ki-news/ verfügbar sein.
+## 📰 Quellen
 
-## Inhalt
+Die News werden aus folgenden vertrauenswürdigen Quellen gesammelt:
 
-- Wöchentliche KI-News aus deutschen und internationalen Quellen
-- Audio-Podcast-Zusammenfassung (KI Update Avatar)
-- Kategorisiert nach: KI News der Woche, Tools & Startups, Regulierung & Ethik, Business & Society
-
-## Quellen
-
+### Deutsche/DACH-Quellen:
 - t3n.de
-- Heise.de
-- Handelsblatt Technik
-- TechCrunch
-- AI Breakfast
-- The Decoder
+- heise.de
+- handelsblatt.com/technik
+
+### Internationale Quellen:
+- techcrunch.com
+- aibreakfast.com
+- Weitere relevante Tech-Medien
+
+## 📑 Kategorien
+
+Die News sind in folgende Bereiche unterteilt:
+
+1. **🧠 KI NEWS DER WOCHE** - Große Ankündigungen, Releases, Durchbrüche
+2. **🚀 KI Tools, KI Startups & KI News** - Neue Tools, Beta-Launches, Innovationen
+3. **🏛️ Regulatorien und Ethik** - AI Act, Governance, Standards
+4. **🗣️ Stimmen und Perspektiven** - Interviews, Expertenmeinungen
+5. **💼 Implications for Business & Society** - Auswirkungen auf Märkte, Jobs, Gesellschaft
+
+## 🎧 Audio-Podcast
+
+Jede Woche wird eine Audio-Zusammenfassung der wichtigsten News erstellt und auf der Website bereitgestellt. Der "KI Update Avatar" präsentiert die Highlights in deutscher Sprache.
+
+## 🎨 Design
+
+- **Schriftart:** Inter (Google Fonts)
+- **Farbschema:** 
+  - Header: Schwarz
+  - Akzentfarben: Baby Blue (#87CEEB) und Bright Pink (#FF69B4)
+- **Responsive Design:** Optimiert für Desktop, Tablet und Mobile
+
+## 🔄 Aktualisierung
+
+Die Website wird wöchentlich aktualisiert mit den neuesten KI-News der letzten 7 Tage.
+
+**Aktueller Stand:** 6. Dezember 2025
+
+## 📧 Kontakt
+
+Mehr Informationen: [www.ki-update.com](https://www.ki-update.com)
+
+„Deine Community für soziale Medien, Unternehmertum und KI"
 
 ---
 
-Erstellt von Roger Basler de Roca | Stand: 22. November 2025
+**Powered by KI-Update.com**
