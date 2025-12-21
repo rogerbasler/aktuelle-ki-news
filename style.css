@@ -75,11 +75,19 @@ main {
     margin-bottom: 20px;
 }
 
+/* Audio Wrapper - ensures full width */
+.audio-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
 .podcast-section audio {
     width: 100%;
-    max-width: 600px;
+    max-width: 100%;
     border-radius: 50px;
     outline: none;
+    background-color: rgba(255, 255, 255, 0.9);
 }
 
 /* News Sections */
@@ -197,6 +205,10 @@ footer {
         font-size: 1.5rem;
     }
 
+    .podcast-section p {
+        font-size: 1rem;
+    }
+
     .news-section h2 {
         font-size: 1.7rem;
     }
@@ -236,7 +248,7 @@ footer {
     }
 
     .podcast-section p {
-        font-size: 1rem;
+        font-size: 0.95rem;
     }
 
     .news-section h2 {
@@ -253,5 +265,13 @@ footer {
 
     .news-item p {
         font-size: 0.95rem;
+    }
+
+    .footer-cta {
+        font-size: 1rem;
+    }
+
+    .footer-tagline {
+        font-size: 0.9rem;
     }
 }
