@@ -1,0 +1,23 @@
+Willkommen zum KI Update Avatar! Hier ist Ihre wöchentliche Zusammenfassung der wichtigsten Entwicklungen in der Welt der Künstlichen Intelligenz für die Woche vom 8. bis 14. Dezember 2025.
+
+Diese Woche erlebten wir einen historischen Moment: OpenAI und Google lieferten sich ein spektakuläres KI-Duell. Am 11. Dezember präsentierte OpenAI sein neues GPT-5.2 Modell, das speziell für professionelle Büroarbeiten optimiert wurde. Nutzer sparen damit bis zu 60 Minuten pro Tag. Nur wenige Stunden später konterte Google mit seinem fortschrittlichsten Deep Research Agenten, basierend auf Gemini 3 Pro.
+
+Das TIME Magazine kürte die "Architekten der KI" zur Person des Jahres. Zu den Geehrten gehören Jensen Huang von NVIDIA, Sam Altman von OpenAI und Mark Zuckerberg von Meta. Die Zeitschrift würdigt damit ihre entscheidende Rolle bei der Gestaltung der globalen KI-Infrastruktur.
+
+Disney investiert eine Milliarde Dollar in OpenAI. Die Partnerschaft ermöglicht es, mit dem Video-Tool Sora KI-Videos mit über 200 Disney-Charakteren zu erstellen - von Mickey Mouse bis Darth Vader.
+
+In Deutschland steht Aleph Alpha, eine der größten europäischen KI-Hoffnungen, vor einem radikalen Umbau. Nach einem Führungswechsel werden tiefgreifende strategische Änderungen erwartet.
+
+Adobe hat Photoshop, Express und Acrobat direkt in ChatGPT integriert. Über 800 Millionen Nutzer können jetzt Bilder bearbeiten und Dokumente verwalten, ohne die Konversationsoberfläche zu verlassen.
+
+Google stellte mehrere neue Tools vor: "Disco" erstellt aus Browser-Tabs interaktive Web-Anwendungen, und Google Translate ermöglicht nun Echtzeit-Übersetzungen direkt über Kopfhörer.
+
+Bei der Regulierung gibt es wichtige Entwicklungen: 42 US-Generalstaatsanwälte warnen vor "wahnhaften" KI-Antworten und fordern strengere Sicherheitsvorkehrungen. Die Trump-Regierung plant ein einheitliches KI-Regelwerk für die gesamten USA. New York schreibt als erster Bundesstaat die Kennzeichnung von KI-generierten Personen in der Werbung vor.
+
+Die EU-Kommission ermittelt gegen Google wegen möglicher Copyright-Verletzungen beim Training seiner KI-Modelle.
+
+Der Energiehunger der KI wird immer deutlicher: In den USA wird das stillgelegte Atomkraftwerk Three Mile Island reaktiviert, um KI-Rechenzentren mit Strom zu versorgen. Experten warnen vor einer Stromlücke von 19 Gigawatt bis 2028.
+
+Deutsche Industriegiganten wie Siemens, BASF und Volkswagen investieren Milliarden in KI, um im globalen Wettbewerb zu bestehen. Gleichzeitig verändert KI das Recruiting radikal und findet Anwendung in Bereichen von der Psychotherapie bis zur Mülltrennung.
+
+Das war Ihr KI Update Avatar für diese Woche. Mehr Informationen und alle Details finden Sie auf www.ki-update.com - Ihre Community für soziale Medien, Unternehmertum und KI. Bis nächste Woche!
