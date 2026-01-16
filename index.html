@@ -3,141 +3,324 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Aktuelle KI News der Woche - Trends, Tools & Insights powered by KI-Update.com">
-    <title>AKTUELLE KI NEWS – Trends, Tools & Insights - powered by KI-Update.com</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="style.css">
+    <title>Aktuelle KI News - KI Update Avatar</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            overflow: hidden;
+        }
+        
+        header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 40px;
+            text-align: center;
+        }
+        
+        header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+        }
+        
+        header p {
+            font-size: 1.2em;
+            opacity: 0.9;
+        }
+        
+        .date-badge {
+            display: inline-block;
+            background: rgba(255,255,255,0.2);
+            padding: 10px 20px;
+            border-radius: 25px;
+            margin-top: 15px;
+            font-weight: bold;
+        }
+        
+        .audio-section {
+            background: #f8f9fa;
+            padding: 30px;
+            text-align: center;
+            border-bottom: 3px solid #667eea;
+        }
+        
+        .audio-section h2 {
+            color: #667eea;
+            margin-bottom: 15px;
+        }
+        
+        audio {
+            width: 100%;
+            max-width: 600px;
+            margin-top: 15px;
+        }
+        
+        .content {
+            padding: 40px;
+        }
+        
+        .category {
+            margin-bottom: 50px;
+        }
+        
+        .category-title {
+            font-size: 1.8em;
+            color: #667eea;
+            margin-bottom: 25px;
+            padding-bottom: 10px;
+            border-bottom: 3px solid #667eea;
+            display: flex;
+            align-items: center;
+        }
+        
+        .category-icon {
+            font-size: 1.2em;
+            margin-right: 15px;
+        }
+        
+        .news-item {
+            background: #f8f9fa;
+            padding: 25px;
+            margin-bottom: 20px;
+            border-radius: 10px;
+            border-left: 5px solid #667eea;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        
+        .news-item:hover {
+            transform: translateX(5px);
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.2);
+        }
+        
+        .news-item h3 {
+            color: #333;
+            margin-bottom: 10px;
+            font-size: 1.3em;
+        }
+        
+        .news-item p {
+            color: #666;
+            margin-bottom: 15px;
+        }
+        
+        .news-item a {
+            color: #667eea;
+            text-decoration: none;
+            font-weight: bold;
+            transition: color 0.2s;
+        }
+        
+        .news-item a:hover {
+            color: #764ba2;
+            text-decoration: underline;
+        }
+        
+        footer {
+            background: #2c3e50;
+            color: white;
+            text-align: center;
+            padding: 30px;
+        }
+        
+        footer p {
+            margin: 5px 0;
+        }
+        
+        @media (max-width: 768px) {
+            body {
+                padding: 10px;
+            }
+            
+            header h1 {
+                font-size: 1.8em;
+            }
+            
+            header p {
+                font-size: 1em;
+            }
+            
+            .content {
+                padding: 20px;
+            }
+            
+            .category-title {
+                font-size: 1.4em;
+            }
+            
+            .news-item {
+                padding: 15px;
+            }
+        }
+    </style>
 </head>
 <body>
-    <header>
-        <div class="container">
-            <h1>AKTUELLE KI NEWS</h1>
-            <p class="subtitle">Trends, Tools & Insights - powered by <strong>KI-Update.com</strong></p>
-            <p class="date">Stand: 12. Januar 2026</p>
+    <div class="container">
+        <header>
+            <h1>🤖 KI Update Avatar</h1>
+            <p>Ihre wöchentliche Zusammenfassung der wichtigsten KI-Entwicklungen</p>
+            <div class="date-badge">Stand: 16. Januar 2026</div>
+        </header>
+        
+        <div class="audio-section">
+            <h2>🎧 Podcast der Woche</h2>
+            <p>Hören Sie die Zusammenfassung der Top-News</p>
+            <audio controls>
+                <source src="ki_update_podcast.wav" type="audio/wav">
+                Ihr Browser unterstützt das Audio-Element nicht.
+            </audio>
         </div>
-    </header>
-
-    <main class="container">
-        <!-- Podcast Section -->
-        <section class="podcast-section">
-            <h2>🎧 KI Update Avatar – Zusammenfassung der Woche</h2>
-            <div class="podcast-player">
-                <audio controls>
-                    <source src="ki_update_podcast.wav" type="audio/wav">
-                    Ihr Browser unterstützt das Audio-Element nicht.
-                </audio>
-                <p class="podcast-description">Hören Sie die wichtigsten KI-News der Woche, präsentiert vom KI Update Avatar.</p>
-            </div>
-        </section>
-
-        <!-- KI NEWS DER WOCHE -->
-        <section class="news-section">
-            <h2>🧠 KI NEWS DER WOCHE</h2>
+        
+        <div class="content">
+            <section class="category">
+                <h2 class="category-title">
+                    <span class="category-icon">🧠</span>
+                    KI News der Woche
+                </h2>
+                
+                <div class="news-item">
+                    <h3>KI-Studie: Künstliche Intelligenz macht mehr als erwartet – und das ist ein Problem</h3>
+                    <p>Laut einer neuen Anthropic-Studie übernehmen KI-Systeme entgegen der ursprünglichen Erwartung nicht primär Routinetätigkeiten, sondern komplexe Aufgaben. Dies führt zu einem "Deskilling" vieler Berufe. Typische Aufgaben, die ohne KI drei Stunden dauern würden, lassen sich mit KI in rund 15 Minuten erledigen.</p>
+                    <a href="https://t3n.de/news/ki-studie-kuenstliche-intelligenz-macht-mehr-als-erwartet-und-das-ist-ein-problem-1725664/" target="_blank">Mehr erfahren →</a>
+                </div>
+                
+                <div class="news-item">
+                    <h3>KI-Unternehmen stürzen sich massiv auf den Gesundheitssektor</h3>
+                    <p>In nur einer Woche kaufte OpenAI das Gesundheits-Startup Torch, Anthropic startete Claude for healthcare, und Sam Altman-backed MergeLabs schloss eine 250 Millionen Dollar Seed-Runde bei 850 Millionen Dollar Bewertung. Die KI-Welt ist plötzlich besessen von Gesundheitsversorgung.</p>
+                    <a href="https://techcrunch.com/video/the-ai-healthcare-gold-rush-is-here/" target="_blank">Mehr erfahren →</a>
+                </div>
+                
+                <div class="news-item">
+                    <h3>Apple zahlt angeblich Milliarden für Googles KI-Modelle</h3>
+                    <p>Die Partnerschaft zwischen Apple und Google wird deutlich vertieft. Mit dem Rückgriff auf Gemini-Modelle für die Apple-KI wird die Kooperation massiv ausgebaut. Apple kehrt diese Partnerschaft gerne unter den Teppich.</p>
+                    <a href="https://www.heise.de/news/Siri-2-0-Apple-zahlt-angeblich-Milliarden-fuer-Googles-KI-Modelle-11143988.html" target="_blank">Mehr erfahren →</a>
+                </div>
+                
+                <div class="news-item">
+                    <h3>Chinesische KI-Start-ups fliehen nach Singapur</h3>
+                    <p>Nach der Übernahme des abgewanderten KI-Start-ups Manus durch Meta droht ein Konflikt mit den Behörden in Peking. Chinesische KI-Start-ups wandern massiv nach Singapur ab, um Zugang zu westlichem Kapital und Kunden zu erhalten. Peking befürchtet Abwanderung von KI-Talenten.</p>
+                    <a href="https://www.handelsblatt.com/unternehmen/kuenstliche-intelligenz-chinesische-ki-start-ups-fliehen-nach-singapur/100191390.html" target="_blank">Mehr erfahren →</a>
+                </div>
+                
+                <div class="news-item">
+                    <h3>KI-Ausgaben steigen 2026 auf 2,5 Billionen Dollar</h3>
+                    <p>Einer Studie zufolge wird sich das starke Wachstum der weltweiten Ausgaben für KI-Technologie fortsetzen. 2026 werden weltweit 2,5 Billionen Dollar für KI ausgegeben – ein massiver Anstieg.</p>
+                    <a href="https://www.handelsblatt.com/technik/kuenstliche-intelligenz-ki-ausgaben-steigen-2026-auf-25-billionen-dollar/100191851.html" target="_blank">Mehr erfahren →</a>
+                </div>
+            </section>
             
-            <article class="news-item">
-                <h3>Apple setzt auf Google Gemini für KI-Funktionen wie Siri</h3>
-                <p>Apple hat offiziell eine mehrjährige Partnerschaft mit Google bekannt gegeben. Künftig wird Apple Googles Gemini-Modelle und Cloud-Technologie für seine KI-Funktionen nutzen – einschließlich der lang erwarteten Siri-Überarbeitung, die im Frühjahr erscheinen soll. Der Deal hat ein geschätztes Volumen von einer Milliarde Dollar. <a href="https://techcrunch.com/2026/01/12/googles-gemini-to-power-apples-ai-features-like-siri/" target="_blank" rel="noopener">[Quelle: TechCrunch]</a></p>
-            </article>
-
-            <article class="news-item">
-                <h3>Auf dem Weg zur AGI: OpenAI testet neue KI-Modelle an echten Aufträgen</h3>
-                <p>OpenAI bittet Freelancer, reale Arbeitsaufträge hochzuladen, um die Leistungsfähigkeit der KI-Modelle unter praxisnahen Bedingungen zu bewerten. Doch die Ergebnisse sind ernüchternd: Der "Remote Labor Index" zeigt, dass selbst das leistungsfähigste Modell nur rund 3 Prozent der Aufgaben zufriedenstellend erledigen kann. Der Weg zur AGI ist offenbar noch weit. <a href="https://t3n.de/news/auf-dem-weg-zur-agi-openai-testet-neue-ki-modelle-an-echten-auftraegen-1724848/" target="_blank" rel="noopener">[Quelle: t3n.de]</a></p>
-            </article>
-
-            <article class="news-item">
-                <h3>Musks KI-Firma xAI sichert sich 20 Milliarden Dollar</h3>
-                <p>Elon Musks KI-Firma xAI hat sich 20 Milliarden US-Dollar (17,1 Milliarden Euro) frisches Geld besorgt. Unter den Geldgebern sind Chip-Riese Nvidia und das Finanzinstitut Fidelity. Nach Bloomberg-Informationen plante xAI, rund 12,5 Milliarden Dollar als Schulden aufzunehmen. Nvidia plante, bis zu zwei Milliarden Dollar zu investieren. <a href="https://www.handelsblatt.com/dpa/kuenstliche-intelligenz-musks-ki-firma-sichert-sich-20-milliarden-dollar/100189163.html" target="_blank" rel="noopener">[Quelle: Handelsblatt]</a></p>
-            </article>
-
-            <article class="news-item">
-                <h3>OpenAI-Rivale Anthropic gewinnt Allianz als Großkunden</h3>
-                <p>Der Versicherungskonzern Allianz schließt eine Partnerschaft mit Anthropic ab und wird zu einem Referenzkunden in Europa. Allianz-Mitarbeiter sollen die KI-Systeme von Anthropic unter anderem für Recherche, Analyse und den Zugriff auf interne Wissensbestände nutzen können. <a href="https://www.handelsblatt.com/technik/ki/ki-openai-rivale-anthropic-gewinnt-die-allianz-als-grosskunden/100189993.html" target="_blank" rel="noopener">[Quelle: Handelsblatt]</a></p>
-            </article>
-
-            <article class="news-item">
-                <h3>Deutschland erlebt Gründungsboom dank Künstlicher Intelligenz</h3>
-                <p>Die Euphorie um KI ermöglicht neue Geschäftsmodelle und treibt die Zahl der Start-up-Gründungen in Deutschland auf Rekordwert. Die KI-Branche zeigt sich als wichtiger Wachstumstreiber für die deutsche Startup-Szene und schafft zahlreiche neue Arbeitsplätze. <a href="https://www.heise.de/news/Boom-um-KI-Start-up-Gruendungen-steigen-2025-auf-Rekordwert-11133733.html" target="_blank" rel="noopener">[Quelle: heise.de]</a></p>
-            </article>
-        </section>
-
-        <!-- KI TOOLS & STARTUPS -->
-        <section class="news-section">
-            <h2>🚀 KI Tools, KI Startups & KI News</h2>
+            <section class="category">
+                <h2 class="category-title">
+                    <span class="category-icon">🚀</span>
+                    Tools & Startups
+                </h2>
+                
+                <div class="news-item">
+                    <h3>AI journalism startup Symbolic.ai signs deal with Rupert Murdoch's News Corp</h3>
+                    <p>Das KI-Journalismus-Startup Symbolic.ai hat einen Deal mit Rupert Murdochs News Corp abgeschlossen. Das Startup behauptet, seine KI-Plattform könne helfen, redaktionelle Prozesse und Recherche zu optimieren.</p>
+                    <a href="https://techcrunch.com/2026/01/15/ai-journalism-startup-symbolic-ai-signs-deal-with-rupert-murdochs-news-corp/" target="_blank">Mehr erfahren →</a>
+                </div>
+                
+                <div class="news-item">
+                    <h3>OpenAI invests in Sam Altman's brain computer interface startup Merge Labs</h3>
+                    <p>OpenAI investiert in Sam Altmans Brain-Computer-Interface-Startup Merge Labs. Die Investition wirft Fragen zu Interessenkonflikten auf, da Altman CEO von OpenAI ist.</p>
+                    <a href="https://techcrunch.com/2026/01/15/openai-invests-in-sam-altmans-brain-computer-interface-startup-merge-labs/" target="_blank">Mehr erfahren →</a>
+                </div>
+                
+                <div class="news-item">
+                    <h3>AI video startup Higgsfield lands $1.3B valuation</h3>
+                    <p>Das AI-Video-Startup Higgsfield, gegründet von einem Ex-Snap-Executive, erreicht eine Bewertung von 1,3 Milliarden Dollar. Das Unternehmen läuft auf einem jährlichen Umsatz von 200 Millionen Dollar.</p>
+                    <a href="https://techcrunch.com/2026/01/15/ai-video-startup-higgsfield-founded-by-ex-snap-exec-lands-1-3b-valuation/" target="_blank">Mehr erfahren →</a>
+                </div>
+                
+                <div class="news-item">
+                    <h3>KI-Hype trifft Apple: iPhone-Hersteller kämpft um Chipnachschub</h3>
+                    <p>Der Chiphersteller TSMC gerät durch die stark wachsende KI-Nachfrage an seine Kapazitätsgrenzen. Apple kämpft um seinen Chipnachschub, da die KI-Branche massiv Kapazitäten bindet.</p>
+                    <a href="https://t3n.de/news/ki-hype-trifft-apple-warum-der-iphone-hersteller-jetzt-um-seinen-chipnachschub-kaempfen-muss-1725630/" target="_blank">Mehr erfahren →</a>
+                </div>
+            </section>
             
-            <article class="news-item">
-                <h3>Google kündigt neues Protokoll für KI-Agenten im E-Commerce an</h3>
-                <p>Google hat auf der National Retail Federation ein neues offenes Protokoll namens Universal Commerce Protocol (UCP) für KI-Agenten-basiertes Shopping angekündigt. Das Protokoll soll den Handel mit KI-Agenten erleichtern und neue Möglichkeiten für automatisierte Einkaufsprozesse schaffen. <a href="https://techcrunch.com/2026/01/11/google-announces-a-new-protocol-to-facilitate-commerce-using-ai-agents/" target="_blank" rel="noopener">[Quelle: TechCrunch]</a></p>
-            </article>
-
-            <article class="news-item">
-                <h3>Caterpillar nutzt Nvidia für KI in Baumaschinen</h3>
-                <p>Caterpillar testet Cat AI Assistant, ein System von KI-Agenten in einem seiner Bagger, das auf Nvidias Physical AI-Plattform basiert. Die KI soll Baumaschinen intelligenter und effizienter machen und könnte die Baubranche revolutionieren. <a href="https://techcrunch.com/2026/01/07/caterpillar-taps-nvidia-to-bring-ai-to-its-construction-equipment/" target="_blank" rel="noopener">[Quelle: TechCrunch]</a></p>
-            </article>
-
-            <article class="news-item">
-                <h3>Motional setzt auf KI für Robotaxi-Neustart</h3>
-                <p>Motional kündigt an, noch vor Ende 2026 einen fahrerlosen Robotaxi-Service in Las Vegas zu starten. KI steht im Zentrum des Neustarts des Unternehmens, das damit im hart umkämpften Markt für autonome Fahrzeuge Fuß fassen will. <a href="https://techcrunch.com/2026/01/11/motional-puts-ai-at-center-of-robotaxi-reboot-as-it-targets-2026-for-driverless-service/" target="_blank" rel="noopener">[Quelle: TechCrunch]</a></p>
-            </article>
-
-            <article class="news-item">
-                <h3>Die wichtigsten Trends der Techmesse CES 2026</h3>
-                <p>Auf der CES 2026 in Las Vegas zeigen Unternehmen, wie Künstliche Intelligenz in immer mehr Alltagsgeräte einzieht. KI steuert Waschmaschinen, faltet Wäsche und hilft in Fabriken. Die Messe zeigt: KI wird zum Standard in Consumer-Elektronik. <a href="https://www.handelsblatt.com/dpa/tech-show-in-las-vegas-die-wichtigsten-trends-der-techmesse-ces-2026/100189605.html" target="_blank" rel="noopener">[Quelle: Handelsblatt]</a></p>
-            </article>
-        </section>
-
-        <!-- KI REGULIERUNG & ETHIK -->
-        <section class="news-section">
-            <h2>⚖️ KI Regulierung & Ethik</h2>
+            <section class="category">
+                <h2 class="category-title">
+                    <span class="category-icon">⚖️</span>
+                    Regulierung & Ethik
+                </h2>
+                
+                <div class="news-item">
+                    <h3>Erster US-Bundesstaat geht gegen xAI und Grok vor</h3>
+                    <p>Erster US-Bundesstaat geht rechtlich gegen xAI und Grok wegen sexualisierter KI-Bilder vor. Elon Musk behauptet, keine Kenntnis von KI-generierten Kindernacktbildern auf X gehabt zu haben.</p>
+                    <a href="https://www.heise.de/en/news/First-US-state-takes-action-against-xAI-and-Grok-over-sexualized-AI-images-11141554.html" target="_blank">Mehr erfahren →</a>
+                </div>
+                
+                <div class="news-item">
+                    <h3>KI darf assistieren, aber nicht entscheiden: Diagnose bleibt Arztaufgabe</h3>
+                    <p>Künstliche Intelligenz kann Ärzte in der ambulanten Versorgung unterstützen, darf aber weder medizinische Entscheidungen ersetzen noch eigenständig handeln. Klare regulatorische Grenze wird gezogen.</p>
+                    <a href="https://www.heise.de/en/news/AI-may-assist-Diagnosis-therapy-prescription-remain-physician-tasks-11141771.html" target="_blank">Mehr erfahren →</a>
+                </div>
+            </section>
             
-            <article class="news-item">
-                <h3>Wer hat Angst vor Elon Musk? Der Grok-Skandal und seine Folgen</h3>
-                <p>Anfang Januar 2026 nutzten immer mehr User Elon Musks KI-Tool Grok, um Menschen auf Fotos auszuziehen oder in sexuell eindeutige Posen zu bringen. Laut der Plattform Copyleaks erzeugte Grok zeitweise mindestens ein solches Bild pro Minute – darunter auch sexualisierte Bilder von Kindern. Ein Skandal, der Fragen zur KI-Regulierung aufwirft. <a href="https://t3n.de/news/elon-musk-ki-sexualisierte-bilder-1724985/" target="_blank" rel="noopener">[Quelle: t3n.de]</a></p>
-            </article>
-
-            <article class="news-item">
-                <h3>EU-Cyberagentur nutzt heimlich KI für Berichte – und fliegt auf</h3>
-                <p>Verantwortliche der EU-Cybersicherheitsagentur Enisa räumen ein, dass zwei ihrer Berichte zahlreiche halluzinierte Quellen enthielten. Die Behörde hatte KI heimlich für offizielle Berichte genutzt – ein Vertrauensverlust für eine Institution, die eigentlich für Sicherheit stehen sollte. <a href="https://www.heise.de/news/EU-Cyberagentur-nutzt-heimlich-KI-fuer-Berichte-und-fliegt-auf-11136924.html" target="_blank" rel="noopener">[Quelle: heise.de]</a></p>
-            </article>
-
-            <article class="news-item">
-                <h3>Gericht: KI-Einsatz führt zu Unverwertbarkeit eines medizinischen Gutachtens</h3>
-                <p>Ein Landgericht hat die Vergütung eines medizinischen Sachverständigen verweigert. Weite Teile seines Gutachtens seien ohne Hinweis per KI erstellt worden, was zur Unverwertbarkeit führte. Das Urteil setzt ein wichtiges Signal für den Umgang mit KI in professionellen Kontexten. <a href="https://www.heise.de/news/Gericht-streicht-Honorar-KI-Einsatz-fuehrt-zu-Unverwertbarkeit-eines-Gutachtens-11135211.html" target="_blank" rel="noopener">[Quelle: heise.de]</a></p>
-            </article>
-        </section>
-
-        <!-- KI STIMMEN & PERSPEKTIVEN -->
-        <section class="news-section">
-            <h2>💭 KI Stimmen & Perspektiven</h2>
+            <section class="category">
+                <h2 class="category-title">
+                    <span class="category-icon">💭</span>
+                    Stimmen & Perspektiven
+                </h2>
+                
+                <div class="news-item">
+                    <h3>KI macht gar nichts: Wieso wir anders über künstliche Intelligenz sprechen sollten</h3>
+                    <p>Kritik an der Sprache über KI. Sätze wie "Grok erstellt anzügliche Bilder" erzeugen ein falsches Bild von Künstlicher Intelligenz. Ein Plädoyer für präzisere Formulierungen.</p>
+                    <a href="https://t3n.de/news/ki-macht-gar-nichts-wieso-wir-anders-ueber-kuenstliche-intelligenz-sprechen-sollten-1725304/" target="_blank">Mehr erfahren →</a>
+                </div>
+                
+                <div class="news-item">
+                    <h3>Londons Bürgermeister warnt vor Massenarbeitslosigkeit durch KI</h3>
+                    <p>Londons Bürgermeister Sadiq Khan warnt vor gravierenden Folgen der Künstlichen Intelligenz für den Arbeitsmarkt der britischen Hauptstadt. Ohne entschlossenes Handeln drohe Massenarbeitslosigkeit.</p>
+                    <a href="https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-londons-buergermeister-warnt-vor-massenarbeitslosigkeit-durch-ki/100191664.html" target="_blank">Mehr erfahren →</a>
+                </div>
+            </section>
             
-            <article class="news-item">
-                <h3>Nach dem KI-Hype: Es wird Zeit, auf die wirklich wichtigen Dinge zu achten</h3>
-                <p>Entwickler und Nutzer von KI neigen dazu, KI über einen Kamm zu scheren. Der Artikel plädiert für einen wichtigen Unterschied und eine differenziertere Betrachtung der verschiedenen KI-Technologien. Nicht jede KI ist gleich – und das sollten wir bei der Bewertung berücksichtigen. <a href="https://t3n.de/news/nach-dem-ki-hype-1722430/" target="_blank" rel="noopener">[Quelle: t3n.de]</a></p>
-            </article>
-
-            <article class="news-item">
-                <h3>Mitarbeiter verschwenden Stunden mit „KI-Schrott"</h3>
-                <p>Künstliche Intelligenz kommt im Job immer häufiger zum Einsatz, liefert aber oft substanzlosen Einheitsbrei. Unternehmen können diesen Trend jedoch stoppen, wenn sie KI richtig einsetzen und Mitarbeiter entsprechend schulen. Die Qualität der KI-Ausgaben hängt stark von der Qualität der Eingaben ab. <a href="https://www.handelsblatt.com/unternehmen/management/management-mitarbeiter-verschwenden-stunden-mit-ki-schrott-01/100182004.html" target="_blank" rel="noopener">[Quelle: Handelsblatt]</a></p>
-            </article>
-        </section>
-
-        <!-- KI BUSINESS & SOCIETY -->
-        <section class="news-section">
-            <h2>🏢 KI Business & Society</h2>
-            
-            <article class="news-item">
-                <h3>KI-Briefing: Warum 2026 für Chinas Chips zum Schlüsseljahr werden könnte</h3>
-                <p>Neue KI-Modelle von Nvidia, große Auftritte auf der CES – und chinesische Chipfirmen, die an die Börse drängen. 2026 entscheidet sich, wer die Führung im globalen KI-Chip-Rennen übernimmt. Die geopolitischen Spannungen verschärfen den Wettbewerb zusätzlich. <a href="https://www.handelsblatt.com/technik/ki/ki-briefing-warum-2026-fuer-chinas-chips-zum-schluesseljahr-werden-koennte/100189412.html" target="_blank" rel="noopener">[Quelle: Handelsblatt]</a></p>
-            </article>
-        </section>
-    </main>
-
-    <footer>
-        <div class="container">
-            <p>Erstellt von <strong>Roger Basler de Roca</strong> | Stand: 12. Januar 2026</p>
-            <p>Powered by <strong>KI-Update.com</strong> | <a href="https://ki-update.com" target="_blank" rel="noopener">Mehr erfahren</a></p>
+            <section class="category">
+                <h2 class="category-title">
+                    <span class="category-icon">🏢</span>
+                    Business & Society
+                </h2>
+                
+                <div class="news-item">
+                    <h3>Trump will Tech-Konzerne für neue Kraftwerke bezahlen lassen</h3>
+                    <p>Der hohe Strombedarf der KI wird zum politischen Risiko. Trump will Tech-Konzerne für neue Kraftwerke zahlen lassen, da der KI-Strombedarf massiv steigt und die Infrastruktur an ihre Grenzen stößt.</p>
+                    <a href="https://www.handelsblatt.com/unternehmen/energie/ki-trump-will-tech-konzerne-fuer-neue-kraftwerke-bezahlen-lassen/100192036.html" target="_blank">Mehr erfahren →</a>
+                </div>
+                
+                <div class="news-item">
+                    <h3>AstraZeneca kauft KI-Firma Modella AI</h3>
+                    <p>Der Pharmakonzern AstraZeneca übernimmt das US-Unternehmen Modella AI und will damit die Suche nach neuen Medikamenten mithilfe von Künstlicher Intelligenz beschleunigen.</p>
+                    <a href="https://www.handelsblatt.com/unternehmen/industrie/uebernahme-astrazeneca-kauft-ki-firma-modella-ai/100191185.html" target="_blank">Mehr erfahren →</a>
+                </div>
+            </section>
         </div>
-    </footer>
+        
+        <footer>
+            <p><strong>KI Update Avatar</strong></p>
+            <p>Wöchentlich aktualisiert | Stand: 16. Januar 2026</p>
+            <p>Quellen: t3n.de, heise.de, Handelsblatt, TechCrunch</p>
+        </footer>
+    </div>
 </body>
 </html>
