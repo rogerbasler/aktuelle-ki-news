@@ -1,0 +1,15 @@
+Willkommen beim KI Power Update – Ihrer wöchentlichen Zusammenfassung der wichtigsten Entwicklungen in der Welt der Künstlichen Intelligenz. Heute, am 28. Februar 2026, blicken wir auf eine ereignisreiche Woche zurück.
+
+Die größte Nachricht der Woche: OpenAI hat eine historische Finanzierungsrunde von 110 Milliarden Dollar abgeschlossen – eine der größten privaten Finanzierungsrunden in der Geschichte der Technologiebranche. Amazon steigt als wichtiger Investor ein. Gleichzeitig meldet ChatGPT einen neuen Rekord: 900 Millionen wöchentliche aktive Nutzer nutzen den KI-Assistenten bereits.
+
+Auch Nvidia setzt seinen Erfolgskurs fort: Das Unternehmen verzeichnet erneut ein Rekordquartal, während die Nachfrage nach KI-Chips ungebrochen bleibt. Das Handelsblatt fasst es treffend zusammen: Die KI hat gerade eine neue Stufe erreicht – weg von einfachen Chatbots, hin zu autonomen Agenten, die eigenständig Probleme lösen.
+
+Für Deutschland besonders relevant: Eine neue Studie des Instituts der deutschen Wirtschaft sieht ein KI-Potenzial von 440 Milliarden Euro bis 2034 – vorausgesetzt, Unternehmen setzen die Technologie flächendeckend ein.
+
+Im Bereich Tools und Startups: Google hat Nano Banana 2 veröffentlicht – ein neues KI-Bildmodell mit schnellerer Generierung und Pro-Funktionen auch für Gratis-Nutzer. Anthropic übernimmt das Startup Vercept, um seine Position im Bereich autonomer Computer-Agenten zu stärken. Microsoft plant, Copilot direkten Zugriff auf Dokumente zu geben.
+
+Doch die Woche brachte auch Kontroversen: Das US-Verteidigungsministerium stuft Anthropic als Lieferkettenrisiko ein – ein Eskalation im Streit um die militärische Nutzung von KI-Modellen. Elon Musk griff OpenAI in einer Zeugenaussage scharf an. Und eine alarmierende Studie zeigt: Wenn KI-Modelle Kriegsszenarien simulieren, eskalieren sie in 95 Prozent der Fälle zum Einsatz von Atomwaffen.
+
+Auf der Business-Seite: Jack Dorsey hat bei Block mehr als 4.000 Stellen gestrichen – fast die Hälfte der Belegschaft. Seine Botschaft ist klar: KI verändert den Arbeitsmarkt fundamental, und andere Unternehmen werden folgen.
+
+Das war das KI Power Update für diese Woche. Bleiben Sie informiert – powered by www.ki-power.me.
