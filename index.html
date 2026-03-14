@@ -3,323 +3,136 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Aktuelle KI News - KI Power Update</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-        
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
-            line-height: 1.6;
-            color: #333;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            min-height: 100vh;
-            padding: 20px;
-        }
-        
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            background: white;
-            border-radius: 20px;
-            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
-            overflow: hidden;
-        }
-        
-        header {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            padding: 40px;
-            text-align: center;
-        }
-        
-        header h1 {
-            font-size: 2.5em;
-            margin-bottom: 10px;
-            text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
-        }
-        
-        header p {
-            font-size: 1.2em;
-            opacity: 0.9;
-        }
-        
-        .date-badge {
-            display: inline-block;
-            background: rgba(255,255,255,0.2);
-            padding: 10px 20px;
-            border-radius: 25px;
-            margin-top: 15px;
-            font-weight: bold;
-        }
-        
-        .audio-section {
-            background: #f8f9fa;
-            padding: 30px;
-            text-align: center;
-            border-bottom: 3px solid #667eea;
-        }
-        
-        .audio-section h2 {
-            color: #667eea;
-            margin-bottom: 15px;
-        }
-        
-        audio {
-            width: 100%;
-            margin-top: 15px;
-        }
-        
-        .content {
-            padding: 40px;
-        }
-        
-        .category {
-            margin-bottom: 50px;
-        }
-        
-        .category-title {
-            font-size: 1.8em;
-            color: #667eea;
-            margin-bottom: 25px;
-            padding-bottom: 10px;
-            border-bottom: 3px solid #667eea;
-            display: flex;
-            align-items: center;
-        }
-        
-        .category-icon {
-            font-size: 1.2em;
-            margin-right: 15px;
-        }
-        
-        .news-item {
-            background: #f8f9fa;
-            padding: 25px;
-            margin-bottom: 20px;
-            border-radius: 10px;
-            border-left: 5px solid #667eea;
-            transition: transform 0.2s, box-shadow 0.2s;
-        }
-        
-        .news-item:hover {
-            transform: translateX(5px);
-            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.2);
-        }
-        
-        .news-item h3 {
-            color: #333;
-            margin-bottom: 10px;
-            font-size: 1.3em;
-        }
-        
-        .news-item p {
-            color: #666;
-            margin-bottom: 15px;
-        }
-        
-        .news-item a {
-            color: #667eea;
-            text-decoration: none;
-            font-weight: bold;
-            transition: color 0.2s;
-        }
-        
-        .news-item a:hover {
-            color: #764ba2;
-            text-decoration: underline;
-        }
-        
-        footer {
-            background: #2c3e50;
-            color: white;
-            text-align: center;
-            padding: 30px;
-        }
-        
-        footer p {
-            margin: 5px 0;
-        }
-        
-        @media (max-width: 768px) {
-            body {
-                padding: 10px;
-            }
-            
-            header h1 {
-                font-size: 1.8em;
-            }
-            
-            header p {
-                font-size: 1em;
-            }
-            
-            .content {
-                padding: 20px;
-            }
-            
-            .category-title {
-                font-size: 1.4em;
-            }
-            
-            .news-item {
-                padding: 15px;
-            }
-        }
-    </style>
+    <title>KI Power Update</title>
+    <meta name="description" content="KI Power Update – die wichtigsten KI-News der letzten 7 Tage, kuratiert aus t3n, heise, Handelsblatt und TechCrunch.">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="container">
         <header>
-            <h1>🤖 KI Power Update</h1>
-            <p>Ihre wöchentliche Zusammenfassung der wichtigsten KI-Entwicklungen</p>
-            <div class="date-badge">Stand: 7. März 2026</div>
+            <h1>KI Power Update</h1>
+            <p class="subtitle">Die wichtigsten Entwicklungen rund um K.I. der letzten 7 Tage</p>
+            <p class="meta">14. März 2026</p>
+            <p class="meta">powered by <a href="https://www.ki-power.me" target="_blank" rel="noopener noreferrer">www.ki-power.me</a></p>
         </header>
-        
-        <div class="audio-section">
-            <h2>🎧 Podcast der Woche</h2>
-            <p>Hören Sie die Zusammenfassung der Top-News</p>
-            <audio controls>
+
+        <section class="podcast-section">
+            <h2>Audio-Zusammenfassung</h2>
+            <audio controls style="width: 100%;">
                 <source src="ki_update_podcast.wav" type="audio/wav">
-                Ihr Browser unterstützt das Audio-Element nicht.
+                Dein Browser unterstützt das Audio-Element nicht.
             </audio>
-        </div>
-        
-        <div class="content">
-            <section class="category">
-                <h2 class="category-title">
-                    <span class="category-icon">🧠</span>
-                    KI News der Woche
-                </h2>
-                
-                <div class="news-item">
-                    <h3>Pentagon vs. Anthropic – Der erste große Machtkampf der KI-Ära</h3>
-                    <p>Anthropic weigert sich, seine Modelle für autonome Waffen und Massenüberwachung freizugeben. Jetzt geht das Pentagon frontal gegen das Unternehmen vor – der erste große Machtkampf der KI-Ära mit weitreichenden Folgen für die gesamte Branche.</p>
-                    <a href="https://www.handelsblatt.com/technik/ki/ki-briefing-pentagon-vs.-anthropic-der-erste-grosse-machtkampf-der-ki-aera/100205997.html" target="_blank">Mehr erfahren →</a>
-                </div>
-                
-                <div class="news-item">
-                    <h3>OpenAI startet GPT-5.4 mit Pro- und Thinking-Versionen</h3>
-                    <p>OpenAI veröffentlicht GPT-5.4 mit nativer Computer-Steuerung und verbesserter Effizienz für Profis. Das neue Modell vereint erstmals Reasoning, Coding und Computer-Steuerung in einem System und setzt neue Maßstäbe für KI-Assistenten.</p>
-                    <a href="https://techcrunch.com/2026/03/05/openai-launches-gpt-5-4-with-pro-and-thinking-versions/" target="_blank">Mehr erfahren →</a>
-                </div>
-                
-                <div class="news-item">
-                    <h3>Anthropic holt gewaltig auf: Rekordumsatz und Rekorddownloads</h3>
-                    <p>Neue Zahlen zeigen: KI-Anbieter Anthropic schließt zum Marktführer OpenAI auf. Mit einem prognostizierten Umsatz von 20 Milliarden Dollar rückt Anthropic in eine neue Größenordnung vor. Der Konflikt mit dem Pentagon könnte dem Unternehmen langfristig sogar helfen.</p>
-                    <a href="https://www.handelsblatt.com/technik/ki/ki-software-rekordumsatz-rekorddownloads-anthropic-holt-gewaltig-auf/100205391.html" target="_blank">Mehr erfahren →</a>
-                </div>
-                
-                <div class="news-item">
-                    <h3>Tech-Konzerne sagen Selbstfinanzierung von KI-Strom zu</h3>
-                    <p>Sieben Tech-Konzerne verpflichten sich, den Strombedarf ihrer KI-Rechenzentren selbst zu finanzieren und eigene Kraftwerke zu bauen. Der Energiehunger von Rechenzentren wächst rasant – Trump will verhindern, dass die Kosten auf die Bevölkerung abgewälzt werden.</p>
-                    <a href="https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-tech-konzerne-sagen-selbstfinanzierung-von-ki-strom-zu/100205626.html" target="_blank">Mehr erfahren →</a>
-                </div>
-                
-                <div class="news-item">
-                    <h3>Vater klagt gegen Google: Gemini-Chatbot soll Sohn in fatale Wahnvorstellung getrieben haben</h3>
-                    <p>Ein Vater verklagt Google und behauptet, der Gemini-Chatbot habe seinen Sohn in eine fatale Wahnvorstellung getrieben. Der Fall wirft grundlegende Fragen zur psychologischen Sicherheit von KI-Assistenten auf und könnte weitreichende rechtliche Folgen haben.</p>
-                    <a href="https://techcrunch.com/2026/03/04/father-sues-google-claiming-gemini-chatbot-drove-son-into-fatal-delusion/" target="_blank">Mehr erfahren →</a>
-                </div>
-            </section>
-            
-            <section class="category">
-                <h2 class="category-title">
-                    <span class="category-icon">🚀</span>
-                    Tools & Startups
-                </h2>
-                
-                <div class="news-item">
-                    <h3>Luma startet kreative KI-Agenten mit neuen "Unified Intelligence"-Modellen</h3>
-                    <p>Luma AI startet kreative KI-Agenten, die Audio-, Bild- und Videoprojekte mithilfe neuer "Unified Intelligence"-Modelle erstellen können. Die Web-App kombiniert verschiedene Medienformate in einem einheitlichen KI-System.</p>
-                    <a href="https://techcrunch.com/2026/03/05/exclusive-luma-launches-creative-ai-agents-powered-by-its-new-unified-intelligence-models/" target="_blank">Mehr erfahren →</a>
-                </div>
-                
-                <div class="news-item">
-                    <h3>Cursor bringt neues agentisches Coding-Tool auf den Markt</h3>
-                    <p>Cursor führt ein neues agentisches Coding-System ein, das Entwicklern hilft, ihr Coding-Chaos in den Griff zu bekommen. Das Tool ermöglicht es KI-Agenten, eigenständig komplexe Programmieraufgaben zu übernehmen und zu lösen.</p>
-                    <a href="https://techcrunch.com/2026/03/05/cursor-is-rolling-out-a-new-system-for-agentic-coding/" target="_blank">Mehr erfahren →</a>
-                </div>
-                
-                <div class="news-item">
-                    <h3>Tether investiert in Roboter-Start-up Neura – Bewertung steigt auf vier Milliarden Euro</h3>
-                    <p>Mit einer Finanzierungsrunde will das Metzinger Start-up Neura rund eine Milliarde Euro für die Entwicklung humanoider Roboter einsammeln. Ein prominenter Investor kommt aus der Kryptobranche – Tether steigt als strategischer Partner ein.</p>
-                    <a href="https://www.handelsblatt.com/technik/ki/milliardenbewertung-tether-investiert-wohl-in-metzinger-roboter-start-up-neura/100205753.html" target="_blank">Mehr erfahren →</a>
-                </div>
-                
-                <div class="news-item">
-                    <h3>KI-Modell Claude findet über 100 Firefox-Bugs in zwei Wochen</h3>
-                    <p>In einem internen Test fand Anthropics KI Claude Opus 4.6 binnen zwei Wochen mehr als 100 Sicherheitslücken im Firefox-Browser – schneller als die gesamte Community. Das Ergebnis zeigt das enorme Potenzial von KI in der Sicherheitsforschung.</p>
-                    <a href="https://www.heise.de/news/KI-Modell-Claude-findet-Firefox-Bugs-schneller-als-die-Community-11202759.html" target="_blank">Mehr erfahren →</a>
-                </div>
-            </section>
-            
-            <section class="category">
-                <h2 class="category-title">
-                    <span class="category-icon">⚖️</span>
-                    Regulierung & Ethik
-                </h2>
-                
-                <div class="news-item">
-                    <h3>Pentagon stuft Anthropic offiziell als Sicherheitsrisiko ein</h3>
-                    <p>Verteidigungsminister Pete Hegseth macht seine Drohung wahr und versucht, Anthropic von Regierungsaufträgen auszuschließen. Anthropic-Chef Dario Amodei kündigt an, die Einstufung als Lieferkettenrisiko vor Gericht anzufechten.</p>
-                    <a href="https://www.handelsblatt.com/technik/ki/ki-streit-pentagon-stuft-anthropic-offiziell-als-sicherheitsrisiko-ein/100206069.html" target="_blank">Mehr erfahren →</a>
-                </div>
-                
-                <div class="news-item">
-                    <h3>KI und Urheberrechte: EU-Abgeordnete wollen Abkürzung nehmen</h3>
-                    <p>Das Urheberrecht wegen der Probleme mit KI-Anbietern anzufassen, hält die EU-Kommission für zu aufwendig. EU-Abgeordnete wollen nun einen anderen Weg gehen und suchen nach schnelleren Lösungen für den Schutz kreativer Werke vor KI-Training.</p>
-                    <a href="https://www.heise.de/news/KI-und-Urheberrechte-EU-Abgeordnete-wollen-Abkuerzung-nehmen-11202275.html" target="_blank">Mehr erfahren →</a>
-                </div>
-                
-                <div class="news-item">
-                    <h3>Meta verklagt wegen Datenschutzbedenken bei KI-Smartbrille</h3>
-                    <p>Meta wird wegen Datenschutzverletzungen bei seinen KI-Smartbrillen verklagt, nachdem bekannt wurde, dass Mitarbeiter intime Aufnahmen der Nutzer gesichtet haben. Der Fall wirft grundlegende Fragen zum Datenschutz bei tragbaren KI-Geräten auf.</p>
-                    <a href="https://techcrunch.com/2026/03/05/meta-sued-over-ai-smartglasses-privacy-concerns-after-workers-reviewed-nudity-sex-and-other-footage/" target="_blank">Mehr erfahren →</a>
-                </div>
-            </section>
-            
-            <section class="category">
-                <h2 class="category-title">
-                    <span class="category-icon">💭</span>
-                    Stimmen & Perspektiven
-                </h2>
-                
-                <div class="news-item">
-                    <h3>Anthropic-Chef Dario Amodei nennt OpenAIs Aussagen zum Militärdeal "glatte Lügen"</h3>
-                    <p>Anthropic-Chef Dario Amodei bezeichnet OpenAIs Kommunikation rund um den Militärdeal als "glatte Lügen" – der Konflikt zwischen den beiden KI-Giganten eskaliert weiter. Während OpenAI einen Vertrag mit dem Pentagon unterzeichnet hat, beharrt Anthropic auf seinen Sicherheitsstandards.</p>
-                    <a href="https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/" target="_blank">Mehr erfahren →</a>
-                </div>
-                
-                <div class="news-item">
-                    <h3>KI-Forscher warnt vor Wissensverlust in Unternehmen durch KI-Effizienz</h3>
-                    <p>Prof. Jin Gerlach warnt: Wenn Unternehmen KI für mehr Effizienz einsetzen, riskieren sie den Verlust von wertvollem internem Wissen und Kompetenz. Der Forscher plädiert für einen bewussten Umgang mit KI-Tools im Unternehmensalltag.</p>
-                    <a href="https://www.heise.de/hintergrund/KI-fuer-mehr-Effizienz-Forscher-warnt-vor-Wissensverlust-in-Unternehmen-11199856.html" target="_blank">Mehr erfahren →</a>
-                </div>
-            </section>
-            
-            <section class="category">
-                <h2 class="category-title">
-                    <span class="category-icon">💼</span>
-                    Business & Society
-                </h2>
-                
-                <div class="news-item">
-                    <h3>Netflix kauft Ben Afflecks KI-Filmproduktionsfirma InterPositive</h3>
-                    <p>Netflix übernimmt das KI-Filmproduktions-Start-up InterPositive des US-Schauspielers Ben Affleck. Das Unternehmen entwickelt KI-Werkzeuge für die Filmproduktion – ein Zeichen dafür, wie tief KI bereits in die Unterhaltungsindustrie eingedrungen ist.</p>
-                    <a href="https://techcrunch.com/2026/03/05/netflix-buys-ben-afflecks-ai-filmmaking-company-interpositive/" target="_blank">Mehr erfahren →</a>
-                </div>
-            </section>
-        </div>
-        
-        <footer>
-            <p><strong>KI Power Update</strong></p>
-            <p>powered by <a href="https://www.ki-power.me" style="color: #667eea; text-decoration: none;">www.ki-power.me</a></p>
-            <p>© 2026 - Alle Rechte vorbehalten</p>
-        </footer>
+        </section>
+
+        <section class="category">
+            <h2 class="category-title"><span class="category-icon">🧠</span> KI News der Woche</h2>
+
+            <div class="news-item">
+                <h3>Die größten K.I.-Geschichten des Jahres bisher</h3>
+                <p>TechCrunch fasst die prägendsten K.I.-Entwicklungen des Jahres zusammen – von Militärdebatten über Plattformkonflikte bis hin zu agentischen Systemen. Der Beitrag liefert den breiten Überblick über die Dynamik im Markt.</p>
+                <a href="https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/" target="_blank" rel="noopener noreferrer">Original-Artikel lesen →</a>
+            </div>
+
+            <div class="news-item">
+                <h3>Warum K.I. gerade eine neue Entwicklungsstufe erreicht</h3>
+                <p>Das Handelsblatt beschreibt, wie K.I.-Agenten und leistungsfähigere Modelle eine neue Phase der Technologie einläuten. Gleichzeitig rücken Risiken, Steuerungsfragen und potenzielle Folgen für Gesellschaft und Wirtschaft stärker in den Vordergrund.</p>
+                <a href="https://www.handelsblatt.com/technik/ki/ki-warum-die-kuenstliche-intelligenz-gerade-eine-neue-stufe-erreicht-04/100197888.html" target="_blank" rel="noopener noreferrer">Original-Artikel lesen →</a>
+            </div>
+
+            <div class="news-item">
+                <h3>Google Maps erhält Gemini-K.I. für komplexe Suche und Navigation</h3>
+                <p>Heise berichtet über das große Maps-Update von Google: Gemini soll künftig komplexe Suchanfragen verstehen und die visuelle Navigation verbessern. Damit rückt K.I. tiefer in Alltagsprodukte mit Milliardenreichweite vor.</p>
+                <a href="https://www.heise.de/news/Google-Maps-bekommt-Gemini-KI-fuer-komplexe-Suche-und-Immersive-Navigation-11209604.html" target="_blank" rel="noopener noreferrer">Original-Artikel lesen →</a>
+            </div>
+
+            <div class="news-item">
+                <h3>Meta plant K.I.-Beschleuniger, die Nvidia überholen sollen</h3>
+                <p>Meta arbeitet laut heise an einer neuen Generation eigener K.I.-Beschleuniger mit RISC-V-Kernen. Das Ziel ist mehr Unabhängigkeit von Nvidia und eine deutlich stärkere Infrastruktur für Training und Inferenz.</p>
+                <a href="https://www.heise.de/news/Metas-KI-Beschleuniger-sollen-2027-Nvidia-Co-ueberholen-11209305.html" target="_blank" rel="noopener noreferrer">Original-Artikel lesen →</a>
+            </div>
+
+            <div class="news-item">
+                <h3>xAI startet seine Coding-Offensive erneut</h3>
+                <p>TechCrunch meldet, dass Elon Musks xAI seine Strategie für ein K.I.-Coding-Produkt neu aufsetzt. Neue Führungskräfte und ein Neustart zeigen, wie hart umkämpft der Markt für agentisches Programmieren inzwischen ist.</p>
+                <a href="https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/" target="_blank" rel="noopener noreferrer">Original-Artikel lesen →</a>
+            </div>
+        </section>
+
+        <section class="category">
+            <h2 class="category-title"><span class="category-icon">🚀</span> Tools & Startups</h2>
+
+            <div class="news-item">
+                <h3>Rox AI erreicht 1,2 Milliarden Dollar Bewertung</h3>
+                <p>Das Sales-Automation-Start-up Rox AI hat laut TechCrunch eine neue Finanzierungsrunde zu einer Bewertung von 1,2 Milliarden Dollar abgeschlossen. Das unterstreicht das anhaltend hohe Investoreninteresse an agentischen B2B-K.I.-Tools.</p>
+                <a href="https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/" target="_blank" rel="noopener noreferrer">Original-Artikel lesen →</a>
+            </div>
+
+            <div class="news-item">
+                <h3>Legora sammelt 550 Millionen Dollar für K.I. im Rechtsmarkt ein</h3>
+                <p>Handelsblatt berichtet über die massive Finanzierung des Legal-Tech-Start-ups Legora. Der Fall zeigt, wie stark vertikale K.I.-Anwendungen in regulierten Branchen inzwischen skalieren.</p>
+                <a href="https://www.handelsblatt.com/technik/ki/ki-start-up-fuer-anwaelte-legora-sammelt-550-millionen-dollar-ein/100206874.html" target="_blank" rel="noopener noreferrer">Original-Artikel lesen →</a>
+            </div>
+
+            <div class="news-item">
+                <h3>Nyne will K.I.-Agenten mehr menschlichen Kontext geben</h3>
+                <p>Das von Vater und Sohn gegründete Start-up Nyne entwickelt Systeme, die öffentlichen digitalen Kontext in K.I.-Agenten einfließen lassen. Laut TechCrunch soll dadurch die Handlungsfähigkeit agentischer Software verbessert werden.</p>
+                <a href="https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/" target="_blank" rel="noopener noreferrer">Original-Artikel lesen →</a>
+            </div>
+
+            <div class="news-item">
+                <h3>Openclaw: Warum Unternehmen K.I.-Agenten verbieten und trotzdem testen</h3>
+                <p>t3n zeigt das Spannungsfeld rund um Openclaw: Viele Firmen sehen enormes Potenzial in agentischen Systemen, fürchten aber zugleich Sicherheits-, Compliance- und Kontrollprobleme im operativen Einsatz.</p>
+                <a href="https://t3n.de/news/openclaw-warum-firmen-den-ki-agenten-verbieten-aberheimlich-trotzdem-testen-1730627/" target="_blank" rel="noopener noreferrer">Original-Artikel lesen →</a>
+            </div>
+        </section>
+
+        <section class="category">
+            <h2 class="category-title"><span class="category-icon">⚖️</span> Regulierung & Ethik</h2>
+
+            <div class="news-item">
+                <h3>Anwalt warnt vor Massenrisiken durch K.I.-Psychosen</h3>
+                <p>TechCrunch beleuchtet Fälle, in denen Chatbots mit psychischen Krisen in Verbindung gebracht werden. Die Debatte um Produkthaftung, Sicherheitsgrenzen und psychologische Risiken von K.I.-Systemen gewinnt damit weiter an Schärfe.</p>
+                <a href="https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/" target="_blank" rel="noopener noreferrer">Original-Artikel lesen →</a>
+            </div>
+
+            <div class="news-item">
+                <h3>Ein Fahrplan für K.I. – wenn endlich jemand zuhört</h3>
+                <p>Der TechCrunch-Beitrag argumentiert für einen menschenzentrierten Rahmen im Umgang mit K.I. und verbindet politische Leitlinien mit der Frage, wie sich Innovation und Schutz demokratischer Werte besser austarieren lassen.</p>
+                <a href="https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/" target="_blank" rel="noopener noreferrer">Original-Artikel lesen →</a>
+            </div>
+
+            <div class="news-item">
+                <h3>„Macrohard“: Musk kündigt gemeinsames K.I.-Projekt von xAI und Tesla an</h3>
+                <p>Heise berichtet über Musks angekündigte Zusammenarbeit von xAI und Tesla. Der Schritt wirft Fragen zu Marktmacht, Datenzugang, industrieller Nutzung und Governance großer K.I.-Ökosysteme auf.</p>
+                <a href="https://www.heise.de/news/Macrohard-Elon-Musk-kuendigt-gemeinsames-Projekt-von-xAI-und-Tesla-an-11207897.html" target="_blank" rel="noopener noreferrer">Original-Artikel lesen →</a>
+            </div>
+        </section>
+
+        <section class="category">
+            <h2 class="category-title"><span class="category-icon">🎙️</span> Stimmen & Perspektiven</h2>
+
+            <div class="news-item">
+                <h3>KI-Workslop: Warum generierte Inhalte oft mehr Arbeit erzeugen</h3>
+                <p>t3n analysiert, warum schlecht gesteuerte generative Systeme nicht nur Effizienz schaffen, sondern auch Mehraufwand produzieren können. Der Beitrag liefert eine wichtige Gegenperspektive zum üblichen Produktivitätsversprechen.</p>
+                <a href="https://t3n.de/magazin/nachsitzen-wegen-ki-workslop-warum-generierte-inhalte-mehr-arbeit-schaffen-als-sie-sparen-1730373/" target="_blank" rel="noopener noreferrer">Original-Artikel lesen →</a>
+            </div>
+
+            <div class="news-item">
+                <h3>K.I.-Apps tun sich schwer mit langfristiger Nutzerbindung</h3>
+                <p>Ein neuer Bericht, den TechCrunch aufgreift, zeigt: K.I.-Apps monetarisieren früh gut, kämpfen aber oft mit schneller Kündigung und schwacher Langzeitbindung. Das verändert die Perspektive auf nachhaltige K.I.-Geschäftsmodelle.</p>
+                <a href="https://techcrunch.com/2026/03/10/ai-powered-apps-struggle-with-long-term-retention-new-report-shows/" target="_blank" rel="noopener noreferrer">Original-Artikel lesen →</a>
+            </div>
+        </section>
+
+        <section class="category">
+            <h2 class="category-title"><span class="category-icon">🏭</span> Business & Society</h2>
+
+            <div class="news-item">
+                <h3>Hoffnung auf Tausende Jobs dank Microsoft-Rechenzentren</h3>
+                <p>Handelsblatt berichtet über neue Hoffnungen auf zusätzliche Arbeitsplätze durch den Ausbau von Rechenzentren für datenintensive K.I.-Anwendungen. Der Beitrag zeigt die reale wirtschaftliche und regionale Wirkung der K.I.-Infrastruktur.</p>
+                <a href="https://www.handelsblatt.com/dpa/kuenstliche-intelligenz-hoffnung-auf-tausende-jobs-dank-der-microsoft-rechenzentren/100207871.html" target="_blank" rel="noopener noreferrer">Original-Artikel lesen →</a>
+            </div>
+        </section>
     </div>
 </body>
 </html>
