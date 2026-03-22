@@ -152,34 +152,108 @@ main {
 }
 
 /* Footer */
-footer {
-    background-color: #000000;
+.site-footer {
+    background-color: #0a0a0a;
+    color: #cccccc;
+    border-top: 4px solid #FF1493;
+    margin-top: 60px;
+}
+
+.footer-inner {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 50px 20px 30px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    align-items: flex-start;
+}
+
+.footer-brand {
+    flex: 1 1 220px;
+}
+
+.footer-logo {
+    font-size: 1.6rem;
+    font-weight: 800;
     color: #ffffff;
-    padding: 40px 0;
-    text-align: center;
-    border-top: 4px solid #87CEEB;
+    letter-spacing: -0.5px;
+    background: linear-gradient(135deg, #87CEEB, #FF1493);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
 }
 
-.footer-cta {
-    font-size: 1.2rem;
-    margin-bottom: 15px;
-    font-weight: 600;
-}
-
-.footer-cta a {
-    color: #87CEEB;
+.footer-brand a {
     text-decoration: none;
-    transition: color 0.2s ease;
-}
-
-.footer-cta a:hover {
-    color: #FF1493;
 }
 
 .footer-tagline {
-    font-size: 1rem;
-    color: #cccccc;
-    font-style: italic;
+    font-size: 0.9rem;
+    color: #aaaaaa;
+    line-height: 1.6;
+    margin-top: 12px;
+}
+
+.footer-links {
+    flex: 2 1 400px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+.footer-col {
+    flex: 1 1 120px;
+}
+
+.footer-col h4 {
+    font-size: 0.85rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #87CEEB;
+    margin-bottom: 14px;
+}
+
+.footer-col ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.footer-col ul li {
+    margin-bottom: 8px;
+}
+
+.footer-col ul li a {
+    color: #aaaaaa;
+    text-decoration: none;
+    font-size: 0.9rem;
+    transition: color 0.2s ease;
+}
+
+.footer-col ul li a:hover {
+    color: #FF1493;
+}
+
+.footer-bottom {
+    border-top: 1px solid #222222;
+    text-align: center;
+    padding: 18px 20px;
+}
+
+.footer-bottom p {
+    font-size: 0.82rem;
+    color: #666666;
+}
+
+.footer-bottom a {
+    color: #87CEEB;
+    text-decoration: none;
+}
+
+.footer-bottom a:hover {
+    color: #FF1493;
 }
 
 /* Responsive Design */
