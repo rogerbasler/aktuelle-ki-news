@@ -1,0 +1,15 @@
+Willkommen beim K.I. Power Update – deiner wöchentlichen Zusammenfassung der wichtigsten Entwicklungen rund um Künstliche Intelligenz. Heute ist der 28. März 2026. Ich bin Lea, und das sind die Top-News der Woche.
+
+Beginnen wir mit den großen Schlagzeilen: OpenAI hat diese Woche seinen K.I.-Videogenerator Sora eingestellt – nur 15 Monate nach dem Launch. Gleichzeitig deutet ein neuer 40-Milliarden-Dollar-Kredit von SoftBank darauf hin, dass OpenAI sich auf einen Börsengang im Jahr 2026 vorbereitet. Die Frage bleibt: Wohin geht die Reise für das wertvollste K.I.-Unternehmen der Welt?
+
+Bei Google gibt es gleich zwei spannende Neuigkeiten: Erstens ist die K.I.-Funktion Search Live jetzt weltweit verfügbar – Nutzer können per Sprache und Kamera interaktiv suchen. Zweitens hat Google den Algorithmus TurboQuant vorgestellt, der den K.I.-Speicherbedarf um den Faktor sechs reduziert und dabei acht Mal schneller arbeitet. Das Internet vergleicht es bereits mit Pied Piper aus der Serie Silicon Valley.
+
+In der Welt der Regulierung und Ethik war diese Woche besonders ereignisreich. Anthropic hat eine einstweilige Verfügung gegen die Trump-Regierung gewonnen: Ein Bundesrichter blockierte die Pentagon-Entscheidung, Anthropic als Sicherheitsrisiko einzustufen. Gleichzeitig hat Wikipedia ein striktes Verbot für K.I.-generierte Inhalte eingeführt. Und die Europäische Union arbeitet weiter an einem Verbot von Deepfake-Software, die für digitale Gewalt missbraucht werden kann.
+
+Auf der politischen Bühne trat David Sacks nach 130 Tagen als K.I.- und Krypto-Zar des Weißen Hauses zurück. Sein Abgang markiert eine Zäsur in der K.I.-Politik der Trump-Administration.
+
+Im Bereich Business und Investitionen: Meta erhöht seine Investition in ein K.I.-Rechenzentrum in El Paso, Texas, auf zehn Milliarden Dollar. Das entspricht einer Versechsfachung des ursprünglichen Budgets. Und in Europa plant ein neuer Millionenfonds, der größte K.I.-Einzelinvestor des Kontinents zu werden.
+
+Eine nachdenklich stimmende Studie zeigt: Die K.I.-Kompetenzlücke wächst. Erfahrene Nutzer setzen sich immer weiter ab, während Einsteiger den Anschluss verlieren. Das könnte langfristig zu einer neuen Form digitaler Ungleichheit führen.
+
+Das war das K.I. Power Update für diese Woche. Bleib neugierig, bleib informiert – und bis zum nächsten Mal. Powered by www.ki-power.me.
