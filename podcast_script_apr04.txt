@@ -1,0 +1,17 @@
+Willkommen beim K.I. Power Update vom 4. April 2026 – dein wöchentlicher Überblick über die wichtigsten Entwicklungen in der Welt der Künstlichen Intelligenz. Ich bin deine Moderatorin und nehme dich heute mit durch die spannendsten K.I.-News der letzten sieben Tage.
+
+Beginnen wir mit den großen Schlagzeilen der Woche.
+
+OpenAI hat diese Woche eine historische Finanzierungsrunde abgeschlossen: 122 Milliarden Dollar wurden eingesammelt – die größte Runde in der Geschichte des Silicon Valley. Das Unternehmen wird damit auf 852 Milliarden Dollar bewertet. Gleichzeitig gab es einen Führungswechsel: COO Brad Lightcap übernimmt eine neue Rolle für sogenannte Sonderprojekte. Was das bedeutet, bleibt spannend.
+
+Ebenfalls für Aufsehen sorgte Anthropic: Das Unternehmen kauft das Biotech-Startup Coefficient Bio für 400 Millionen Dollar – ein klares Signal, dass K.I.-Firmen zunehmend in die Lebenswissenschaften vordringen. Gleichzeitig gründet Anthropic ein eigenes politisches Aktionskomitee in Washington, um die K.I.-Regulierung aktiv mitzugestalten.
+
+Microsoft hat drei neue K.I.-Grundlagenmodelle vorgestellt, die Text, Sprache und Bilder generieren können – eine direkte Herausforderung an OpenAI und Google. Und Mistral, das französische K.I.-Unternehmen, hat 830 Millionen Dollar Fremdkapital aufgenommen, um ein eigenes Rechenzentrum bei Paris zu bauen.
+
+Im Bereich Tools und Startups: Salesforce kündigt einen massiven K.I.-Umbau von Slack an – mit 30 neuen Funktionen. Das K.I.-Videounternehmen Runway startet einen 10-Millionen-Dollar-Fonds für K.I.-Startups. Und das südkoreanische Chip-Startup Rebellions sammelt 400 Millionen Dollar vor seinem Börsengang ein.
+
+Zur Regulierung: Kalifornien positioniert sich als Vorreiter der K.I.-Regulierung und sendet damit ein klares Signal gegen die K.I.-freundliche Politik der Trump-Administration. In Deutschland hat der Bund lizenzfreie K.I.-Werkzeuge für die öffentliche Verwaltung veröffentlicht – ein Schritt Richtung digitaler Souveränität.
+
+Und zum Abschluss zwei Perspektiven: Eine neue Umfrage zeigt ein Paradox – immer mehr Amerikaner nutzen K.I.-Tools, aber das Vertrauen in die Ergebnisse sinkt. Und t3n warnt: Unternehmen, die zu schnell zu viel automatisieren, riskieren langfristig Wissensverlust und Innovationsschwäche.
+
+Das war dein K.I. Power Update für diese Woche. Weitere Informationen und alle Artikel findest du auf unserer Website. Bis nächste Woche – powered by www.ki-power.me!
