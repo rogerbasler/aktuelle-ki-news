@@ -1,0 +1,17 @@
+Was passiert, wenn das mächtigste AI-Modell der Welt so gefährlich ist, dass sein Entwickler es nicht veröffentlichen darf?
+
+Genau das ist diese Woche mit Anthropics neuem Modell Claude Mythos passiert. Das Modell ist so gut darin, Sicherheitslücken in Software zu finden, dass Anthropic es vorerst nur einer handverlesenen Gruppe von Cybersecurity-Unternehmen zugänglich macht. Die Frage, die sich stellt: Wer kontrolliert eigentlich, wer Zugang zu solchen Werkzeugen bekommt?
+
+Gleichzeitig eskaliert die Situation rund um OpenAI auf mehreren Ebenen. Ein 20-jähriger Mann warf einen Brandsatz auf das Haus von CEO Sam Altman in San Francisco. Niemand wurde verletzt, aber der Vorfall zeigt, wie aufgeheizt die gesellschaftliche Stimmung rund um AI geworden ist. Und als wäre das nicht genug, sieht sich OpenAI auch juristisch unter Druck: Ein Stalking-Opfer verklagt das Unternehmen, weil ChatGPT angeblich den Wahn ihres Verfolgers befeuert habe.
+
+Auf der regulatorischen Seite bewegt sich viel: Die EU-Kommission will OpenAI unter den Digital Services Act stellen – das würde deutlich strengere Transparenzpflichten bedeuten. Zeitgleich will OpenAI selbst per Gesetzentwurf sicherstellen, dass AI-Entwickler nicht für Schäden durch ihre Modelle haften müssen. Zwei Seiten, die sich direkt gegenüberstehen.
+
+Spannend ist auch die Nachricht aus Europa: Die deutschen AI-Hoffnung Aleph Alpha verhandelt über eine Fusion mit dem kanadischen Unternehmen Cohere – mit Unterstützung aus Berlin. Das wäre ein bedeutender Schritt für eine souveräne europäische AI-Infrastruktur.
+
+Bei den Tools und Produkten: Meta hat Muse Spark gelauncht, das erste Modell seines Superintelligenz-Teams. OpenAI zieht mit einem neuen 100-Dollar-Pro-Plan nach, der direkt auf Anthropics Preismodell zielt. Und Salesforce macht Slack zur zentralen AI-Schaltzentrale für Unternehmen.
+
+Databricks-Mitgründer Matei Zaharia hat den renommierten ACM-Preis gewonnen – und dabei eine These aufgestellt, die für Diskussionen sorgt: AGI, also künstliche allgemeine Intelligenz, sei bereits Realität.
+
+Und schließlich: Frankreich hat einen konkreten Plan vorgestellt, Windows durch Linux zu ersetzen. Digitale Souveränität als politisches Programm – ein Signal, das über Frankreich hinaus Wirkung haben könnte.
+
+Das war dein AI Power Update für die Woche vom 11. April 2026. Mehr Insights und Kurse findest du auf ki-power.me.
