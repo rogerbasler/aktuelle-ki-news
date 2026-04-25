@@ -1,0 +1,25 @@
+Wer kontrolliert eigentlich die KI-Infrastruktur der Zukunft – und warum entscheidet das über mehr als nur Marktanteile?
+
+Diese Woche hat Google eine Antwort geliefert: bis zu 40 Milliarden Dollar in Anthropic. Das ist keine Investition – das ist eine Allianz. Amazon hat bereits 25 Milliarden nachgelegt. Anthropic wird damit zum strategischen Knotenpunkt zwischen den grössten Tech-Konzernen der Welt.
+
+Gleichzeitig lanciert OpenAI GPT-5.5 – nicht als Chatbot, sondern als agentisches Arbeitsmodell. Der Pivot ist klar: weg vom Gespräch, hin zur autonomen Aufgabenausführung. Die KI wird zum Mitarbeiter.
+
+DeepSeek aus China präsentiert V4 und schliesst damit die Lücke zu den Frontier-Modellen der USA auf wenige Prozentpunkte. Der Stanford AI Index 2026 bestätigt: Der Vorsprung der USA beträgt noch 2,7 Prozent. Vor drei Jahren waren es 1.300 Punkte.
+
+In Europa passiert etwas Unerwartetes: Aleph Alpha und Cohere fusionieren. Deutschland und Kanada wollen gemeinsam einen globalen KI-Champion aufbauen. Ob das reicht, um gegen die US-Giganten zu bestehen, bleibt offen. Aber es ist der erste ernstzunehmende Versuch.
+
+SpaceX sichert sich die Kaufoption für Cursor – das heisseste KI-Coding-Startup der Stunde – für 60 Milliarden Dollar. Elon Musk kauft sich in die KI-Infrastruktur für Entwickler ein. Der Chip-Markt dreht sich ebenfalls: Google lanciert neue TPU-Chips als Nvidia-Alternative, Meta schliesst einen Deal für Millionen Amazon-KI-Prozessoren.
+
+Auf der Werkzeugseite: ComfyUI erreicht 500 Millionen Dollar Bewertung. Google macht KI zum Standard-Assistenten in Workspace.
+
+Beim Thema Sicherheit wird es ernst: Anthropics Mythos-KI hat 271 Schwachstellen im Firefox-Browser gefunden – autonom, in kurzer Zeit. Das ist ein Durchbruch für IT-Sicherheit. Und ein Weckruf: Dieselbe Technologie kann auch angreifen.
+
+Die gesellschaftlichen Konsequenzen sind bereits spürbar: Meta entlässt 8.000 Mitarbeitende, Microsoft weitere 9.000. KI-Strukturwandel ist keine Prognose mehr. Er ist Gegenwart.
+
+Was oft unterschätzt wird: Vibecoding – das Programmieren per natürlicher Sprache – ist fragil. Anthropic hat gerade die Preise erhöht. Wer sein Geschäftsmodell auf günstigen KI-Tokens aufgebaut hat, merkt jetzt: Das Paradies gehört den Plattformen, nicht den Nutzern.
+
+Und im Krieg? Das Prinzip vom Human in the Loop – also dem Menschen, der KI-Entscheidungen kontrolliert – ist laut Experten eine Illusion. Die Systeme agieren schneller, als Menschen reagieren können.
+
+Die Konsequenz aus all dem ist: KI ist kein Werkzeug mehr, das man benutzt. Es ist eine Infrastruktur, die man versteht – oder von der man abhängig wird.
+
+Das war das KI Power Update vom 25. April 2026. Powered by ki-power.me.
