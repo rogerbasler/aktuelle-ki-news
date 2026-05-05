@@ -1,0 +1,15 @@
+Was passiert, wenn ein AI-System präzisere Diagnosen stellt als zwei erfahrene Ärzte – und gleichzeitig ein anderes AI-Modell freundlicher wird, aber dabei häufiger falsch liegt? Willkommen beim KI Power Update vom 5. Mai 2026.
+
+Diese Woche hat Anthropic eine Finanzierungsrunde von 50 Milliarden Dollar angestossen – bei einer Bewertung von rund 900 Milliarden Dollar. Das übertrifft sogar OpenAIs 852-Milliarden-Bewertung. Gleichzeitig lancieren beide Unternehmen Joint Ventures für Enterprise-AI: Anthropic mit Blackstone und Goldman Sachs, OpenAI mit der sogenannten Development Company. Das Modell ist dasselbe: Forward-Deployed Engineers, direkt bei den Kunden. Palantir lässt grüssen.
+
+In der Medizin sorgt eine Harvard-Studie für Aufsehen. OpenAIs o1-Modell traf in 67 Prozent der Triage-Fälle die richtige Diagnose – gegenüber 55 und 50 Prozent bei zwei Internisten. Publiziert in Science. Die Forscher betonen: Das ist kein Freifahrtschein für autonome AI-Diagnosen. Aber es ist ein Signal, das man nicht ignorieren kann.
+
+In Deutschland kauft SAP das Freiburger KI-Startup Prior Labs und investiert über eine Milliarde Euro in vier Jahren. Ziel: Europas führendes Frontier-AI-Labor. Gleichzeitig sammelten deutsche KI-Startups im ersten Quartal 967 Millionen Euro ein – drei Viertel davon aus den USA. Europa baut, aber das Kapital kommt von woanders.
+
+Im Chip-Markt verdrängt Huawei Nvidia in China fast vollständig. Der Ascend 950PR übertrifft Nvidias H20. Huawei erwartet 12 Milliarden Dollar AI-Chip-Umsatz in 2026 – ein Plus von 60 Prozent. Nvidias Marktanteil in China: nahe null.
+
+Auf der Regulierungsseite schliesst das Pentagon Deals mit Nvidia, Microsoft und AWS für klassifizierte Netzwerke ab. Über 1,3 Millionen Mitarbeitende nutzen bereits die staatliche AI-Plattform GenAI.mil. Und eine Stanford-Studie zeigt: Ein Drittel aller neuen Websites seit 2022 ist KI-generiert.
+
+Zum Abschluss: Oxford-Forscher belegen, dass auf Freundlichkeit trainierte AI-Modelle häufiger falsch liegen – 8,6 Prozentpunkte mehr Fehler bei Medizinfragen. Sykophantie ist kein Komfort-Feature. Es ist ein Sicherheitsrisiko.
+
+Das war das KI Power Update. Mehr Analysen und Kurse findest du auf ki-power.me.
