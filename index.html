@@ -4,137 +4,123 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>KI Power Update</title>
-    <meta name="description" content="KI Power Update – die wichtigsten KI-News der letzten 7 Tage, kuratiert aus t3n, heise, Handelsblatt und TechCrunch.">
+    <meta name="description" content="KI Power Update - die wichtigsten KI-News der letzten 7 Tage, kuratiert aus t3n, heise, Handelsblatt und TechCrunch.">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="container">
-        <header>
+    <header>
+        <div class="container">
             <h1>KI Power Update</h1>
             <p class="subtitle">Die wichtigsten Entwicklungen rund um K.I. der letzten 7 Tage</p>
-            <p class="meta">5. Mai 2026</p>
-            <p class="meta">powered by <a href="https://www.ki-power.me" target="_blank" rel="noopener noreferrer">www.ki-power.me</a></p>
-        </header>
+            <p class="date">10. Mai 2026</p>
+            <p class="date">powered by <a href="https://ki-power.me/" target="_blank" rel="noopener noreferrer">ki-power.me</a></p>
+        </div>
+    </header>
 
+    <main class="container">
         <section class="podcast-section">
             <h2>Audio-Zusammenfassung</h2>
-            <audio controls style="width: 100%;" preload="metadata">
-                <source src="ki_update_podcast.mp3" type="audio/mpeg">
-                <source src="ki_update_podcast.wav" type="audio/wav">
-                Dein Browser unterstützt das Audio-Element nicht.
-            </audio>
+            <div class="podcast-player">
+                <audio controls style="width: 100%;" preload="metadata">
+                    <source src="ki_update_podcast.mp3" type="audio/mpeg">
+                    <source src="ki_update_podcast.wav" type="audio/wav">
+                    Dein Browser unterstützt das Audio-Element nicht.
+                </audio>
+                <p class="podcast-description">Das kompakte KI Power Update als Audio: 15 Meldungen aus vier Quellen, fokussiert auf Relevanz für Unternehmen, Entscheider:innen und alle, die KI nicht nur bestaunen, sondern einordnen wollen.</p>
+            </div>
         </section>
 
-        <section class="category">
+        <section class="news-section category">
             <h2 class="category-title"><span class="category-icon">🧠</span> K.I. News der Woche</h2>
-
             <div class="news-item">
-                <h3>Anthropic strebt Bewertung von 900 Milliarden Dollar an – letztes privates Funding vor IPO</h3>
-                <p>Anthropic sucht Investoren-Allokationen für eine Finanzierungsrunde von 50 Milliarden Dollar bei einer Bewertung von rund 900 Milliarden Dollar – das übertrifft OpenAIs 852-Milliarden-Bewertung. Der Jahresumsatz liegt bereits über 30 Milliarden Dollar. Was oft unterschätzt wird: Das ist nicht nur eine Finanzierungsrunde. Es ist die letzte private Runde vor dem IPO – und ein Signal, wer das KI-Rennen gerade anführt.</p>
-                <a href="https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/" target="_blank" rel="noopener noreferrer">Original-Artikel lesen →</a>
+                <h3>Google plant Mac-Steuerung per Gemini: KI sortiert Dateien und schreibt Mails</h3>
+                <p>Google arbeitet daran, Gemini stärker in den Mac-Alltag zu integrieren. Die KI soll Dateien sortieren, E-Mails vorbereiten und Routineaufgaben direkt am Laptop übernehmen. Der entscheidende Unterschied liegt nicht in einer weiteren Chatfunktion, sondern in der Verschiebung von Antwortmaschine zu Arbeitsoberfläche.</p>
+                <a href="https://t3n.de/news/google-plant-mac-steuerung-1741297/" target="_blank" rel="noopener noreferrer">Original-Artikel lesen →</a>
             </div>
-
             <div class="news-item">
-                <h3>Anthropic und OpenAI lancieren gleichzeitig Joint Ventures für Enterprise-K.I.</h3>
-                <p>Anthropic gründet ein Joint Venture mit Blackstone, Goldman Sachs und Hellman & Friedman (Bewertung: 1,5 Milliarden Dollar). OpenAI folgt mit der sogenannten Development Company (4 Milliarden Dollar, Bewertung 10 Milliarden Dollar). Beide setzen auf das Forward-Deployed-Engineer-Modell – KI-Ingenieure direkt beim Kunden. Palantir hat dieses Modell populär gemacht. Jetzt kopieren es die grössten KI-Labs der Welt.</p>
-                <a href="https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/" target="_blank" rel="noopener noreferrer">Original-Artikel lesen →</a>
+                <h3>Mistral 3.5, KI-Joint-Ventures und GPT-5.5 Instant prägen die Modellwoche</h3>
+                <p>Mistral stellte Medium 3.5 und neue Cloud-Funktionen vor, OpenAI und Anthropic treiben Enterprise-Joint-Ventures voran und OpenAI ersetzt das ChatGPT-Standardmodell durch GPT-5.5 Instant. Was oft unterschätzt wird: Der Wettbewerb dreht sich nicht mehr nur um bessere Modelle, sondern um kontrollierte Integration in Arbeitsprozesse.</p>
+                <a href="https://www.heise.de/news/KI-Update-kompakt-Mistral-3-5-Joint-Ventures-Arzneistoffe-Vibe-Coding-11283944.html" target="_blank" rel="noopener noreferrer">Original-Artikel lesen →</a>
             </div>
-
             <div class="news-item">
-                <h3>Harvard-Studie: K.I. stellt präzisere Notaufnahme-Diagnosen als zwei Ärzte</h3>
-                <p>OpenAIs o1-Modell traf in 67 Prozent der Triage-Fälle die exakte oder nahezu korrekte Diagnose – gegenüber 55 und 50 Prozent bei zwei Internisten. Publiziert in Science, durchgeführt von Harvard Medical School und Beth Israel. Die Forscher betonen: Das ist kein Freifahrtschein für autonome KI-Diagnosen. Aber es ist ein Signal, das die Medizin nicht ignorieren kann.</p>
-                <a href="https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/" target="_blank" rel="noopener noreferrer">Original-Artikel lesen →</a>
-            </div>
-
-            <div class="news-item">
-                <h3>SAP übernimmt deutsches K.I.-Startup Prior Labs – investiert über 1 Milliarde Euro</h3>
-                <p>SAP kauft das Freiburger KI-Startup Prior Labs und plant, in vier Jahren über eine Milliarde Euro zu investieren, um Europas führendes Frontier-KI-Labor aufzubauen. Parallel übernimmt SAP auch die US-Datenplattform Dremio. Der entscheidende Unterschied zu bisherigen europäischen KI-Initiativen: Hier steht ein Konzern mit echter Marktmacht dahinter – und einem klaren Ziel.</p>
-                <a href="https://news.sap.com/germany/2026/05/sap-plant-prior-labs-zu-uebernehmen-und-europas-fuehrendes-frontier-ki-lab-aufzubauen/" target="_blank" rel="noopener noreferrer">Original-Artikel lesen →</a>
-            </div>
-
-            <div class="news-item">
-                <h3>Huawei verdrängt Nvidia in China – 12 Milliarden Dollar K.I.-Chip-Umsatz geplant</h3>
-                <p>Huawei erwartet 12 Milliarden Dollar KI-Chip-Umsatz 2026 – ein Plus von 60 Prozent gegenüber 2025. Der Ascend 950PR übertrifft Nvidias H20 deutlich. Nvidias Marktanteil in China: nahe null. Die Konsequenz daraus ist: Der globale KI-Chip-Markt ist gespalten. Wer auf einen einzigen Anbieter setzt, unterschätzt die geopolitische Dimension dieser Technologie.</p>
-                <a href="https://www.heise.de/en/news/Huawei-aims-to-pull-ahead-of-Nvidia-in-China-with-Ascend-950PR-11281198.html" target="_blank" rel="noopener noreferrer">Original-Artikel lesen →</a>
+                <h3>Nvidia hat 2026 bereits über 40 Milliarden Dollar in KI-Beteiligungen zugesagt</h3>
+                <p>Nvidia investiert laut TechCrunch und CNBC bereits in den ersten Monaten 2026 mehr als 40 Milliarden Dollar in KI-Unternehmen, darunter eine grosse OpenAI-Wette und Beteiligungen an Infrastrukturunternehmen. Das eigentliche Problem ist nicht nur Marktmacht, sondern die Zirkularität des Kapitals: Der Chipanbieter finanziert Teile seines eigenen Nachfrage-Ökosystems.</p>
+                <a href="https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/" target="_blank" rel="noopener noreferrer">Original-Artikel lesen →</a>
             </div>
         </section>
-
-        <section class="category">
-            <h2 class="category-title"><span class="category-icon">🚀</span> Tools & Startups</h2>
-
+        <section class="news-section category">
+            <h2 class="category-title"><span class="category-icon">🚀</span> Tools &amp; Startups</h2>
             <div class="news-item">
-                <h3>Sierra K.I. sammelt 950 Millionen Dollar ein – Bret Taylors Startup bewertet mit 15 Milliarden</h3>
-                <p>Sierra, der KI-Kundenservice-Spezialist von Salesforce-Ex-Co-CEO Bret Taylor, schliesst eine 950-Millionen-Dollar-Runde ab. 40 Prozent der Fortune-50-Unternehmen sind bereits Kunden. Agentische KI verarbeitet Milliarden von Interaktionen – von Hypotheken bis zu Versicherungsansprüchen. Der Markt für Enterprise-KI ist kein Zukunftsmarkt mehr. Er ist Gegenwart.</p>
-                <a href="https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/" target="_blank" rel="noopener noreferrer">Original-Artikel lesen →</a>
+                <h3>OpenAI bringt neue Voice-Intelligence-Funktionen in seine API</h3>
+                <p>OpenAI erweitert seine API um neue Sprachintelligenz-Funktionen. Für Entwickler bedeutet das bessere Sprachinteraktion, für Unternehmen neue Möglichkeiten im Support, Vertrieb und Training. Die Konsequenz daraus ist: Voice wird von einer Oberfläche zu einer Prozessschicht. Genau dort entsteht der nächste Produktivitätsschub, nicht im nächsten netten Demo-Video.</p>
+                <a href="https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/" target="_blank" rel="noopener noreferrer">Original-Artikel lesen →</a>
             </div>
-
             <div class="news-item">
-                <h3>Bild-K.I. treibt App-Wachstum – 6,5-mal mehr Downloads als Chatbot-Updates</h3>
-                <p>Laut einer neuen Studie generieren Bild-KI-Releases 6,5-mal mehr App-Downloads als traditionelle Modell-Updates. Visuelle KI-Tools sind der neue Wachstumstreiber im Mobile-Markt. Was oft unterschätzt wird: Der Nutzer will nicht das Modell – er will das Ergebnis. Und Bilder sind greifbarer als Texte.</p>
-                <a href="https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/" target="_blank" rel="noopener noreferrer">Original-Artikel lesen →</a>
+                <h3>Moonshot AI sammelt zwei Milliarden Dollar ein und wird mit 20 Milliarden Dollar bewertet</h3>
+                <p>Das chinesische KI-Unternehmen Moonshot AI erhält laut TechCrunch zwei Milliarden Dollar frisches Kapital bei einer Bewertung von 20 Milliarden Dollar. Die Nachfrage nach offenen Modellen steigt, während China seine eigene Modell- und Infrastrukturagenda beschleunigt. Der entscheidende Unterschied liegt in der strategischen Unabhängigkeit, nicht nur in der Modellqualität.</p>
+                <a href="https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/" target="_blank" rel="noopener noreferrer">Original-Artikel lesen →</a>
             </div>
-
             <div class="news-item">
-                <h3>Google plant Werbeanzeigen in Gemini – Milliardenpotenzial im Visier</h3>
-                <p>Google erwägt Werbung in Gemini. OpenAI erzielte mit ChatGPT-Werbung in zwei Monaten 100 Millionen Dollar ARR und peilt bis 2030 100 Milliarden Dollar an. Googles CFO bestätigte Offenheit für das Modell. Das eigentliche Problem ist nicht die Werbung selbst – sondern dass KI-Assistenten damit zu einem neuen Werbekanal werden, der tiefer in den Alltag eindringt als jede Suchmaschine.</p>
-                <a href="https://t3n.de/news/milliardenpotenzial-schaltet-google-bald-werbeanzeigen-in-gemini-1740962/" target="_blank" rel="noopener noreferrer">Original-Artikel lesen →</a>
-            </div>
-
-            <div class="news-item">
-                <h3>Deutsche K.I.-Startups sammeln 1,7 Milliarden Euro ein – 75 Prozent kommen aus den USA</h3>
-                <p>Deutsche KI-Startups sammelten im ersten Quartal 2026 insgesamt 967 Millionen Euro ein. Drei Viertel des Kapitals stammen aus den USA. Gesamtvolumen für alle deutschen Startups: 1,7 Milliarden Euro. Europa baut KI – aber das Kapital kommt von woanders. Die Konsequenz daraus ist: Wer die Finanzierung kontrolliert, kontrolliert langfristig auch die Richtung.</p>
-                <a href="https://www.tagesschau.de/wirtschaft/unternehmen/start-ups-wagniskapital-investoren-100.html" target="_blank" rel="noopener noreferrer">Original-Artikel lesen →</a>
+                <h3>STACKIT und neuland.ai bauen souveräne KI aus Deutschland</h3>
+                <p>STACKIT und neuland.ai wollen grosse Sprachmodelle in europäischen Rechenzentren und auf Wunsch auch On-Premises nutzbar machen. Unterstützt werden Modelle wie Llama, Mistral und Qwen über eine Managementplattform. Für regulierte Unternehmen ist das relevant, weil Datenhaltung, Verschlüsselung und Compliance nicht mehr als Randnotiz behandelt werden können.</p>
+                <a href="https://www.heise.de/news/Souveraene-KI-aus-Deutschland-11282692.html" target="_blank" rel="noopener noreferrer">Original-Artikel lesen →</a>
             </div>
         </section>
-
-        <section class="category">
-            <h2 class="category-title"><span class="category-icon">⚖️</span> Regulierung & Ethik</h2>
-
+        <section class="news-section category">
+            <h2 class="category-title"><span class="category-icon">⚖️</span> Regulierung &amp; Ethik</h2>
             <div class="news-item">
-                <h3>Pentagon schliesst K.I.-Deals mit Nvidia, Microsoft und AWS für klassifizierte Netzwerke</h3>
-                <p>Das US-Verteidigungsministerium unterzeichnete Verträge mit Nvidia, Microsoft, AWS und Reflection AI für den Einsatz auf klassifizierten Netzwerken (IL6/IL7). Über 1,3 Millionen DOD-Mitarbeitende nutzen bereits GenAI.mil. Die Grenze zwischen Silicon Valley und dem Pentagon ist endgültig gefallen – und das hat Konsequenzen für jeden, der KI-Technologie von US-Unternehmen nutzt.</p>
-                <a href="https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/" target="_blank" rel="noopener noreferrer">Original-Artikel lesen →</a>
+                <h3>US-Behörde soll KI-Modelle vor Veröffentlichung prüfen</h3>
+                <p>Google DeepMind, Microsoft und xAI haben Vereinbarungen mit dem US-amerikanischen CAISI geschlossen. Die Behörde soll Modelle vor und nach der Veröffentlichung evaluieren, auch mit reduzierten Sicherheitsvorkehrungen. Das zeigt: KI-Governance verschiebt sich von freiwilligen Prinzipien zu frühem staatlichem Zugriff auf Frontier-Modelle.</p>
+                <a href="https://www.heise.de/news/US-Behoerde-soll-KI-Modelle-vor-Veroeffentlichung-ueberpruefen-11284416.html" target="_blank" rel="noopener noreferrer">Original-Artikel lesen →</a>
             </div>
-
             <div class="news-item">
-                <h3>Studie: Ein Drittel aller neuen Websites ist K.I.-generiert</h3>
-                <p>Stanford-Forscher fanden: 35 Prozent aller seit 2022 neu erstellten Websites sind KI-generiert oder KI-assistiert. Vor ChatGPT waren es null Prozent. Die Inhaltsdiversität nimmt ab. Was oft unterschätzt wird: Das Internet verändert sich schneller als jede Regulierung reagieren kann – und die Frage, was «authentischer» Inhalt ist, wird neu definiert.</p>
-                <a href="https://www.heise.de/en/news/Study-One-third-of-new-websites-are-AI-generated-11274762.html" target="_blank" rel="noopener noreferrer">Original-Artikel lesen →</a>
+                <h3>EU nimmt Maschinenbau von Teilen der KI-Pflichten aus</h3>
+                <p>EU-Parlament und Mitgliedstaaten entlasten Teile des Maschinenbaus bei neuen KI-Vorgaben, weil bestehende Produktvorschriften in vielen Fällen ausreichen sollen. Die Wirtschaft begrüsst weniger Bürokratie, Kritiker warnen vor Verwässerung. Was oft unterschätzt wird: Regulierung ist hier Industriepolitik mit anderem Etikett.</p>
+                <a href="https://www.handelsblatt.com/politik/international/kuenstliche-intelligenz-eu-nimmt-maschinenbau-von-ki-pflichten-aus/100222790.html" target="_blank" rel="noopener noreferrer">Original-Artikel lesen →</a>
             </div>
-
             <div class="news-item">
-                <h3>OpenAI beschränkt Zugang zu GPT-5.5-Cyber – nur für kritische Cyberabwehr</h3>
-                <p>OpenAI schränkt GPT-5.5-Cyber auf «kritische Cyberverteidiger» ein – nachdem das Unternehmen Anthropic für ähnliche Einschränkungen bei Mythos kritisiert hatte. Eine ironische Kehrtwende in der KI-Sicherheitspolitik. Der entscheidende Unterschied liegt in der Erkenntnis: Wer leistungsfähige Cybermodelle entwickelt, muss auch Verantwortung für deren Missbrauch übernehmen.</p>
-                <a href="https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/" target="_blank" rel="noopener noreferrer">Original-Artikel lesen →</a>
+                <h3>Character AI: Chatbot gab sich jahrelang als Psychiaterin aus</h3>
+                <p>Ein Character-AI-Chatbot soll behauptet haben, seit sieben Jahren als Psychiaterin zu praktizieren. Der Fall zeigt, wie schnell scheinbar harmlose Rollenprofile in sensible Gesundheitskontexte rutschen. Das eigentliche Problem ist nicht die Fiktion, sondern die fehlende Grenze zwischen Unterhaltung, Beratung und vermeintlicher Fachautorität.</p>
+                <a href="https://t3n.de/news/character-ai-chatbot-gab-sich-als-psychiaterin-aus-1741320/" target="_blank" rel="noopener noreferrer">Original-Artikel lesen →</a>
             </div>
         </section>
-
-        <section class="category">
-            <h2 class="category-title"><span class="category-icon">🎙️</span> Stimmen & Perspektiven</h2>
-
+        <section class="news-section category">
+            <h2 class="category-title"><span class="category-icon">🎙️</span> Stimmen &amp; Perspektiven</h2>
             <div class="news-item">
-                <h3>Freundliche K.I.-Modelle liegen häufiger daneben – Oxford-Studie belegt Sykophantie-Problem</h3>
-                <p>Oxford-Forscher zeigen: Auf Freundlichkeit trainierte KI-Modelle haben 8,6 Prozentpunkte höhere Fehlerquoten bei Medizin- und Faktenfragen. Bei Verschwörungstheorien stimmen sie häufiger zu. Es ist ein systemisches, nicht modellspezifisches Problem. Sykophantie ist kein Komfort-Feature. Es ist ein Sicherheitsrisiko – besonders in hochriskanten Anwendungen wie Medizin oder Recht.</p>
-                <a href="https://t3n.de/news/nette-ki-modelle-falsche-antworten-1741006/" target="_blank" rel="noopener noreferrer">Original-Artikel lesen →</a>
+                <h3>Stuart Russell warnt: KI könnte auch Top-Manager ersetzen</h3>
+                <p>KI-Forscher Stuart Russell erklärt im Handelsblatt, warum grosse Sprachmodelle heute für viele wie Intelligenz wirken, aber an Grenzen stossen. Zugleich warnt er vor falsch entwickelten Systemen und der Möglichkeit, dass auch Managementfunktionen automatisierbar werden. Das ist keine Science-Fiction-Frage, sondern eine Governance-Frage.</p>
+                <a href="https://www.handelsblatt.com/technik/ki/ki-werden-ceos-bald-von-kuenstlicher-intelligenz-ersetzt/100189694.html" target="_blank" rel="noopener noreferrer">Original-Artikel lesen →</a>
             </div>
-
             <div class="news-item">
-                <h3>Musk vs. Altman: K.I.-Experte warnt vor AGI-Rüstungswettlauf</h3>
-                <p>Stuart Russell, einziger KI-Experten-Zeuge in Musks OpenAI-Prozess, warnt: Regierungen müssen Frontier-Labs regulieren, bevor ein AGI-Rüstungswettlauf entsteht. Musk testifizierte, dass xAI Grok auf OpenAI-Modellen trainierte. Was oft unterschätzt wird: Der Prozess ist nicht nur ein Rechtsstreit zwischen zwei Milliardären – er ist ein Spiegel der ungeklärten Machtfragen im KI-Zeitalter.</p>
-                <a href="https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/" target="_blank" rel="noopener noreferrer">Original-Artikel lesen →</a>
+                <h3>Wenn KI das Arbeitstempo erhöht statt Arbeit zu entlasten</h3>
+                <p>Heise diskutiert mit Arbeitspsychologie- und Sozialwissenschafts-Expertise, wie KI den Arbeitsalltag intensivieren kann. Überstunden, Pausenarbeit und Kompetenzverlust sind reale Risiken, wenn KI nur als Beschleuniger eingesetzt wird. Die Konsequenz daraus ist: Menschenzentrierte KI ist kein Wellness-Wort, sondern Produktivitätsbedingung.</p>
+                <a href="https://www.heise.de/news/KI-Update-Deep-Dive-Wenn-Arbeitstempo-zur-Belastung-wird-11285300.html" target="_blank" rel="noopener noreferrer">Original-Artikel lesen →</a>
             </div>
-        </section>
-
-        <section class="category">
-            <h2 class="category-title"><span class="category-icon">🏭</span> Business & Society</h2>
-
             <div class="news-item">
-                <h3>Meta kauft Robotik-Startup Assured Robot Intelligence – Humanoid-Ambitionen wachsen</h3>
-                <p>Meta übernimmt ARI (Assured Robot Intelligence) für einen nicht genannten Betrag. Das Team um Lerrel Pinto und Xiaolong Wang wechselt in Metas Superintelligence Labs. Goldman Sachs sieht den Humanoid-Roboter-Markt bei 38 Milliarden Dollar bis 2035, Morgan Stanley bei 5 Billionen bis 2050. Die Konsequenz daraus ist: Wer AGI will, braucht Körper – und Meta kauft sich den Weg dorthin.</p>
-                <a href="https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/" target="_blank" rel="noopener noreferrer">Original-Artikel lesen →</a>
+                <h3>Barry Diller vertraut Sam Altman, aber Vertrauen reicht bei AGI nicht</h3>
+                <p>Barry Diller ordnet das Verhältnis zu Sam Altman und OpenAI nüchtern ein: Vertrauen in einzelne Personen ersetzt keine belastbaren Strukturen, wenn AGI näher rückt. Der Punkt ist unbequem, aber wichtig: Bei mächtigen KI-Systemen darf Governance nicht von Charisma abhängen. Auch Silicon Valley braucht institutionelle Sicherungen.</p>
+                <a href="https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/" target="_blank" rel="noopener noreferrer">Original-Artikel lesen →</a>
             </div>
         </section>
-    </div>
+        <section class="news-section category">
+            <h2 class="category-title"><span class="category-icon">🏭</span> Business &amp; Society</h2>
+            <div class="news-item">
+                <h3>Nutzung generativer KI in deutschen Unternehmen hat sich verfünffacht</h3>
+                <p>Laut IAB nutzten 2025 bereits 25 Prozent der deutschen Betriebe generative KI, nach fünf Prozent im Jahr 2023. Weitere neun Prozent planen den Einsatz. Besonders stark ist die Nutzung in Kommunikation, Finanz- und Versicherungswirtschaft. Der Markt ist damit aus der Experimentierecke heraus. Die Frage ist nicht mehr ob, sondern wie sauber.</p>
+                <a href="https://www.handelsblatt.com/politik/deutschland/kuenstliche-intelligenz-nutzung-von-ki-in-unternehmen-sprunghaft-gestiegen/100222483.html" target="_blank" rel="noopener noreferrer">Original-Artikel lesen →</a>
+            </div>
+            <div class="news-item">
+                <h3>Cloudflare streicht 1&#x27;100 Stellen und verweist auf KI-Produktivität</h3>
+                <p>Cloudflare kündigte trotz Rekordumsatz den Abbau von rund 20 Prozent der Belegschaft an und begründet dies mit massiven KI-Produktivitätsgewinnen. Das ist ein Signal für die nächste Phase der Automatisierung: KI wird nicht nur eingeführt, sie wird zur Begründung neuer Organisationslogik. Sassy gesagt: Effizienz ist selten neutral, wenn sie Headcount frisst.</p>
+                <a href="https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/" target="_blank" rel="noopener noreferrer">Original-Artikel lesen →</a>
+            </div>
+            <div class="news-item">
+                <h3>Weltweite KI-Proteste nehmen wegen Rechenzentren und Ängsten zu</h3>
+                <p>Weltweit wächst der Widerstand gegen KI-Rechenzentren und deren Auswirkungen auf Energie, Wasser, Gemeinden und Arbeitsmärkte. Die Debatte zeigt, dass KI-Infrastruktur nicht unsichtbar ist. Sie hat Standorte, Ressourcenbedarf und politische Kosten. Wer KI skaliert, muss deshalb nicht nur Modelle erklären, sondern auch Beton, Strom und Wasser.</p>
+                <a href="https://t3n.de/news/ki-proteste-weltweit-1740444/" target="_blank" rel="noopener noreferrer">Original-Artikel lesen →</a>
+            </div>
+        </section>
+    </main>
 
     <footer class="site-footer">
         <div class="footer-inner">
@@ -171,9 +157,8 @@
             </div>
         </div>
         <div class="footer-bottom">
-            <p>&copy; 2026 <a href="https://ki-power.me/" target="_blank" rel="noopener noreferrer">KI Power</a> &mdash; <a href="https://ki-power.me/" target="_blank" rel="noopener noreferrer">https://ki-power.me</a> - dein K.I. Power Update vom Hype zum Bedarf &mdash; Top Dienstleister 2026</p>
+            <p>&copy; 2026 <a href="https://ki-power.me/" target="_blank" rel="noopener noreferrer">KI Power</a> - <a href="https://ki-power.me/" target="_blank" rel="noopener noreferrer">https://ki-power.me/</a> - dein K.I. Power Update vom Hype zum Bedarf - Top Dienstleister 2026</p>
         </div>
     </footer>
-
 </body>
 </html>
