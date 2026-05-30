@@ -1,6 +1,6 @@
 # KI Power Update – Wöchentlicher Workflow Playbook
 
-Letzte Aktualisierung: 28. März 2026
+Letzte Aktualisierung: 30. Mai 2026
 
 ---
 
@@ -33,8 +33,12 @@ Top 15 News auswählen, in 5 Kategorien einteilen, alle Titel ins Deutsche über
 - Sprache: `de`
 - Podcast-Skript ca. 2–3 Min. schreiben
 - Skript in Chunks à max. 800 Zeichen aufteilen
-- Alle Chunks mit HeyGen TTS generieren, herunterladen
-- Mit ffmpeg zusammenfügen:
+- Alle Chunks mit HeyGen TTS via MCP generieren:
+```bash
+manus-mcp-cli tool call text_to_speech --server heygen \
+  -i '{"text": "<CHUNK>", "voice_id": "1803df59c37443789d2e4f71c82859a0", "language": "de"}'
+```
+- Alle Chunks herunterladen und mit ffmpeg zusammenfügen:
 ```bash
 echo "file 'chunk1.wav'" > concat_list.txt
 echo "file 'chunk2.wav'" >> concat_list.txt
@@ -42,7 +46,15 @@ echo "file 'chunk2.wav'" >> concat_list.txt
 ffmpeg -f concat -safe 0 -i concat_list.txt -c copy ki_update_podcast.wav -y
 ```
 
-### 5. AUDIO-KONVERTIERUNG – Mobile-Fix (PFLICHT)
+**FALLBACK falls HeyGen MCP nicht verfügbar:** Google TTS (gtts) verwenden:
+```python
+from gtts import gTTS
+tts = gTTS(text=chunk, lang='de', slow=False)
+tts.save('chunk_1.mp3')
+```
+Dann mit ffmpeg zu ki_update_podcast.mp3 zusammenfügen (kein WAV-Zwischenschritt nötig).
+
+### 5. AUDIO-KONVERTIERUNG – Mobile-Fix (PFLICHT bei HeyGen)
 
 > **Ursache:** HeyGen liefert WAV-Container mit MP3-Inhalt. iOS Safari und Android-Browser können diesen nicht abspielen.
 
@@ -101,6 +113,8 @@ curl -s https://rogerbasler.github.io/aktuelle-ki-news/ | grep -c "news-item"
 | Audio auf Mobile stumm | HeyGen WAV = MP3-Stream in WAV-Container | Schritt 5: ffmpeg-Konvertierung zu echtem MP3 |
 | Footer-Links broken | Unterpfade wie /kurse, /blog etc. existieren nicht | Alle Footer-Links auf `https://ki-power.me/` setzen |
 | News-Link 404 | TechCrunch/t3n ändern URLs | curl-Validierung + Websuche für korrekten Link |
+| HeyGen MCP nicht verfügbar | Connector deaktiviert oder Session-Reset | Fallback: gtts (Google TTS) verwenden |
+| manus-mcp-cli: unknown flag --params | Falscher Flag | Korrekt: `-i` statt `--params` |
 
 ---
 
