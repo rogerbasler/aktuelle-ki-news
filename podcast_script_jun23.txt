@@ -1,0 +1,25 @@
+Wann hast du zuletzt einem Tool vertraut, das du täglich nutzt – und wann hast du aufgehört, es zu hinterfragen?
+
+Genau das zeigt eine neue Pew-Studie: 49 Prozent der Amerikaner nutzen AI regelmässig – aber nur 16 Prozent glauben, dass AI einen positiven Einfluss auf die Gesellschaft haben wird. Nutzung und Vertrauen driften auseinander. Das ist kein Widerspruch. Das ist ein Warnsignal.
+
+Willkommen beim AI Power Update. Hier sind die 15 wichtigsten Meldungen der Woche.
+
+Der AI-Markt verschiebt sich. ChatGPT ist erstmals unter 50 Prozent Marktanteil gefallen – auf 46 Prozent. Gemini wächst auf 27 Prozent, Claude auf 10 Prozent. Gleichzeitig verbringen Nutzer weltweit 36 Milliarden Stunden in AI-Apps im ersten Halbjahr 2026. Doppelt so viel wie im Vorjahr. Der Markt wächst – aber die Dominanz einzelner Anbieter bröckelt.
+
+AI-Agenten sind das grosse Thema der Woche – aber nicht so, wie erwartet. Führungskräfte berichten: 40 Prozent der Mitarbeiter sehen keine Zeitersparnis durch AI-Agenten. Der Code wird produziert, muss aber öfter überarbeitet werden. Die Überprüfung wird zum zentralen Engpass. Gleichzeitig beschreibt Claude-Code-Schöpfer Boris Cherny eine neue Dimension: AI-Loops. Agenten-Schwärme, die endlos im Hintergrund arbeiten. So bedeutend wie der Schritt von Code zu Agenten. Teuer – aber potenziell transformativ.
+
+Microsoft baut in Texas einen AI-Rechenzentrums-Campus mit 2 Gigawatt Kapazität. Chevron liefert das Gas. Das ist eine der grössten Einzelerweiterungen in der Geschichte des Unternehmens. AI braucht Strom – und dieser Strom kommt noch lange nicht aus erneuerbaren Quellen.
+
+Auf der Startup-Seite: Das Open-Source-AI-Labor Reflection AI zahlt SpaceX ab Juli 150 Millionen Dollar pro Monat für Nvidia-Chips. Europäische AI-Startups wie Mistral, Elevenlabs und Wayve sammeln Milliarden ein – drei davon sind bereits Decacorns. Europas zweite Chance im AI-Rennen könnte sich in Laboren und Fabriken entscheiden, nicht im Chatbot-Markt.
+
+OpenAI startet eine neue Initiative: "Patch the Planet" – ein internetweites Programm zur Verbesserung der Cybersicherheit in Open-Source-Software. GPT-5.5-Cyber soll Schwachstellen finden und patchen. Sicherheit als strategische Positionierung.
+
+Regulierung und Gesellschaft: Norwegen verbannt generative AI aus Grundschulen für Kinder bis 13 Jahre. Begründung: sinkende Testergebnisse. Bis Ende 2026 auch Social-Media-Verbot für unter 16-Jährige. Gleichzeitig zeigt das Handelsblatt: 25 Prozent der deutschen Lehrer setzen AI bereits ein – Tendenz stark steigend.
+
+Die Entlassungswelle geht weiter. Oracle minus 21.000 Stellen, Meta minus 8.000, Intuit minus 3.000, Cisco minus 4.000. Rekordgewinne, Rekordentlassungen. AI als Begründung und Wachstumsmotor zugleich. Eine PwC-Studie zeigt: Firmen, die AI zur Verstärkung menschlicher Expertise nutzen, wachsen 52 Prozent schneller als jene, die primär auf Automatisierung setzen. Der Unterschied liegt nicht in der Technologie – sondern in der Strategie.
+
+Die Deutsche Bank meldet: Aufgaben, die früher zwei Jahre dauerten, werden in drei bis sechs Monaten erledigt. Token-Kontingente für Mitarbeiter, Kosten im Blick – wie damals bei der Cloud-Einführung.
+
+Und geopolitisch: Beim G7-Gipfel warnten Macron und Modi vor AI-Abhängigkeit von den USA. Die Anthropic-Exportbeschränkungen haben gezeigt: Wer auf US-AI-Infrastruktur setzt, ist abhängig von US-Exportpolitik. Souveräne AI-Infrastruktur wird zur geopolitischen Notwendigkeit.
+
+Das war das AI Power Update vom 23. Juni 2026. Alle Quellen und Links findest du auf ki-power.me.
