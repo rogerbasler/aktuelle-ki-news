@@ -1,0 +1,25 @@
+Was passiert, wenn ein Staat entscheidet, welche AI-Modelle du nutzen darfst – und welche nicht?
+
+Willkommen beim AI Power Update vom 30. Juni 2026. Ich bin Lea, und das sind die 15 wichtigsten Entwicklungen der letzten Woche.
+
+Beginnen wir mit dem Thema, das die Branche dominiert: Meta automatisiert seine Content-Moderation vollständig. Neun von zehn Entscheidungen sollen künftig von AI getroffen werden – ohne menschliche Prüfer. Offiziell nennt Meta bessere Qualität als Grund. Intern geht es ums Geld. Das eigentliche Problem ist nicht die Technologie, sondern die Frage: Wer kontrolliert, was auf den grössten Plattformen der Welt sichtbar ist?
+
+Gleichzeitig veröffentlicht OpenAI GPT-5.6 – aber nur für ausgewählte Kunden, auf Anweisung der US-Regierung. Das neue Modell verspricht mehr Leistung bei weniger Token-Verbrauch. Drei Varianten: Terra, Luna und Sol. Sol übertrifft Anthropics Konkurrenzprodukt in Benchmarks – und kostet nur ein Viertel davon. Der entscheidende Unterschied liegt nicht in der Leistung, sondern im Preis.
+
+Apropos Anthropic: Die US-Regierung hat die Sperre von Claude Mythos teilweise aufgehoben – per Brief. Nur rund hundert ausgewählte Firmen erhalten Zugang. Fable 5 bleibt gesperrt. Was oft unterschätzt wird: Kein Vertrag schützt vor einem Regierungsentscheid. Das ist das eigentliche Risiko für alle, die auf US-AI-Infrastruktur setzen.
+
+Während Anthropic gesperrt ist, lancieren asiatische AI-Startups Mythos-ähnliche Modelle. Chinas GLM-5.2 erreicht laut Sicherheitsexperten die Fähigkeiten von Anthropics Modell bei der Schwachstellensuche. Die Konsequenz daraus ist: Der AI-Wettbewerb ist längst global – und Exportbeschränkungen beschleunigen die Entwicklung ausserhalb der USA.
+
+J.P. Morgan warnt unterdessen vor einer AI-Blase. Nur 42 AI-Unternehmen treiben bis zu 80 Prozent der Gewinne im S&P 500. Bei Halbleiter-Aktien erkennt die Bank Muster wie zur Dotcom-Blase. Das eigentliche Problem ist nicht der Hype, sondern die Konzentration.
+
+Bei den Tools und Startups: Qualcomm gewinnt Microsoft und Meta als Kunden für neue AI-Chips. Das ist ein direkter Angriff auf Nvidias Marktdominanz. Coinbase halbiert seine AI-Ausgaben durch Umstieg auf chinesische Modelle wie GLM 5.2 und Kimi. Weniger Kosten, gleiche Leistung. Für westliche Anbieter wächst damit der Preisdruck.
+
+Patronus AI erhält 50 Millionen Dollar, um AI-Agenten in digitalen Welten zu testen. Und Judith Dada, eine der bekanntesten Investorinnen Europas, wird Co-Chefin bei Langdock – mit dem Ziel, die grösste AI-Firma Europas aufzubauen.
+
+Zur Regulierung: Sachsen führt AI-Gesichtserkennung in Echtzeit ein. Bürgerrechtler warnen vor dem Aufbau einer Überwachungsinfrastruktur. Fast 400 US-Verlage klagen gegen Microsoft und OpenAI wegen unerlaubtem Training auf ihren Inhalten. Und Österreich schreibt einen Brief an die EU – mit der Bitte, Anthropic nach Europa zu holen. Die Abhängigkeit von US-AI ist politisch angekommen.
+
+Zu den Perspektiven: Eine Anthropic-Umfrage unter fast zehntausend Claude-Nutzern zeigt: Jeder zweite sagt, AI erledigt schon die Hälfte seiner Arbeit. In zwölf Monaten erwarten 26 Prozent einen AI-Anteil von 60 bis 90 Prozent. Gartner prognostiziert: Bis 2028 übersteigen die Token-Kosten für AI-Coding das durchschnittliche Entwicklergehalt. Was oft unterschätzt wird: Das ist kein Effizienzgewinn, das ist eine neue Kostenkategorie.
+
+Und zum Abschluss: Eine t3n-Studie zeigt, dass AI die Berufswünsche der Jugend verändert. In den USA fühlen sich 82 Prozent der 14- bis 23-Jährigen im Umgang mit AI kompetent. Handwerk und physische Berufe gewinnen an Attraktivität – weil sie AI-resistent sind. Die Konsequenz daraus ist: Die nächste Generation denkt bereits strategisch über AI-Resilienz nach.
+
+Das war das AI Power Update vom 30. Juni 2026. Mehr Orientierung, weniger Hype – powered by www.ki-power.me.
