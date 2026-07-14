@@ -1,134 +1,54 @@
-# KI Power Update - 26. Mai 2026
+# KI Power Update, 14. Juli 2026
 
-Genau 15 News, alle Titel deutsch, Original-URLs doppelt geprüft.
+Die Auswahl umfasst genau 15 eindeutige Meldungen aus dem Zeitraum 7. bis 14. Juli 2026. Alle Titel sind auf Deutsch formuliert. Die Relevanzbewertung folgt dem vorgegebenen Schema: hoch = 10 Punkte, mittel = 5 Punkte, gering = 2 Punkte.
 
-## KI News der Woche
+## KI News der Woche, 5 Meldungen
 
-### Deepseek setzt Anthropic und OpenAI mit aggressiven Preisen unter Druck
+| Titel | Einordnung | Quelle | Score |
+|---|---|---|---:|
+| Europas KI-Problem: Nur jedes zehnte deutsche Unternehmen nutzt ein europäisches Modell | Von 185 deutschen KI-Unternehmen mit offengelegtem Anbieter setzen rund 60 Prozent auf US-Modelle. Mistral erreicht nur etwa jedes zehnte Unternehmen. Digitale Souveränität wird gern versprochen, technisch aber oft an US-Anbieter delegiert. | [t3n](https://t3n.de/news/europas-ki-problem-nur-jedes-zehnte-deutsche-unternehmen-nutzt-ein-europaeisches-modell-1752608/) | 10 |
+| Satya Nadella warnt Unternehmen vor dem doppelten Preis proprietärer KI | Microsoft-Chef Satya Nadella argumentiert, Firmen zahlten nicht nur mit Geld, sondern auch mit ihrem institutionellen Wissen. Seine Konsequenz: Datenhoheit, Modellwechsel und eigene Lernumgebungen werden zur strategischen Pflicht. | [TechCrunch](https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/) | 10 |
+| OpenAI richtet ChatGPT stärker auf Familien und Haushalte aus | OpenAI sucht Produktverantwortliche für Familien, Betreuungspersonen und ältere Menschen. Der Schritt zeigt, dass ChatGPT vom individuellen Werkzeug zur Haushaltsinfrastruktur werden soll, inklusive neuer Sicherheits- und Aufsichtsfragen. | [TechCrunch](https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/) | 10 |
+| Deutschlands jüngste Professorin räumt mit KI-Mythen auf | Alicia von Schenk leitet mit 30 Jahren einen Lehrstuhl für «Economics of AI and Human Behavior». Ihre zentrale Kritik: KI ist kein einheitliches System, sondern ein Sammelbegriff, der in der Debatte oft zu undifferenziert verwendet wird. | [Handelsblatt](https://www.handelsblatt.com/technik/ki/technologie-deutschlands-juengste-professorin-klaert-ueber-ki-mythen-auf-03/100188740.html) | 10 |
+| Anthropic lokalisiert Claude-Preise für Indien, seinen zweitgrössten Markt | Indien steht für 5,8 Prozent der weltweiten Claude-Nutzung. Anthropic führt Preise in Rupien ein, verlangt inklusive Steuern jedoch mehr als in den USA und bietet noch keine UPI-Zahlungen an. Lokalisierung ohne lokale Zahlungslogik bleibt halbe Marktbearbeitung. | [TechCrunch](https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/) | 10 |
 
-Quelle: t3n  
-URL: https://t3n.de/news/deepseek-preis-anthropic-openai-1744006/  
-Score: 10  
+## Tools & Startups, 4 Meldungen
 
-Deepseek senkt die Preise und verschiebt damit den Wettbewerb bei KI-Modellen von reiner Leistungsfähigkeit zu Kosten, Skalierung und Margen. Das eigentliche Problem ist nicht der Rabatt, sondern der Druck auf Anbieter, deren Geschäftsmodell noch nicht robust genug ist, um Preiskämpfe elegant zu überleben.
+| Titel | Einordnung | Quelle | Score |
+|---|---|---|---:|
+| Video-KI-Startup PixVerse sammelt 439 Millionen Dollar ein | PixVerse wird nach der Finanzierungsrunde mit mehr als zwei Milliarden Dollar bewertet. Das Unternehmen meldet 150 Millionen registrierte und 15 Millionen monatlich aktive Nutzer, will aber nun vor allem das Geschäft mit Unternehmen ausbauen. | [TechCrunch](https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/) | 10 |
+| Nous Research verhandelt über Finanzierung bei 1,5 Milliarden Dollar Bewertung | Der Anbieter des quelloffenen Hermes-Agenten will mindestens 75 Millionen Dollar aufnehmen. Rund 214'000 GitHub-Sterne zeigen Reichweite, doch die entscheidende Frage ist nun, wie sich Open Source in ein tragfähiges Geschäftsmodell übersetzen lässt. | [TechCrunch](https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/) | 10 |
+| Neue Entwicklerplattform für KI-Agenten fordert GitHub heraus | Der frühere GitHub-Chef Thomas Dohmke baut eine Plattform, auf der Menschen und autonome KI-Agenten gemeinsam Software entwickeln sollen. Bestehende Plattformen geraten unter Druck, weil Agenten den Datenverkehr und die Zahl automatisierter Änderungen massiv erhöhen. | [Handelsblatt](https://www.handelsblatt.com/technik/ki/ki-neue-entwicklerplattform-fuer-ki-agenten-will-marktfuehrer-herausfordern/100238135.html) | 10 |
+| Waze erhält neue KI-Funktionen und personalisierte Navigation | Waze integriert Gemini für dialogbasierte Zielsuche, natürliche Meldungen zu Strassenänderungen und personalisierte Routen. KI verschwindet damit zunehmend aus dem sichtbaren Produkt und wird zur stillen Bedien- und Entscheidungsschicht. | [TechCrunch](https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/) | 5 |
 
-### Anthropic nähert sich dem ersten profitablen Quartal
+## Regulierung & Ethik, 3 Meldungen
 
-Quelle: TechCrunch  
-URL: https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/  
-Score: 10  
+| Titel | Einordnung | Quelle | Score |
+|---|---|---|---:|
+| Medienunternehmen werfen OpenAI das Zurückhalten von Beweisen vor | Mehrere Zeitungen fordern Sanktionen, weil OpenAI Datensätze und ChatGPT-Aufzeichnungen im Urheberrechtsstreit nicht herausgegeben haben soll. Der Konflikt betrifft nicht nur Trainingsdaten, sondern die Beweisfähigkeit digitaler Systeme vor Gericht. | [Handelsblatt](https://www.handelsblatt.com/technik/ki/ki-medienunternehmen-beschuldigen-openai-in-urheberrechtsstreit/100239192.html) | 10 |
+| Apples Klage gegen OpenAI enthält schwere Vorwürfe zum Diebstahl von Geschäftsgeheimnissen | Apple behauptet, OpenAI habe vertrauliche Informationen und sogar Hardwareteile systematisch von aktuellen und ehemaligen Apple-Mitarbeitenden beschafft. OpenAI weist ein Interesse an fremden Geschäftsgeheimnissen zurück. | [TechCrunch](https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/) | 10 |
+| Soll eine KI beim perfekten Verbrechen helfen dürfen? | Die Debatte um vollständig nutzerorientierte, lokal kontrollierte KI zeigt einen Zielkonflikt: Individuelle Freiheit endet dort, wo Systeme Schaden skalieren. Das eigentliche Problem ist nicht technische Fähigkeit, sondern fehlende Verantwortungsgrenzen. | [TechCrunch](https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/) | 10 |
 
-Anthropic meldet, kurz vor dem ersten profitablen Quartal zu stehen. Das ist mehr als eine Finanznotiz: Es zeigt, dass Safety-Positionierung und kommerzielle Skalierung nicht zwingend Gegensätze sein müssen. Was oft unterschätzt wird: Profitabilität verändert auch die strategische Geduld von Investoren.
+## Stimmen & Perspektiven, 2 Meldungen
 
-### Nvidia meldet Rekordquartal und hält 43 Milliarden Dollar in Startups
+| Titel | Einordnung | Quelle | Score |
+|---|---|---|---:|
+| Warum erfolgreiche Tech-Gründer für KI wieder ganz von vorn beginnen | Ehemalige Gründer und Spitzenmanager wechseln in operative KI-Rollen, teils ohne prestigeträchtige Titel. Das signalisiert weniger Romantik als strategische Furcht, den prägenden Technologiezyklus ihrer Generation zu verpassen. | [TechCrunch](https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/) | 5 |
+| Sam Altman hält Rechenzentren im All kurzfristig für unrealistisch | Fachleute teilen Altmans Skepsis: Ohne deutlich billigere, wiederverwendbare Raketen und eine skalierbare Satellitenproduktion bleiben orbitale Rechenzentren vorerst Vision. Kapitalmärkte bewerten hier Zukunft, als wäre sie bereits Infrastruktur. | [TechCrunch](https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/) | 5 |
 
-Quelle: TechCrunch  
-URL: https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/  
-Score: 10  
+## Business & Society, 1 Meldung
 
-Nvidia liefert erneut ein Rekordquartal und weist Beteiligungen an Startups im Umfang von 43 Milliarden Dollar aus. Der entscheidende Unterschied liegt darin, dass Nvidia nicht mehr nur Infrastruktur verkauft, sondern zunehmend das Ökosystem finanziell mitprägt. Das macht den Chipkonzern zum Taktgeber und zum Abhängigkeitszentrum.
+| Titel | Einordnung | Quelle | Score |
+|---|---|---|---:|
+| S&P senkt Oracles Rating wegen massiver KI-Investitionen | Oracle steht nur noch eine Stufe über dem Ramschniveau. Für 2027 werden bis zu 95 Milliarden Dollar Investitionen und rund 42 Milliarden Dollar negativer freier Cashflow erwartet. Besonders riskant ist die starke Abhängigkeit von OpenAI als Grosskunde. | [heise](https://www.heise.de/news/S-P-stuft-Oracle-auf-BBB-herab-nur-noch-eine-Stufe-ueber-Ramschniveau-11360639.html) | 10 |
 
-### Google ringt selbst mit KI-Sicherheit in Echtzeit
+## Qualitätskontrolle
 
-Quelle: TechCrunch  
-URL: https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/  
-Score: 10  
-
-Auch Google muss KI-Sicherheitsfragen laufend nachjustieren. Das zeigt nüchtern: Selbst die grössten Anbieter bewegen sich in einem Feld, in dem Produkte schneller live gehen als Governance-Strukturen reifen. Die Konsequenz daraus ist: Sicherheit wird nicht vorab abgeschlossen, sondern im Betrieb verhandelt. Charmant ist anders, aber ehrlich ist es.
-
-### Papst Leo XIV. warnt vor einer Entwaffnung des Menschen durch KI
-
-Quelle: t3n  
-URL: https://t3n.de/news/papst-leo-xiv-warnt-vor-ki-warum-die-neue-technologie-jetzt-auch-den-vatikan-beschaeftigt-1744008/  
-Score: 10  
-
-Papst Leo XIV. fordert eine stärkere Kontrolle von KI und spricht von einer notwendigen Entwaffnung negativer Folgen für die Menschheit. Die Meldung ist relevant, weil KI damit endgültig nicht mehr nur als Technikthema verhandelt wird, sondern als gesellschaftliche Machtfrage. Der Vatikan entdeckt die Systemfrage, spät, aber nicht ohne Wirkung.
-
-## Tools & Startups
-
-### Hark sammelt 700 Millionen Dollar für ein universelles KI-Interface ein
-
-Quelle: TechCrunch  
-URL: https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/  
-Score: 10  
-
-Hark erhält 700 Millionen Dollar für ein geheim gehaltenes universelles KI-Interface. Das eigentliche Signal ist nicht die Summe, sondern die Wette auf die nächste Nutzungsschicht über den Modellen. Wer die Schnittstelle kontrolliert, kontrolliert im Zweifel auch den Zugang zum Wert.
-
-### Spotify und Universal erlauben KI-generierte Fan-Covers und Remixes
-
-Quelle: TechCrunch  
-URL: https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/  
-Score: 10  
-
-Spotify und Universal Music öffnen die Tür für lizenzierte KI-Covers und Remixes durch Fans. Der entscheidende Unterschied liegt darin, dass Rechteinhaber KI-Inhalte nicht nur abwehren, sondern in verwertbare Modelle übersetzen. Das ist weniger Kulturkampf, mehr Umsatzlogik. Überraschung: Geld findet meistens einen Kompromiss.
-
-### Googles KI-Brille ist fast alltagstauglich, aber noch nicht ganz da
-
-Quelle: TechCrunch  
-URL: https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/  
-Score: 5  
-
-Ein Test von Googles KI-Brille zeigt viel Potenzial bei Kontext, Übersetzung und situativer Assistenz. Gleichzeitig bleibt die Alltagstauglichkeit fragil. Was oft unterschätzt wird: Bei KI-Hardware entscheidet nicht die Demo, sondern die Frage, ob Menschen das Gerät wirklich stundenlang tragen wollen.
-
-### Spotify startet eine Desktop-App für personalisierte KI-Podcasts
-
-Quelle: heise  
-URL: https://www.heise.de/news/Spotify-Neue-Desktop-App-erstellt-personalisierte-KI-Podcasts-11303737.html  
-Score: 5  
-
-Spotify Studio erstellt personalisierte Podcasts und Briefings mit einem KI-Agenten. Die Entwicklung zeigt, wie schnell Audio vom Medienformat zum generativen Arbeitsraum wird. Für Unternehmen heisst das: Wissen lässt sich nicht nur suchen, sondern zunehmend situationsbezogen hören.
-
-## Regulierung & Ethik
-
-### Trump verschiebt Executive Order zur KI-Sicherheit
-
-Quelle: TechCrunch  
-URL: https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/  
-Score: 10  
-
-Donald Trump verschiebt eine Executive Order zur KI-Sicherheit, weil Formulierungen Innovation blockieren könnten. Das eigentliche Problem ist nicht die Verzögerung, sondern das Framing: Sicherheit erscheint als Bremse, nicht als Voraussetzung für belastbare Skalierung. Genau dort beginnt politische Kurzsichtigkeit.
-
-### KI-Agenten entwickeln nach 16 Tagen allein problematische Dynamiken
-
-Quelle: t3n  
-URL: https://t3n.de/news/brandstiftung-raub-liebedrama-ki-modelle-1742923/  
-Score: 10  
-
-Ein Experiment beobachtet KI-Agenten über mehr als zwei Wochen und dokumentiert eskalierende Verhaltensmuster. Die Pointe ist nicht, dass Agenten dramatisch werden können, sondern dass autonome Systeme in sozialen Simulationen Nebenwirkungen erzeugen, die nicht in der Feature-Liste stehen. Governance braucht deshalb Szenarien, nicht nur Checklisten.
-
-### Digitale Souveränität rückt lokale LLMs und europäische KI-Dienste in den Fokus
-
-Quelle: heise  
-URL: https://www.heise.de/news/IT-Summit-2026-heise-Konferenz-zu-Digitaler-Souveraenitaet-11301035.html  
-Score: 10  
-
-Der heise IT Summit setzt Schwerpunkte auf lokale LLMs, Open Source und europäische KI-Dienste. Das Thema ist entscheidungsrelevant, weil Souveränität nicht bedeutet, alles selbst zu bauen, sondern Abhängigkeiten bewusst zu gestalten. Wer das verwechselt, kauft Freiheit im teuersten Paket.
-
-## Stimmen & Perspektiven
-
-### Arbeit könnte durch KI zum Luxus einer Elite werden
-
-Quelle: Handelsblatt  
-URL: https://www.handelsblatt.com/technik/ki/ki-arbeit-wird-zum-luxus-der-nur-einer-elite-vorbehalten-ist/100223312.html  
-Score: 10  
-
-Die Soziologin Allison Pugh warnt, dass Menschen Würde verlieren könnten, wenn KI alle Arbeit ersetzt. Das ist keine Technikdebatte, sondern eine Verteilungsfrage: Wer darf künftig sinnvoll beitragen, wer wird nur noch verwaltet? Unternehmen sollten diese Frage nicht der Folkloreabteilung überlassen.
-
-### Deepmind-Chef Demis Hassabis erwartet AGI bis 2030 und warnt vor Risiken
-
-Quelle: t3n  
-URL: https://t3n.de/news/agi-ist-bis-2030-erreicht-trotzdem-warnt-deepmind-chef-demis-hassabis-vor-den-risiken-1743981/  
-Score: 10  
-
-Demis Hassabis hält AGI bis 2030 für erreichbar und warnt gleichzeitig vor erheblichen Risiken. Der entscheidende Unterschied liegt zwischen Machbarkeit und Beherrschbarkeit. Wer nur das erste diskutiert, betreibt Zukunftsmarketing. Wer beides zusammendenkt, beginnt Strategie.
-
-## Business & Society
-
-### KI bleibt in deutschen Unternehmen oft im Testlauf stecken
-
-Quelle: Handelsblatt  
-URL: https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-studie-ki-bleibt-oft-im-testlauf-stecken/100227593.html  
-Score: 10  
-
-Eine Studie zeigt, dass viele KI-Projekte in deutschen Unternehmen nicht über den Pilotbetrieb hinauskommen. Das eigentliche Problem ist nicht fehlende Begeisterung, sondern fehlende Übersetzung in Prozesse, Datenqualität und Verantwortlichkeiten. KI scheitert selten an Magie. Meistens scheitert sie an Organisation.
-
+| Prüfkriterium | Ergebnis |
+|---|---|
+| Anzahl Meldungen | 15 |
+| Verteilung | 5 + 4 + 3 + 2 + 1 |
+| Doppelte Titel | Keine |
+| Titel vollständig Deutsch | Ja |
+| Quellen vertreten | t3n, heise, Handelsblatt, TechCrunch |
+| Zeitraum | 7. bis 14. Juli 2026 |
