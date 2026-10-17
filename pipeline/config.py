@@ -51,8 +51,7 @@ SOURCES = [
     },
     {
         "name": "Handelsblatt",
-        "feeds": ["https://www.handelsblatt.com/contentexport/feed/technik",
-                  "https://www.handelsblatt.com/contentexport/feed/schlagzeilen"],
+        "feeds": ["https://www.handelsblatt.com/contentexport/feed/schlagzeilen"],
         "html": "https://www.handelsblatt.com/technik/ki/",
         "article_pattern": r"https://www\.handelsblatt\.com/[a-z0-9/-]+/\d{9}\.html$",
         "ai_filter": True,

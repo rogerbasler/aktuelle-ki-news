@@ -104,7 +104,7 @@ Antworte ausschliesslich mit einem JSON-Objekt in genau dieser Form, ohne Markdo
 
 def call_claude(prompt, allow_search):
     client = anthropic.Anthropic()
-    kwargs = dict(model=MODEL, max_tokens=16000, temperature=0.4,
+    kwargs = dict(model=MODEL, max_tokens=16000,
                   messages=[{"role": "user", "content": prompt}])
     if allow_search:
         kwargs["tools"] = [{"type": "web_search_20250305", "name": "web_search", "max_uses": 12}]
