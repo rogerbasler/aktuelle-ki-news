@@ -62,7 +62,8 @@ def text_for(item, lang):
 
 def base_ctx(lang, section, path, title, description):
     t = STRINGS[lang]
-    return dict(t=t, lang=lang, lang_prefix=lang_prefix(lang), root="/", section=section,
+    depth = (lang_prefix(lang) + path).count("/")
+    return dict(t=t, lang=lang, lang_prefix=lang_prefix(lang), root="../" * depth, section=section,
                 site_url=config.SITE_URL, canonical=f"{config.SITE_URL}/{lang_prefix(lang)}{path}",
                 alternates=alternates(path), page_title=title, page_description=description,
                 year=date.today().year, build_id=BUILD_ID)
@@ -112,10 +113,10 @@ def render_edition(e, lang, is_latest):
     html = env.get_template("edition.html").render(ctx)
     write(f"{lang_prefix(lang)}{path}index.html", html)
     if is_latest:
-        write(f"{lang_prefix(lang)}archiv/{e['date']}/index.html",
-              env.get_template("edition.html").render({**ctx, "is_latest": False, "section": "archive",
-                                                       "canonical": f"{config.SITE_URL}/{lang_prefix(lang)}archiv/{e['date']}/",
-                                                       "alternates": alternates(f"archiv/{e['date']}/")}))
+        ctx2 = base_ctx(lang, "archive", f"archiv/{e['date']}/", title, desc)
+        ctx2.update(edition=e, date_text=date_text, categories=cats, podcast=podcast, is_latest=False,
+                    sources=sources, jsonld=jsonld)
+        write(f"{lang_prefix(lang)}archiv/{e['date']}/index.html", env.get_template("edition.html").render(ctx2))
 
 
 def render_archive(editions, lang):
@@ -143,7 +144,7 @@ def render_search(editions, lang):
             tx = text_for(it, lang)
             index.append({"t": tx["title"], "y": tx["summary"][:320], "u": it["url"], "s": it["source"],
                           "c": it["category"], "d": e["date"],
-                          "e": f"/{lang_prefix(lang)}archiv/{e['date']}/#{it['id']}"})
+                          "e": f"../archiv/{e['date']}/#{it['id']}"})
             sources.add(it["source"])
             years.add(e["date"][:4])
     (OUT / f"search-index-{lang}.json").write_text(json.dumps(index, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
@@ -163,7 +164,7 @@ def render_pages(lang):
         write(f"{lang_prefix(lang)}{slug}index.html", env.get_template("page.html").render(ctx))
     if lang == "de":
         ctx = base_ctx(lang, "page", "404.html", t["not_found_title"], t["not_found_text"])
-        ctx.update(heading=t["not_found_title"], body=f"<p>{t['not_found_text']}</p><p><a href='/'>{t['latest_link']} →</a></p>")
+        ctx.update(heading=t["not_found_title"], body=f"<p>{t['not_found_text']}</p><p><a href='{config.SITE_URL}/'>{t['latest_link']} →</a></p>", root=f"{config.SITE_URL}/")
         write("404.html", env.get_template("page.html").render(ctx))
 
 
