@@ -1,0 +1,141 @@
+{
+  "date": "2025-12-27",
+  "week": 52,
+  "languages": [
+    "de"
+  ],
+  "migrated_from_commit": "45acdc1",
+  "items": [
+    {
+      "category": "news",
+      "url": "https://businessanalytics.substack.com/p/google-releases-gemini-3-flash-with",
+      "url_is_article": true,
+      "source": "businessanalytics.substack.com",
+      "de": {
+        "title": "Google, OpenAI und Anthropic mit neuen Modellen und Updates",
+        "summary": "Die letzte Woche des Jahres 2025 brachte bedeutende Ankündigungen von den führenden KI-Unternehmen. Google hat Gemini 3 Flash veröffentlicht, ein leichtgewichtiges und schnelles Modell, das beeindruckende Leistungswerte aufweist und bereits als Standard in Googles AI Studio gesetzt ist. Das Modell erreicht 81,2 % im MMMU-Pro-Benchmark für multimodales Verständnis und ist mit 0,50 USD pro 1 Million Token sehr kosteneffizient. [Quelle] OpenAI hat am 11. Dezember GPT-5.2 vorgestellt, ein Upgrade der GPT-5-Serie, das als \"intelligenter und nützlicher\" beschrieben wird. Zudem wurde eine Sicherheitsfunktion namens \"Atlas\" zur Abwehr von Prompt-Injection-Angriffen implementiert und ein persönlicher Jahresrückblick im Stil von \"Spotify Wrapped\" für ChatGPT-Nutzer eingeführt. [Quelle] Anthropic hat eine strategische Partnerschaft mit Accenture bekannt gegeben, um die Einführung von KI in Unternehmen zu beschleunigen, wobei die Claude-Modelle von Anthropic integriert werden. Außerdem hat das Unternehmen angekündigt, seine \"Agent Skills\" als Open-Source-Standard zu veröffentlichen, um die Entwicklung von KI-Agenten zu fördern. [Quelle]"
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2025/12/24/nvidia-acquires-ai-chip-challenger-groq-for-20b-report-says/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Umwälzungen im KI-Chipmarkt und neue Player",
+        "summary": "Nvidia hat eine Lizenzvereinbarung mit dem KI-Chip-Herausforderer Groq getroffen und dessen CEO, Jonathan Ross, eingestellt. Diese Entwicklung deutet auf eine Konsolidierung und gleichzeitig auf eine Intensivierung des Wettbewerbs im Markt für KI-Beschleuniger hin. [Quelle] Parallel dazu hat Yann LeCun , KI-Chef bei Meta, die Gründung eines eigenen Startups bestätigt, das sich auf \"World Models\" spezialisiert und eine Bewertung von über 5 Milliarden US-Dollar anstrebt. [Quelle]"
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2025/12/20/ex-splunk-execs-startup-resolve-ai-hits-1b-valuation-with-series-a/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Milliardenschwere Finanzierungen für KI-Startups",
+        "summary": "Die Investitionen in KI-Startups bleiben auf Rekordniveau. Resolve AI , ein von ehemaligen Splunk-Führungskräften gegründetes Unternehmen, hat mit seiner Serie-A-Finanzierung eine Bewertung von 1 Milliarde US-Dollar erreicht. [Quelle] Dazzle , das neue Startup von Marissa Mayer, sammelte 8 Millionen US-Dollar ein [Quelle] , während Lemon Slice 10,5 Millionen US-Dollar für seine digitale Avatar-Technologie erhielt. [Quelle]"
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://t3n.de/news/hardware-durchbruch-wie-altermagnete-das-energieproblem-der-ki-loesen-koennten-1689333/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Hardware-Innovationen für schnellere und effizientere KI",
+        "summary": "Forscher haben mit sogenannten Altermagneten einen potenziellen Durchbruch erzielt, der das Energieproblem der KI lösen könnte. Diese neuen Materialien könnten die Effizienz von KI-Hardware drastisch verbessern. [Quelle] Ein weiterer Fortschritt ist die Überwindung der \"Memory Wall\" durch einen 3D-Chip , der den Weg für 1.000-mal schnellere KI-Hardware ebnen soll. [Quelle]"
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://t3n.de/news/legogpt-ki-erstellt-bauanleitungen-fuer-deine-lego-ideen-1688999/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Kreative und nützliche KI-Anwendungen",
+        "summary": "Von der Unterhaltung bis zur Nostalgie zeigen neue Tools die Vielseitigkeit der KI. LegoGPT ist ein neues Tool, das aus Textbeschreibungen Bauanleitungen für Lego-Modelle erstellt. [Quelle] Für Film- und Video-Enthusiasten ermöglicht eine neue KI-Technologie die Restaurierung alter VHS-Kassetten in hoher Qualität. [Quelle] Im Alltag hat ChatGPT eine Pizza kreiert, die zu einem viralen Hit wurde und zeigt, wie KI auch in der Gastronomie kreativ eingesetzt werden kann. [Quelle]"
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2025/12/24/waymo-is-testing-gemini-as-an-in-car-ai-assistant-in-its-robotaxis/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "KI-Integration in Mobilität und Smart Home",
+        "summary": "Waymo testet Googles Gemini-Modell als KI-Assistenten in seinen Robotaxis, um das Fahrgasterlebnis zu verbessern. [Quelle] Amazon hat seine KI-Assistentin Alexa+ mit Diensten wie Angi, Expedia, Square und Yelp integriert, um den Funktionsumfang im Smart Home zu erweitern. [Quelle]"
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.mayerbrown.com/en/insights/publications/2025/12/president-trump-issues-executive-order-on-ensuring-a-national-policy-framework-for-artificial-intelligence",
+      "url_is_article": true,
+      "source": "mayerbrown.com",
+      "de": {
+        "title": "USA und EU verschärfen KI-Regulierung",
+        "summary": "In den USA hat Präsident Trump am 11. Dezember eine Executive Order unterzeichnet, die einen nationalen Politikrahmen für KI schaffen und die Regulierung auf Bundesebene vereinheitlichen soll. [Quelle] In der Europäischen Union ist der AI Act weiter in Kraft getreten, der strenge Vorschriften für Hochrisiko-KI-Systeme vorsieht und bei Verstößen hohe Geldstrafen von über 2,95 Milliarden Euro androht. [Quelle]"
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.heise.de/news/Verfassungsrechtler-und-Politiker-fordern-Klarnamenpflicht-im-Internet-9574458.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "Debatten um Klarnamenpflicht und KI-Sicherheit",
+        "summary": "In Deutschland fordern Verfassungsrechtler und Politiker eine Klarnamenpflicht im Internet , um Hass und Hetze besser bekämpfen zu können, was auch die Moderation von KI-generierten Inhalten betrifft. [Quelle] OpenAI hat eine kritische Sicherheitslücke in LangChain-Core namens \"LangGrinch\" aufgedeckt, die KI-Agenten gefährdet, und gleichzeitig neue Sicherheitsregeln für jugendliche ChatGPT-Nutzer eingeführt. [Quelle]"
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://techcrunch.com/2025/12/23/john-carreyrou-and-other-authors-bring-new-lawsuit-against-six-major-ai-companies/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Rechtliche Auseinandersetzungen und Datenschutz",
+        "summary": "Der Autor John Carreyrou und andere haben eine neue Klage gegen sechs große KI-Unternehmen wegen Urheberrechtsverletzungen eingereicht. [Quelle] In Italien wurde Meta angewiesen, seine Richtlinie auszusetzen, die konkurrierende KI-Chatbots von WhatsApp ausschließt, was Fragen des Wettbewerbs und der Datenkontrolle aufwirft. [Quelle]"
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://techcrunch.com/2025/12/26/equitys-2026-predictions-ai-agents-blockbuster-ipos-and-the-future-of-vc/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Ausblick auf 2026: KI-Agenten und die Zukunft des Risikokapitals",
+        "summary": "In einer Analyse von TechCrunch wird prognostiziert, dass KI-Agenten im Jahr 2026 eine zentrale Rolle spielen werden. Diese autonomen Systeme, die Aufgaben im Namen der Nutzer ausführen, werden voraussichtlich die Art und Weise, wie wir mit Technologie interagieren, grundlegend verändern. Gleichzeitig wird erwartet, dass der Hype um generative KI zu einer Welle von Börsengängen (IPOs) führen wird, während sich der Risikokapitalmarkt an die neuen Gegebenheiten anpasst. [Quelle]"
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://t3n.de/news/ki-im-recruiting-studie-zeigt-was-linkedin-profilfotos-wirklich-ueber-deinen-karriereweg-verraten-1689291/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "KI transformiert Recruiting und den Arbeitsmarkt",
+        "summary": "Eine Studie zeigt, wie KI im Recruiting eingesetzt wird, um aus LinkedIn-Profilfotos Rückschlüsse auf den Karriereweg von Bewerbern zu ziehen. Dies wirft Fragen zur Fairness und zu potenziellen Vorurteilen durch Algorithmen auf. [Quelle]"
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://t3n.de/news/google-lueftet-das-geheimnis-so-viel-strom-frisst-deine-ki-anfrage-wirklich-1688925/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Der Energiehunger der KI und die Rolle der Rechenzentren",
+        "summary": "Google hat offengelegt, wie viel Strom eine einzelne KI-Anfrage verbraucht, was die Debatte über die Nachhaltigkeit von KI-Anwendungen weiter anheizt. [Quelle] Passend dazu hat sich die Bedeutung von Rechenzentren im Jahr 2025 massiv erhöht, da sie das Rückgrat für den enormen Rechenbedarf der KI-Industrie bilden. [Quelle]"
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://techcrunch.com/2025/12/24/why-the-operating-room-is-ripe-for-ai-according-to-akara/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "KI im Gesundheitswesen: Potenziale im Operationssaal",
+        "summary": "Das Startup Akara zeigt auf, warum der Operationssaal ein ideales Anwendungsfeld für KI ist. Von der Optimierung von Arbeitsabläufen bis zur Unterstützung bei chirurgischen Eingriffen könnte KI die Effizienz und Sicherheit im Gesundheitswesen erheblich verbessern. [Quelle]"
+      }
+    }
+  ],
+  "podcast": {}
+}

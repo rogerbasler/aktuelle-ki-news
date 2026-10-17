@@ -1,0 +1,106 @@
+name: KI Power Update (wöchentlich)
+
+on:
+  schedule:
+    # Samstag 05:00 Europe/Zurich. Cron kennt keine Sommerzeit, darum zwei Trigger;
+    # der Schritt "Zeitfenster prüfen" lässt nur den Lauf durch, bei dem es in Zürich 05:00 ist.
+    - cron: "0 3 * * 6"
+    - cron: "0 4 * * 6"
+  workflow_dispatch:
+    inputs:
+      stage:
+        description: "Stufe: full | text-only | audio-only | build-only"
+        default: "full"
+        required: true
+      date:
+        description: "Ausgabedatum YYYY-MM-DD (leer = heute, Europe/Zurich)"
+        default: ""
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: weekly-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    env:
+      TZ: Europe/Zurich
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      HEYGEN_API_KEY: ${{ secrets.HEYGEN_API_KEY }}
+      CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL || 'claude-sonnet-5-5' }}
+    steps:
+      - name: Zeitfenster prüfen (nur 05:00 Zürich läuft)
+        id: gate
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ] && [ "$(date +%H)" != "05" ]; then
+            echo "Nicht 05:00 in Zürich ($(date)), dieser Trigger wird übersprungen."
+            echo "run=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/checkout@v4
+        if: steps.gate.outputs.run == 'true'
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        if: steps.gate.outputs.run == 'true'
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Abhängigkeiten
+        if: steps.gate.outputs.run == 'true'
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+          pip install -r pipeline/requirements.txt
+
+      - name: Pipeline ausführen
+        if: steps.gate.outputs.run == 'true'
+        run: |
+          STAGE="${{ github.event.inputs.stage || 'full' }}"
+          DATE="${{ github.event.inputs.date }}"
+          if [ -z "$DATE" ]; then DATE="$(date +%F)"; fi
+          echo "Stufe $STAGE, Datum $DATE"
+          python pipeline/run.py --stage "$STAGE" --date "$DATE"
+          echo "DATE=$DATE" >> "$GITHUB_ENV"
+
+      - name: Veröffentlichen
+        if: steps.gate.outputs.run == 'true'
+        run: |
+          git config user.name "KI Power Update Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Keine Änderungen."
+            exit 0
+          fi
+          LABEL="$(python -c "import datetime,sys; from pipeline.i18n import format_date; print(format_date(datetime.date.fromisoformat('$DATE'),'de'))" 2>/dev/null || echo "$DATE")"
+          git commit -m "Update KI News - $LABEL" -m "Automatischer Lauf (${{ github.event_name }}), Stufe ${{ github.event.inputs.stage || 'full' }}"
+          git push
+
+      - name: Run-Report als Artefakt
+        if: steps.gate.outputs.run == 'true' && always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: run-report-${{ env.DATE }}
+          path: |
+            reports/
+            data/research/
+          if-no-files-found: ignore
+
+      - name: Live-Seite verifizieren
+        if: steps.gate.outputs.run == 'true'
+        run: |
+          sleep 90
+          for url in https://news.fragroger.ai/ https://news.fragroger.ai/en/ https://news.fragroger.ai/es/; do
+            code=$(curl -s -o /tmp/page.html -w "%{http_code}" -L "$url")
+            n=$(grep -c 'class="card"' /tmp/page.html || true)
+            echo "$url -> HTTP $code, $n Meldungen"
+          done

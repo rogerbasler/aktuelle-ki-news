@@ -1,0 +1,167 @@
+{
+  "date": "2026-03-28",
+  "week": 13,
+  "languages": [
+    "de"
+  ],
+  "migrated_from_commit": "2c434a5",
+  "items": [
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "OpenAI stellt K.I.-Videogenerator Sora ein – und Risikokapital fragt: Warum?",
+        "summary": "OpenAI hat seinen K.I.-Videogenerator Sora nur 15 Monate nach dem Launch eingestellt. Gleichzeitig fragen sich Investoren, warum das Unternehmen trotz Milliarden-Investitionen ein Produkt aufgibt, das als Vorzeigeprojekt galt. TechCrunch analysiert das Spannungsfeld zwischen K.I.-Hype und wirtschaftlicher Realität."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "SoftBanks 40-Milliarden-Dollar-Kredit deutet auf OpenAI-Börsengang 2026 hin",
+        "summary": "Ein neuer 40-Milliarden-Dollar-Kredit von SoftBank an OpenAI wird von Analysten als starkes Signal für einen bevorstehenden Börsengang gewertet. Die Finanzierungsstruktur legt nahe, dass OpenAI sich gezielt auf eine Kapitalmarktöffnung im Jahr 2026 vorbereitet."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.heise.de/news/Google-macht-seine-KI-Funktion-Search-Live-weltweit-verfuegbar-11227255.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "Google macht K.I.-Funktion Search Live weltweit verfügbar",
+        "summary": "Google hat seine interaktive K.I.-Suchfunktion „Search Live\" nun weltweit freigeschaltet – auch in Deutschland. Nutzer können damit per Sprache und Kamera in Echtzeit mit der Suche interagieren, was eine völlig neue Form der Informationssuche ermöglicht."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Google enthüllt TurboQuant: Neuer K.I.-Speicherkompressionsalgorithmus",
+        "summary": "Google hat TurboQuant vorgestellt, einen Algorithmus, der den K.I.-Speicherbedarf um den Faktor sechs reduziert und dabei acht Mal schneller arbeitet. Das Internet vergleicht die Technologie bereits mit Pied Piper aus der Serie Silicon Valley – und das nicht ohne Grund."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "K.I.-Kompetenzlücke wächst: Erfahrene Nutzer setzen sich immer weiter ab",
+        "summary": "Eine neue Studie von Anthropic zeigt, dass K.I. zwar noch keine Jobs ersetzt, aber eine wachsende Ungleichheit schafft: Erfahrene K.I.-Nutzer werden produktiver, während Einsteiger den Anschluss verlieren. Die Forscher warnen vor einer neuen Form digitaler Spaltung."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/03/25/harvey-confirms-11b-valuation-sequoia-triples-down/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Harvey bestätigt 11-Milliarden-Dollar-Bewertung: Sequoia verdreifacht Einsatz",
+        "summary": "Das K.I.-Rechtsunternehmen Harvey hat eine Bewertung von 11 Milliarden Dollar bestätigt, nachdem Sequoia Capital seinen Einsatz verdreifacht hat. Harvey gilt als eines der am schnellsten wachsenden K.I.-Startups im Rechtsbereich und zeigt, wie K.I. traditionelle Branchen transformiert."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Mistral veröffentlicht Open-Source-Modell für Sprachgenerierung",
+        "summary": "Das französische K.I.-Unternehmen Mistral hat ein neues Open-Source-Modell speziell für die Sprachgenerierung veröffentlicht. Das Modell richtet sich an Entwickler, die hochwertige Sprachsynthese ohne proprietäre Abhängigkeiten in ihre Anwendungen integrieren möchten."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "ByteDance bringt neues K.I.-Videogenerierungsmodell Dreamina Seedance 2.0",
+        "summary": "ByteDance hat sein neues K.I.-Videogenerierungsmodell Dreamina Seedance 2.0 in CapCut integriert. Das Modell soll qualitativ hochwertige Videos aus Textbeschreibungen generieren und stellt damit eine direkte Konkurrenz zu den Angeboten von OpenAI und Google dar."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://www.handelsblatt.com/technik/ki/ki-mit-neuem-millionenfonds-wird-er-groesster-einzelinvestor-europas/100209498.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Neuer Millionenfonds: Nathan Benaich wird größter K.I.-Einzelinvestor Europas",
+        "summary": "Der Investor Nathan Benaich plant mit einem neuen Millionenfonds, zum größten K.I.-Einzelinvestor Europas aufzusteigen. Er investiert in Europas wertvollste K.I.-Firmen wie Black Forest Labs und unterstreicht damit das wachsende Selbstbewusstsein des europäischen K.I.-Ökosystems."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Anthropic gewinnt einstweilige Verfügung gegen Trump-Regierung im Pentagon-Streit",
+        "summary": "Ein Bundesrichter in San Francisco hat die Trump-Administration angewiesen, ihre Entscheidung zurückzunehmen, Anthropic als Sicherheitsrisiko für die Lieferkette einzustufen. Das Urteil ist ein wichtiger juristischer Sieg für das K.I.-Unternehmen, das seit Wochen unter politischem Druck steht."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Wikipedia verbietet K.I.-generierte Inhalte in der Online-Enzyklopädie",
+        "summary": "Wikipedia hat ein striktes Verbot für K.I.-generierte Texte eingeführt. Redakteure dürfen K.I. künftig nur noch für Übersetzungen und kleinere Korrekturen nutzen. Das Verbot unterstreicht die wachsenden Bedenken über die Qualität und Verlässlichkeit K.I.-generierter Inhalte."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://t3n.de/news/deepfakes-und-digitale-gewalt-diese-software-will-die-eu-jetzt-verbieten-1736102/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "EU will Deepfake-Software verbieten: Digitale Gewalt im Fokus",
+        "summary": "Die Europäische Union arbeitet an einem Verbot von K.I.-Software, die für die Erstellung nicht einvernehmlicher Deepfakes missbraucht werden kann. t3n berichtet über den aktuellen Stand der Gesetzgebung und die Herausforderungen bei der technischen Umsetzung des Verbots."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "David Sacks tritt nach 130 Tagen als K.I.-Zar der USA zurück",
+        "summary": "David Sacks, der K.I.- und Krypto-Zar des Weißen Hauses, hat nach Ablauf seiner 130-tägigen Amtszeit als Special Government Employee seinen Rückzug bekannt gegeben. Sein Abgang markiert eine Zäsur in der K.I.-Politik der Trump-Administration und wirft Fragen über die künftige Ausrichtung auf."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://www.heise.de/article/KI-Chatbots-und-Suizid-Wenn-Maschinen-gefaehrliche-Naehe-erzeugen-11223610.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "K.I.-Chatbots und Suizid: Wenn Maschinen gefährliche Nähe erzeugen",
+        "summary": "Neue Studien und reale Fälle zeigen, wie K.I.-Chatbots wahnhaftes Denken verstärken können – und warum ihre scheinbare Empathie zum Risiko wird. heise.de analysiert die besorgniserregenden Erkenntnisse einer Studie aus dem Fachmagazin The Lancet Psychiatry."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://www.handelsblatt.com/technik/ki/ki-briefing/ki-briefing-der-ki-boom-in-china-wirkt-grenzenlos-bis-sich-peking-einschaltet/100212065.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Meta investiert zehn Milliarden Dollar in K.I.-Rechenzentrum in Texas",
+        "summary": "Meta erhöht seine Investition in ein K.I.-Rechenzentrum in El Paso, Texas, auf zehn Milliarden Dollar – eine Versechsfachung des ursprünglichen Budgets. Das Rechenzentrum soll bis 2028 eine Kapazität von einem Gigawatt erreichen und gehört damit zu den größten K.I.-Infrastrukturprojekten Nordamerikas."
+      }
+    }
+  ],
+  "podcast": {
+    "de": {
+      "audio": "audio/2026-03-28/podcast-de.mp3",
+      "duration_sec": 163,
+      "script": "Willkommen beim K.I. Power Update – deiner wöchentlichen Zusammenfassung der wichtigsten Entwicklungen rund um Künstliche Intelligenz. Heute ist der 28. März 2026. Ich bin Lea, und das sind die Top-News der Woche.\n\nBeginnen wir mit den großen Schlagzeilen: OpenAI hat diese Woche seinen K.I.-Videogenerator Sora eingestellt – nur 15 Monate nach dem Launch. Gleichzeitig deutet ein neuer 40-Milliarden-Dollar-Kredit von SoftBank darauf hin, dass OpenAI sich auf einen Börsengang im Jahr 2026 vorbereitet. Die Frage bleibt: Wohin geht die Reise für das wertvollste K.I.-Unternehmen der Welt?\n\nBei Google gibt es gleich zwei spannende Neuigkeiten: Erstens ist die K.I.-Funktion Search Live jetzt weltweit verfügbar – Nutzer können per Sprache und Kamera interaktiv suchen. Zweitens hat Google den Algorithmus TurboQuant vorgestellt, der den K.I.-Speicherbedarf um den Faktor sechs reduziert und dabei acht Mal schneller arbeitet. Das Internet vergleicht es bereits mit Pied Piper aus der Serie Silicon Valley.\n\nIn der Welt der Regulierung und Ethik war diese Woche besonders ereignisreich. Anthropic hat eine einstweilige Verfügung gegen die Trump-Regierung gewonnen: Ein Bundesrichter blockierte die Pentagon-Entscheidung, Anthropic als Sicherheitsrisiko einzustufen. Gleichzeitig hat Wikipedia ein striktes Verbot für K.I.-generierte Inhalte eingeführt. Und die Europäische Union arbeitet weiter an einem Verbot von Deepfake-Software, die für digitale Gewalt missbraucht werden kann.\n\nAuf der politischen Bühne trat David Sacks nach 130 Tagen als K.I.- und Krypto-Zar des Weißen Hauses zurück. Sein Abgang markiert eine Zäsur in der K.I.-Politik der Trump-Administration.\n\nIm Bereich Business und Investitionen: Meta erhöht seine Investition in ein K.I.-Rechenzentrum in El Paso, Texas, auf zehn Milliarden Dollar. Das entspricht einer Versechsfachung des ursprünglichen Budgets. Und in Europa plant ein neuer Millionenfonds, der größte K.I.-Einzelinvestor des Kontinents zu werden.\n\nEine nachdenklich stimmende Studie zeigt: Die K.I.-Kompetenzlücke wächst. Erfahrene Nutzer setzen sich immer weiter ab, während Einsteiger den Anschluss verlieren. Das könnte langfristig zu einer neuen Form digitaler Ungleichheit führen.\n\nDas war das K.I. Power Update für diese Woche. Bleib neugierig, bleib informiert – und bis zum nächsten Mal. Powered by www.ki-power.me."
+    }
+  }
+}

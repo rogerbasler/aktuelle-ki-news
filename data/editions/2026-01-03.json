@@ -1,0 +1,571 @@
+{
+  "date": "2026-01-03",
+  "week": 1,
+  "languages": [
+    "de"
+  ],
+  "migrated_from_commit": "639929c",
+  "items": [
+    {
+      "category": "news",
+      "url": "https://t3n.de",
+      "url_is_article": false,
+      "source": "t3n",
+      "de": {
+        "title": "OpenAI setzt auf Audio: So soll die erste Hardware des ChatGPT-Unternehmens funktionieren",
+        "summary": "Bei OpenAIs angekündigter, aber bisher ominöser Hardware soll Audio im Vordergrund stehen. Das interne Team wird massiv umgebaut. Silicon Valley erklärt den Bildschirmen den Krieg und setzt auf neue Interaktionsformen. Dies könnte die Art und Weise, wie wir mit KI interagieren, grundlegend verändern."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://t3n.de",
+      "url_is_article": false,
+      "source": "t3n",
+      "de": {
+        "title": "„Memory Wall\" durchbrochen: Dieser 3D-Chip soll KI um den Faktor 1.000 beschleunigen",
+        "summary": "Ein neuer 3D-Chip soll KI um den Faktor 1.000 beschleunigen und damit einen wichtigen Durchbruch in der Hardware-Entwicklung darstellen. Der Chip durchbricht die sogenannte \"Memory Wall\" - eine der größten Herausforderungen in der KI-Hardware. Dies könnte die Entwicklung leistungsfähigerer KI-Modelle erheblich beschleunigen."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com",
+      "url_is_article": false,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "„Alles ist schärfer und schneller\": Hängt Google gerade OpenAI ab?",
+        "summary": "Google galt im Milliardenrennen um die KI-Führung lange als zurückgefallen. Mit Gemini 3 verunsichert der Konzern nun plötzlich die Konkurrenz. Analysten und Entwickler berichten von deutlich verbesserten Fähigkeiten und schnelleren Antwortzeiten. Die Frage stellt sich: Hat Google im KI-Wettlauf die Nase vorn?"
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com",
+      "url_is_article": false,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Nvidia's AI empire: A look at its top startup investments",
+        "summary": "Nvidias KI-Imperium: Ein umfassender Blick auf die wichtigsten Startup-Investitionen des Chip-Giganten. Nvidia investiert strategisch in vielversprechende KI-Startups und baut so sein Ökosystem aus. Die Investitionen reichen von KI-Chips über Software bis hin zu Anwendungen in verschiedenen Branchen."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com",
+      "url_is_article": false,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Das Jahr, in dem Rechenzentren vom Backend ins Rampenlicht rückten",
+        "summary": "Rechenzentren sind zur kritischen Infrastruktur für KI geworden und rücken aus dem Hintergrund ins Zentrum der Aufmerksamkeit. Die massive Nachfrage nach KI-Rechenleistung treibt den Bau neuer Mega-Rechenzentren voran. Energieverbrauch und Standortfragen werden zu strategischen Themen."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://t3n.de",
+      "url_is_article": false,
+      "source": "t3n",
+      "de": {
+        "title": "Axon Draft One: Wenn die Polizei-KI den Beamten in einen Frosch verwandelt",
+        "summary": "In Utah sorgte eine KI für Verwirrung, weil sie einen Polizisten im Einsatzbericht für einen Frosch hielt. Der Vorfall klingt lustig, offenbart aber gefährliche Schwachstellen in der automatisierten Polizeiarbeit. Solche Fehler können ernsthafte Konsequenzen haben und zeigen die Grenzen aktueller KI-Systeme."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com",
+      "url_is_article": false,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Black Forest Labs steigt zur wertvollsten KI-Firma Deutschlands auf",
+        "summary": "Das Freiburger Start-up hat in einer aktuellen Finanzierungsrunde 300 Millionen Dollar von zahlreichen namhaften Investoren eingesammelt. Gründer Robin Rombach erklärt im Interview: \"Wir sind bei KI-Bildern inzwischen der größte Konkurrent von Google.\" Das zeigt die wachsende Stärke deutscher KI-Startups im internationalen Wettbewerb."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com",
+      "url_is_article": false,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Flux 2 oder Nano Banana Pro – wer liefert die besten KI-Bilder?",
+        "summary": "Kurz nach Google hat das deutsche Start-up Black Forest Labs sein neues Bildmodell Flux 2 veröffentlicht – und es ist echte Konkurrenz. Was das Rennen um die beste Bild-KI für Firmen bedeutet und welche Modelle aktuell führend sind. Die Qualität der generierten Bilder erreicht neue Höhen."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com",
+      "url_is_article": false,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Die Berliner Firma Peec AI gehört zu den KI-Start-ups, die in Europa am schnellsten wachsen",
+        "summary": "Von null auf fünf Millionen Euro Umsatz in zwölf Monaten: Peec AI hilft Marken, bei KI-Suchmaschinen sichtbar zu sein. Kunden wie Tui, Axel Springer und Chanel nutzen die Software bereits. Das Start-up zeigt, wie wichtig SEO für KI-Suchmaschinen wird – ein völlig neues Geschäftsfeld."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com",
+      "url_is_article": false,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Bekannter KI-Investor steigt bei Start-up in Tübingen ein",
+        "summary": "Mirelo AI will mit KI-Modellen für Soundeffekte Hollywood verändern. Prominente Geldgeber glauben an das europäische Start-up und investieren Millionen. Die KI kann realistische Soundeffekte für Filme und Spiele generieren und könnte die Audio-Produktion revolutionieren."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com",
+      "url_is_article": false,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Mit 20 wurde Aidan Gomez zum Vordenker von ChatGPT – jetzt will er den deutschen Markt erobern",
+        "summary": "Der Gründer positioniert sein kanadisches Start-up Cohere als datensichere Alternative zu den US-Anbietern OpenAI, Anthropic und Google. Warum Europa für sein Geschäftsmodell so wichtig ist und wie Cohere sich im umkämpften KI-Markt differenziert."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com",
+      "url_is_article": false,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "„Wir sind auf Haushaltsroboter noch komplett unvorbereitet\"",
+        "summary": "Immer mehr Start-ups bauen Roboter fürs Zuhause. Durch Künstliche Intelligenz sollen diese zu unverzichtbaren Assistenten werden. Das Handelsblatt stellt vier Neuentwicklungen vor und diskutiert, welche gesellschaftlichen Herausforderungen humanoide Haushaltsroboter mit sich bringen."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com",
+      "url_is_article": false,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Waymo testet Gemini als KI-Assistenten in seinen Robotaxis",
+        "summary": "Waymo integriert Googles Gemini als KI-Assistenten in seine autonomen Fahrzeuge für bessere Fahrgast-Interaktion. Die Passagiere können während der Fahrt Fragen stellen, Empfehlungen erhalten und Informationen abrufen. Dies zeigt die zunehmende Integration von KI in Mobilitätslösungen."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com",
+      "url_is_article": false,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Die besten KI-gestützten Diktier-Apps von 2025",
+        "summary": "Ein umfassender Überblick über die besten KI-gestützten Diktier-Apps des Jahres. Von Spracherkennung bis zur automatischen Transkription – diese Tools revolutionieren die Art, wie wir Notizen machen und Texte erstellen. Besonders beeindruckend ist die Genauigkeit moderner Spracherkennungssysteme."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com",
+      "url_is_article": false,
+      "source": "TechCrunch",
+      "de": {
+        "title": "So nutzen Sie die neuen ChatGPT-App-Integrationen",
+        "summary": "ChatGPT integriert jetzt DoorDash, Spotify, Uber und andere Dienste direkt in die App. Nutzer können Essen bestellen, Musik abspielen und Fahrten buchen, ohne die App zu verlassen. Dies macht ChatGPT zu einer zentralen Plattform für alltägliche Aufgaben."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com",
+      "url_is_article": false,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Marissa Mayers neues Start-up Dazzle sammelt 8 Millionen Dollar ein",
+        "summary": "Das neue Start-up der ehemaligen Yahoo-CEO erhält Finanzierung von Forerunner's Kirsten Green. Dazzle fokussiert sich auf innovative KI-Lösungen für den Consumer-Bereich. Die Investition zeigt das anhaltende Vertrauen in erfahrene Tech-Führungskräfte."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com",
+      "url_is_article": false,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Kann KI den Operationssaal revolutionieren? Dieses Startup ist überzeugt",
+        "summary": "Warum der Operationssaal reif für KI ist, laut Akara. Das Start-up entwickelt KI-Systeme, die Chirurgen bei komplexen Eingriffen unterstützen. Von der Planung bis zur Durchführung – KI könnte die Medizin grundlegend verändern und Leben retten."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://t3n.de",
+      "url_is_article": false,
+      "source": "t3n",
+      "de": {
+        "title": "Schluss mit perfekten Fake-Bildern: Instagram-CEO will echte Posts kennzeichnen",
+        "summary": "Instagram-CEO will echte Posts kennzeichnen statt KI-Inhalte zu jagen - ein neuer Ansatz im Umgang mit KI-generierten Inhalten. Statt KI-Bilder zu markieren, sollen authentische menschliche Inhalte ein Verifizierungs-Badge erhalten. Dies könnte die Wahrnehmung von Inhalten in sozialen Medien grundlegend verändern."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://heise.de",
+      "url_is_article": false,
+      "source": "heise",
+      "de": {
+        "title": "AI Slop: Den Augen kann man nicht mehr trauen",
+        "summary": "Jedes dritte Youtube-Video ist billiger KI-Müll. Der Instagram-Chef zeichnet ein düsteres Bild. Menschen lehnen KI zunehmend ab, da die Qualität vieler KI-generierter Inhalte enttäuschend ist. Experten warnen vor einer Überflutung mit minderwertigen KI-Inhalten."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://heise.de",
+      "url_is_article": false,
+      "source": "heise",
+      "de": {
+        "title": "China will anthropomorphe KI streng regulieren",
+        "summary": "KI-Systeme, die menschliches Verhalten simulieren, sollen künftig strengen Regeln unterliegen. China führt Transparenzpflichten ein: Kann ein LLM menschlich wirken, muss es sich als KI zu erkennen geben. Dies ist Teil einer umfassenden KI-Regulierung in China."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://heise.de",
+      "url_is_article": false,
+      "source": "heise",
+      "de": {
+        "title": "Bundesdatenschutzbeauftragte veröffentlicht Handreichung für KI und Datenschutz",
+        "summary": "Der Einsatz von KI führt bei öffentlichen Stellen zu Datenschutzfragen. Eine neue Handreichung gibt Orientierung und zeigt, wie KI-Systeme datenschutzkonform eingesetzt werden können. Die Richtlinien sind besonders für Behörden und öffentliche Einrichtungen relevant."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://heise.de",
+      "url_is_article": false,
+      "source": "heise",
+      "de": {
+        "title": "39C3: CCC-Hacker fordern Bundesdatensicherungsspiele gegen Ransomware-Albträume",
+        "summary": "Vom Cyberdome zu „AI Slop\": Experten analysieren Sicherheitsrisiken und KI-Herausforderungen auf dem Chaos Communication Congress. Die Hacker-Community diskutiert, wie KI sowohl für Angriffe als auch zur Verteidigung eingesetzt wird."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.handelsblatt.com",
+      "url_is_article": false,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "KI-Müll wird zur Gefahr für Tech-Konzerne: Pinterest kämpft gegen die Datenflut",
+        "summary": "Mit kreativen Heimwerkertipps wurde Pinterest groß. Jetzt verzeichnet die Plattform drastisch mehr unsinnige, durch KI generierte Inhalte. CEO Ready sieht eine Gefahr für die ganze Branche und implementiert neue Filter-Mechanismen."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.handelsblatt.com",
+      "url_is_article": false,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "EU startet Kartelluntersuchung gegen Meta",
+        "summary": "Wegen der Einführung von KI-Funktionen bei Whatsapp ermitteln die Kartellwächter der EU gegen Meta. Auch einzelne europäische Länder gehen gegen den Konzern vor. Der Vorwurf: Meta missbraucht seine Marktmacht, um KI-Funktionen durchzusetzen."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.handelsblatt.com",
+      "url_is_article": false,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "OpenAI muss im Streit mit „New York Times\" KI-Chats offenlegen",
+        "summary": "Eine US-Richterin verpflichtet OpenAI, 20 Millionen anonymisierte ChatGPT-Protokolle offenzulegen. OpenAIs Einwand, die Nutzerprivatsphäre sei damit gefährdet, wies das Gericht zurück. Der Fall könnte wegweisend für zukünftige Urheberrechtsstreitigkeiten sein."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://techcrunch.com",
+      "url_is_article": false,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Indien ordnet X an, Grok wegen 'obszöner' KI-Inhalte zu korrigieren",
+        "summary": "Indische Behörden fordern Elon Musks X auf, den KI-Chatbot Grok zu überarbeiten. Der Vorwurf: Grok generiert unangemessene und obszöne Inhalte. Dies zeigt die wachsenden regulatorischen Herausforderungen für KI-Unternehmen weltweit."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://techcrunch.com",
+      "url_is_article": false,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Italien fordert Meta auf, Richtlinie gegen konkurrierende KI-Chatbots auszusetzen",
+        "summary": "Italien fordert Meta auf, seine Richtlinie auszusetzen, die konkurrierende KI-Chatbots von WhatsApp verbietet. Die Wettbewerbsbehörde sieht darin einen Verstoß gegen fairen Wettbewerb. Meta steht unter zunehmendem Druck von europäischen Regulierungsbehörden."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://techcrunch.com",
+      "url_is_article": false,
+      "source": "TechCrunch",
+      "de": {
+        "title": "John Carreyrou und andere Autoren bringen neue Klage gegen sechs große KI-Unternehmen ein",
+        "summary": "Autoren wehren sich rechtlich gegen die Nutzung ihrer Werke zum Training von KI-Modellen ohne Zustimmung oder Vergütung. Die Klage richtet sich gegen OpenAI, Anthropic und weitere führende KI-Unternehmen. Der Fall könnte wegweisend für das Urheberrecht im KI-Zeitalter werden."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://www.handelsblatt.com",
+      "url_is_article": false,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Künstliche Intelligenz erzeugt eine schleichende Vertrauenskrise",
+        "summary": "Nicht die große Lüge ist das Problem, sondern der permanente Zweifel. Generative KI verändert, wie wir Inhalte bewerten – und wem wir noch glauben. Die Flut von KI-Bildern, Videos und Texten entzieht der Öffentlichkeit den Boden. Wenn jede Aufnahme fälschbar ist, zerfällt das Fundament unserer Kommunikation."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://www.handelsblatt.com",
+      "url_is_article": false,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Wer ist der Mann, der „die nächste KI-Revolution\" in Europa plant?",
+        "summary": "Yann LeCun gilt als einer der Vordenker von Künstlicher Intelligenz in den USA. Jetzt gründet er sein eigenes Unternehmen ausgerechnet in Europa. Was steckt hinter seinen Plänen? LeCun will \"World Models\" entwickeln und strebt eine Bewertung von über 5 Milliarden Dollar an."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://www.handelsblatt.com",
+      "url_is_article": false,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Deutschland wird unterschätzt – auch von sich selbst",
+        "summary": "Funklöcher in San Francisco, Investorenjagd in Tübingen und neue Stärke europäischer KI-Firmen: Ein persönlicher Blick zeigt, warum Deutschland genau jetzt hervorragende Chancen hat. Die deutsche KI-Szene gewinnt an Selbstbewusstsein und internationaler Anerkennung."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://www.handelsblatt.com",
+      "url_is_article": false,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Wenn ein Mann über Künstliche Intelligenz entscheidet",
+        "summary": "Palantir-Chef Alex Karp macht eine Generalabrechnung mit Deutschland. Zudem verspricht eine KI namens Kosmos autonome Forschung, während Aleph Alpha die Strategie neu ausrichtet. Karps kontroverse Aussagen sorgen für Diskussionen in der deutschen Tech-Szene."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://t3n.de",
+      "url_is_article": false,
+      "source": "t3n",
+      "de": {
+        "title": "DFKI-Chef im Interview: Warum eine KI-Superintelligenz noch lange auf sich warten lässt",
+        "summary": "DFKI-Chef über KI-Superintelligenz und realistische Einschätzungen zur Entwicklung künstlicher Intelligenz. Er warnt vor überzogenen Erwartungen und erklärt, warum echte AGI noch Jahrzehnte entfernt ist. Ein nüchterner Blick auf die tatsächlichen Fähigkeiten aktueller KI-Systeme."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://heise.de",
+      "url_is_article": false,
+      "source": "heise",
+      "de": {
+        "title": "heise meets … „Die KI wird eher den CIO ersetzen als den Zusteller\"",
+        "summary": "Was jüngst in Dänemark geschah, ist erst der Anfang. Früher oder später könnte die Zustellung von Briefen in Deutschland ebenfalls Geschichte sein. Ein provokantes Interview über die Zukunft der Arbeit und welche Jobs wirklich durch KI gefährdet sind."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://techcrunch.com",
+      "url_is_article": false,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Im Jahr 2026 wird KI vom Hype zum Pragmatismus übergehen",
+        "summary": "Eine wichtige Perspektive auf die Entwicklung: Nach Jahren des Hypes wird 2026 das Jahr, in dem KI praktisch und pragmatisch wird. Unternehmen konzentrieren sich auf konkrete Anwendungsfälle statt auf vage Visionen. Die Ernüchterung führt zu realistischeren Erwartungen."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://techcrunch.com",
+      "url_is_article": false,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Das Telefon ist tot. Es lebe ... was genau?",
+        "summary": "Eine Betrachtung über die Zukunft mobiler Geräte. Smartphones könnten durch KI-gestützte Wearables und andere Interaktionsformen ersetzt werden. Die Frage ist nicht ob, sondern wann und durch was."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://techcrunch.com",
+      "url_is_article": false,
+      "source": "TechCrunch",
+      "de": {
+        "title": "2025 war das Jahr, in dem KI einen Realitätscheck bekam",
+        "summary": "Nach Jahren überzogener Erwartungen bekam KI 2025 einen Realitätscheck. Die Technologie ist beeindruckend, aber nicht allmächtig. Viele versprochene Durchbrüche blieben aus, während andere unerwartete Fortschritte gemacht wurden."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://t3n.de",
+      "url_is_article": false,
+      "source": "t3n",
+      "de": {
+        "title": "Oakley Meta Vanguard ausprobiert: Warum die KI beim Sport ruhig zu Hause bleiben kann",
+        "summary": "Test der Oakley Meta Vanguard KI-Brille für Sport - ernüchternde Ergebnisse. Die Integration von KI in Sportgeräte klingt vielversprechend, funktioniert in der Praxis aber noch nicht überzeugend."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://techcrunch.com",
+      "url_is_article": false,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Equity's 2026 Prognosen: KI-Agenten, Blockbuster-IPOs und die Zukunft von VC",
+        "summary": "Equity's 2026 Prognosen: KI-Agenten werden zum Mainstream, mehrere große KI-Unternehmen gehen an die Börse, und Venture Capital konzentriert sich auf weniger, aber größere Deals. Ein Ausblick auf das kommende Jahr."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://heise.de / TechCrunch",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "Europäische Banken planen den Abbau von 200.000 Arbeitsplätzen",
+        "summary": "In den nächsten fünf Jahren könnten in Europas Bankensektor 10 Prozent der Stellen wegfallen – dank KI und Onlinebanking. Das prognostiziert Morgan Stanley. Die Automatisierung durch KI verändert die Finanzbranche grundlegend. Besonders betroffen sind Backoffice-Tätigkeiten und Kundenservice."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://www.handelsblatt.com",
+      "url_is_article": false,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Deutsche Strategiefirma ersetzt 90 Prozent der Berater durch KI",
+        "summary": "Christian Underwood hat seine Firma fast komplett automatisiert – er setzt auf KI-Agenten statt Berater. Damit folgt er dem derzeit größten Silicon-Valley-Trend. Kommt jetzt die Ein-Mann-Milliarden-Firma? Die radikale Automatisierung wirft Fragen zur Zukunft der Beratungsbranche auf."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://techcrunch.com",
+      "url_is_article": false,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Investoren prognostizieren: KI kommt 2026 massiv auf den Arbeitsmarkt",
+        "summary": "Investoren prognostizieren, dass KI 2026 massiv auf den Arbeitsmarkt zukommt. Nicht nur einfache Tätigkeiten, sondern auch hochqualifizierte Jobs könnten betroffen sein. Die Frage ist nicht ob, sondern wie schnell die Transformation kommt."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://techcrunch.com",
+      "url_is_article": false,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Wie KI die Arbeitswelt umgestaltet – laut Mercor's CEO",
+        "summary": "Wie KI die Arbeitswelt umgestaltet und wer welche Arbeit macht, laut Mercor's CEO. Die Plattform nutzt KI, um Talente mit Projekten zu matchen. Dies könnte traditionelle Recruiting-Prozesse überflüssig machen."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://www.handelsblatt.com",
+      "url_is_article": false,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Amazon prüft offenbar Investment von mehr als zehn Milliarden Dollar in OpenAI",
+        "summary": "Die Tech-Unternehmen verhandeln über den Ausbau ihrer Kooperation. Der Deal könnte Amazons KI-Chipstrategie stärken und OpenAI unabhängiger von Microsoft machen. Die Investition würde eine der größten im KI-Bereich darstellen und die Machtverhältnisse verschieben."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://www.handelsblatt.com",
+      "url_is_article": false,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Bytedance plant offenbar KI-Investitionsoffensive",
+        "summary": "Der Tiktok-Mutterkonzern will der US-Konkurrenz die Stirn bieten. Dafür wollen die Chinesen weitere Milliarden investieren und auch bei Nvidia Chips bestellen. Die Investitionsoffensive zeigt den globalen Wettlauf um KI-Dominanz."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://www.handelsblatt.com",
+      "url_is_article": false,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "OpenAI, Anthropic, Cohere: Wird 2026 das Jahr der KI-Exits?",
+        "summary": "In den USA treiben Anthropic und OpenAI ihre Börsenpläne voran, in Europa kursieren Verkaufsgerüchte um Mistral. Experten erwarten 2026 eine Welle von Übernahmen und Börsengängen im KI-Sektor. Die Konsolidierung der Branche nimmt Fahrt auf."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://www.handelsblatt.com",
+      "url_is_article": false,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Deutschlands bekannteste KI-Firma: Große Zäsur bei Aleph Alpha",
+        "summary": "Nach dem CEO-Wechsel im August sollen zahlreiche Führungskräfte und Beschäftigte gehen. Dabei deutet sich eine strategische Neuausrichtung an. Aleph Alpha, einst als deutsches Pendant zu OpenAI gehandelt, durchläuft schwierige Zeiten."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://www.handelsblatt.com",
+      "url_is_article": false,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Für diese drei Rivalen ist die Krise bei OpenAI die große Chance",
+        "summary": "ChatGPT-Erfinder OpenAI steckt in einer strategischen Krise. Drei Wettbewerber haben besonderes Potenzial – davon eines aus Freiburg und eines aus China. OpenAI ruft intern \"Alarmstufe Rot\" aus, während Anleger auf Google setzen."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://www.handelsblatt.com",
+      "url_is_article": false,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Apple verliert prominente Designer an Meta",
+        "summary": "Mark Zuckerberg wildert wieder bei der Konkurrenz: Diesmal muss Apple Spitzenkräfte aus dem Designteam ziehen lassen. Die Zahl der hochkarätigen Abgänge wächst. Meta investiert massiv in AR/VR und lockt Top-Talente mit attraktiven Angeboten."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://www.handelsblatt.com",
+      "url_is_article": false,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Telekom und Schwarz-Gruppe planen gemeinsame AI Gigafactory",
+        "summary": "Im Wettbewerb um das Mega-Rechenzentrum steht eine Kooperation bevor. Es laufen Gespräche über Finanzierung, Führung – und einen brisanten Standortwettbewerb. Die AI Gigafactory soll europäischen Unternehmen souveräne KI-Infrastruktur bieten."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://techcrunch.com",
+      "url_is_article": false,
+      "source": "TechCrunch",
+      "de": {
+        "title": "VCs prognostizieren: Unternehmen geben 2026 mehr für KI aus – über weniger Anbieter",
+        "summary": "VCs prognostizieren, dass Unternehmen 2026 mehr für KI ausgeben werden – über weniger Anbieter. Die Konsolidierung führt zu wenigen dominanten Plattformen. Kleinere KI-Anbieter könnten es schwer haben."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://techcrunch.com",
+      "url_is_article": false,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Meta kauft Manus – ein KI-Startup, über das alle sprechen",
+        "summary": "Meta hat gerade Manus gekauft, ein KI-Startup, über das alle sprechen. Die Übernahme zeigt Metas Strategie, vielversprechende KI-Technologien frühzeitig zu akquirieren. Details zum Kaufpreis wurden nicht bekannt gegeben."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://heise.de / TechCrunch",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "OpenAI sucht einen neuen Head of Preparedness",
+        "summary": "OpenAI sucht einen neuen Head of Preparedness für Sicherheit und Risikomanagement. Die Position ist kritisch für die sichere Entwicklung fortgeschrittener KI-Systeme. Das Gehalt liegt bei über 500.000 US-Dollar."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://techcrunch.com",
+      "url_is_article": false,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Nvidia lizenziert Technologie des KI-Chip-Herausforderers Groq",
+        "summary": "Nvidia lizenziert die Technologie des KI-Chip-Herausforderers Groq und stellt dessen CEO ein. Dies zeigt Nvidias Strategie, potenzielle Konkurrenten durch Übernahmen und Partnerschaften zu neutralisieren."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://techcrunch.com",
+      "url_is_article": false,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Indiens Startup-Finanzierung erreicht 2025 11 Milliarden Dollar",
+        "summary": "Indiens Startup-Finanzierung erreicht 2025 11 Milliarden Dollar, während Investoren selektiver werden. Der indische Markt entwickelt sich zu einem wichtigen Player im globalen KI-Ökosystem."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://t3n.de",
+      "url_is_article": false,
+      "source": "t3n",
+      "de": {
+        "title": "KI im Marketing: Wie kann ein CRM Zeit sparen und bessere Ergebnisse liefern?",
+        "summary": "CRM mit KI für besseres Marketing - praktische Anwendungen und Vorteile. Von automatisierter Lead-Qualifizierung bis zu personalisierten Kampagnen: KI revolutioniert das Marketing."
+      }
+    }
+  ],
+  "podcast": {}
+}

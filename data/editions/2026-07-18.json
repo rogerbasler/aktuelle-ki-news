@@ -1,0 +1,166 @@
+{
+  "date": "2026-07-18",
+  "week": 29,
+  "languages": [
+    "de"
+  ],
+  "migrated_from_commit": "56d80b1",
+  "items": [
+    {
+      "category": "news",
+      "url": "https://t3n.de/news/kimi-k3-ist-da-was-bedeutet-das-neue-ki-modell-fuer-den-wettstreit-zwischen-china-und-usa-1753303/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Kimi K3 ist da: Was bedeutet das neue K.I.-Modell für den Wettstreit zwischen China und USA?",
+        "summary": "Moonshot AI hat mit Kimi K3 das weltgrösste Open-Weight-Modell vorgestellt – 2,8 Billionen Parameter. Die Open Weights erscheinen am 27. Juli. Das ist kein Benchmark-Trick, sondern ein strategisches Signal: China schliesst die Lücke zu OpenAI und Anthropic schneller als erwartet. Der entscheidende Unterschied liegt nicht im Modell selbst, sondern in der Geschwindigkeit der globalen Diffusion."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com/technik/it-internet/globales-ki-wettrennen-chinas-neuer-ki-riese-moonshot-ai-fordert-us-dominanz-heraus/100240936.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Chinas neuer K.I.-Riese Moonshot AI fordert US-Dominanz heraus",
+        "summary": "Chinas K.I.-Startup Moonshot AI setzt die USA mit seinem neuen Sprachmodell unter Druck. Gleichzeitig gründet Xi Jinping mit 29 Ländern eine internationale K.I.-Kooperationsorganisation. Was oft unterschätzt wird: Wer die globale K.I.-Infrastruktur liefert, definiert auch die Standards – und die Abhängigkeiten."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Apple Intelligence in China genehmigt – mit Alibaba und Baidu",
+        "summary": "Apple Intelligence, Apples generative K.I.-Plattform, ist in China genehmigt worden – mit Alibaba und Baidu als lokale K.I.-Partner statt der globalen Modelle. Das ist eine regulatorische Kapitulation mit strategischem Kalkül: Apple bekommt den Marktzugang, China behält die Kontrolle über die Daten. Die Konsequenz daraus ist: Souveränität und Skalierung schliessen sich global zunehmend aus."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com/politik/international/ki-xi-will-die-welt-mit-kuenstlicher-intelligenz-aus-china-versorgen/100240137.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Xi will die Welt mit K.I. aus China versorgen",
+        "summary": "China gründet mit 29 Ländern eine Organisation zur Kooperation bei Künstlicher Intelligenz und fordert damit die technologische Vorherrschaft der USA heraus. Das eigentliche Problem für den Westen ist nicht die Technologie, sondern die geopolitische Rahmung: Wer die K.I.-Infrastruktur liefert, liefert auch die Normen."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://t3n.de/news/ki-ausser-kontrolle-deepmind-chef-fordert-aufsichtsbehoerde-unter-leitung-der-usa-1752945/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Deepmind-Chef fordert K.I.-Aufsichtsbehörde unter Leitung der USA",
+        "summary": "Demis Hassabis schlägt eine neue US-Standardisierungsbehörde nach dem Vorbild der Finanzaufsicht FINRA vor. Diese solle Bewertungsprotokolle für K.I.-Spitzenmodelle entwickeln. Was oft unterschätzt wird: Wer die Bewertungsprotokolle definiert, definiert den Standard – und damit die Machtverhältnisse in der globalen K.I.-Governance."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Google Vids: Jetzt kannst du in deinen eigenen K.I.-Videos mitspielen",
+        "summary": "Google Vids erlaubt es Nutzern, sich selbst in K.I.-generierte Videos einzufügen. Das ist mehr als ein Feature – es ist ein Schritt in Richtung personalisierten K.I.-Content auf Unternehmensebene. Die Frage ist nicht, ob das technisch beeindruckend ist, sondern wer die Rechte an dem generierten Material hält."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Googles K.I.-Modus verknüpft sich mit Apps und erlaubt direkte Interaktion",
+        "summary": "Googles K.I.-Modus in der Suche kann jetzt mit ausgewählten Apps verknüpft werden und direkt mit ihnen interagieren. Das ist der nächste Schritt vom K.I.-Assistenten zum K.I.-Agenten: nicht mehr nur Antworten geben, sondern Aufgaben erledigen. Der entscheidende Unterschied liegt in der Kontrolle – wer entscheidet, welche Apps zugelassen werden?"
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Thinking Machines setzt auf offenes Modell Inkling gegen Einheitslösungen",
+        "summary": "Thinking Machines Lab veröffentlicht mit Inkling sein erstes Open-Source-Modell und wettet darauf, dass spezialisierte Modelle die Einheitslösungen der grossen Anbieter schlagen. Das ist eine klassische Nischenstrategie: Nicht breiter werden, sondern tiefer. Die Konsequenz daraus ist: Der Markt für K.I.-Modelle fragmentiert sich weiter."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://t3n.de/news/die-simulierte-zelle-wie-biotech-forscher-das-leben-mithilfe-von-ki-nachstellen-1752230/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Die simulierte Zelle: Wie K.I. die Suche nach neuen Medikamenten erleichtern soll",
+        "summary": "Biotech-Forscher nutzen K.I., um biologische Zellen zu simulieren und damit die Medikamentenentwicklung zu beschleunigen. Das ist ein Bereich, in dem K.I. echten Mehrwert schafft – nicht durch Automatisierung von Routineaufgaben, sondern durch die Erschliessung von Möglichkeitsräumen, die menschliche Forscher allein nicht durchsuchen könnten."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Patreon blockiert K.I.-Bots aktiv – statt sie nur zu bitten, nicht zu scrapen",
+        "summary": "Patreon hat seine Strategie geändert: Statt K.I.-Bots in der robots.txt zu bitten, nicht zu scrapen, werden sie jetzt aktiv blockiert. Das ist eine wichtige Verschiebung – von freiwilliger Compliance zu technischer Durchsetzung. Die Frage ist, ob das ausreicht oder ob es nur ein Wettlauf zwischen Blockierung und Umgehung ist."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Hack zeigt: K.I.-Musikgenerator Suno hat YouTube-Daten für Training genutzt",
+        "summary": "Ein Hack legt nahe, dass Suno YouTube-Audiodaten ohne Genehmigung für das Training seiner K.I. verwendet hat. Das ist kein Einzelfall – es ist ein Symptom eines strukturellen Problems: Die grossen K.I.-Modelle wurden auf Daten trainiert, deren Rechtsstatus ungeklärt ist. Die Konsequenz daraus ist: Urheberrechtsklagen werden das K.I.-Training der nächsten Generation grundlegend verändern."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://t3n.de/news/ki-kennzeichnungspflicht-marketer-umsetzen-muessen-1752203/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "K.I.-Kennzeichnungspflicht: Was Marketer jetzt umsetzen müssen",
+        "summary": "Ab 2. August greift die EU-Kennzeichnungspflicht für K.I.-generierte Inhalte. Was Marketer jetzt umsetzen müssen: Transparenz über den Einsatz von K.I. bei der Content-Erstellung. Das klingt einfach, ist aber operativ komplex – besonders wenn K.I. in mehrstufigen Produktionsprozessen eingesetzt wird."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://the-decoder.de/openai-chef-altman-rudert-zurueck-ki-koennte-mehr-jobs-schaffen-als-vernichten/",
+      "url_is_article": true,
+      "source": "The Decoder",
+      "de": {
+        "title": "Sam Altman rudert zurück: K.I. könnte mehr Jobs schaffen als vernichten",
+        "summary": "OpenAI-CEO Sam Altman hat seine frühere Prognose korrigiert: K.I. könnte mehr Jobs schaffen als vernichten. Das ist eine bemerkenswerte Kurskorrektur für einen CEO, der noch vor Monaten von massiver Arbeitslosigkeit sprach. Was das eigentlich zeigt: Niemand weiss es wirklich – auch nicht die, die die Modelle bauen. Prognosen über K.I.-Beschäftigungseffekte sind politische Aussagen, keine wissenschaftlichen."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Apples Klage gegen OpenAI könnte den IPO gefährden",
+        "summary": "Apple hat OpenAI wegen Diebstahls von Geschäftsgeheimnissen verklagt – und das zu einem denkbar ungünstigen Zeitpunkt: OpenAI bereitet seinen Börsengang vor. Die Klage könnte Investoren verunsichern und den IPO-Zeitplan verschieben. Der entscheidende Unterschied zu früheren Tech-Klagen liegt im Timing: Kurz vor dem IPO ist jede rechtliche Unsicherheit maximal schädlich."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Databricks erreicht 188-Mrd.-Dollar-Bewertung – K.I.s liebstes zweites Leben",
+        "summary": "Databricks hat eine neue Finanzierungsrunde bei 188 Milliarden Dollar Bewertung abgeschlossen – ein Plus von 40 Prozent gegenüber Januar 2026. Das zeigt: K.I.-Infrastruktur ist die eigentliche Wette. Nicht die Modelle, sondern die Daten-Pipelines dahinter. Wer die Daten kontrolliert, kontrolliert die K.I. – und das wissen die Investoren."
+      }
+    }
+  ],
+  "podcast": {
+    "de": {
+      "audio": "audio/2026-07-18/podcast-de.mp3",
+      "duration_sec": 193
+    }
+  }
+}

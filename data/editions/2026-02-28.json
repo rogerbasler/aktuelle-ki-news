@@ -1,0 +1,165 @@
+{
+  "date": "2026-02-28",
+  "week": 9,
+  "languages": [
+    "de"
+  ],
+  "migrated_from_commit": "c0b6ae0",
+  "items": [
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "ChatGPT erreicht 900 Millionen wöchentliche Nutzer",
+        "summary": "OpenAIs ChatGPT verzeichnet einen neuen Rekord: 900 Millionen wöchentliche aktive Nutzer – ein Meilenstein, der die massenhafte Verbreitung von KI-Assistenten im Alltag eindrucksvoll unterstreicht."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "OpenAI schließt 110-Milliarden-Dollar-Finanzierungsrunde ab",
+        "summary": "OpenAI sichert sich 110 Milliarden Dollar in einer der größten privaten Finanzierungsrunden der Geschichte. Amazon steigt als wichtiger neuer Investor ein. Das Unternehmen plant bis 2030 massive Ausgaben für KI-Infrastruktur."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/02/25/nvidia-earnings-record-capex-spend-ai/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Nvidia verzeichnet erneut Rekordquartal bei rekordhohen Kapitalausgaben",
+        "summary": "Nvidia meldet ein weiteres Rekordquartal. Die Nachfrage nach KI-Chips bleibt ungebrochen, während Hyperscaler wie Amazon, Google und Microsoft ihre Kapitalausgaben auf historische Höchststände treiben."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com/technik/ki/ki-warum-die-kuenstliche-intelligenz-gerade-eine-neue-stufe-erreicht/100197888.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Das Erwachen: Warum die KI gerade eine neue Stufe erreicht",
+        "summary": "ChatGPT war gestern: Neue Agentenprogramme lösen eigenständig Probleme und erledigen ganze Arbeitsschritte. Die Resultate sind faszinierend – und die Risiken gewaltig. Das Handelsblatt analysiert den Paradigmenwechsel."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com/technik/ki/ki-iw-studie-sieht-440-milliarden-euro-ki-potenzial-bis-2034/100203094.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "IW-Studie sieht 440 Milliarden Euro KI-Potenzial für Deutschland bis 2034",
+        "summary": "Das Institut der deutschen Wirtschaft kalkuliert ein enormes Milliardenpotenzial durch Künstliche Intelligenz in Deutschland – sofern Unternehmen die Technologie flächendeckend einführen. Google erweitert sein KI-Engagement in Berlin."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/02/26/google-launches-nano-banana-2-model-with-faster-image-generation/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Google veröffentlicht Nano Banana 2 mit schnellerer Bildgenerierung",
+        "summary": "Google bringt Nano Banana 2 heraus – das neue KI-Bildmodell verbindet hohe Generierungsgeschwindigkeit mit Pro-Funktionen auch für Gratis-Nutzer. Das Modell setzt neue Maßstäbe bei der Bildqualität."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Anthropic übernimmt KI-Startup Vercept für Computer-Nutzung",
+        "summary": "Anthropic übernimmt das auf Computer-Nutzung spezialisierte KI-Startup Vercept – nachdem Meta einen der Gründer abgeworben hatte. Die Akquisition stärkt Anthropics Position im Bereich autonomer KI-Agenten erheblich."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://www.heise.de/news/Copilot-Microsofts-KI-Assistent-soll-direkten-Zugriff-auf-Dokumente-erhalten-11193112.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "Microsoft Copilot erhält direkten Zugriff auf Dokumente",
+        "summary": "Microsofts KI-Assistent Copilot soll künftig direkten Zugriff auf Dokumente erhalten, um Nutzern noch umfassendere Unterstützung bei der Arbeit zu bieten. Die Integration soll die Produktivität deutlich steigern."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://www.heise.de/news/Perplexity-AI-Agentische-KI-in-der-Sandbox-mit-19-Modellen-11191204.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "Perplexity AI stellt agentische KI-Sandbox mit 19 Modellen vor",
+        "summary": "Perplexity AI stellt mit „Perplexity Computer\" eine agentische KI-Lösung vor, die 19 verschiedene Modelle in einer Sandbox-Umgebung kombiniert. Nutzer können damit komplexe Aufgaben an KI-Agenten delegieren."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Pentagon stuft Anthropic als Lieferkettenrisiko ein",
+        "summary": "Das US-Verteidigungsministerium stuft Anthropic als Lieferkettenrisiko ein. Hintergrund ist der eskalierende Streit um die Nutzung von KI-Modellen für militärische Operationen ohne Einschränkungen. Anthropic hält an seinen Sicherheitsstandards fest."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.heise.de/hintergrund/KI-am-Arbeitsplatz-Wer-haftet-fuer-ChatGPT-Co-11189727.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "KI am Arbeitsplatz: Wer haftet für ChatGPT und Co.?",
+        "summary": "Künstliche Intelligenz birgt erhebliche Haftungsrisiken für Unternehmen. Wer ist verantwortlich, wenn KI-Tools Fehler machen oder Schäden verursachen? Ein heise-Hintergrundbericht beleuchtet die rechtliche Lage."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://t3n.de/news/ki-simuliert-krieg-95-prozent-atombomben-eingesetzt-1731738/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Wenn KI Krieg simuliert: In 95 Prozent der Fälle setzen Modelle Atombomben ein",
+        "summary": "Eine alarmierende Studie zeigt: Wenn KI-Modelle Kriegsszenarien simulieren, eskalieren sie in 95 Prozent der Fälle zum Einsatz von Atomwaffen – ein beunruhigendes Ergebnis für die KI-Sicherheitsforschung weltweit."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://techcrunch.com/2026/02/27/musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Musk attackiert OpenAI in Zeugenaussage: „Niemand hat sich wegen Grok das Leben genommen\"",
+        "summary": "Elon Musk greift OpenAI in einer Zeugenaussage scharf an und macht provokante Aussagen über seinen eigenen KI-Dienst Grok. Der Rechtsstreit zwischen Musk und OpenAI eskaliert weiter und zieht immer weitere Kreise."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://www.handelsblatt.com/technik/ki/ki-briefing-der-naechste-bildschirm-sitzt-auf-der-nase/100203566.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "KI-Brille vor dem Durchbruch: Der nächste Bildschirm sitzt auf der Nase",
+        "summary": "Lange belächelt, nun strategisch aufgeladen: Die KI-Brille steht vor dem Durchbruch. Smart Glasses profitieren von starker KI, leistungsfähigen Chips und stabileren 5G-Netzen. Das Handelsblatt analysiert den Trend."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://techcrunch.com/2026/02/26/jack-dorsey-block-layoffs-4000-halved-employees-your-company-is-next/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Block streicht fast die Hälfte der Stellen – Fokus auf KI",
+        "summary": "Jack Dorsey hat bei Block mehr als 4.000 Stellen gestrichen – fast die Hälfte der Belegschaft. Seine unmissverständliche Botschaft: KI verändert den Arbeitsmarkt fundamental, und andere Unternehmen werden folgen müssen."
+      }
+    }
+  ],
+  "podcast": {
+    "de": {
+      "script": "Willkommen beim KI Power Update – Ihrer wöchentlichen Zusammenfassung der wichtigsten Entwicklungen in der Welt der Künstlichen Intelligenz. Heute, am 28. Februar 2026, blicken wir auf eine ereignisreiche Woche zurück.\n\nDie größte Nachricht der Woche: OpenAI hat eine historische Finanzierungsrunde von 110 Milliarden Dollar abgeschlossen – eine der größten privaten Finanzierungsrunden in der Geschichte der Technologiebranche. Amazon steigt als wichtiger Investor ein. Gleichzeitig meldet ChatGPT einen neuen Rekord: 900 Millionen wöchentliche aktive Nutzer nutzen den KI-Assistenten bereits.\n\nAuch Nvidia setzt seinen Erfolgskurs fort: Das Unternehmen verzeichnet erneut ein Rekordquartal, während die Nachfrage nach KI-Chips ungebrochen bleibt. Das Handelsblatt fasst es treffend zusammen: Die KI hat gerade eine neue Stufe erreicht – weg von einfachen Chatbots, hin zu autonomen Agenten, die eigenständig Probleme lösen.\n\nFür Deutschland besonders relevant: Eine neue Studie des Instituts der deutschen Wirtschaft sieht ein KI-Potenzial von 440 Milliarden Euro bis 2034 – vorausgesetzt, Unternehmen setzen die Technologie flächendeckend ein.\n\nIm Bereich Tools und Startups: Google hat Nano Banana 2 veröffentlicht – ein neues KI-Bildmodell mit schnellerer Generierung und Pro-Funktionen auch für Gratis-Nutzer. Anthropic übernimmt das Startup Vercept, um seine Position im Bereich autonomer Computer-Agenten zu stärken. Microsoft plant, Copilot direkten Zugriff auf Dokumente zu geben.\n\nDoch die Woche brachte auch Kontroversen: Das US-Verteidigungsministerium stuft Anthropic als Lieferkettenrisiko ein – ein Eskalation im Streit um die militärische Nutzung von KI-Modellen. Elon Musk griff OpenAI in einer Zeugenaussage scharf an. Und eine alarmierende Studie zeigt: Wenn KI-Modelle Kriegsszenarien simulieren, eskalieren sie in 95 Prozent der Fälle zum Einsatz von Atomwaffen.\n\nAuf der Business-Seite: Jack Dorsey hat bei Block mehr als 4.000 Stellen gestrichen – fast die Hälfte der Belegschaft. Seine Botschaft ist klar: KI verändert den Arbeitsmarkt fundamental, und andere Unternehmen werden folgen.\n\nDas war das KI Power Update für diese Woche. Bleiben Sie informiert – powered by www.ki-power.me."
+    }
+  }
+}

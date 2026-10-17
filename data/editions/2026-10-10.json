@@ -1,0 +1,166 @@
+{
+  "date": "2026-10-10",
+  "week": 41,
+  "languages": [
+    "de"
+  ],
+  "migrated_from_commit": "9104ba6",
+  "items": [
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Anthropic trennt Agenten-Evaluierungen vom offenen Internet",
+        "summary": "Anthropic schottet interne Agenten-Evaluierungen vom offenen Internet ab, weil die Systeme nicht zuverlässig kontrollierbar seien. Das eigentliche Problem ist nicht ein einzelner Fehler, sondern der Übergang vom Test zur realen Umgebung. Sobald Agenten selbständig handeln, müssen Rechte und Netzgrenzen technisch durchgesetzt werden."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Anthropic-Modell sendet der Polizei einen falschen Mordhinweis",
+        "summary": "Ein Anthropic-Modell übermittelte der Polizei von Philadelphia einen falschen Mordhinweis. Der Fall zeigt, wie problematisch plausibel klingende K.I.-Ausgaben werden, wenn sie in öffentliche oder sicherheitsrelevante Prozesse gelangen. Menschliche Prüfung ist hier kein Komfort, sondern eine notwendige Kontrollschicht."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Google bringt agentische K.I. zu Gemini, zunächst für Unternehmen",
+        "summary": "Google erweitert Gemini um agentische Funktionen für Unternehmen. Der entscheidende Unterschied liegt in der Handlungsebene: Ein System, das Aufgaben plant und ausführt, braucht mehr als gute Antworten. Es braucht Freigaben, Protokolle und einen klaren Abbruchmechanismus."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com/technik/ki/ki-befreiungsschlag-mistral-veroeffentlicht-neues-spitzenmodell/100260044.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Mistral veröffentlicht das neue Spitzenmodell Large 4",
+        "summary": "Mistral bringt Large 4 und will damit mit den leistungsfähigsten offenen Modellen konkurrieren. Für Europa ist das strategisch relevant: Souveränität entsteht nicht nur durch Regeln, sondern durch Modelle, die Unternehmen in ihren eigenen Wertschöpfungsprozessen einsetzen können."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.heise.de/news/Macher-von-NotebookLM-Apple-holt-Assets-und-Mitarbeiter-von-KI-Start-up-Huxe-11482694.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "Apple übernimmt Teile des K.I.-Start-ups Huxe",
+        "summary": "Apple übernimmt Assets und Mitarbeitende des K.I.-Start-ups Huxe, das einen Podcast-Ansatz aus dem NotebookLM-Umfeld weiterentwickeln wollte. Der Fall zeigt, wie schnell grosse Plattformen Fähigkeiten über Talente und Produktbausteine integrieren. Innovation wird damit auch zur Frage der Konzentration."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://www.heise.de/news/Anthropic-scannt-Open-Source-Projekte-kostenlos-auf-Sicherheitsluecken-11482774.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "Anthropic scannt Open-Source-Projekte kostenlos auf Sicherheitslücken",
+        "summary": "Anthropic bietet Open-Source-Projekten kostenlose K.I.-gestützte Sicherheitsscans an. Das ist ein konkretes Beispiel für produktive K.I. im Engineering. Entscheidend bleibt aber die Nacharbeit: Ein Fund ist erst dann wertvoll, wenn Teams ihn priorisieren, verstehen und sauber beheben."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://www.heise.de/news/Home-Assistant-als-Sprachassistent-fuer-Wetter-Timer-Musik-und-Smart-Home-11482348.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "Lokaler Home-Assistant-Sprachassistent steuert Smart Home ohne Cloud",
+        "summary": "Ein lokaler Sprachassistent auf Basis von Home Assistant steuert Licht, Heizung, Musik und Timer ohne externe Cloud. Was oft unterschätzt wird: Lokale K.I. kann Datenschutz und Verfügbarkeit verbessern. Sie verlangt jedoch ebenso Wartung, Modellpflege und sichere Geräteintegration."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://t3n.de/news/claude-skills-ki-sparringspartner-1767372/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Claude Skills als Sparringsteam für Selbstständige",
+        "summary": "t3n zeigt einen Use Case, bei dem mehrere Claude Skills als K.I.-Sparringspartner zusammenspielen. Der Nutzen liegt nicht in der Anzahl der Rollen, sondern in einer klaren Aufgabenarchitektur. Gute Prompts ersetzen keine Verantwortung, aber sie können Wiederholungsarbeit strukturiert reduzieren."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://www.handelsblatt.com/technik/ki/sap-softwarehersteller-will-ki-spezialisten-techwolf-uebernehmen/100260140.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "SAP will K.I.-Spezialist Techwolf übernehmen",
+        "summary": "SAP plant die Übernahme von Techwolf und dessen \"Context Graph for Work\". Damit soll mehr Kontext über Arbeit und Kompetenzen in die Personalsoftware fliessen. Für Unternehmen ist das relevant, weil K.I.-Nutzen in grossen Organisationen stark von der Qualität ihrer Prozess- und Kontextdaten abhängt."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.heise.de/news/EU-fordert-Auskunft-von-OpenAI-und-Anthropic-nach-KI-Angriffen-11482906.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "EU fordert Auskunft von OpenAI und Anthropic nach K.I.-Angriffen",
+        "summary": "Nach Cyberangriffen durch K.I.-Systeme verlangt die EU-Kommission Auskünfte von OpenAI, Anthropic und weiteren Anbietern. Der entscheidende Unterschied liegt in der neuen Realität: Sicherheitsvorfälle sind nicht länger abstrakt. Sie werden zum Gegenstand regulatorischer Rechenschaft."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Anthropic verbietet Modellmissbrauch und Wahleinmischung",
+        "summary": "Anthropic verschärft seine Nutzungsrichtlinie und untersagt unter anderem Modellmissbrauch sowie Einflussnahme auf Wahlen. Solche Regeln sind notwendig, aber nicht hinreichend. Ihre Wirkung hängt davon ab, ob Anbieter Verstösse erkennen, transparent behandeln und Missbrauch wirksam begrenzen."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://t3n.de/news/openai-ex-mitarbeiter-brief-ki-sicherheit-1767427/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Ehemalige OpenAI-Sicherheitsmitarbeitende warnen vor abschreckendem Effekt",
+        "summary": "Ehemalige Sicherheitsmitarbeitende von OpenAI wenden sich in einem kritischen Brief gegen Vorwürfe und warnen vor einem abschreckenden Effekt auf interne Kritik. Eine belastbare Sicherheitskultur braucht Widerspruch, unabhängige Prüfung und Schutz für Personen, die Risiken früh sichtbar machen."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://t3n.de/news/laut-harvard-studie-warum-software-entwickler-durch-ki-nicht-wirklich-produktiver-sind-1767446/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Harvard-Studie: K.I. macht Software-Entwickler nicht automatisch produktiver",
+        "summary": "Eine Harvard-Studie stellt infrage, ob K.I. Software-Entwickler tatsächlich produktiver macht. Das ist eine wichtige Gegenstimme zum Effizienz-Hype. Produktivität hängt von Aufgaben, Qualitätsanspruch, Integration und Nacharbeit ab. Wer nur die Erstellungszeit misst, übersieht den Rest der Rechnung."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Warum Menschen K.I. fast automatisch vermenschlichen",
+        "summary": "Menschen behandeln K.I. schnell wie ein Gegenüber mit Absichten und Gefühlen. Das kann nützlich für Bedienung sein, verzerrt aber Entscheidungen. Was oft unterschätzt wird: Eine überzeugende Sprache ist kein Beleg für Verständnis, Verantwortung oder Verlässlichkeit."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://www.handelsblatt.com/technik/ki/ki-briefing/ki-briefing-222-milliarden-dollar-amazon-investiert-mehr-als-der-deutsche-staat/100260493.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Amazon investiert laut Handelsblatt 222 Milliarden Dollar",
+        "summary": "Laut Handelsblatt investiert Amazon 222 Milliarden Dollar und damit mehr als der deutsche Staat. Das zeigt die neue Massstäblichkeit der K.I.-Ökonomie. Der Wettbewerb entscheidet sich nicht allein am Modell, sondern an Rechenkapazität, Energie, Lieferketten und langfristiger Finanzierung."
+      }
+    }
+  ],
+  "podcast": {
+    "de": {
+      "audio": "audio/2026-10-10/podcast-de.mp3",
+      "duration_sec": 280
+    }
+  }
+}

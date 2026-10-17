@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="hero small">
+  <h1 class="hero-title"><span class="line">{{ t.archive_title }}</span></h1>
+  <p class="hero-sub">{{ t.archive_intro }}</p>
+</section>
+{% for year, months in years %}
+<section class="archive-year">
+  <h2 class="cat-title"><span class="cat-num">{{ year }}</span></h2>
+  {% for month, eds in months %}
+  <h3 class="archive-month">{{ month }}</h3>
+  <ul class="archive-list">
+    {% for e in eds %}
+    <li>
+      <a class="archive-link" href="{{ root }}{{ lang_prefix }}archiv/{{ e.date }}/">
+        <span class="archive-date">{{ e.date_text }}</span>
+        <span class="archive-meta">{{ t.week }} {{ e.week }} · {{ e.count }} {{ t.news_count }}{% if e.has_audio %} · 🎙️{% endif %}{% if lang != 'de' and not e.translated %} · DE{% endif %}</span>
+        <span class="archive-top">{{ e.top }}</span>
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+  {% endfor %}
+</section>
+{% endfor %}
+{% endblock %}

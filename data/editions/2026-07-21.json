@@ -1,0 +1,161 @@
+{
+  "date": "2026-07-21",
+  "week": 30,
+  "languages": [
+    "de"
+  ],
+  "migrated_from_commit": "83f65e8",
+  "items": [
+    {
+      "category": "news",
+      "url": "https://t3n.de/news/kimi-k3-ist-da-was-bedeutet-das-neue-ki-modell-fuer-den-wettstreit-zwischen-china-und-usa-1753303/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Kimi K3 erhöht den Druck auf die US-Modelle",
+        "summary": "Moonshot AI hat Kimi K3 vorgestellt. Laut dem Unternehmen soll das Open-Weight-Modell bei anspruchsvollen Coding-Aufgaben an Frontier-Modelle heranreichen, unabhängig validiert ist das nicht. Der entscheidende Punkt liegt woanders: Offene Gewichte machen leistungsfähige Modelle schneller global verfügbar und verschieben den Wettbewerb von Modellbesitz zu Umsetzung."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Apple Intelligence startet in China mit lokalen KI-Partnern",
+        "summary": "Die chinesische Cyberspace-Behörde hat Apple Intelligence für den Markt freigegeben. Alibaba Qwen soll integriert werden, Baidu arbeitet ebenfalls an Funktionen für China. Das eigentliche Problem ist nicht die Lokalisierung, sondern die Konsequenz: Marktanteil wird zunehmend gegen Datenkontrolle und lokale Modellpartnerschaften eingetauscht."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Google arbeitet an effizienterem Chip für Gemini",
+        "summary": "Alphabet entwickelt laut einem Bericht einen Serverchip namens Frozen v2, der Gemini ab 2028 effizienter betreiben könnte. Google bestätigt das Projekt nicht ausdrücklich. Was oft unterschätzt wird: Der Wettbewerb verlagert sich von reiner Modellqualität auf Kosten je Token, Energieverbrauch und Kontrolle über die Recheninfrastruktur."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://t3n.de/news/ki-ausser-kontrolle-deepmind-chef-fordert-aufsichtsbehoerde-unter-leitung-der-usa-1752945/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "DeepMind-Chef fordert Kontrolle für Frontier-Modelle",
+        "summary": "Demis Hassabis plädiert für ein internationales, von den USA geführtes Gremium zur Prüfung besonders leistungsfähiger KI-Modelle. Vorgeschlagen sind unabhängige Expert:innen, verpflichtende Tests und ein Vorlauf vor Releases. Der entscheidende Unterschied liegt in der Durchsetzung: Standards sind nur dann mehr als PR, wenn sie auch für offene und geschlossene Modelle gelten."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "US-KI-Standardsbehörde verliert erneut ihren Leiter",
+        "summary": "Chris Fall ist als Leiter des Center for AI Standards and Innovation zurückgetreten, nur drei Monate nach seinem Amtsantritt. Die Behörde soll Standards und Testmethoden für KI-Modelle entwickeln. Die Konsequenz daraus ist unerquicklich, aber klar: Ohne institutionelle Kontinuität bleibt Governance eine Absichtserklärung mit wechselndem Briefkopf."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://www.handelsblatt.com/technik/ki/ki-kann-prior-labs-fuer-sap-das-deutsche-deepmind-werden/100241100.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "SAP setzt mit Prior Labs auf KI für Tabellendaten",
+        "summary": "SAP übernimmt das Freiburger Startup Prior Labs und plant laut Handelsblatt einschliesslich weiterer Investitionen mehr als eine Milliarde Euro. Prior Labs arbeitet mit strukturierten Tabellendaten. Das eigentliche Problem im Enterprise-Umfeld sind nicht fehlende Chatbots, sondern Daten, die zwar vorhanden, aber für Modelle bislang kaum nutzbar sind."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Thinking Machines setzt mit Inkling auf anpassbare Modelle",
+        "summary": "Thinking Machines Lab veröffentlicht mit Inkling sein erstes offenes Modell und setzt auf spezialisierte Anpassung statt auf die Einheitslösung der grossen Anbieter. Das ist eine nüchterne Marktthese: Nicht jedes Unternehmen braucht ein grösseres Modell, sondern ein besser passendes. Die Folge ist ein fragmentierter, aber praxisnäherer Modellmarkt."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Googles KI-Modus verbindet sich mit ausgewählten Apps",
+        "summary": "Googles KI-Modus kann sich mit ausgewählten Anwendungen wie Canva oder Instacart verknüpfen und dort Aufgaben auslösen. Damit wird Suche schrittweise zum Agenten-Interface. Was oft unterschätzt wird: Der Mehrwert entsteht nicht durch den Chat, sondern durch Rechte, Schnittstellen und nachvollziehbare Freigaben im Hintergrund."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Das Model Context Protocol wird einfacher skalierbar",
+        "summary": "Ein Update des Model Context Protocol soll die serverseitige Sitzungsverwaltung vereinfachen und Agenten-Integrationen robuster skalieren lassen. Klingt nach Backend-Detail, ist aber strategisch relevant. Agenten scheitern im Betrieb selten am Modell, sondern an Identität, Zustand und verlässlicher Infrastruktur."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.heise.de/en/news/EU-guidelines-for-AI-labeling-requirements-effective-from-August-11371313.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "EU präzisiert Kennzeichnungspflichten für KI-Inhalte",
+        "summary": "Die EU-Kommission hat Leitlinien zu den Transparenzpflichten aus Artikel 50 des AI Act veröffentlicht. Ab August geht es unter anderem um maschinenlesbare Kennzeichnung und Wasserzeichen. Das eigentliche Problem ist nicht das Label selbst, sondern die lückenlose Herkunftsdokumentation über alle Schritte der Content-Produktion."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Gericht genehmigt Anthropics Vergleich über 1,5 Milliarden Dollar",
+        "summary": "Ein US-Bundesrichter hat den Vergleich zwischen Anthropic und Rechteinhabern genehmigt. Der Fall trennt die Frage, ob Training Fair Use sein kann, von der rechtswidrigen Beschaffung piratischer Bücher. Die Konsequenz daraus ist: Datenherkunft wird für KI-Anbieter zum geschäftskritischen Governance-Thema, nicht zur juristischen Randnotiz."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://t3n.de/news/grok-skandal-xai-verklagt-nutzer-wegen-der-erstellung-sexualisierender-deepfakes-1753539/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "xAI verklagt Nutzer wegen missbräuchlicher Grok-Deepfakes",
+        "summary": "xAI geht gegen einen Nutzer vor, der Grok laut Klage für sexualisierte Deepfakes missbraucht haben soll. Die betreffende Bildfunktion ist inzwischen abgeschaltet. Was oft unterschätzt wird: Produktverantwortung beginnt nicht erst bei der Moderation nach einem Vorfall, sondern beim sicheren Design vor dem Roll-out."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Vint Cerf arbeitet an einer Identität für KI-Agenten",
+        "summary": "Internet-Pionier Vint Cerf berät einen Ansatz, der KI-Agenten über Domainnamen und kryptografische Nachweise identifizierbar machen soll. Der entscheidende Unterschied liegt im Vertrauen: Wer autonom im Netz handeln darf, muss für Menschen und Systeme eindeutig zurechenbar sein. Anonymität ist kein Sicherheitskonzept."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://www.handelsblatt.com/politik/international/kuenstliche-intelligenz-welche-folgen-der-ki-backlash-in-den-usa-hat/100238848.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Der KI-Backlash in den USA wird zum Standortfaktor",
+        "summary": "US-Bundesstaaten wie Illinois schaffen eigene Regeln für den Einsatz von KI, während die gesellschaftliche Akzeptanz unter Druck gerät. Das eigentliche Problem für Tech-Konzerne ist nicht Regulierung an sich, sondern ein Flickenteppich aus Regeln, der Produkte, Prozesse und Haftung je Bundesstaat anders definiert."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://t3n.de/news/ki-im-finanzwesen-warum-produktivitaetsgewinne-in-der-praxis-oft-verpuffen-1753562/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Warum KI-Gewinne im Finanzwesen oft in Kontrolle verpuffen",
+        "summary": "In einer Umfrage investierten 18 Prozent der deutschen Finanzentscheider:innen mehr als 30 Stunden pro Woche in die Prüfung von KI-Ergebnissen. Das eigentliche Problem ist nicht zu wenig Automatisierung, sondern zu wenig Nachvollziehbarkeit. Wer den Output nicht erklären kann, verlagert Arbeit vom Erstellen ins Kontrollieren."
+      }
+    }
+  ],
+  "podcast": {}
+}

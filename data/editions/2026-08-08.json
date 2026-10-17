@@ -1,0 +1,166 @@
+{
+  "date": "2026-08-08",
+  "week": 32,
+  "languages": [
+    "de"
+  ],
+  "migrated_from_commit": "1c474f1",
+  "items": [
+    {
+      "category": "news",
+      "url": "https://deploymentsafety.openai.com/gpt-5-6-august-update",
+      "url_is_article": true,
+      "source": "deploymentsafety.openai.com",
+      "de": {
+        "title": "OpenAI verbessert GPT-5.6 Sol – jetzt kostenlos für alle Nutzer",
+        "summary": "OpenAI hat GPT-5.6 Sol mit verbesserter Genauigkeit und Konsistenz aktualisiert und den Zugang auf kostenlose Nutzer ausgeweitet. Freie Nutzer erhalten unbegrenzte Alltagsgespräche mit GPT-5.6 Sol. Der entscheidende Unterschied: OpenAI demokratisiert Frontier-Qualität – und setzt damit Anthropic und Google unter Druck, ihre Basisangebote ebenfalls aufzuwerten."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://x.com/kimmonismus/status/2085374676717412409",
+      "url_is_article": true,
+      "source": "x.com",
+      "de": {
+        "title": "OpenAI Astra (GPT-6): Neues Grundlagenmodell mit komplett neuem Pretraining erwartet",
+        "summary": "Laut zuverlässigen Leakern soll OpenAI Astra – intern auch als GPT-6 bezeichnet – noch diese Woche erscheinen. Astra soll ein vollständig neues Pretraining haben und damit ein echter Paradigmenwechsel sein, kein inkrementelles Update. Was oft unterschätzt wird: Wenn das stimmt, wäre es der grösste Modellsprung seit GPT-4 – und würde die Wettbewerbsdynamik grundlegend verändern."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com/technik/ki/ki-briefing/ki-briefing-europa-verzettelt-sich-in-kigesetzen-amerika-bricht-rekorde/100242627.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Handelsblatt K.I.-Briefing: Europa verzettelt sich in K.I.-Gesetzen – Amerika bricht Rekorde",
+        "summary": "Während Brüssel Ausnahmen für den AI Act findet und sich in Paragrafen verliert, schreiben US-Konzerne wie Microsoft und Palantir Milliardengewinne. Das eigentliche Problem ist nicht die Regulierung selbst, sondern die Asymmetrie: Europa reguliert, während Amerika investiert. Die Konsequenz daraus ist eine wachsende Wettbewerbslücke, die sich mit jedem Quartal vergrössert."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-plus-dreht-die-ki-jetzt-voellig-frei/100244205.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Handelsblatt: Dreht die K.I. jetzt völlig frei?",
+        "summary": "Die Hackervorfälle bei OpenAI und Anthropic befeuern eine alte, aber wichtige Debatte über die Grenzen autonomer K.I.-Systeme. Handelsblatt-Chefredakteur Sebastian Matthes fragt: Haben wir die Kontrolle verloren – oder hatten wir sie nie? Was oft unterschätzt wird: Das eigentliche Problem ist nicht die K.I., sondern die Infrastruktur, in der sie läuft."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+      "url_is_article": true,
+      "source": "anthropic.com",
+      "de": {
+        "title": "Anthropic verbessert Fable 5 Biologie-Guardrails: Weniger Fehlalarme",
+        "summary": "Anthropic hat die Biologie-Guardrails von Claude Fable 5 aktualisiert und damit die Rate falscher Positiver deutlich reduziert. Forscher, die an legitimen biologischen Projekten arbeiten, wurden bisher zu häufig blockiert. Der entscheidende Unterschied liegt in der Präzision: Guardrails müssen zwischen Forschung und Missbrauch unterscheiden – nicht pauschal blockieren."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://finance.yahoo.com/technology/ai/articles/palantir-lifts-annual-outlook-q2-204213785.html",
+      "url_is_article": true,
+      "source": "finance.yahoo.com",
+      "de": {
+        "title": "Palantir verdoppelt Umsatz: K.I.-Boom treibt Rekordquartal auf 1,94 Milliarden Dollar",
+        "summary": "Palantir meldet 1,94 Milliarden Dollar Umsatz im zweiten Quartal 2026 – ein Plus von 93 Prozent gegenüber dem Vorjahr. Das US-Geschäft wächst um 149 Prozent auf 764 Millionen Dollar. Die Konsequenz daraus ist: K.I.-Infrastruktur für Regierungen und Unternehmen ist das profitabelste Segment der gesamten K.I.-Wertschöpfungskette – weit vor Modellanbietern."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://www.androidcentral.com/phones/google-pixel/how-to-watch-made-by-google-pixel-11-launch-event-live",
+      "url_is_article": true,
+      "source": "androidcentral.com",
+      "de": {
+        "title": "Google Pixel 11 Launch am 12. August – K.I. als zentrales Verkaufsargument",
+        "summary": "Google präsentiert am 12. August in New York den Pixel 11 – mit K.I.-Features als Hauptthema. Erwartet werden tiefere Gemini-Integration, verbesserte Kamera-K.I. und neue Android-K.I.-Funktionen. Was oft unterschätzt wird: Google nutzt Hardware-Events zunehmend als K.I.-Showcase – nicht als Gerätepräsentation."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://www.instagram.com/p/DbvqY4cS-Kc/",
+      "url_is_article": true,
+      "source": "instagram.com",
+      "de": {
+        "title": "Anthropic baut eigenes K.I.-Chip-Team auf – Unabhängigkeit von Nvidia angestrebt",
+        "summary": "Anthropic bestätigt den Aufbau eines internen Teams für eigene K.I.-Chips. Das Unternehmen sucht Hardware- und Software-Ingenieure für die Entwicklung von Chips, die speziell für Claude optimiert sind. Der entscheidende Unterschied: Wer eigene Chips baut, reduziert die Abhängigkeit von Nvidia – und gewinnt langfristig Kostenvorteile bei der Inferenz."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://tech.yahoo.com/ai/articles/techcrunch-disrupt-2026-real-world-150500491.html",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "TechCrunch Disrupt 2026: Roboter, automatisierte Fabriken und ausgestorbene Tiere",
+        "summary": "Die Real World AI Stage bei TechCrunch Disrupt 2026 zeigt, wohin die K.I.-Anwendung wirklich geht: Industrieroboter, automatisierte Fertigungsanlagen und sogar De-Extinktions-Projekte. Was oft unterschätzt wird: Die spannendsten K.I.-Anwendungen entstehen nicht in Chat-Interfaces, sondern in der physischen Welt."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.aol.com/articles/ai-kill-switch-bill-could-172508000.html",
+      "url_is_article": true,
+      "source": "aol.com",
+      "de": {
+        "title": "US Kill-Switch-Gesetz: DHS soll gefährliche K.I.-Modelle abschalten können",
+        "summary": "Ein überparteilicher Gesetzentwurf im US-Kongress würde dem Department of Homeland Security erlauben, gefährliche K.I.-Modelle im Notfall abzuschalten – mit Bussgeldern bis zu 20 Millionen Dollar pro Tag bei Nichtbefolgung. Das Timing ist kein Zufall: Der Entwurf kommt direkt nach den Ausbruchs-Vorfällen bei OpenAI und Anthropic."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.ibj.com/articles/openai-anthropic-google-to-join-white-house-ai-safety-meeting",
+      "url_is_article": true,
+      "source": "ibj.com",
+      "de": {
+        "title": "OpenAI, Anthropic, Google treffen White House für freiwillige K.I.-Sicherheitstests",
+        "summary": "Die grössten K.I.-Unternehmen haben sich mit White-House-Vertretern getroffen, um einen Rahmen für freiwillige Cybersicherheitstests für fortgeschrittene K.I.-Modelle zu vereinbaren. Das eigentliche Problem: Freiwillige Tests ohne Konsequenzen sind keine Regulierung – sie sind PR. Solange keine verbindlichen Standards existieren, bleibt die Sicherheit ein Wettbewerbsnachteil."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.democracynow.org/2026/8/6/ai",
+      "url_is_article": true,
+      "source": "democracynow.org",
+      "de": {
+        "title": "K.I.-Experte fordert Regierungen auf: Entwicklung sofort stoppen",
+        "summary": "Angesichts wachsender Ängste vor unkontrollierbarer K.I. fordert ein führender K.I.-Experte Regierungen weltweit auf, die Entwicklung autonomer Systeme sofort zu stoppen. \"Wir müssen das Extinktionsrisiko mitigieren\", so der Experte bei Democracy Now. Was oft unterschätzt wird: Solche Forderungen kommen nicht mehr nur von Aktivisten, sondern von Insidern der Branche."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://www.handelsblatt.com/meinung/kommentare/editorial-wer-bin-ich-wenn-ki-meinen-job-uebernimmt-01/100245254.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Handelsblatt: Wer bin ich, wenn K.I. meinen Job übernimmt?",
+        "summary": "Elon Musk prophezeit, in fünf Jahren werde es nichts geben, \"was die K.I. nicht besser kann als Menschen\". Das Handelsblatt-Editorial stellt die entscheidende Frage: Was bleibt vom Menschen, wenn Arbeit kein Identitätsmerkmal mehr ist? Die Konsequenz daraus ist: Die K.I.-Debatte ist längst keine technische mehr – sie ist eine existenzielle."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://www.cooley.com/news/insight/2026/2026-08-03-eu-ai-act-transparency-obligations-take-effect-2-august-2026",
+      "url_is_article": true,
+      "source": "cooley.com",
+      "de": {
+        "title": "EU AI Act: Transparenzpflichten seit 2. August in Kraft – was jetzt gilt",
+        "summary": "Seit dem 2. August 2026 gelten die Transparenzpflichten des EU AI Act. Unternehmen müssen K.I.-generierte Inhalte kennzeichnen, K.I.-Systeme mit Emotionserkennung offenlegen und Deepfakes markieren. Ausnahmen gelten für künstlerische, satirische und fiktionale Werke. Der entscheidende Unterschied: Erstmals gibt es in Europa verbindliche K.I.-Regeln mit echten Durchsetzungsmechanismen."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://www.handelsblatt.com/meinung/wirtschaftsforum/beyond-the-obvious-ki-braucht-strom-kompetenz-und-teilhabe-deutschland-besitzt-nichts-davon-01/100240242.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Handelsblatt: K.I. braucht Strom, Kompetenz und Teilhabe – Deutschland besitzt nichts davon",
+        "summary": "Eine Analyse im Handelsblatt Wirtschaftsforum zeigt schonungslos: Deutschland fehlt es an K.I.-Infrastruktur (Strom, Rechenzentren), K.I.-Kompetenz (Fachkräfte, Ausbildung) und K.I.-Teilhabe (Bevölkerung, KMUs). Das eigentliche Problem ist nicht fehlendes Geld, sondern fehlende Priorität: K.I. ist in Deutschland noch kein nationales Projekt, sondern ein Thema für Experten."
+      }
+    }
+  ],
+  "podcast": {
+    "de": {
+      "audio": "audio/2026-08-08/podcast-de.mp3",
+      "duration_sec": 156
+    }
+  }
+}

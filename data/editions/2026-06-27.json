@@ -1,0 +1,166 @@
+{
+  "date": "2026-06-27",
+  "week": 26,
+  "languages": [
+    "de"
+  ],
+  "migrated_from_commit": "9701fe1",
+  "items": [
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Trump-Regierung gibt Anthropics Mythos-Modell für über 100 US-Firmen und Behörden frei",
+        "summary": "Nach zweiwöchiger Sperre hat die US-Regierung Anthropics leistungsstarkes Mythos-Modell für mehr als 100 ausgewählte Unternehmen und Behörden freigegeben. Der Fable-5-Notaus zeigte: Exportkontrolle ist keine Bürokratie, sondern Geopolitik in Echtzeit. Wer auf US-K.I.-Infrastruktur setzt, ist abhängig von US-Exportpolitik – das ist die eigentliche Lektion dieser Woche."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "OpenAI bremst GPT-5.6-Rollout auf Regierungsanfrage – und kritisiert das Prinzip",
+        "summary": "Die Trump-Regierung bat OpenAI, den Rollout von GPT-5.6 zu verlangsamen und nur von der Regierung geprüften Nutzern Zugang zu gewähren. OpenAI stimmte zu, betont aber: Das sollte nicht die Norm sein. Der entscheidende Unterschied liegt darin, ob K.I.-Regulierung Sicherheit schafft oder Innovation bremst – diese Frage ist noch nicht beantwortet."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "OpenAI stellt ersten eigenen K.I.-Chip vor: Jalapeño – entwickelt mit Broadcom",
+        "summary": "OpenAI und Broadcom haben Jalapeño vorgestellt – einen LLM-optimierten Inferenz-Chip. Erster Einsatz bis Ende 2026 geplant. Das ist keine Produktankündigung, das ist eine strategische Unabhängigkeitserklärung gegenüber Nvidia. Was oft unterschätzt wird: Wer die Chips kontrolliert, kontrolliert die Kosten – und damit die Margen."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com/technik/ki/ki-briefing/ki-briefing-66-prozent-mehr-fuer-apple-produkte-was-das-ueber-den-ki-boom-veraet/100235427.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Handelsblatt K.I.-Briefing: 66 Prozent mehr für Apple-Produkte – was das über den K.I.-Boom verrät",
+        "summary": "US-Tech-Giganten investieren 2026 bis zu 725 Milliarden Dollar in K.I.-Infrastruktur. Apple erhöht Preise um 66 Prozent – und verkauft trotzdem mehr. Die Konsequenz daraus ist: Wer K.I. in Hardware einbettet, kann Preise erhöhen. Das ist die neue Premiumstrategie im K.I.-Zeitalter."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.heise.de/hintergrund/Fable-5-Notaus-So-zog-die-US-Regierung-die-Anthropic-KI-aus-dem-Verkehr-11340173.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "Fable-5-Notaus: Wie die US-Regierung die Anthropic-K.I. in 90 Minuten aus dem Verkehr zog",
+        "summary": "Am 12. Juni 2026 gab die US-Regierung Anthropic 90 Minuten, um auf einen Bericht über mutmaßliche Sicherheitsprobleme zu reagieren. Das Modell wurde sofort gesperrt. Was oft unterschätzt wird: Kein Vertrag schützt vor einem Regierungsentscheid – das ist das eigentliche Risiko für alle, die auf US-K.I.-Dienste setzen."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://t3n.de/news/benchmark-gpt-5-5-cyber-mythos-5-1749083/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "OpenAIs GPT-5.5-Cyber soll Anthropics Mythos 5 beim Auffinden von Sicherheitslücken übertreffen",
+        "summary": "OpenAI hat sein auf K.I.-Sicherheit spezialisiertes Modell GPT-5.5-Cyber aktualisiert. Die neue Version soll Anthropics Mythos 5 beim Auffinden von Sicherheitslücken in grossen Codebasen übertreffen und wird für Partnerfirmen geöffnet. Der Wettbewerb im Bereich K.I.-Sicherheit ist damit nicht mehr nur akademisch – er ist kommerziell."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Amazon investiert weitere 13 Milliarden Dollar in K.I.-Infrastruktur in Indien",
+        "summary": "Amazon verdoppelt seine K.I.-Infrastrukturinvestitionen in Indien auf insgesamt 26 Milliarden Dollar. Indiens Markt wird zum strategischen Schlachtfeld für US-Tech-Konzerne. Die Konsequenz daraus ist: Wer jetzt nicht in Schwellenmärkte investiert, verliert den Anschluss an die nächste Milliarde K.I.-Nutzer."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://t3n.de/news/hacking-ki-modell-schlupfloecher-steuervermeidung-1748499/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "K.I.-Modell findet bisher unentdeckte Schlupflöcher zur Steuervermeidung – Society Hacking",
+        "summary": "Ein K.I.-Modell hat systematisch Steuerschlupflöcher identifiziert, die menschliche Berater übersehen hatten. t3n nennt das \"Society Hacking\". Das eigentliche Problem ist nicht die Technologie, sondern die Frage: Wer nutzt diese Fähigkeit zuerst – Staaten, Konzerne oder Einzelpersonen?"
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Adobe übernimmt Bildverbesserungs-Tool Topaz Labs",
+        "summary": "Adobe kauft Topaz Labs, bekannt für K.I.-gestützte Bild- und Videooptimierung. Die Integration in Creative Cloud ist absehbar. Was oft unterschätzt wird: Adobe konsolidiert systematisch alle K.I.-Bildwerkzeuge unter einem Dach – das verändert die Wettbewerbslandschaft für unabhängige K.I.-Bildtools grundlegend."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://the-decoder.de/ki-pro/eu-ai-act-stichtag-2-august-die-ki-kennzeichnung-kennt-keine-verschnaufpause/",
+      "url_is_article": true,
+      "source": "The Decoder",
+      "de": {
+        "title": "EU AI Act: Ab 2. August 2026 gilt Kennzeichnungspflicht für K.I.-generierte Inhalte",
+        "summary": "Ab dem 2. August 2026 müssen K.I.-generierte Bilder, Videos und Texte im Rahmen des EU AI Act gekennzeichnet werden. Viele Unternehmen sind noch nicht vorbereitet. Der entscheidende Unterschied liegt darin: Kennzeichnungspflicht ist kein Bürokratieakt, sondern ein Vertrauensprojekt – und eine Chance für Marken, die Transparenz als Differenzierungsmerkmal nutzen."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://t3n.de/news/das-ist-ein-proaktives-augenverschliessen-warum-unternehmen-schatten-ki-ernst-nehmen-sollten-1747767/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Warum Unternehmen Schatten-K.I. ernst nehmen sollten: \"Das ist ein proaktives Augenverschliessen\"",
+        "summary": "Mitarbeiter nutzen K.I.-Tools ausserhalb der genehmigten Unternehmensinfrastruktur – Schatten-K.I. wächst rasant. Experten warnen: Wer das ignoriert, riskiert Datenschutzverstösse und unkontrollierte Compliance-Risiken. Die Konsequenz daraus ist: Verbote funktionieren nicht – Unternehmen brauchen eine offizielle K.I.-Strategie, die Mitarbeiter einbindet."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "K.I.-Forscher verlassen Google weiterhin zugunsten der Konkurrenz",
+        "summary": "Trotz Gehaltserhöhungen und Retention-Programmen verlassen führende K.I.-Forscher Google in Richtung Anthropic, OpenAI und Startups. Das eigentliche Problem ist nicht das Gehalt, sondern die Forschungsfreiheit. Wer die besten K.I.-Forscher verliert, verliert langfristig den Vorsprung – unabhängig von der aktuellen Modellperformance."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "K.I. sollte Ingenieurjobs vernichten – neue Daten zeigen: Sie sind die widerstandsfähigsten",
+        "summary": "Entgegen der Erwartungen zeigen neue Arbeitsmarktdaten: Ingenieure und Entwickler sind die am wenigsten von K.I. bedrohten Berufsgruppen. K.I. macht sie produktiver, nicht überflüssig. Was oft unterschätzt wird: Die Bedrohung trifft mittlere Wissensarbeiter härter als technische Spezialisten – das ist das eigentliche Muster."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://t3n.de/news/kuenstliche-intelligenz-sorgt-fuer-rekordzahlen-so-viel-geld-und-zeit-investieren-nutzer-in-ki-anwendungen-1748499/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Nutzer investieren Rekordsummen in K.I.-Anwendungen – 36 Milliarden Stunden und 4 Milliarden Dollar",
+        "summary": "Sensor Tower \"State of AI 2026\": Nutzer verbringen 36 Milliarden Stunden in K.I.-Apps im ersten Halbjahr – doppelt so viel wie im Vorjahr. Consumer Spend: 4 Milliarden Dollar. Mehr als 200.000 Apps werben mit K.I. Die Konsequenz daraus ist: K.I. ist keine eigenständige Kategorie mehr, sondern eine Verhaltens- und Kommerzebene im gesamten Internet."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Unternehmen kämpfen darum, Mitarbeiter am Ausschöpfen von K.I.-Budgets mit Kleinaufgaben zu hindern",
+        "summary": "Firmen berichten: Mitarbeiter nutzen teure K.I.-Modelle für triviale Aufgaben – Kosten explodieren. Token-Kontingente und Nutzungsrichtlinien werden eingeführt. Was oft unterschätzt wird: Das ist kein Disziplinproblem, sondern ein Designproblem – K.I.-Tools ohne klare Nutzungsrahmen erzeugen unkontrollierte Kosten."
+      }
+    }
+  ],
+  "podcast": {
+    "de": {
+      "audio": "audio/2026-06-27/podcast-de.mp3",
+      "duration_sec": 233
+    }
+  }
+}

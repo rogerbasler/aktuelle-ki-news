@@ -1,0 +1,167 @@
+{
+  "date": "2026-04-25",
+  "week": 17,
+  "languages": [
+    "de"
+  ],
+  "migrated_from_commit": "ffb4c9a",
+  "items": [
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Google investiert bis zu 40 Milliarden Dollar in Anthropic",
+        "summary": "Google steigt mit zehn Milliarden Dollar bei Anthropic ein und sichert sich damit eine strategische Allianz mit dem OpenAI-Rivalen. Die Gesamtinvestition kann auf bis zu 40 Milliarden Dollar steigen. Amazon hatte bereits 25 Milliarden zugesagt. Anthropic wird damit zum Knotenpunkt der grössten Tech-Konzerne der Welt – und zum Massstab dafür, wer im KI-Rennen die Infrastruktur kontrolliert."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "OpenAI lanciert GPT-5.5 – ein Schritt zur K.I.-Super-App",
+        "summary": "OpenAI positioniert GPT-5.5 nicht als Chatbot, sondern als agentisches Arbeitsmodell mit Topwerten im Coding. Der Pivot ist klar: weg vom Gespräch, hin zur autonomen Aufgabenausführung. Was oft unterschätzt wird: Der Schritt zur Super-App bedeutet, dass OpenAI nicht mehr nur ein Modell verkauft – sondern eine Plattform für alle digitalen Workflows."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "DeepSeek präsentiert V4 – chinesische K.I. schliesst Lücke zu Frontier-Modellen",
+        "summary": "Das chinesische KI-Startup DeepSeek hat V4 als Vorschau veröffentlicht – ein Jahr nach dem Durchbruchmodell R1. Der Stanford AI Index 2026 bestätigt: Der Leistungsvorsprung der USA beträgt noch 2,7 Prozent. Vor drei Jahren waren es 1.300 Punkte. Die Konsequenz daraus ist: Wer auf US-Modelle als einzige Option setzt, unterschätzt die Geschwindigkeit des chinesischen Aufholens."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "SpaceX sichert sich Kaufoption für K.I.-Coding-Startup Cursor – Wert: 60 Milliarden Dollar",
+        "summary": "Cursor war auf dem Weg zu einer Finanzierungsrunde von zwei Milliarden Dollar – bis SpaceX mit einem Angebot von zehn Milliarden als Kooperationsgebühr und einer Kaufoption für 60 Milliarden Dollar dazwischenkam. Elon Musk kauft sich in die KI-Infrastruktur für Entwickler ein. Der entscheidende Unterschied: Es geht nicht um ein Produkt, sondern um die Kontrolle über den KI-Coding-Stack."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://t3n.de/news/globaler-ki-champion-aleph-alpha-und-cohere-schliessen-sich-zusammen-worauf-die-deutsche-regierung-nun-hofft-1739802/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Aleph Alpha und Cohere fusionieren – Europas Antwort auf US-K.I.-Dominanz",
+        "summary": "Das Heidelberger KI-Unternehmen Aleph Alpha und das kanadische Cohere wollen fusionieren und einen globalen KI-Champion aufbauen. Die Regierungen Deutschlands und Kanadas feiern den Deal als Souveränitätsprojekt. Was oft unterschätzt wird: Der Deal ist auch ein Eingeständnis, dass kein europäisches Unternehmen allein gegen die US-Giganten bestehen kann."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "ComfyUI erreicht 500-Millionen-Dollar-Bewertung – Creators wollen mehr Kontrolle",
+        "summary": "ComfyUI, dessen Tools Creators mehr Kontrolle über KI-generierte Bilder, Videos und Audio geben, hat 30 Millionen Dollar eingesammelt und erreicht eine Bewertung von 500 Millionen Dollar. Der Markt für kontrollierbare KI-Kreativwerkzeuge wächst schnell – weil Nutzer merken, dass Black-Box-Generatoren für professionelle Anwendungen nicht ausreichen."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Google macht K.I. zum neuen Büro-Assistenten in Workspace",
+        "summary": "Google hat eine Reihe neuer automatisierter Funktionen in Workspace eingeführt, alle angetrieben durch Workspace Intelligence. KI übernimmt Routineaufgaben in Docs, Sheets und Gmail. Der entscheidende Unterschied zu bisherigen Assistenten: Die Integration ist nahtlos – keine separate App, kein Prompt-Fenster, sondern KI als Standard-Workflow."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Google lanciert neue TPU-K.I.-Chips als Konkurrenz zu Nvidia",
+        "summary": "Google hat auf der Cloud Next 2026 zwei neue TPU-Systeme der achten Generation vorgestellt: TPU 8t für das Training grosser KI-Modelle und TPU 8i für Inferenz. Beide schliessen AMD und Intel aus und setzen auf eigene ARM-Prozessoren. Google versucht damit, die Abhängigkeit von Nvidia zu reduzieren – und bietet Kunden eine Alternative im explodierenden KI-Chip-Markt."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Meta schliesst Deal für Millionen Amazon-K.I.-Chips – Chip-Markt in Bewegung",
+        "summary": "In einer weiteren unerwarteten Wendung im KI-Chip-Markt hat Meta einen Deal für Millionen von Amazon-KI-Prozessoren unterzeichnet. Gleichzeitig entlässt Meta 8.000 Mitarbeitende. Das Muster ist klar: Weniger Menschen, mehr Chips. Die Investitionen in KI-Hardware steigen, während die Personalkosten sinken."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.heise.de/en/news/271-Firefox-flaws-closed-thanks-to-Mythos-AI-Breakthrough-for-IT-security-11267732.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "Anthropics Mythos-K.I. findet 271 Firefox-Schwachstellen – Durchbruch für IT-Sicherheit",
+        "summary": "Anthropics KI-Modell Mythos hat autonom 271 Schwachstellen im Firefox-Browser gefunden und damit einen Durchbruch für die IT-Sicherheit markiert. Das eigentliche Problem ist nicht die Technologie selbst, sondern die Dual-Use-Natur: Dieselbe KI, die Verteidiger stärkt, kann auch angreifen. Inzwischen wird die Frage gestellt, was Mythos für die Sicherheit in Deutschland bedeutet."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.heise.de/news/Anthropic-und-US-Regierung-wieder-im-Gespraech-ueber-Zusammenarbeit-11263461.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "Anthropic und US-Regierung verhandeln erneut über K.I.-Zusammenarbeit",
+        "summary": "Anthropic und die US-Regierung sind wieder im Gespräch über eine Zusammenarbeit – obwohl Anthropic eigentlich als Sicherheitsrisiko eingestuft wurde und dagegen klagt. Die Einstufung ist damit vorläufig ausgesetzt. Die Konsequenz daraus ist: Staatliche Akteure wollen Zugang zu den leistungsfähigsten KI-Modellen, unabhängig von regulatorischen Bedenken."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://t3n.de/news/stanford-ai-index-2026-usa-china-ki-vorsprung-1739026/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Stanford AI Index 2026: China schliesst K.I.-Lücke zu den USA fast vollständig",
+        "summary": "Der Stanford AI Index 2026 zeigt: Der Leistungsvorsprung der USA gegenüber China bei KI-Modellen beträgt nur noch 2,7 Prozent. Vor drei Jahren waren es 1.300 Punkte. China führt bei Forschungsvolumen, Patenten und industriellen Robotern. Die USA führen bei privatem KI-Investment mit 285,9 Milliarden Dollar gegenüber 12,4 Milliarden in China. Das eigentliche Problem ist nicht der Rückstand – sondern die Geschwindigkeit des Aufholens."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://t3n.de/news/ki-im-kriegsfall-warum-das-prinzip-vom-human-in-the-loop-eine-illusion-ist-1739165/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "K.I. im Kriegsfall: Warum das Prinzip vom Human in the Loop eine Illusion ist",
+        "summary": "Ein Grossteil der Debatte über KI-gestützte Waffen dreht sich um die Frage, inwieweit Menschen die Arbeit der KI überblicken sollen. Experten argumentieren: Das Prinzip vom Human in the Loop ist eine Illusion. Die Systeme agieren schneller, als Menschen reagieren können. Was oft unterschätzt wird: Wer KI im Kriegsfall einsetzen will, muss akzeptieren, dass er die Kontrolle teilweise abgibt."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://www.heise.de/meinung/Vibecoding-Wenn-das-KI-Paradies-vom-guten-Willen-der-Firmen-abhaengt-11269225.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "Vibecoding: Wenn das K.I.-Paradies vom guten Willen der Firmen abhängt",
+        "summary": "Vibecoding – das Programmieren per natürlicher Sprache – versprach, jeden zum Entwickler zu machen. Doch ein Preistest bei Anthropic zeigt, wie fragil dieses Geschäftsmodell für Nutzer ist. Wer sein Startup auf günstigen KI-Token-Preisen aufgebaut hat, merkt jetzt: Das Paradies gehört den Plattformen, nicht den Nutzern. Der entscheidende Unterschied liegt in der Abhängigkeit von Preisstrukturen, die sich jederzeit ändern können."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://www.heise.de/en/news/Money-for-AI-Meta-Platforms-announces-layoffs-for-every-tenth-employee-11270618.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "Meta und Microsoft entlassen Tausende – K.I.-Strukturwandel beschleunigt sich dramatisch",
+        "summary": "Meta entlässt 8.000 Mitarbeitende und streicht 6.000 offene Stellen – für KI-Investitionen. Microsoft folgt mit weiteren 9.000 Entlassungen. 2026 ist das Jahr, in dem KI anfängt, Arbeitsweisen dramatisch zu verändern. Projekte, die früher grosse Teams brauchten, werden nun von kleinen Teams mit KI-Unterstützung erledigt. Der Strukturwandel durch KI ist keine Zukunftsprognose mehr. Er ist Gegenwart."
+      }
+    }
+  ],
+  "podcast": {
+    "de": {
+      "audio": "audio/2026-04-25/podcast-de.mp3",
+      "duration_sec": 228,
+      "script": "Wer kontrolliert eigentlich die KI-Infrastruktur der Zukunft – und warum entscheidet das über mehr als nur Marktanteile?\n\nDiese Woche hat Google eine Antwort geliefert: bis zu 40 Milliarden Dollar in Anthropic. Das ist keine Investition – das ist eine Allianz. Amazon hat bereits 25 Milliarden nachgelegt. Anthropic wird damit zum strategischen Knotenpunkt zwischen den grössten Tech-Konzernen der Welt.\n\nGleichzeitig lanciert OpenAI GPT-5.5 – nicht als Chatbot, sondern als agentisches Arbeitsmodell. Der Pivot ist klar: weg vom Gespräch, hin zur autonomen Aufgabenausführung. Die KI wird zum Mitarbeiter.\n\nDeepSeek aus China präsentiert V4 und schliesst damit die Lücke zu den Frontier-Modellen der USA auf wenige Prozentpunkte. Der Stanford AI Index 2026 bestätigt: Der Vorsprung der USA beträgt noch 2,7 Prozent. Vor drei Jahren waren es 1.300 Punkte.\n\nIn Europa passiert etwas Unerwartetes: Aleph Alpha und Cohere fusionieren. Deutschland und Kanada wollen gemeinsam einen globalen KI-Champion aufbauen. Ob das reicht, um gegen die US-Giganten zu bestehen, bleibt offen. Aber es ist der erste ernstzunehmende Versuch.\n\nSpaceX sichert sich die Kaufoption für Cursor – das heisseste KI-Coding-Startup der Stunde – für 60 Milliarden Dollar. Elon Musk kauft sich in die KI-Infrastruktur für Entwickler ein. Der Chip-Markt dreht sich ebenfalls: Google lanciert neue TPU-Chips als Nvidia-Alternative, Meta schliesst einen Deal für Millionen Amazon-KI-Prozessoren.\n\nAuf der Werkzeugseite: ComfyUI erreicht 500 Millionen Dollar Bewertung. Google macht KI zum Standard-Assistenten in Workspace.\n\nBeim Thema Sicherheit wird es ernst: Anthropics Mythos-KI hat 271 Schwachstellen im Firefox-Browser gefunden – autonom, in kurzer Zeit. Das ist ein Durchbruch für IT-Sicherheit. Und ein Weckruf: Dieselbe Technologie kann auch angreifen.\n\nDie gesellschaftlichen Konsequenzen sind bereits spürbar: Meta entlässt 8.000 Mitarbeitende, Microsoft weitere 9.000. KI-Strukturwandel ist keine Prognose mehr. Er ist Gegenwart.\n\nWas oft unterschätzt wird: Vibecoding – das Programmieren per natürlicher Sprache – ist fragil. Anthropic hat gerade die Preise erhöht. Wer sein Geschäftsmodell auf günstigen KI-Tokens aufgebaut hat, merkt jetzt: Das Paradies gehört den Plattformen, nicht den Nutzern.\n\nUnd im Krieg? Das Prinzip vom Human in the Loop – also dem Menschen, der KI-Entscheidungen kontrolliert – ist laut Experten eine Illusion. Die Systeme agieren schneller, als Menschen reagieren können.\n\nDie Konsequenz aus all dem ist: KI ist kein Werkzeug mehr, das man benutzt. Es ist eine Infrastruktur, die man versteht – oder von der man abhängig wird.\n\nDas war das KI Power Update vom 25. April 2026. Powered by ki-power.me."
+    }
+  }
+}

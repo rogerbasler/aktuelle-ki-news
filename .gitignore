@@ -61,3 +61,7 @@ Thumbs.db
 # package-lock.json
 # yarn.lock
 # pnpm-lock.yaml
+
+# Arbeitsdateien der Pipeline
+audio/*/part-*.mp3
+audio/*/concat.txt

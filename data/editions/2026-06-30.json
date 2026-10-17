@@ -1,0 +1,165 @@
+{
+  "date": "2026-06-30",
+  "week": 27,
+  "languages": [
+    "de"
+  ],
+  "migrated_from_commit": "1134f9d",
+  "items": [
+    {
+      "category": "news",
+      "url": "https://www.heise.de/news/KI-Update-kompakt-KI-Moderation-Finanzmarkt-Datenschutz-GPT-Images-11347597.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "Meta ersetzt menschliche Moderatoren durch K.I. – neun von zehn Entscheidungen bald automatisiert",
+        "summary": "Meta will die Moderation auf Facebook und Instagram bis Ende 2026 weitgehend automatisieren. Neun von zehn Entscheidungen sollen künftig allein von der K.I. stammen. Offiziell nennt Meta bessere Qualität als Grund – intern geht es ums Geld. Das eigentliche Problem ist nicht die Technologie, sondern die Frage: Wer kontrolliert, was auf den grössten Plattformen der Welt sichtbar ist?"
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.heise.de/news/GPT-5-6-OpenAI-verspricht-mehr-Leistung-bei-weniger-Token-Verbrauch-11346852.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "GPT-5.6: OpenAI verspricht mehr Leistung bei weniger Token – aber nur für ausgewählte Kunden",
+        "summary": "Unter strengen Auflagen der US-Regierung durfte OpenAI GPT-5.6 veröffentlichen. Drei Modelle: Terra, Luna und Sol. Sol übertrifft Anthropics Konkurrenzprodukt in Benchmarks und kostet nur ein Viertel davon. Der entscheidende Unterschied liegt nicht in der Leistung, sondern im Preis – und im Zugang."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.heise.de/news/Per-Brief-US-Regierung-hebt-Sperre-von-Claude-Mythos-auf-11346880.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "US-Regierung hebt Sperre von Claude Mythos auf – Fable 5 bleibt vorerst gesperrt",
+        "summary": "Die US-Regierung hat die Sperre von Anthropics Modell Claude Mythos per Brief von Handelsminister Lutnick teilweise aufgehoben. Nur rund hundert ausgewählte Firmen erhalten Zugang. Fable 5 bleibt gesperrt. Was oft unterschätzt wird: Kein Vertrag schützt vor einem Regierungsentscheid – das ist das eigentliche Risiko für alle, die auf US-K.I.-Infrastruktur setzen."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Asiatische K.I.-Startups lancieren Mythos-ähnliche Modelle während Anthropics Exportsperre anhält",
+        "summary": "Während Anthropics Fable 5 gesperrt bleibt, lancieren asiatische K.I.-Startups leistungsstarke Alternativen. Chinas GLM-5.2 erreicht laut Sicherheitsexperten die Fähigkeiten von Anthropics Modell bei der Schwachstellensuche. Die Konsequenz daraus ist: Exportbeschränkungen beschleunigen die K.I.-Entwicklung ausserhalb der USA."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://the-decoder.de/us-bank-j-p-morgan-sieht-eine-menge-roter-flaggen-am-ki-finanzmarkt/",
+      "url_is_article": true,
+      "source": "The Decoder",
+      "de": {
+        "title": "J.P. Morgan sieht rote Flaggen am K.I.-Finanzmarkt – Muster wie zur Dotcom-Blase",
+        "summary": "J.P. Morgan warnt: Nur 42 K.I.-Unternehmen treiben bis zu 80 Prozent der Gewinne im S&P 500. Bei Halbleiter-Aktien erkennt die Bank Muster wie zur Dotcom-Blase. Hedgefonds sind stark in Chip-Aktien investiert, kreditfinanzierte Käufe steigen. Das eigentliche Problem ist nicht der Hype, sondern die Konzentration."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-qualcomm-gewinnt-microsoft-und-meta-als-kunden-fuer-neue-ki-chips/100235635.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Qualcomm gewinnt Microsoft und Meta als Kunden für neue K.I.-Chips",
+        "summary": "Qualcomm gelingt der Einstieg in den stark wachsenden Markt für K.I.-Chips in Rechenzentren: Microsoft und Meta zählen nun zu den Abnehmern der neuen Chips. Das ist ein direkter Angriff auf Nvidias Marktdominanz. Was oft unterschätzt wird: Wer die Chips kontrolliert, kontrolliert die Kosten – und damit die Margen."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://the-decoder.de/coinbase-wechselt-zu-chinesischen-ki-modellen-und-halbiert-seine-ki-ausgaben/",
+      "url_is_article": true,
+      "source": "The Decoder",
+      "de": {
+        "title": "Coinbase halbiert K.I.-Ausgaben durch Umstieg auf chinesische Modelle wie GLM 5.2 und Kimi",
+        "summary": "Coinbase-Chef Brian Armstrong hat die Software auf chinesische Standard-K.I.-Modelle umgestellt. Ergebnis: mehr Token-Verbrauch, aber nur noch die Hälfte der Kosten. Ein automatisches System leitet jede Anfrage nach Aufgabe, Preis und Caching an das passende Modell weiter. Für westliche Anbieter wächst damit der Preisdruck – im Umfeld anstehender Börsengänge ein zusätzliches Risiko."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Patronus AI erhält 50 Millionen Dollar, um K.I.-Agenten in digitalen Welten zu testen",
+        "summary": "Patronus AI sichert sich 50 Millionen Dollar Finanzierung, um sogenannte digitale Welten zu bauen, in denen K.I.-Agenten unter realistischen Bedingungen getestet werden. Die Konsequenz daraus ist: Wer K.I.-Agenten produktiv einsetzen will, braucht zuerst eine Testinfrastruktur – das ist der nächste Engpass."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://www.handelsblatt.com/technik/ki/start-up-bekannte-investorin-wird-co-chefin-bei-ki-firma-langdock/100235245.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Investorin Judith Dada wird Co-Chefin bei Langdock – „Glaube, das wird die grösste K.I.-Firma Europas\"",
+        "summary": "Judith Dada, eine der bekanntesten Tech-Investorinnen Europas und frühe Geldgeberin bei Langdock, wechselt die Seiten und wird Co-Chefin des Berliner K.I.-Startups. Das Unternehmen wächst rasant. Der entscheidende Unterschied liegt darin: Langdock baut auf Enterprise-K.I. für den deutschen Markt – mit Datenschutz als Differenzierungsmerkmal."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.heise.de/news/KI-Update-kompakt-KI-Moderation-Finanzmarkt-Datenschutz-GPT-Images-11347597.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "Sachsen führt K.I.-Gesichtserkennung in Echtzeit ein – Bürgerrechtler warnen vor Überwachungsstaat",
+        "summary": "Der Sächsische Landtag hat sein Polizeigesetz reformiert und gibt der Polizei weitreichende K.I.-Befugnisse. Kernstück: automatisierte Videoüberwachung mit biometrischer Gesichtserkennung in Echtzeit. Der Chaos Computer Club warnt vor grossem Missbrauchspotenzial. Die Konsequenz daraus ist: Was heute als Ausnahme gilt, wird morgen zur Norm."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.heise.de/news/KI-Update-kompakt-KI-Moderation-Finanzmarkt-Datenschutz-GPT-Images-11347597.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "Fast 400 US-Verlage klagen gegen Microsoft und OpenAI wegen unerlaubtem Training auf ihren Inhalten",
+        "summary": "Fast 400 US-Nachrichtenportale aus 33 Bundesstaaten verklagen Microsoft und OpenAI. Die Verlage werfen den Unternehmen vor, ihre Inhalte ohne Erlaubnis für das Training von ChatGPT und Copilot genutzt zu haben – auch solche hinter Bezahlschranken. Sam Altman hatte erklärt, führende Modelle liessen sich ohne geschützte Materialien nicht trainieren. Das ist der Kern des Konflikts."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.heise.de/news/Brief-an-die-EU-OeSterreich-will-Anthropic-nach-Europa-holen-11347258.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "Österreich schreibt an die EU: Anthropic soll nach Europa kommen",
+        "summary": "Österreich hat einen Brief an die EU gerichtet mit der Forderung, Anthropic als europäischen Partner zu gewinnen und die Abhängigkeit von US-K.I.-Modellen zu reduzieren. Was oft unterschätzt wird: Die Anthropic-Sperre hat die geopolitische Dimension von K.I.-Abhängigkeit auf Regierungsebene sichtbar gemacht – das ist eine neue Qualität der Debatte."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://the-decoder.de/anthropic-umfrage-jeder-zweite-claude-nutzer-sagt-dass-ki-schon-die-haelfte-seiner-arbeit-erledigen-kann/",
+      "url_is_article": true,
+      "source": "The Decoder",
+      "de": {
+        "title": "Anthropic-Umfrage: Jeder zweite Claude-Nutzer sagt, K.I. erledigt schon die Hälfte seiner Arbeit",
+        "summary": "Laut einer Anthropic-Umfrage unter rund 9.700 Claude-Nutzern sieht knapp die Hälfte die K.I. bereits heute bei mindestens 50 Prozent ihrer Arbeitsaufgaben als einsetzbar. In zwölf Monaten erwarten 26 Prozent sogar einen K.I.-Anteil von 60 bis 90 Prozent. Berufseinsteiger sorgen sich am meisten – ausgerechnet die intensivsten Nutzer blicken am optimistischsten auf ihre Karrierechancen."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://t3n.de/news/prognose-ki-kosten-koennten-bis-2028-durchschnittliches-entwicklergehalt-uebersteigen-1749723/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Gartner-Prognose: K.I.-Coding-Kosten übersteigen bis 2028 das durchschnittliche Entwicklergehalt",
+        "summary": "Gartner erwartet stark steigende Kosten beim K.I.-gestützten Programmieren. Bis 2028 sollen die Token-Kosten pro Entwickler:in den globalen Durchschnittslohn von 2.000 Dollar im Monat übersteigen. Was oft unterschätzt wird: Das ist kein Effizienzgewinn, das ist eine neue Kostenkategorie – und sie trifft Unternehmen ohne klare K.I.-Governance besonders hart."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://t3n.de/news/handwerk-statt-homeoffice-wie-ki-die-berufswuensche-der-jugend-veraendert-1749944/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Handwerk statt Homeoffice: Wie K.I. die Berufswünsche der Jugend verändert",
+        "summary": "K.I. verändert die Arbeitswelt – und damit auch die Berufswünsche junger Menschen. In den USA fühlen sich 82 Prozent der 14- bis 23-Jährigen im Umgang mit K.I. kompetent. Gleichzeitig gewinnen handwerkliche und physische Berufe an Attraktivität – weil sie als K.I.-resistent gelten. Die Konsequenz daraus ist: Die nächste Generation denkt bereits strategisch über K.I.-Resilienz nach."
+      }
+    }
+  ],
+  "podcast": {
+    "de": {
+      "script": "Was passiert, wenn ein Staat entscheidet, welche AI-Modelle du nutzen darfst – und welche nicht?\n\nWillkommen beim AI Power Update vom 30. Juni 2026. Ich bin Lea, und das sind die 15 wichtigsten Entwicklungen der letzten Woche.\n\nBeginnen wir mit dem Thema, das die Branche dominiert: Meta automatisiert seine Content-Moderation vollständig. Neun von zehn Entscheidungen sollen künftig von AI getroffen werden – ohne menschliche Prüfer. Offiziell nennt Meta bessere Qualität als Grund. Intern geht es ums Geld. Das eigentliche Problem ist nicht die Technologie, sondern die Frage: Wer kontrolliert, was auf den grössten Plattformen der Welt sichtbar ist?\n\nGleichzeitig veröffentlicht OpenAI GPT-5.6 – aber nur für ausgewählte Kunden, auf Anweisung der US-Regierung. Das neue Modell verspricht mehr Leistung bei weniger Token-Verbrauch. Drei Varianten: Terra, Luna und Sol. Sol übertrifft Anthropics Konkurrenzprodukt in Benchmarks – und kostet nur ein Viertel davon. Der entscheidende Unterschied liegt nicht in der Leistung, sondern im Preis.\n\nApropos Anthropic: Die US-Regierung hat die Sperre von Claude Mythos teilweise aufgehoben – per Brief. Nur rund hundert ausgewählte Firmen erhalten Zugang. Fable 5 bleibt gesperrt. Was oft unterschätzt wird: Kein Vertrag schützt vor einem Regierungsentscheid. Das ist das eigentliche Risiko für alle, die auf US-AI-Infrastruktur setzen.\n\nWährend Anthropic gesperrt ist, lancieren asiatische AI-Startups Mythos-ähnliche Modelle. Chinas GLM-5.2 erreicht laut Sicherheitsexperten die Fähigkeiten von Anthropics Modell bei der Schwachstellensuche. Die Konsequenz daraus ist: Der AI-Wettbewerb ist längst global – und Exportbeschränkungen beschleunigen die Entwicklung ausserhalb der USA.\n\nJ.P. Morgan warnt unterdessen vor einer AI-Blase. Nur 42 AI-Unternehmen treiben bis zu 80 Prozent der Gewinne im S&P 500. Bei Halbleiter-Aktien erkennt die Bank Muster wie zur Dotcom-Blase. Das eigentliche Problem ist nicht der Hype, sondern die Konzentration.\n\nBei den Tools und Startups: Qualcomm gewinnt Microsoft und Meta als Kunden für neue AI-Chips. Das ist ein direkter Angriff auf Nvidias Marktdominanz. Coinbase halbiert seine AI-Ausgaben durch Umstieg auf chinesische Modelle wie GLM 5.2 und Kimi. Weniger Kosten, gleiche Leistung. Für westliche Anbieter wächst damit der Preisdruck.\n\nPatronus AI erhält 50 Millionen Dollar, um AI-Agenten in digitalen Welten zu testen. Und Judith Dada, eine der bekanntesten Investorinnen Europas, wird Co-Chefin bei Langdock – mit dem Ziel, die grösste AI-Firma Europas aufzubauen.\n\nZur Regulierung: Sachsen führt AI-Gesichtserkennung in Echtzeit ein. Bürgerrechtler warnen vor dem Aufbau einer Überwachungsinfrastruktur. Fast 400 US-Verlage klagen gegen Microsoft und OpenAI wegen unerlaubtem Training auf ihren Inhalten. Und Österreich schreibt einen Brief an die EU – mit der Bitte, Anthropic nach Europa zu holen. Die Abhängigkeit von US-AI ist politisch angekommen.\n\nZu den Perspektiven: Eine Anthropic-Umfrage unter fast zehntausend Claude-Nutzern zeigt: Jeder zweite sagt, AI erledigt schon die Hälfte seiner Arbeit. In zwölf Monaten erwarten 26 Prozent einen AI-Anteil von 60 bis 90 Prozent. Gartner prognostiziert: Bis 2028 übersteigen die Token-Kosten für AI-Coding das durchschnittliche Entwicklergehalt. Was oft unterschätzt wird: Das ist kein Effizienzgewinn, das ist eine neue Kostenkategorie.\n\nUnd zum Abschluss: Eine t3n-Studie zeigt, dass AI die Berufswünsche der Jugend verändert. In den USA fühlen sich 82 Prozent der 14- bis 23-Jährigen im Umgang mit AI kompetent. Handwerk und physische Berufe gewinnen an Attraktivität – weil sie AI-resistent sind. Die Konsequenz daraus ist: Die nächste Generation denkt bereits strategisch über AI-Resilienz nach.\n\nDas war das AI Power Update vom 30. Juni 2026. Mehr Orientierung, weniger Hype – powered by www.ki-power.me."
+    }
+  }
+}

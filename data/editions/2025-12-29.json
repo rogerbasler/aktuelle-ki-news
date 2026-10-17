@@ -1,0 +1,381 @@
+{
+  "date": "2025-12-29",
+  "week": 1,
+  "languages": [
+    "de"
+  ],
+  "migrated_from_commit": "7f1f29c",
+  "items": [
+    {
+      "category": "news",
+      "url": "https://t3n.de/news/ki-luecke-humanoide-roboter-schlag-1723282/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Forscher hacken humanoiden Roboter – der schlägt auf Attrappe ein",
+        "summary": "Im Rahmen eines Cybersecurity-Wettbewerbs haben Forscher einen humanoiden Roboter mit nur einem Sprachbefehl kompromittiert und ihn dazu gebracht, auf eine Attrappe einzuschlagen. Dies zeigt eindrucksvoll die Verwundbarkeit von KI-gesteuerten Systemen. Die Sicherheitslücke wurde während des GeekCon-Wettbewerbs entdeckt und wirft wichtige Fragen zur Absicherung autonomer Roboter auf."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://t3n.de/news/von-wegen-kreativ-warum-ki-oft-in-alte-muster-verfaellt-1722749/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Von wegen kreativ: Warum KI oft in alte Muster verfällt",
+        "summary": "KI-Modelle sind erstaunlich unkreativ. Zu diesem Ergebnis kommt eine neue Studie, die zeigt, dass Large Language Models dazu neigen, in bekannte Muster zurückzufallen. Die Forscher betonen jedoch, dass dies nicht zwangsläufig so bleiben muss und arbeiten an Lösungen, um die kreative Leistung von KI-Systemen zu verbessern."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://heise.de",
+      "url_is_article": false,
+      "source": "heise",
+      "de": {
+        "title": "Meta SAM 3 und 3D als offene Modelle verfügbar",
+        "summary": "Meta hat SAM 3 (Segment Anything Model) als offenes Modell veröffentlicht. SAM kann Objekte auf Bildern und in Videos segmentieren, sogar Audio ist per Prompt separierbar. Das KI-Modell ist frei verfügbar und besonders wertvoll für Robotik-Anwendungen und Datalabeling-Projekte. Die neue Version bietet deutlich verbesserte Genauigkeit und Geschwindigkeit."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://heise.de",
+      "url_is_article": false,
+      "source": "heise",
+      "de": {
+        "title": "ChatGPT Wrapped: Chats statt Musik-Playlisten",
+        "summary": "OpenAI führt für ChatGPT einen persönlichen Jahresrückblick ein, der an Spotifys Wrapped erinnert. Nutzer können ihre häufigsten Themen, interessantesten Gespräche und Nutzungsstatistiken des Jahres 2025 einsehen. Die Funktion zeigt, wie KI-Assistenten zunehmend zu persönlichen Begleitern im Alltag werden."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://heise.de",
+      "url_is_article": false,
+      "source": "heise",
+      "de": {
+        "title": "KI simuliert Evolution: So entstehen Insekten- und Linsenaugen",
+        "summary": "Ein Forschungsteam hat die Evolution des Auges in einer Physik-Simulation nachgebaut. Die Ergebnisse zeigen, warum die Natur so unterschiedliche Augenformen entwickelt hat – von einfachen Insektenaugen bis zu komplexen Linsenaugen. Die KI-gestützte Simulation liefert neue Erkenntnisse über evolutionäre Prozesse."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://blog.google/technology/ai/google-ai-news-recap-2025/",
+      "url_is_article": true,
+      "source": "blog.google",
+      "de": {
+        "title": "Google 2025 Rückblick: 60 der größten KI-Ankündigungen",
+        "summary": "Google hatte ein geschäftiges 2025 mit vielen KI-Produkt- und Feature-Ankündigungen. Gemini-Updates, AI Mode in der Suche, neue Pixel-Hardware und Durchbrüche in der Forschung waren nur einige der Highlights. Der Jahresrückblick zeigt, wie schnell sich die KI-Landschaft entwickelt."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://t3n.de",
+      "url_is_article": false,
+      "source": "t3n",
+      "de": {
+        "title": "So planst du 2026 mit KI: Fünf Prompts helfen beim Start ins neue Jahr",
+        "summary": "Gute Vorsätze scheitern mitunter an fehlender Struktur. Mit fünf praktischen Prompts definierst und priorisierst du deine Ziele und planst konkrete Schritte für 2026. Die Prompts helfen bei der Zielsetzung, Priorisierung und der Erstellung eines realistischen Aktionsplans."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://t3n.de/news/ki-agenten-ohne-coding-langflow-1687080/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "KI-Agenten ohne Coding erstellen: Wir haben Langflow ausprobiert",
+        "summary": "Eigene KI-Agenten ohne Programmierkenntnisse aufbauen? Mit Langflow soll das möglich sein. Die Desktop-Version wurde getestet und zeigt, wie zugänglich die Entwicklung von KI-Agenten mittlerweile geworden ist. Das Tool bietet eine visuelle Oberfläche für die Erstellung komplexer KI-Workflows."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com/technik/ki/technologie-wer-ist-der-mann-der-die-naechste-ki-revolution-in-europa-plant/100181341.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Wer ist der Mann, der „die nächste KI-Revolution\" in Europa plant?",
+        "summary": "Yann LeCun gilt als einer der Vordenker von Künstlicher Intelligenz in den USA. Jetzt gründet er sein eigenes Unternehmen ausgerechnet in Europa. Das Start-up soll sich auf \"World Models\" spezialisieren und strebt eine Bewertung von über 5 Milliarden Dollar an. Die Entscheidung für Europa als Standort ist bemerkenswert."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com",
+      "url_is_article": false,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Die Berliner Firma Peec AI gehört zu den KI-Start-ups, die in Europa am schnellsten wachsen",
+        "summary": "Von null auf fünf Millionen Euro Umsatz in zwölf Monaten: Peec AI hilft Marken, bei KI-Suchmaschinen sichtbar zu sein. Kunden wie Tui, Axel Springer und Chanel nutzen die Software bereits. Das Start-up zeigt, wie wichtig SEO für KI-Suchmaschinen wird."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com",
+      "url_is_article": false,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Waymo testet Gemini als KI-Assistenten in seinen Robotaxis",
+        "summary": "Waymo integriert Googles Gemini als KI-Assistenten in seine autonomen Fahrzeuge für bessere Fahrgast-Interaktion. Die Passagiere können während der Fahrt Fragen stellen, Empfehlungen erhalten und Informationen abrufen. Dies zeigt die zunehmende Integration von KI in Mobilitätslösungen."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://heise.de",
+      "url_is_article": false,
+      "source": "heise",
+      "de": {
+        "title": "Google Echtzeit-Übersetzer: Mehr als Wort zu Wort Übersetzungen",
+        "summary": "Googles Echtzeit-Übersetzer schaut voraus und denkt das Gesprochene mit, erklärt Niklas Blum, Director Product Management. Die neue Technologie berücksichtigt Kontext und Sprachmuster für natürlichere Übersetzungen in Echtzeit."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com",
+      "url_is_article": false,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Marissa Mayers neues Start-up Dazzle sammelt 8 Millionen Dollar ein",
+        "summary": "Das neue Start-up der ehemaligen Yahoo-CEO erhält Finanzierung von Forerunner's Kirsten Green. Dazzle fokussiert sich auf innovative KI-Lösungen für den Consumer-Bereich. Die Investition zeigt das anhaltende Vertrauen in erfahrene Tech-Führungskräfte."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://t3n.de",
+      "url_is_article": false,
+      "source": "t3n",
+      "de": {
+        "title": "Kein Big Tech, kein Trump: So surft, sucht und mailt ihr ohne Google, Microsoft und Co.",
+        "summary": "Ein umfassender Ratgeber für digitale Unabhängigkeit von den großen Tech-Konzernen. Der Artikel zeigt Alternativen zu Google Search, Gmail, Microsoft Office und anderen dominanten Diensten auf. Datenschutz und digitale Souveränität stehen im Fokus."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://t3n.de",
+      "url_is_article": false,
+      "source": "t3n",
+      "de": {
+        "title": "Wie KI Betrügern bei Phishing-Angriffen hilft – und wie du dich davor schützt",
+        "summary": "KI macht Phishing-Angriffe gefährlicher und schwerer zu erkennen. Ein ausführlicher Ratgeber zeigt, wie KI-gestützte Betrugsversuche funktionieren und welche Schutzmaßnahmen wirklich helfen. Besonders perfide sind personalisierte Angriffe, die durch KI ermöglicht werden."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://heise.de",
+      "url_is_article": false,
+      "source": "heise",
+      "de": {
+        "title": "OpenAI: Prompt Injections für KI-Browser bleiben ein Problem",
+        "summary": "KI-Agenten und Browser werden besser gegen Prompt Injections geschützt. Doch: Das Problem wird laut OpenAI noch Jahre bestehen. Die Sicherheitslücke ermöglicht es Angreifern, KI-Systeme durch manipulierte Eingaben zu kompromittieren. OpenAI arbeitet an Lösungen, sieht aber keine schnelle Behebung."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://heise.de",
+      "url_is_article": false,
+      "source": "heise",
+      "de": {
+        "title": "Rechtsvorschau 2026: Das ändert sich für ITler im nächsten Jahr",
+        "summary": "2026 greifen zentrale Neuerungen im europäischen und deutschen IT-Recht. Von NIS2 über KI- und Plattformregulierung bis zur neuen EU-Beschaffungsstrategie – IT-Profis müssen sich auf umfangreiche Änderungen einstellen. Die neuen Regelungen betreffen Cybersicherheit, Datenschutz und KI-Governance."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://techcrunch.com",
+      "url_is_article": false,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Italien zwingt Meta, Richtlinie gegen konkurrierende KI-Chatbots zu suspendieren",
+        "summary": "Italienische Behörden greifen gegen Metas restriktive Chatbot-Richtlinien auf WhatsApp ein. Die Wettbewerbsbehörde sieht darin einen Verstoß gegen fairen Wettbewerb. Meta muss die Richtlinie aussetzen, die konkurrierende KI-Chatbots von der Plattform ausschließt."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://techcrunch.com",
+      "url_is_article": false,
+      "source": "TechCrunch",
+      "de": {
+        "title": "John Carreyrou und andere Autoren bringen neue Klage gegen sechs große KI-Unternehmen ein",
+        "summary": "Autoren wehren sich rechtlich gegen die Nutzung ihrer Werke zum Training von KI-Modellen ohne Zustimmung oder Vergütung. Die Klage richtet sich gegen OpenAI, Anthropic und weitere führende KI-Unternehmen. Der Fall könnte wegweisend für das Urheberrecht im KI-Zeitalter werden."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://t3n.de",
+      "url_is_article": false,
+      "source": "t3n",
+      "de": {
+        "title": "Microsoft-Deutschland-Chefin: Führungskräfte leiten bald Teams aus Menschen und Maschinen",
+        "summary": "Die Microsoft-Deutschland-Chefin spricht über die Zukunft der Arbeit und hybride Teams aus Menschen und KI. Führungskräfte müssen lernen, sowohl menschliche Mitarbeiter als auch KI-Agenten effektiv zu koordinieren. Dies erfordert neue Management-Fähigkeiten und ein Umdenken in der Unternehmenskultur."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://t3n.de/news/ki-content-social-media-echte-menschen-wertvoll-1701756/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "KI-Content überschwemmt Social Media – echte Menschen werden wertvoll",
+        "summary": "KI sorgt für eine Content-Explosion auf Social-Media-Plattformen. Echte menschliche Inhalte werden dadurch wertvoller und authentischer. Nutzer entwickeln zunehmend ein Gespür dafür, KI-generierte Inhalte zu erkennen und bevorzugen authentische, menschliche Beiträge."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://heise.de",
+      "url_is_article": false,
+      "source": "heise",
+      "de": {
+        "title": "39C3: „Armut tötet\" – warum „KI\" das Gesundheitswesen nicht retten kann",
+        "summary": "KI soll Personal ersetzen und Kosten senken. Manuel Hofmann erklärt auf dem 39. Chaos Communication Congress, warum diese Versprechen das Gesundheitswesen nicht retten und Ungleichheit verschärfen. Strukturelle Probleme lassen sich nicht durch Technologie lösen."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://www.handelsblatt.com",
+      "url_is_article": false,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Deutschland wird unterschätzt – auch von sich selbst",
+        "summary": "Funklöcher in San Francisco, Investorenjagd in Tübingen und neue Stärke europäischer KI-Firmen: Ein persönlicher Blick zeigt, warum Deutschland genau jetzt hervorragende Chancen im KI-Wettbewerb hat. Die deutsche KI-Szene gewinnt an Selbstbewusstsein und internationaler Anerkennung."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-kuenstliche-intelligenz-stuerzt-uns-in-eine-digitale-vertrauenskrise/100179829.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Künstliche Intelligenz stürzt uns in eine digitale Vertrauenskrise",
+        "summary": "Die Flut von KI-Bildern, Videos und Texten entzieht der Öffentlichkeit den Boden. Wenn jede Aufnahme fälschbar ist, zerfällt das Fundament unserer Kommunikation. Experten warnen vor den gesellschaftlichen Folgen und fordern bessere Kennzeichnungspflichten für KI-Inhalte."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://www.handelsblatt.com",
+      "url_is_article": false,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Digitalminister: KI größer als industrielle Revolution",
+        "summary": "Der Digitalminister sieht in KI eine größere Transformation als die industrielle Revolution. Die Technologie werde alle Bereiche der Gesellschaft und Wirtschaft grundlegend verändern. Deutschland müsse jetzt die Weichen stellen, um von dieser Entwicklung zu profitieren."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://t3n.de",
+      "url_is_article": false,
+      "source": "t3n",
+      "de": {
+        "title": "Tech-Blase? 7 US-Konzerne wertvoller als alle 7.500 Konzerne in Europa zusammen",
+        "summary": "Die Bewertungslücke zwischen US-Tech-Giganten und europäischen Unternehmen erreicht historische Dimensionen. Apple, Microsoft, Alphabet, Amazon, Meta, Nvidia und Tesla haben zusammen eine höhere Marktkapitalisierung als sämtliche 7.500 börsennotierte Unternehmen in Europa. Dies wirft Fragen zur Wettbewerbsfähigkeit Europas auf."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://t3n.de/news/job-killer-ki-kuendigungen-1723003/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Doch kein Job-Killer? KI nur für 1 Prozent der Kündigungen verantwortlich",
+        "summary": "Ist KI wirklich ein apokalyptischer Job-Killer, wie in einigen Prognosen dargestellt? Neue Daten zeigen ein differenzierteres Bild: Nur 1 Prozent der Kündigungen sind direkt auf KI zurückzuführen. Die Technologie verändert Arbeitsplätze, eliminiert sie aber nicht im befürchteten Ausmaß."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://t3n.de",
+      "url_is_article": false,
+      "source": "t3n",
+      "de": {
+        "title": "645 Milliarden Dollar Vermögen: Wer dieses Jahr am meisten vom KI-Boom profitiert hat",
+        "summary": "Die größten Gewinner des KI-Booms 2025 und ihre Vermögenszuwächse werden analysiert. Tech-CEOs und Investoren, die früh auf KI gesetzt haben, konnten ihr Vermögen massiv steigern. Die Konzentration von Reichtum in der KI-Branche nimmt weiter zu."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://t3n.de/news/ki-recruiting-linkedin-profilfotos-studie-1716020/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "KI im Recruiting: Was Linkedin-Profilfotos wirklich über dich verraten",
+        "summary": "Neue Studie zeigt: KI liest aus Linkedin-Profilfotos Persönlichkeitsmerkmale und Erfolgschancen heraus. Dies wirft ethische Fragen auf und zeigt, wie KI im Recruiting-Prozess eingesetzt wird. Experten warnen vor möglichen Diskriminierungen durch algorithmische Vorurteile."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://heise.de",
+      "url_is_article": false,
+      "source": "heise",
+      "de": {
+        "title": "Big Tech 2025: Alphabet und Nvidia dominieren die Börse – den übrigen fehlt Luft",
+        "summary": "Erstmals seit drei Jahren KI-Hype geriet der AI-Trade 2025 etwas ins Wanken. Das Jahr, in dem Big Tech an der Wall Street teilweise entzaubert wurde. Während Alphabet und Nvidia glänzen, kämpfen andere Tech-Giganten mit Herausforderungen."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://techcrunch.com",
+      "url_is_article": false,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Nvidia lizenziert Technologie des KI-Chip-Herausforderers Groq",
+        "summary": "Nvidia hat einen Lizenzvertrag mit dem Chip-Startup Groq vereinbart. Im Rahmen des 20-Milliarden-Dollar-Deals wechseln auch Groq-Mitarbeiter zu Nvidia. Dies zeigt Nvidias Strategie, potenzielle Konkurrenten durch Übernahmen und Partnerschaften zu neutralisieren."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://www.handelsblatt.com",
+      "url_is_article": false,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Amazon prüft offenbar Investment von mehr als zehn Milliarden Dollar in OpenAI",
+        "summary": "Die Tech-Unternehmen verhandeln über den Ausbau ihrer Kooperation. Der Deal könnte Amazons KI-Chipstrategie stärken und OpenAI unabhängiger von Microsoft machen. Die Investition würde eine der größten im KI-Bereich darstellen."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://www.handelsblatt.com",
+      "url_is_article": false,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Bytedance plant offenbar KI-Investitionsoffensive",
+        "summary": "Der Tiktok-Mutterkonzern will der US-Konkurrenz die Stirn bieten. Dafür wollen die Chinesen weitere Milliarden investieren und auch bei Nvidia Chips bestellen. Die Investitionsoffensive zeigt den globalen Wettlauf um KI-Dominanz."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://www.handelsblatt.com",
+      "url_is_article": false,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "KI-Müll wird zur Gefahr für Tech-Konzerne: Pinterest kämpft gegen die Datenflut",
+        "summary": "Mit kreativen Heimwerkertipps wurde Pinterest groß. Jetzt verzeichnet die Plattform drastisch mehr unsinnige, durch KI generierte Inhalte. CEO Ready sieht eine Gefahr für die ganze Branche und kämpft gegen die Flut von KI-Spam."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://www.handelsblatt.com",
+      "url_is_article": false,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "OpenAI, Anthropic, Cohere: Wird 2026 das Jahr der KI-Exits?",
+        "summary": "In den USA treiben Anthropic und OpenAI ihre Börsenpläne voran, in Europa kursieren Verkaufsgerüchte um Mistral. Experten erwarten 2026 eine Welle von Übernahmen und Börsengängen im KI-Sektor. Die Konsolidierung der Branche nimmt Fahrt auf."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://heise.de",
+      "url_is_article": false,
+      "source": "heise",
+      "de": {
+        "title": "Milliarden-Boost für Deep Tech: Regierung und KfW zünden den Deutschlandfonds",
+        "summary": "Mit einer Hebelwirkung von 130 Milliarden Euro soll der Deutschlandfonds private Investoren in Hochtechnologien wie KI, Quantencomputing und Biotech locken. Die Initiative soll Deutschlands Position im globalen Tech-Wettbewerb stärken."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://techcrunch.com/2025/12/24/the-year-data-centers-went-from-backend-to-center-stage/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Das Jahr, in dem Rechenzentren vom Backend ins Rampenlicht rückten",
+        "summary": "Neue KI-Infrastruktur wird nicht nur von Silicon Valley, sondern auch von Washington D.C. vorangetrieben. Die Trump-Administration hat künstliche Intelligenz zur nationalen Priorität erklärt. Rechenzentren sind zum strategischen Asset geworden."
+      }
+    }
+  ],
+  "podcast": {}
+}

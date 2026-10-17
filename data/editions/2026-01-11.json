@@ -1,0 +1,151 @@
+{
+  "date": "2026-01-11",
+  "week": 2,
+  "languages": [
+    "de"
+  ],
+  "migrated_from_commit": "c2d6de7",
+  "items": [
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-amazon-prueft-offenbar-investment-von-mehr-als-zehn-milliarden-dollar-in-openai/100098766.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Amazon prüft offenbar Investment von mehr als zehn Milliarden Dollar in OpenAI",
+        "summary": "Die Tech-Unternehmen verhandeln einem Medienbericht zufolge über den Ausbau ihrer Kooperation. Der Deal könnte Amazons KI-Chipstrategie stärken und OpenAI Zugang zu Amazons Cloud-Infrastruktur verschaffen."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-openai-rivale-anthropic-gewinnt-allianz-als-grosskunden-und-strebt-neue-finanzierungsrunde-an/100098234.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "OpenAI-Rivale Anthropic gewinnt Allianz als Großkunden und strebt neue Finanzierungsrunde an",
+        "summary": "Der Versicherungskonzern schließt eine Partnerschaft mit Anthropic ab und wird zu einem Referenzkunden in Europa. Zusätzlich steht die KI-Firma vor einer neuen Milliardenfinanzierung bei einer Bewertung von 350 Milliarden Dollar."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://t3n.de/news/musks-xai-sammelt-20-milliarden-trotz-grok-skandal-ein-und-zeigt-moral-zaehlt-nicht-mehr-1678234/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Musks xAI sammelt 20 Milliarden trotz Grok-Skandal ein – und zeigt: Moral zählt nicht mehr",
+        "summary": "Trotz massiver Kritik an der missbräuchlichen Nutzung von Grok für sexualisierte Deepfakes gelingt es Elon Musk, Milliarden einzusammeln. Dies wirft grundsätzliche Fragen zur Rolle von Ethik in der KI-Entwicklung auf."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.heise.de/news/Skandal-um-sexualisierte-Deepfakes-Grok-verweigert-Bildgenerierung-weitgehend-10288567.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "Skandal um sexualisierte Deepfakes: Grok verweigert Bildgenerierung weitgehend",
+        "summary": "Auf X hat Grok begonnen, Bitten um die Bildgenerierung abzulehnen. Nötig sei dafür jetzt ein kostenpflichtiges Abo. Die Einschränkung erfolgt nach weltweiter Empörung über die massenhafte Erstellung problematischer Inhalte."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.heise.de/hintergrund/Skandal-um-Grok-Das-steckt-hinter-den-sexualisierten-KI-Fotos-auf-X-10288123.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "Skandal um Grok: Das steckt hinter den sexualisierten KI-Fotos auf X",
+        "summary": "X-Nutzer können mithilfe des KI-Bots Grok Bikini-Bilder erstellen – auch von Minderjährigen. Heise erklärt die Rechtslage und den technischen Hintergrund dieses kontroversen Features."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.heise.de/news/ChatGPT-Health-OpenAI-startet-KI-Gesundheitsassistent-10287945.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "ChatGPT Health: OpenAI startet KI-Gesundheitsassistent",
+        "summary": "OpenAI führt ChatGPT Health ein, das unter anderem Apple-Health-Daten auswertet. Die EU, Schweiz und Großbritannien bleiben vorerst außen vor. Der Assistent soll Nutzern helfen, ihre Gesundheitsdaten besser zu verstehen."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.heise.de/news/Gemini-KI-macht-Gmail-intelligenter-Neue-Funktionen-fuer-alle-Nutzer-10288234.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "Gemini-KI macht Gmail intelligenter: Neue Funktionen für alle Nutzer",
+        "summary": "Google stattet Gmail mit neuen KI-Funktionen aus, die auf Gemini basieren. Einige Features, wie KI-Übersichten, werden für alle Nutzer kostenlos verfügbar sein. Die neuen Funktionen sollen die E-Mail-Verwaltung deutlich vereinfachen."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/01/06/google-classrooms-new-tool-uses-gemini-to-transform-lessons-into-podcast-episodes/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Google Classroom nutzt Gemini, um Lektionen in Podcast-Episoden zu verwandeln",
+        "summary": "Neues Google Classroom-Tool nutzt Gemini, um Unterrichtsmaterialien automatisch in Podcast-Episoden zu verwandeln. Dies soll Schülern alternative Lernformate bieten und das Lernen flexibler gestalten."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.heise.de/news/Google-Gemini-erkennt-welches-Resteessen-noch-im-Samsung-Kuehlschrank-steckt-10288345.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "Google Gemini erkennt, welches Resteessen noch im Samsung-Kühlschrank steckt",
+        "summary": "Samsung stattet einen smarten Kühlschrank der Bespoke-Reihe mit Googles Chatbot und Bild-KI aus, um Einkaufslisten und Zutatenauswahl zu erleichtern. Die KI kann Lebensmittel erkennen und Rezeptvorschläge machen."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-openai-anthropic-cohere-wird-2026-das-jahr-der-ki-exits/100097456.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "OpenAI, Anthropic, Cohere: Wird 2026 das Jahr der KI-Exits?",
+        "summary": "In den USA treiben Anthropic und OpenAI ihre Börsenpläne voran, in Europa kursieren Verkaufsgerüchte um Mistral. Experten erwarten 2026 bedeutende Übernahmen und Börsengänge im KI-Sektor."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://www.handelsblatt.com/technik/it-internet/halbleiter-warum-2026-fuer-chinas-chips-zum-schluesseljahr-werden-koennte/100097890.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Warum 2026 für Chinas Chips zum Schlüsseljahr werden könnte",
+        "summary": "Neue KI-Modelle von Nvidia, große Auftritte auf der Messe CES – und chinesische Chipfirmen, die an die Börse drängen. 2026 entscheidet sich, wer die Rechenleistung für KI-Anwendungen kontrolliert."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-bytedance-plant-offenbar-ki-investitionsoffensive/100097567.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Bytedance plant offenbar KI-Investitionsoffensive",
+        "summary": "Der TikTok-Mutterkonzern will der US-Konkurrenz die Stirn bieten. Dafür wollen die Chinesen laut einem Bericht weitere Milliarden investieren und auch bei Nvidia bestellen."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-musk-klage-gegen-openai-geht-vor-gericht/100097234.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Musk-Klage gegen OpenAI geht vor Gericht",
+        "summary": "Der Umbau von OpenAI zum profitorientierten Unternehmen sorgt für juristischen Ärger. Eine Klage von Elon Musk gegen das Unternehmen soll nun im März Geschworenen vorgelegt werden."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://techcrunch.com/2026/01/07/elon-musks-lawsuit-against-openai-will-face-a-jury-in-march/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Elon Musks Klage gegen OpenAI wird im März vor einer Jury verhandelt",
+        "summary": "Die Auseinandersetzung zwischen Musk und OpenAI spitzt sich zu. Im März wird eine Jury über die Vorwürfe entscheiden, dass OpenAI von seiner ursprünglichen Non-Profit-Mission abgewichen sei."
+      }
+    }
+  ],
+  "podcast": {}
+}

@@ -1,0 +1,161 @@
+{
+  "date": "2026-01-31",
+  "week": 5,
+  "languages": [
+    "de"
+  ],
+  "migrated_from_commit": "0a9c874",
+  "items": [
+    {
+      "category": "news",
+      "url": "https://www.heise.de/news/amazon-openai-investition-10265335.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "Amazon plant 50-Milliarden-Dollar-Investition in OpenAI",
+        "summary": "Amazon ist in Gesprächen über eine massive 50-Milliarden-Dollar-Investition in OpenAI. Das KI-Unternehmen benötigt für schnelles Wachstum viel Geld und Rechenleistung. Amazon kann dem KI-Unternehmen beides liefern."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.heise.de/news/milliarden-uebernahme-q-ai-apple-10265395.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "Apple übernimmt israelisches KI-Startup Q.AI für 2 Milliarden Dollar",
+        "summary": "Apple hat das KI-Start-up Q.AI für zwei Milliarden US-Dollar übernommen, um seine KI-Fähigkeiten zu stärken. Der Wettlauf um die besten KI-Talente intensiviert sich weiter."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com/technik/ki/openai-coo-interview/100180912.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "OpenAI-COO: \"Jeder Dollar für Rechenleistung bringt uns rund drei Dollar Umsatz\"",
+        "summary": "OpenAI hält Warnungen vor einer KI-Blase für überzogen. COO Lightcap nennt Zahlen für Deutschland und erklärt, woran Kunden scheitern und warum die US-Tochter der Telekom ein Vorzeigepartner ist."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.heise.de/news/schwarz-gruppe-aleph-alpha-10265383.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "Schwarz-Gruppe übernimmt Kontrolle bei Aleph Alpha",
+        "summary": "Die Schwarz-Gruppe kauft Bosch die Anteile an Deutschlands KI-Hoffnung Aleph Alpha ab und weitet ihren Einfluss aus. Der Deal ist die jüngste Entscheidung einer Reihe von Veränderungen bei dem KI-Unternehmen."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.heise.de/news/gemini-google-maps-navigation-10265343.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "Google Gemini navigiert Fußgänger bei Google Maps",
+        "summary": "Google Maps bekommt dank Gemini eine KI-Navigation für Fußgänger und Fahrradfahrer. Dazu gehören auch Umgebungsinformationen, die die Navigation deutlich verbessern."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://www.handelsblatt.com/technik/ki/parloa-bewertung/100180512.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Berliner Einhorn Parloa verdreifacht Bewertung auf drei Milliarden Dollar",
+        "summary": "Der KI-Spezialist Parloa sammelt in einer Finanzierungsrunde 350 Millionen Euro von Investoren ein und erreicht eine Bewertung von drei Milliarden Dollar. Nur ein deutsches Start-up ist jetzt noch mehr wert."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/01/30/physical-intelligence-robot-brains/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Physical Intelligence: Silicon Valleys heißester Roboter-KI-Entwickler",
+        "summary": "Physical Intelligence entwickelt KI-Systeme, die Roboter über verschiedene Aufgaben und Umgebungen hinweg steuern können. Das Startup gilt als einer der vielversprechendsten Akteure im Bereich der Robotik-KI."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/01/30/openclaw-ai-social-network/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "OpenClaw: KI-Assistenten bauen ihr eigenes soziales Netzwerk",
+        "summary": "OpenClaws KI-Assistenten erstellen ihr eigenes soziales Netzwerk – ein neuer Meilenstein in der KI-Autonomie. Die Entwicklung wirft spannende Fragen über die Zukunft autonomer KI-Systeme auf."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://www.handelsblatt.com/technik/ki/synthesia-avatare/100180712.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Synthesia mit 4 Milliarden Dollar bewertet – KI-Avatare schulen Mitarbeiter",
+        "summary": "Der Londoner KI-Spezialist Synthesia erhält neue Finanzierung. Seine Avatare sollen künftig nicht nur Schulungen per Video geben, sondern Mitarbeiter auch direkt testen und ihnen Feedback geben."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.handelsblatt.com/technik/ki/eu-google-android-ki/100180756.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "EU-Kommission: Google soll Android für Konkurrenz-KI öffnen",
+        "summary": "Die EU-Kommission setzt Google eine Frist von sechs Monaten, um Android für KI-Konkurrenz zu öffnen. Sonst drohen dem US-Internetriesen empfindliche Strafen."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.heise.de/news/ki-fehler-vor-gericht-unternehmen-google-10265398.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "KI-Fehler vor Gericht: Unternehmen können sich gegen falsche Google-Infos wehren",
+        "summary": "Das Landgericht Frankfurt stuft KI-Fehler als potenzielle Wettbewerbsbehinderung ein. Firmen können sich so mit dem Kartellrecht gegen falsche KI-Texte wehren."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://techcrunch.com/2026/01/29/anthropic-music-lawsuit-3b/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Musikverlage verklagen Anthropic auf 3 Milliarden Dollar",
+        "summary": "Musikverlage reichen eine 3-Milliarden-Dollar-Klage gegen Anthropic wegen angeblicher Urheberrechtsverletzung von 20.000 Werken ein. Der Fall könnte weitreichende Folgen für die KI-Branche haben."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://www.handelsblatt.com/technik/ki/stuart-russell-ki-blase/100180834.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "KI-Experte Stuart Russell: \"Mit 75% Wahrscheinlichkeit platzt die Blase\"",
+        "summary": "Stuart Russell, Autor des einflussreichsten KI-Lehrbuchs, erklärt, warum die Technologie bald auch Top-Manager ersetzen könnte – und wann sie zu einer existenziellen Bedrohung wird."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://t3n.de/news/ex-sap-chef-warnt-ki-agenten-1665241/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Ex-SAP-Chef warnt: KI-Agenten höchstens für Dokumentenarchivierung geeignet",
+        "summary": "Trotz großer Erwartungen scheitern viele KI-Agenten immer noch an einfachen Alltagsaufgaben. Halluzinationen bleiben ein zentrales Problem. Daher geht der potenzielle Mehrwert häufig verloren."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://www.handelsblatt.com/technik/ki/betrug-ki-schaeden/100180678.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Betrug mit KI – Schäden für Firmen vervielfachen sich",
+        "summary": "Mit künstlicher Intelligenz fälschen Täter teure Bestellungen oder geben sich als Vorgesetzte aus. Dabei werden die Täuschungen immer echter und sorgen für immer höhere Schäden."
+      }
+    }
+  ],
+  "podcast": {}
+}

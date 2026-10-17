@@ -1,0 +1,167 @@
+{
+  "date": "2026-06-23",
+  "week": 26,
+  "languages": [
+    "de"
+  ],
+  "migrated_from_commit": "08a0194",
+  "items": [
+    {
+      "category": "news",
+      "url": "https://t3n.de/news/ki-nutzung-steigt-vertrauen-sinkt-1748635/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "K.I.-Nutzung verdoppelt sich – aber das Vertrauen bricht ein",
+        "summary": "49 Prozent der US-Amerikaner nutzen K.I. regelmässig (2024: 33%), aber nur 16 Prozent glauben an einen positiven gesellschaftlichen Einfluss. 61 Prozent vertrauen K.I.-Entwicklern nicht. Das eigentliche Problem ist nicht die Nutzung, sondern die Lücke zwischen Akzeptanz und Vertrauen. Wer K.I. ohne gesellschaftlichen Konsens einführt, riskiert Backlash – nicht nur politisch, sondern kommerziell."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "ChatGPT fällt erstmals unter 50 Prozent Marktanteil – Gemini und Claude holen auf",
+        "summary": "ChatGPT fiel auf 46,4 Prozent Marktanteil. Gemini wächst auf 27,7 Prozent, Claude auf 10,3 Prozent. Nutzer verbringen 36 Milliarden Stunden in K.I.-Apps im ersten Halbjahr 2026 – doppelt so viel wie im Vorjahr. Der Markt wächst, aber die Dominanz einzelner Anbieter bröckelt. Die Konsequenz daraus ist: Multi-Assistenten-Nutzung wird zur Norm."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://t3n.de/news/ki-agenten-mehrarbeit-1747778/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "K.I.-Agenten erzeugen Mehrarbeit statt Zeitersparnis",
+        "summary": "Führungskräfte berichten: 40 Prozent der Mitarbeiter sehen keine Zeitersparnis durch K.I.-Agenten. Der Code wird produziert, muss aber öfter überarbeitet werden – die anfängliche Akzeptanzrate von 80 bis 90 Prozent sinkt durch spätere Korrekturen auf 10 bis 30 Prozent. Was oft unterschätzt wird: Die Überprüfung von K.I.-Ergebnissen wird zum zentralen Engpass."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Die K.I.-Welt wird \"loopy\": Agenten-Schleifen als nächste Revolution",
+        "summary": "Claude-Code-Schöpfer Boris Cherny: Loops sind so bedeutend wie der Schritt von Code zu Agenten. Agenten-Schwärme arbeiten endlos im Hintergrund – ein Agent verbessert kontinuierlich die Code-Architektur, ein anderer sucht nach Duplikaten. Der entscheidende Unterschied liegt darin: Loops sind kein Feature, sondern eine neue Betriebslogik für K.I. – teuer, aber potenziell transformativ."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.heise.de/news/Microsoft-bestellt-grosses-Gaskraftwerk-fuer-KI-in-Texas-11340909.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "Microsoft bestellt Gaskraftwerk für K.I.-Rechenzentrum in Texas",
+        "summary": "Microsoft baut in Pecos, Texas, einen Rechenzentrums-Campus mit 2 Gigawatt Kapazität – eine der grössten Einzelerweiterungen der Firmengeschichte. Chevron wird Erdgas verstromen. Das eigentliche Problem ist nicht der Strom, sondern die Quelle: K.I. braucht Energie, und diese kommt noch lange nicht aus erneuerbaren Quellen."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "SpaceX und Reflection AI: 150 Millionen Dollar pro Monat für Nvidia-Chips",
+        "summary": "Open-Source-K.I.-Startup Reflection AI zahlt SpaceX ab Juli 2026 monatlich 150 Millionen Dollar für sofortigen Zugang zu Nvidias neuesten GB300-Chips. Das ist kein Einkauf, das ist ein strategisches Signal: Wer im K.I.-Rennen vorne sein will, muss Rechenkapazität sichern – zu jedem Preis."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-europas-zweite-chance-milliardenwette-auf-neue-ki-labore/100231182.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Europas zweite Chance: Milliardenwette auf neue K.I.-Labore",
+        "summary": "Mistral, Elevenlabs, Wayve, CuspAI: Europäische K.I.-Startups sammeln Milliarden ein, drei davon sind bereits Decacorns mit Bewertungen über 10 Milliarden Dollar. Was oft unterschätzt wird: Die nächste K.I.-Welle könnte sich in Laboren, Fahrzeugen und Fabriken entscheiden – genau dort, wo Europa traditionell stark ist."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "OpenAI startet \"Patch the Planet\": Initiative gegen Open-Source-Sicherheitslücken",
+        "summary": "OpenAI startet eine internetweite Initiative zur Verbesserung der Cybersicherheit in Open-Source-Software. GPT-5.5-Cyber soll Schwachstellen automatisch finden und patchen. Die Konsequenz daraus ist: K.I. wird nicht nur Angriffsfläche, sondern auch Verteidigungswerkzeug – Sicherheit als strategische Positionierung."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://t3n.de/news/ki-rekordzahlen-nutzer-investieren-geld-zeit-1748771/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "K.I. sorgt für Rekordzahlen: Nutzer verbringen 36 Milliarden Stunden in K.I.-Apps",
+        "summary": "Sensor Tower \"State of AI 2026\": 36 Milliarden Stunden in K.I.-Apps im ersten Halbjahr – doppelt so viel wie im Vorjahr. Consumer Spend: 4 Milliarden Dollar. Mehr als 200.000 Apps werben mit K.I. Der entscheidende Unterschied liegt darin: K.I. ist keine eigenständige Kategorie mehr, sondern eine verhaltens- und kommerzielle Ebene im gesamten Internet."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.heise.de/news/Zurueck-zu-Buch-und-Stift-Norwegen-verbannt-KI-aus-Grundschulen-11339393.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "Norwegen verbannt K.I. aus Grundschulen – zurück zu Buch und Stift",
+        "summary": "Norwegen verbietet generative K.I. für Kinder bis 13 Jahre in Schulen. Begründung: sinkende Testergebnisse. Bis Ende 2026 auch Social-Media-Verbot für unter 16-Jährige geplant. Das eigentliche Problem ist nicht die Technologie, sondern der Zeitpunkt: Kinder brauchen zuerst das Fundament – Lesen, Schreiben, Rechnen – bevor K.I. als Werkzeug sinnvoll ist."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "K.I. und Entlassungen: Tech-Konzerne mit Rekordgewinnen bauen massiv Stellen ab",
+        "summary": "Oracle minus 21.000, Meta minus 8.000, Intuit minus 3.000, Cisco minus 4.000 Stellen. Rekordgewinne, Rekordentlassungen. K.I. als Begründung und Wachstumsmotor zugleich. Was oft unterschätzt wird: Der Rationale ist oft fragwürdig – viele der nun gestrichenen Stellen wurden erst während des Pandemie-Booms aufgebaut."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.heise.de/news/KI-Einsatz-Warum-menschliche-Expertise-wichtiger-ist-als-Automatisierung-11336805.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "K.I. als Verstärker menschlicher Expertise schlägt Automatisierung",
+        "summary": "PwC Global AI Jobs Barometer 2026: Firmen, die K.I. zur Verstärkung menschlicher Expertise nutzen, wachsen 52 Prozent schneller und sind 34 Prozent produktiver. K.I. als Jobkiller lohnt sich weniger als K.I. als Werkzeug. Die Konsequenz daraus ist: Entlassungswellen sind oft kein Beweis für echte Produktivitätsgewinne – sondern für schlechte Strategie."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://www.handelsblatt.com/politik/deutschland/bildung-kuenstliche-intelligenz-gewinnt-im-lehrberuf-rasant-an-bedeutung/100233174.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "K.I. im Bildungssystem: 25 Prozent der Lehrer nutzen K.I. – Trend wächst rasant",
+        "summary": "Robert-Bosch-Stiftung \"Schulbarometer 2026\": Bereits 25 Prozent der deutschen Lehrer setzen K.I. ein. Tendenz stark steigend. Gleichzeitig verbannt Norwegen K.I. aus Grundschulen. Zwei Welten, eine Technologie. Der entscheidende Unterschied liegt darin: Lehrer als Anwender sind nicht dasselbe wie Schüler als Anwender – Kompetenz braucht Kontext."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://www.heise.de/news/Deutsche-Bank-Kuenstliche-Intelligenz-steigert-die-Produktivitaet-11337846.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "Deutsche Bank: K.I. verkürzt Projektzeiten von Jahren auf Monate",
+        "summary": "Deutsche Bank CIO Denis Roux: Aufgaben, die früher zwei Jahre dauerten, werden in drei bis sechs Monaten erledigt. Token-Kontingente für Mitarbeiter, Kosten im Blick. Was oft unterschätzt wird: Die Parallele zur Cloud-Einführung ist treffend – auch damals kamen die Kosten später, und sie waren höher als erwartet."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Weltführer wollen US-K.I. – aber nicht, dass Amerika den Schalter umlegen kann",
+        "summary": "G7-Gipfel: Macron und Modi warnten vor K.I.-Abhängigkeit von den USA. Die Anthropic-Exportbeschränkungen haben gezeigt: Wer auf US-K.I.-Infrastruktur setzt, ist abhängig von US-Exportpolitik. Die Konsequenz daraus ist: Souveräne K.I.-Infrastruktur wird zur geopolitischen Notwendigkeit – nicht nur für China, sondern auch für Europa und Indien."
+      }
+    }
+  ],
+  "podcast": {
+    "de": {
+      "audio": "audio/2026-06-23/podcast-de.mp3",
+      "duration_sec": 219,
+      "script": "Wann hast du zuletzt einem Tool vertraut, das du täglich nutzt – und wann hast du aufgehört, es zu hinterfragen?\n\nGenau das zeigt eine neue Pew-Studie: 49 Prozent der Amerikaner nutzen AI regelmässig – aber nur 16 Prozent glauben, dass AI einen positiven Einfluss auf die Gesellschaft haben wird. Nutzung und Vertrauen driften auseinander. Das ist kein Widerspruch. Das ist ein Warnsignal.\n\nWillkommen beim AI Power Update. Hier sind die 15 wichtigsten Meldungen der Woche.\n\nDer AI-Markt verschiebt sich. ChatGPT ist erstmals unter 50 Prozent Marktanteil gefallen – auf 46 Prozent. Gemini wächst auf 27 Prozent, Claude auf 10 Prozent. Gleichzeitig verbringen Nutzer weltweit 36 Milliarden Stunden in AI-Apps im ersten Halbjahr 2026. Doppelt so viel wie im Vorjahr. Der Markt wächst – aber die Dominanz einzelner Anbieter bröckelt.\n\nAI-Agenten sind das grosse Thema der Woche – aber nicht so, wie erwartet. Führungskräfte berichten: 40 Prozent der Mitarbeiter sehen keine Zeitersparnis durch AI-Agenten. Der Code wird produziert, muss aber öfter überarbeitet werden. Die Überprüfung wird zum zentralen Engpass. Gleichzeitig beschreibt Claude-Code-Schöpfer Boris Cherny eine neue Dimension: AI-Loops. Agenten-Schwärme, die endlos im Hintergrund arbeiten. So bedeutend wie der Schritt von Code zu Agenten. Teuer – aber potenziell transformativ.\n\nMicrosoft baut in Texas einen AI-Rechenzentrums-Campus mit 2 Gigawatt Kapazität. Chevron liefert das Gas. Das ist eine der grössten Einzelerweiterungen in der Geschichte des Unternehmens. AI braucht Strom – und dieser Strom kommt noch lange nicht aus erneuerbaren Quellen.\n\nAuf der Startup-Seite: Das Open-Source-AI-Labor Reflection AI zahlt SpaceX ab Juli 150 Millionen Dollar pro Monat für Nvidia-Chips. Europäische AI-Startups wie Mistral, Elevenlabs und Wayve sammeln Milliarden ein – drei davon sind bereits Decacorns. Europas zweite Chance im AI-Rennen könnte sich in Laboren und Fabriken entscheiden, nicht im Chatbot-Markt.\n\nOpenAI startet eine neue Initiative: \"Patch the Planet\" – ein internetweites Programm zur Verbesserung der Cybersicherheit in Open-Source-Software. GPT-5.5-Cyber soll Schwachstellen finden und patchen. Sicherheit als strategische Positionierung.\n\nRegulierung und Gesellschaft: Norwegen verbannt generative AI aus Grundschulen für Kinder bis 13 Jahre. Begründung: sinkende Testergebnisse. Bis Ende 2026 auch Social-Media-Verbot für unter 16-Jährige. Gleichzeitig zeigt das Handelsblatt: 25 Prozent der deutschen Lehrer setzen AI bereits ein – Tendenz stark steigend.\n\nDie Entlassungswelle geht weiter. Oracle minus 21.000 Stellen, Meta minus 8.000, Intuit minus 3.000, Cisco minus 4.000. Rekordgewinne, Rekordentlassungen. AI als Begründung und Wachstumsmotor zugleich. Eine PwC-Studie zeigt: Firmen, die AI zur Verstärkung menschlicher Expertise nutzen, wachsen 52 Prozent schneller als jene, die primär auf Automatisierung setzen. Der Unterschied liegt nicht in der Technologie – sondern in der Strategie.\n\nDie Deutsche Bank meldet: Aufgaben, die früher zwei Jahre dauerten, werden in drei bis sechs Monaten erledigt. Token-Kontingente für Mitarbeiter, Kosten im Blick – wie damals bei der Cloud-Einführung.\n\nUnd geopolitisch: Beim G7-Gipfel warnten Macron und Modi vor AI-Abhängigkeit von den USA. Die Anthropic-Exportbeschränkungen haben gezeigt: Wer auf US-AI-Infrastruktur setzt, ist abhängig von US-Exportpolitik. Souveräne AI-Infrastruktur wird zur geopolitischen Notwendigkeit.\n\nDas war das AI Power Update vom 23. Juni 2026. Alle Quellen und Links findest du auf ki-power.me."
+    }
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "date": "2026-06-13",
+  "week": 24,
+  "languages": [
+    "de"
+  ],
+  "migrated_from_commit": "da24707",
+  "items": [
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "US-Regierung stoppt Anthropics mächtigste K.I.-Modelle Fable 5 und Mythos 5",
+        "summary": "Die US-Regierung hat Anthropic angewiesen, sofort den Zugang zu Claude Fable 5 und Mythos 5 zu sperren. Begründung: nationale Sicherheit und Exportkontrolle. Das eigentliche Problem ist nicht das Modell, sondern das Signal: Wenn Safety-Warnungen von Anthropic selbst dazu führen, dass die Regierung eingreift, ist das ein Wendepunkt für die gesamte K.I.-Branche."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Apple WWDC 2026: Siri K.I. vorgestellt, in der EU aber verzögert",
+        "summary": "Apple hat auf der WWDC 2026 Siri K.I. vorgestellt – die grundlegendste Überarbeitung des Assistenten seit seiner Einführung. Apple integriert K.I. nicht als Feature, sondern als Betriebssystem-Schicht. Allerdings wird Siri K.I. in der EU aufgrund des Digital Markets Act nicht mit iOS 27 erscheinen. Europa zahlt wieder einmal einen Preis für seine Regulierung."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Jeff Bezos' Prometheus sammelt 12 Milliarden Dollar für 'künstlichen Generalingenieur'",
+        "summary": "Jeff Bezos hat mit Prometheus 12 Milliarden Dollar eingesammelt, um einen \"künstlichen Generalingenieur\" für die physische Welt zu bauen. Das ist kein weiteres Sprachmodell, sondern ein K.I.-System für Ingenieuraufgaben. Was oft unterschätzt wird: Bezos baut nicht auf Sprache, sondern auf physikalisches Verständnis der realen Welt."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Mistral soll 3 Milliarden Euro bei 20 Milliarden Euro Bewertung einsammeln",
+        "summary": "Mistral, Europas wichtigstes K.I.-Startup, soll 3 Milliarden Euro bei einer Bewertung von 20 Milliarden Euro einsammeln. Das wäre die grösste Finanzierungsrunde eines europäischen K.I.-Unternehmens. Der entscheidende Unterschied liegt darin: Mistral ist Open-Source-first und damit eine echte Alternative zur US-Dominanz."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com/meinung/gastbeitraege/kuenstliche-intelligenz-was-deutschland-gegen-den-ki-abstieg-tun-muss/100232030.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Was Deutschland gegen den K.I.-Abstieg tun muss",
+        "summary": "Laut Handelsblatt hinken Politik und Wirtschaft dem Tempo der K.I.-Revolution hinterher. Deutschland droht im globalen K.I.-Wettlauf abgehängt zu werden. Die Konsequenz daraus ist klar: Ohne eine koordinierte Strategie aus Regulierung, Investition und Bildung wird Deutschland zum K.I.-Konsumenten statt zum K.I.-Produzenten."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://t3n.de/news/ki-agent-slack-support-notion-60-prozent-1746434/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "K.I.-Agent übernimmt Slack-Support bei Notion und löst 60 Prozent der Fälle selbst",
+        "summary": "Bei Notion übernimmt ein K.I.-Agent den internen Slack-Support und löst 60 Prozent der Anfragen ohne menschliche Hilfe. Das ist kein Pilot, das ist Produktion. Die Konsequenz daraus ist: K.I.-Agenten ersetzen nicht Mitarbeiter, sie ersetzen Tickets."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://t3n.de/news/age-statt-agi-was-jeff-bezos-mit-seinem-ki-startup-erreichen-will-1747309/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "AGE statt AGI: Was Jeff Bezos mit seinem K.I.-Startup Prometheus erreichen will",
+        "summary": "Jeff Bezos spricht nicht von AGI, sondern von AGE – Artificial General Engineering. Prometheus soll K.I.-Systeme bauen, die physikalische Probleme lösen, nicht nur Texte generieren. Das ist ein fundamentaler Paradigmenwechsel: von der Sprache zur Physik."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Deezer erkennt K.I.-generierte Musik in Spotify und Apple Music",
+        "summary": "Deezer hat ein Tool vorgestellt, das K.I.-generierte Musik in Streaming-Playlists erkennt. Das ist nicht nur ein Qualitätsmerkmal, sondern ein Urheberrechtsinstrument. Was oft unterschätzt wird: Die Frage, wer K.I.-Musik besitzt, ist noch nicht geklärt."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://t3n.de/news/das-eigene-unternehmen-waere-betroffen-anthropic-ceo-amodei-fordert-eine-steuer-fuer-ki-firmen-1747352/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Anthropic-CEO Amodei fordert Steuer für K.I.-Firmen",
+        "summary": "Dario Amodei, CEO von Anthropic, fordert eine Steuer für K.I.-Unternehmen – obwohl sein eigenes Unternehmen davon betroffen wäre. Das ist kein Widerspruch, sondern eine strategische Positionierung: Wer Safety ernst nimmt, fordert Regulierung, bevor sie aufgezwungen wird."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "xAI entlässt Ingenieur, der Sicherheitsbedenken zu Grok geäussert hat",
+        "summary": "Ein ehemaliger xAI-Ingenieur klagt gegen das Unternehmen und SpaceX: Er behauptet, er sei gefeuert worden, weil er Sicherheitsbedenken zu Grok geäussert hatte – kurz vor dem historischen SpaceX-Börsengang. K.I.-Safety und Börsenbewertung stehen in direktem Konflikt. Das ist kein Einzelfall, das ist ein Muster."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/",
+      "url_is_article": true,
+      "source": "apple.com",
+      "de": {
+        "title": "Siri K.I. in der EU wegen Digital Markets Act verzögert",
+        "summary": "Apple hat bestätigt, dass Siri K.I. in der EU aufgrund des Digital Markets Act nicht mit iOS 27 erscheinen wird. Das ist nicht das erste Mal, dass Apple EU-Nutzer von neuen K.I.-Features ausschliesst. Die Konsequenz daraus ist: Europa reguliert sich aus der K.I.-Innovation heraus."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://t3n.de/news/sind-akademiker-durch-ki-leichter-ersetzbar-was-deutsche-unternehmen-darueber-denken-1747423/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Sind Akademiker durch K.I. leichter ersetzbar? Was deutsche Unternehmen denken",
+        "summary": "Eine neue Studie zeigt, was deutsche Unternehmen über die K.I.-Ersetzbarkeit von Akademikern denken. Das eigentliche Problem ist nicht die Ersetzbarkeit, sondern die Anpassungsgeschwindigkeit. Wer K.I. als Werkzeug beherrscht, bleibt relevant – wer wartet, wird ersetzt."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Meta's K.I.-Einheit: Ingenieure sprechen von 'seelenzerstörendem Gulag'",
+        "summary": "Ingenieure in Metas K.I.-Einheit sprechen öffentlich von einem \"seelenzerstörenden Gulag\". Das ist kein PR-Problem, das ist ein Führungsproblem. Was oft unterschätzt wird: Die besten K.I.-Ingenieure haben Optionen. Wer sie schlecht behandelt, verliert sie an Anthropic, OpenAI oder Prometheus."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://www.handelsblatt.com/technik/ki/ki-expertin-wir-bekommen-keine-massenarbeitslosigkeit-01/100188740.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "K.I.-Expertin: 'Wir bekommen keine Massenarbeitslosigkeit'",
+        "summary": "Alicia von Schenk, Inhaberin des Lehrstuhls für \"Economics of AI\", widerspricht der Angst vor Massenarbeitslosigkeit durch K.I. Ihr Argument: K.I. verändert Arbeit, ersetzt sie aber nicht vollständig. Der entscheidende Unterschied liegt darin, wer die Transformation aktiv gestaltet und wer passiv wartet."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Amazon leiht sich 17,5 Milliarden Dollar für K.I.-Infrastruktur",
+        "summary": "Amazon hat sich 17,5 Milliarden Dollar von Banken geliehen, um K.I.-Infrastruktur zu finanzieren – kurz nach einer Anleiheemission. Das Gesamtbudget für K.I.-Investitionen liegt bei rund 200 Milliarden Dollar für 2026. Die Konsequenz daraus ist: Der K.I.-Infrastrukturmarkt ist nicht mehr ein Tech-Markt, sondern ein Kapitalmarkt."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "'K.I.-gepillte' Firmen geben 7.500 Dollar pro Mitarbeiter monatlich für K.I. aus",
+        "summary": "Laut einer neuen Studie geben Unternehmen, die vollständig auf K.I. setzen, 7.500 Dollar pro Mitarbeiter monatlich für K.I.-Tools aus. Das ist kein Luxus, das ist eine neue Kostenkategorie. Was oft unterschätzt wird: Die Frage ist nicht ob, sondern wie schnell andere Unternehmen nachziehen müssen, um wettbewerbsfähig zu bleiben."
+      }
+    }
+  ],
+  "podcast": {
+    "de": {
+      "audio": "audio/2026-06-13/podcast-de.mp3",
+      "duration_sec": 247
+    }
+  }
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom"><channel>
+<title>KI Power Update Podcast (ES)</title><link>https://news.fragroger.ai/es/</link>
+<description>La semana en dos minutos y medio, leída por una voz sintética. Las 15 noticias de IA más importantes de la semana de t3n, heise, Handelsblatt y TechCrunch, con contexto para quienes toman decisiones, y pódcast. Nuevo cada sábado.</description><language>es</language>
+<itunes:author>Roger Basler de Roca</itunes:author><itunes:explicit>false</itunes:explicit>
+<itunes:image href="https://news.fragroger.ai/assets/podcast-cover.png"/>
+<itunes:category text="Technology"/><itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
+<atom:link href="https://news.fragroger.ai/podcast-es.xml" rel="self" type="application/rss+xml"/>
+
+</channel></rss>

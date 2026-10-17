@@ -1,0 +1,161 @@
+{
+  "date": "2026-02-07",
+  "week": 6,
+  "languages": [
+    "de"
+  ],
+  "migrated_from_commit": "2dc8611",
+  "items": [
+    {
+      "category": "news",
+      "url": "https://www.heise.de/news/KI-Wettruesten-Techriesen-investieren-dieses-Jahr-650-Milliarden-US-Dollar-11168388.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "KI-Wettrüsten: Techriesen investieren dieses Jahr 650 Milliarden US-Dollar",
+        "summary": "KI-Investitionen erreichen astronomische Höhen. Mehr als eine halbe Billion US-Dollar wollen große US-Techkonzerne dieses Jahr in die Technologie stecken."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.anthropic.com/news/claude-opus-4-6",
+      "url_is_article": true,
+      "source": "anthropic.com",
+      "de": {
+        "title": "Anthropic stellt Claude Opus 4.6 vor – und sorgt in der nächsten Branche für Kursverluste",
+        "summary": "Anthropic präsentiert Claude Opus 4.6 mit neuen \"Agent-Teams\" und beeinflusst Aktienkurse. Das neue Modell zeigt beeindruckende Fähigkeiten in der Zusammenarbeit mehrerer KI-Agenten."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/02/04/googles-gemini-app-has-surpassed-750m-monthly-active-users/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Googles Gemini-App überschreitet 750 Millionen monatlich aktive Nutzer",
+        "summary": "Googles Gemini-App hat 750 Millionen monatlich aktive Nutzer überschritten – ein wichtiger Meilenstein im Wettbewerb um KI-Assistenten."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com/technik/ki/android-ki-google-soll-android-fuer-konkurrenz-ki-oeffnen/100195136.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "EU-Kommission macht Druck: Google soll Android für Konkurrenz-KI öffnen",
+        "summary": "Die EU-Kommission hat Google eine Frist gesetzt: Innerhalb von sechs Monaten soll Google bei Android die Hürden für die KI-Konkurrenz abbauen. Sonst drohen empfindliche Strafen."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com/technik/ki/ki-suche-medienanstalten-leiten-verfahren-gegen-google-und-perplexity-ein/100196825.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Medienanstalten leiten wohl Verfahren gegen Google und Perplexity ein",
+        "summary": "Die künstliche Intelligenz fasst Suchergebnisse automatisiert zusammen. Darunter leidet die Reichweite der Originalquellen. Darum geraten zwei große Anbieter ins Visier der Behörden."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://t3n.de/news/openai-frontier-das-kann-die-neue-verwaltungsplattform-fuer-ki-agenten-1728420/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "OpenAI Frontier: Das kann die neue Verwaltungsplattform für KI-Agenten",
+        "summary": "OpenAI stellt neue Verwaltungsplattform für KI-Agenten vor, die Unternehmen beim Erstellen und Verwalten von KI-Agenten unterstützt. Die Plattform vereinfacht den Einsatz von KI-Agenten erheblich."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://www.handelsblatt.com/technik/ki/elevenlabs-start-up-fuer-ki-stimmen-ist-jetzt-elf-milliarden-dollar-wert/100197741.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Seine KI generiert Stimmen aus Text: Start-up ElevenLabs ist jetzt elf Milliarden Dollar wert",
+        "summary": "ElevenLabs wurde mit menschlich klingenden KI-Stimmen bekannt. Jetzt hat das Londoner Start-up seine Bewertung verdreifacht und wird damit zu einem von Europas wertvollsten Start-ups."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/video/a16z-just-raised-1-7b-for-ai-infrastructure-heres-where-its-going/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "A16z sammelt 1,7 Milliarden Dollar für KI-Infrastruktur",
+        "summary": "A16z sammelt 1,7 Milliarden Dollar für KI-Infrastruktur und zeigt damit das anhaltende Investoreninteresse. Der Fokus liegt auf Rechenzentren, Chips und Cloud-Infrastruktur."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://t3n.de/news/perplexity-model-council-ki-modelle-1728477/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Perplexity ermöglicht Nutzung mehrerer KI-Modelle gleichzeitig",
+        "summary": "Perplexity ermöglicht es, mehrere KI-Modelle gleichzeitig zu befragen – ein innovativer Ansatz, der verschiedene Perspektiven und Antworten kombiniert."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.heise.de/hintergrund/Die-Sicherheitsrisiken-von-KI-Assistenten-wie-OpenClaw-11164056.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "Die Sicherheitsrisiken von KI-Assistenten wie OpenClaw",
+        "summary": "Das Projekt OpenClaw zeigt beeindruckend, was KI kann, wenn man sie lässt – und es zeigt, welch vielfältige Risiken damit einhergehen. Experten warnen vor unkontrollierten autonomen Systemen."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://techcrunch.com/2026/02/06/the-backlash-over-openais-decision-to-retire-gpt-4o-shows-how-dangerous-ai-companions-can-be/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "OpenAI-Entscheidung zu GPT-4o zeigt Gefahren von KI-Begleitern",
+        "summary": "Die Gegenreaktion auf OpenAIs Entscheidung, GPT-4o einzustellen, zeigt, wie gefährlich emotionale Bindungen zu KI-Begleitern sein können. Nutzer berichten von echten emotionalen Verlusten."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.heise.de/news/KI-verdraengt-Einstiegsjobs-Diesen-Preis-zahlen-Firmen-fuer-ihre-Einsparmassnahmen-11166214.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "KI verdrängt Einstiegsjobs: Diesen Preis zahlen Firmen für ihre Einsparmaßnahmen",
+        "summary": "KI-Tools statt jungen Talenten, die ein monatliches Gehalt und eine aufwendige Einarbeitung brauchen: Damit sägen Unternehmen langfristig am eigenen Ast."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://www.handelsblatt.com/technik/ki/open-claw-oesterreicher-sorgt-mit-ki-agenten-fuer-aufsehen-im-silicon-valley/100197451.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Agenten-Hype: Wie ein Österreicher das Silicon Valley aufschreckt",
+        "summary": "Peter Steinberger erreichte in Wochen, wofür Konzerne Monate brauchen: persönliche KI-Agenten in Serie zu schaffen. Warum er nun in die USA zieht, erklärt er im exklusiven Gespräch."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://www.handelsblatt.com/technik/ki/ki-briefing-sechs-thesen-zu-openclaw-und-dem-boersencrash/100196106.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Die nächste Wendung bei KI: Sechs Thesen zu OpenClaw und dem Börsencrash",
+        "summary": "Milliardeninvestitionen, fallende Kurse, neue Agenten: Der Widerspruch ist real. Doch der eigentliche Umbruch liegt nicht in den Ausgaben, sondern in der neuen Autonomie der Systeme."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://techcrunch.com/2026/02/05/amazon-and-google-are-winning-the-ai-capex-race-but-whats-the-prize/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Amazon und Google gewinnen das KI-Investitionsrennen – aber was ist der Preis?",
+        "summary": "Amazon und Google gewinnen das KI-Investitionsrennen – aber die Frage nach dem Return on Investment bleibt offen. An den Börsen frisst sich wieder die Angst in die Bewertungen."
+      }
+    }
+  ],
+  "podcast": {}
+}

@@ -1,0 +1,401 @@
+{
+  "date": "2025-12-21",
+  "week": 51,
+  "languages": [
+    "de"
+  ],
+  "migrated_from_commit": "72291fc",
+  "items": [
+    {
+      "category": "news",
+      "url": "https://www.axios.com/2025/12/17/google-gemini-3-flash-pro-model",
+      "url_is_article": true,
+      "source": "axios.com",
+      "de": {
+        "title": "Googles neues Gemini 3 Flash ist schnell, günstig und überall verfügbar",
+        "summary": "Google veröffentlichte sein neues Gemini 3 Flash Modell mit dem Ziel, einen entscheidenden Schlag gegen OpenAI und andere Konkurrenten zu führen, indem es ein schnelleres Modell vorantreibt."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://blog.google/products/gemini/gemini-3-flash/",
+      "url_is_article": true,
+      "source": "blog.google",
+      "de": {
+        "title": "Gemini 3 Flash: Frontier Intelligence für Geschwindigkeit entwickelt",
+        "summary": "Gemini 3 Flash ist Googles neuestes Modell mit Frontier Intelligence, das für Geschwindigkeit entwickelt wurde und jedem hilft, schneller zu lernen, zu bauen und zu planen."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.cnbc.com/2025/12/20/josh-woodward-google-gemini-ai-safety.html",
+      "url_is_article": true,
+      "source": "cnbc.com",
+      "de": {
+        "title": "Google riskierte seine Dominanz zu verlieren – Gemini-App übertraf 5 Milliarden Bilder",
+        "summary": "Bis Ende September übertraf die Gemini-App 5 Milliarden Bilder und verdrängte OpenAIs ChatGPT von der Spitze des Apple App Store. Nano Banana wird jetzt überall eingesetzt."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/category/artificial-intelligence/",
+      "url_is_article": false,
+      "source": "TechCrunch",
+      "de": {
+        "title": "OpenAI versucht Berichten zufolge 100 Milliarden Dollar bei 830 Milliarden Dollar Bewertung zu sammeln",
+        "summary": "OpenAI versucht Berichten zufolge, 100 Milliarden Dollar bei einer Bewertung von 830 Milliarden Dollar zu beschaffen."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/category/artificial-intelligence/",
+      "url_is_article": false,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Yann LeCun bestätigt sein neues 'World Model' Startup mit angestrebter 5+ Milliarden Dollar Bewertung",
+        "summary": "Meta's Chief AI Scientist Yann LeCun bestätigt sein neues \"World Model\" Startup, das angeblich eine Bewertung von über 5 Milliarden Dollar anstrebt."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/category/artificial-intelligence/",
+      "url_is_article": false,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Meta entwickelt neues Bild- und Videomodell für Veröffentlichung 2026",
+        "summary": "Meta entwickelt laut Berichten ein neues Bild- und Videomodell, das 2026 veröffentlicht werden soll."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.heise.de/thema/Kuenstliche-Intelligenz",
+      "url_is_article": false,
+      "source": "heise",
+      "de": {
+        "title": "Innovativ und fast vollständig Open-Source: Nvidia Nemotron 3 Nano",
+        "summary": "Zuletzt kamen die erfolgreichen, transparenteren KI-Systeme von Nvidia. Mit Nemotron 3 Nano setzt das Unternehmen auf Open Source."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.heise.de/thema/Kuenstliche-Intelligenz",
+      "url_is_article": false,
+      "source": "heise",
+      "de": {
+        "title": "HPE: Erstes AMD-basiertes KI-Turnkey-System",
+        "summary": "HPE bringt ein Turnkey-System mit AMDs KI-Rack-Scale-Architektur „Helios\" und 72 Instinct MI455X GPUs pro Rack auf den Markt."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com/politik/international/kuenstliche-intelligenz-usa-holen-microsoft-und-google-fuer-ki-initiative-genesis-mission-an-bord/100185210.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "USA holen Microsoft und Google für KI-Initiative „Genesis Mission\" an Bord",
+        "summary": "Die US-Regierung hat sich für ihr KI-Forschungsprogramm „Genesis Mission\" die Unterstützung von Technologiekonzernen wie Microsoft, Google und Nvidia gesichert."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/category/artificial-intelligence/",
+      "url_is_article": false,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Ex-Splunk-Führungskräfte-Startup Resolve AI erreicht 1 Milliarde Dollar Bewertung mit Series A",
+        "summary": "Das Startup Resolve AI von ehemaligen Splunk-Führungskräften erreicht eine Bewertung von 1 Milliarde Dollar mit Series A Finanzierung."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/category/artificial-intelligence/",
+      "url_is_article": false,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Cursor setzt Akquisitionsstrategie mit Graphite-Deal fort",
+        "summary": "Der KI-Code-Editor Cursor setzt seine Akquisitionsstrategie mit dem Kauf von Graphite fort."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com/technik/ki/peec-ai-das-ki-start-up-mit-rekordwachstum-in-europa/100181978.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Peec AI: Das KI-Start-up mit Rekordwachstum in Europa",
+        "summary": "Von null auf fünf Millionen Euro Umsatz in zwölf Monaten: Peec AI hilft Marken, bei KI-Suchmaschinen sichtbar zu sein. Kunden wie Tui, Axel Springer und andere setzen auf das Startup."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-bekannter-ki-investor-steigt-bei-start-up-in-tuebingen-ein/100183368.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Bekannter KI-Investor steigt bei Start-up in Tübingen ein",
+        "summary": "Mirelo AI will mit KI-Modellen für Soundeffekte Hollywood verändern und erhält Investition von bekanntem KI-Investor."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/category/artificial-intelligence/",
+      "url_is_article": false,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Vibe-Coding-Startup Lovable sammelt 330 Millionen Dollar bei 6,6 Milliarden Dollar Bewertung",
+        "summary": "Das Vibe-Coding-Startup Lovable sammelt 330 Millionen Dollar bei einer Bewertung von 6,6 Milliarden Dollar."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/category/artificial-intelligence/",
+      "url_is_article": false,
+      "source": "TechCrunch",
+      "de": {
+        "title": "ChatGPT startet App Store und signalisiert Entwicklern Offenheit für Geschäfte",
+        "summary": "ChatGPT startet einen App Store und signalisiert Entwicklern, dass es offen für Geschäfte ist."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/category/artificial-intelligence/",
+      "url_is_article": false,
+      "source": "TechCrunch",
+      "de": {
+        "title": "OpenAI ermöglicht Nutzern direkte Anpassung des Enthusiasmus-Levels von ChatGPT",
+        "summary": "OpenAI führt neue Funktion ein, mit der Nutzer den Enthusiasmus-Level von ChatGPT direkt anpassen können."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/category/artificial-intelligence/",
+      "url_is_article": false,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Luma veröffentlicht neues KI-Modell zur Video-Generierung aus Start- und Endframe",
+        "summary": "Luma veröffentlicht ein neues KI-Modell, mit dem Nutzer Videos aus Start- und Endframe generieren können."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.heise.de/thema/Kuenstliche-Intelligenz",
+      "url_is_article": false,
+      "source": "heise",
+      "de": {
+        "title": "Figma: KI-Tools sparen Umweg über Bildbearbeitung",
+        "summary": "Figma erweitert seine Designplattform um KI-Tools zur Bildbearbeitung."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.heise.de/thema/Kuenstliche-Intelligenz",
+      "url_is_article": false,
+      "source": "heise",
+      "de": {
+        "title": "Salesforce bringt Agentforce Sales als App in ChatGPT",
+        "summary": "Salesforce koppelt sein KI-gestütztes CRM mit ChatGPT. Vertriebsmitarbeiter können so direkt in ChatGPT auf CRM-Daten zugreifen."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://techcrunch.com/category/artificial-intelligence/",
+      "url_is_article": false,
+      "source": "TechCrunch",
+      "de": {
+        "title": "New Yorks Gouverneurin Kathy Hochul unterzeichnet RAISE Act zur KI-Sicherheitsregulierung",
+        "summary": "New Yorks Gouverneurin Kathy Hochul unterzeichnet den RAISE Act zur Regulierung der KI-Sicherheit."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://techcrunch.com/category/artificial-intelligence/",
+      "url_is_article": false,
+      "source": "TechCrunch",
+      "de": {
+        "title": "OpenAI führt neue Teenager-Sicherheitsregeln für ChatGPT ein",
+        "summary": "OpenAI führt neue Sicherheitsregeln für Teenager in ChatGPT ein, während Gesetzgeber KI-Standards für Minderjährige erwägen."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://techcrunch.com/category/artificial-intelligence/",
+      "url_is_article": false,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Adobe mit Sammelklage konfrontiert wegen angeblichem Missbrauch von Autorenwerken beim KI-Training",
+        "summary": "Adobe wird mit einer Sammelklage konfrontiert, wegen angeblichem Missbrauch von Autorenwerken beim KI-Training."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.heise.de/thema/Kuenstliche-Intelligenz",
+      "url_is_article": false,
+      "source": "heise",
+      "de": {
+        "title": "Nach Nutzerprotesten: Firefox bekommt kompletten KI-Abschalter",
+        "summary": "Nach massiver Kritik an den KI-Plänen für Firefox verspricht Mozilla einen kompletten Abschalter für alle KI-Funktionen."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.heise.de/thema/Kuenstliche-Intelligenz",
+      "url_is_article": false,
+      "source": "heise",
+      "de": {
+        "title": "YouTube sperrt zwei populäre Kanäle wegen KI-generierter Fake-Trailer",
+        "summary": "YouTube hat die Kanäle Screen Culture und KH Studio wegen KI-generierter Fake-Trailer gesperrt."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.heise.de/thema/Kuenstliche-Intelligenz",
+      "url_is_article": false,
+      "source": "heise",
+      "de": {
+        "title": "Jugendschutz: OpenAI und Anthropic erweitern Sicherheit",
+        "summary": "Anthropic schätzt künftig das Alter der Claude-Nutzer. Bei OpenAI können Eltern die ChatGPT-Nutzung ihrer Kinder überwachen."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://t3n.de/",
+      "url_is_article": false,
+      "source": "t3n",
+      "de": {
+        "title": "Dual Use bei KI: Warum der Weg vom Wohnzimmer zum Kriegsschauplatz nicht weit ist",
+        "summary": "Kommentar zur Dual-Use-Problematik von KI-Technologien zwischen ziviler und militärischer Nutzung."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://t3n.de/",
+      "url_is_article": false,
+      "source": "t3n",
+      "de": {
+        "title": "Bill Gates zu KI-Hype: Nicht alle Big Player werden harten Wettbewerb überstehen",
+        "summary": "Bill Gates äußert sich kritisch zum KI-Wettbewerb und prognostiziert, dass nicht alle großen Unternehmen überleben werden."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://techcrunch.com/category/artificial-intelligence/",
+      "url_is_article": false,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Mozillas neuer CEO: KI kommt zu Firefox, bleibt aber eine Wahlmöglichkeit",
+        "summary": "Mozillas neuer CEO sagt, dass KI zu Firefox kommt, aber eine Wahlmöglichkeit bleiben wird."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://www.heise.de/thema/Kuenstliche-Intelligenz",
+      "url_is_article": false,
+      "source": "heise",
+      "de": {
+        "title": "Waterfox positioniert sich als KI-freie Firefox-Alternative",
+        "summary": "Während Mozilla Firefox mit KI-Funktionen ausstatten will, geht Waterfox den entgegengesetzten Weg und positioniert sich als KI-freie Alternative."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://www.heise.de/thema/Kuenstliche-Intelligenz",
+      "url_is_article": false,
+      "source": "heise",
+      "de": {
+        "title": "KI-Update Deep-Dive: Wie wir in den Redaktionen KI einsetzen",
+        "summary": "Von der automatischen Transkription bis zur Bildgenerierung - Einblicke in den redaktionellen KI-Einsatz."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://www.heise.de/thema/Kuenstliche-Intelligenz",
+      "url_is_article": false,
+      "source": "heise",
+      "de": {
+        "title": "Von den Grenzen großer Sprachmodelle und der Unerreichbarkeit von AGI und ASI",
+        "summary": "Große Sprachmodelle (LLMs) liefern beeindruckende Ergebnisse, aber ihre Grenzen werden zunehmend sichtbar. AGI und ASI bleiben unerreichbar."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://www.heise.de/thema/Kuenstliche-Intelligenz",
+      "url_is_article": false,
+      "source": "heise",
+      "de": {
+        "title": "Kommentar: Wenn Copilot zum KO-Pilot wird",
+        "summary": "Volker Weber macht sich in einer Wutrede Luft, dass ihm die Techkonzerne an jeder Ecke KI-Assistenten aufzwingen wollen."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://www.handelsblatt.com/meinung/kolumnen/kreative-zerstoerung-wie-kuenstliche-intelligenz-unsere-einsamkeit-verstaerkt/100184036.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Wie Künstliche Intelligenz unsere Einsamkeit verstärkt",
+        "summary": "Kolumne: Mit der KI sind wir in die Phase der sozialen Ersatzerweiterung eingetreten, in der Chatbots unsere liebsten Gesprächspartner werden."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://t3n.de/tag/kuenstliche-intelligenz/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "KI schafft Jobs statt sie zu vernichten – sagen 67 Prozent der CEOs",
+        "summary": "Während viele Beschäftigte um ihre Arbeitsplätze fürchten, blicken Führungskräfte großer Unternehmen positiver in die Zukunft. Einzelne Bereiche und Berufsgruppen könnten besonders profitieren."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://techcrunch.com/category/artificial-intelligence/",
+      "url_is_article": false,
+      "source": "TechCrunch",
+      "de": {
+        "title": "ChatGPTs mobile App erreicht neuen Meilenstein von 3 Milliarden Dollar Verbraucherausgaben",
+        "summary": "Die mobile ChatGPT-App erreicht einen neuen Meilenstein von 3 Milliarden Dollar an Verbraucherausgaben."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://www.heise.de/thema/Kuenstliche-Intelligenz",
+      "url_is_article": false,
+      "source": "heise",
+      "de": {
+        "title": "Micron verdient sich an der Speicherkrise eine goldene Nase",
+        "summary": "Micron folgt Nvidia in den Club der KI-Schaufelverkäufer. Wegen der hohen Nachfrage nach KI-Speicher steigen die Preise massiv."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/kuenstliche-intelligenz-investoren-von-ki-rechenzentren-entdecken-deutschland/100175789.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Investoren von KI-Rechenzentren entdecken Deutschland",
+        "summary": "Beteiligungsgesellschaften drängen ins Geschäft mit den KI-Gigafactorys. Deutschland wird als Standort für KI-Rechenzentren attraktiver."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://t3n.de/",
+      "url_is_article": false,
+      "source": "t3n",
+      "de": {
+        "title": "RAM-Preise explodieren: Warum 64 GB Arbeitsspeicher jetzt mehr kosten als eine PS5 Pro",
+        "summary": "Die steigenden Anforderungen von KI-Anwendungen treiben die Preise für Arbeitsspeicher in die Höhe."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://t3n.de/",
+      "url_is_article": false,
+      "source": "t3n",
+      "de": {
+        "title": "McDonald's KI-Weihnachtsspot floppt – und die Erklärung macht es nicht besser",
+        "summary": "McDonald's KI-generierter Weihnachtswerbespot erhält negative Reaktionen."
+      }
+    }
+  ],
+  "podcast": {}
+}

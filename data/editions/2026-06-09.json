@@ -1,0 +1,166 @@
+{
+  "date": "2026-06-09",
+  "week": 24,
+  "languages": [
+    "de"
+  ],
+  "migrated_from_commit": "701088c",
+  "items": [
+    {
+      "category": "news",
+      "url": "https://t3n.de/news/das-trio-ist-komplett-openai-beantragt-boersengang-1746551/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "OpenAI beantragt Börsengang und folgt damit Anthropic",
+        "summary": "OpenAI hat vertraulich Unterlagen für einen Börsengang eingereicht. Damit folgt der ChatGPT-Anbieter dem Weg von Anthropic. Das ist mehr als Finanzmarkt-Folklore: Die grossen KI-Labore bewegen sich in eine Phase, in der Kapitalmarktfähigkeit zur strategischen Voraussetzung wird."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com/technik/ki/ki-apollo-und-blackstone-geben-anthropic-historischen-kredit/100231449.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Apollo und Blackstone geben Anthropic einen historischen Kredit",
+        "summary": "Apollo und Blackstone stellen Anthropic einen der grössten privaten Kredite der Welt bereit. Das zeigt, wie stark KI inzwischen durch Finanzierungsarchitekturen geprägt wird. Wer Modelle bauen will, braucht nicht nur Talent, sondern Bilanzkraft. Romantisch ist das nicht, relevant schon."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-spacex-treibt-vor-boersengang-plaene-fuer-ki-rechenzentren-im-all-voran/100231422.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "SpaceX treibt Pläne für KI-Rechenzentren im All voran",
+        "summary": "SpaceX positioniert sich vor einem möglichen Börsengang als Anbieter von KI-Infrastruktur und prüft Rechenzentren im All. Das eigentliche Problem ist nicht die spektakuläre Kulisse, sondern die Verschiebung von KI-Infrastruktur in geopolitisch relevante Räume."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Apple setzt auf eine langsamere KI-Strategie und wirkt damit zunehmend klug",
+        "summary": "TechCrunch ordnet Apples vorsichtigen KI-Kurs neu ein. Nach der WWDC wirkt die Strategie weniger defensiv: Apple setzt auf Integration, Datenschutz und Entwicklerzugang statt auf reine Modell-Schlagzeilen. Der entscheidende Unterschied liegt in der Einbettung in bestehende Ökosysteme."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.heise.de/news/KI-Update-DeepSeek-erobert-USA-KI-schafft-KI-Umbau-von-ChatGPT-KI-Bot-Liebe-11321148.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "DeepSeek wächst in den USA, während sich KI-Systeme selbst programmieren",
+        "summary": "heise fasst mehrere Entwicklungen zusammen: DeepSeek gewinnt bei US-Unternehmen an Tempo, KI-Systeme schreiben zunehmend selbst Code, und ChatGPT wird strategisch umgebaut. Das Muster ist klar: Der Wettbewerb verlagert sich von Modellqualität zu Kosten, Integration und operativer Nutzbarkeit."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-physicsx-sammelt-300-millionen-dollar-ein/100231069.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "PhysicsX sammelt 300 Millionen Dollar für KI-Simulationen in Industrie und Chipfertigung ein",
+        "summary": "Das britische Startup PhysicsX erreicht eine Bewertung von 2,4 Milliarden Dollar und will Schwerindustrie sowie Chipfertigung mit KI-Simulationen verändern. Was oft unterschätzt wird: Die grossen Produktivitätsgewinne entstehen nicht im Chatfenster, sondern in technischen Kernprozessen."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Apple will kleine Entwickler mit günstigerer KI-Infrastruktur gewinnen",
+        "summary": "Apple reduziert die Einstiegshürden für Entwickler, die KI-Funktionen in Apps integrieren wollen. Für kleinere Anbieter ist das relevant, weil Kosten oft der unsichtbare Innovationsfilter sind. Wer günstiger experimentieren kann, lernt schneller. Klingt banal, ist aber verdächtig oft der Unterschied."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://t3n.de/news/neues-ki-modell-von-google-mit-12-milliarden-parametern-gemma-4-12b-laeuft-direkt-auf-deinem-notebook-1746453/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Googles Gemma 4 12B läuft direkt auf dem Notebook",
+        "summary": "Google bringt mit Gemma 4 12B ein Modell, das lokal auf Notebooks laufen soll. Die Implikation ist gross: Lokale KI kann Datenschutz, Kostenkontrolle und Reaktionszeit verbessern. Nicht jede Anwendung braucht ein Rechenzentrum, das klingt wie eine kleine Wahrheit mit grossem Preisschild."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/06/08/amazon-now-lets-you-design-custom-merch-using-ai/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Amazon lässt Nutzer individuelle Produkte mit KI gestalten",
+        "summary": "Amazon öffnet KI-gestützte Gestaltung für personalisierte Produkte. Der Schritt zeigt, wie generative KI in Commerce-Prozesse wandert: vom Marketingversprechen zur Produktkonfiguration. Die Konsequenz daraus ist mehr Variantenvielfalt, aber auch mehr Druck auf Qualitätssicherung und Markenführung."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://t3n.de/news/ki-im-recruiting-bleibt-hochrisiko-was-der-ai-omnibus-fuer-unternehmen-wirklich-aendert-1746005/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Der AI Omnibus verändert die Regeln für Hochrisiko-KI im Recruiting",
+        "summary": "Der AI Omnibus soll Teile des EU AI Act entschärfen und verändert damit die Anforderungen an KI im Recruiting. Das eigentliche Problem ist nicht Bürokratie, sondern Verantwortung: Wer Menschen bewertet, automatisiert nicht nur Prozesse, sondern Machtverhältnisse."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "OpenAI führt Lockdown-Modus gegen Prompt-Injection-Angriffe ein",
+        "summary": "OpenAI reagiert mit einem Lockdown-Modus auf Prompt-Injection-Risiken. Das ist ein wichtiger Hinweis für Unternehmen: Sicherheit ist bei KI-Agenten kein nachgelagerter IT-Punkt. Sie entscheidet, ob Systeme in sensiblen Prozessen produktiv eingesetzt werden dürfen."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.handelsblatt.com/technik/ki/ki-anthropic-schlaegt-pause-im-ki-wettlauf-vor/100230557.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Anthropic schlägt eine Pause im KI-Wettlauf vor",
+        "summary": "Anthropic fordert eine Verlangsamung bei der Entwicklung grosser KI-Modelle, schliesst einen Alleingang aber aus. Das zeigt das klassische Koordinationsproblem: Alle sehen Risiken, doch niemand will freiwillig zurückfallen. Moral trifft Markt, und der Markt hat selten höflich gewartet."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://www.handelsblatt.com/technik/ki/ki-expertin-wer-haette-gedacht-dass-chatgpt-so-einschlaegt/100188740.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Deutschlands jüngste Professorin ordnet den KI-Boom nüchtern ein",
+        "summary": "Alicia von Schenk, Professorin für Economics of AI, mahnt zu einem Blick hinter den Hype. Ihre Perspektive ist entscheidungsrelevant, weil KI nicht nur technisch, sondern ökonomisch verstanden werden muss. Nutzen entsteht dort, wo Organisationen Anreize, Fähigkeiten und Datenqualität zusammenbringen."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://t3n.de/news/das-spiel-mit-der-angst-anthropics-ki-warnungen-sind-vor-allem-geschicktes-marketing-1746430/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Anthropics KI-Warnungen sind auch geschicktes Marketing",
+        "summary": "t3n ordnet Anthropics Warnungen als strategische Kommunikation ein. Das macht die Risiken nicht automatisch falsch. Es zeigt aber, dass Sicherheitsdiskurse auch Positionierung sind. Was oft unterschätzt wird: Im KI-Markt konkurrieren nicht nur Modelle, sondern Deutungen."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-meta-erwaegt-offenbar-milliardenaufnahme-ueber-aktienverkauf/100230733.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Meta erwägt eine milliardenschwere Aktienplatzierung für KI-Infrastruktur",
+        "summary": "Meta prüft laut Berichten eine Kapitalerhöhung, um den Ausbau der KI-Infrastruktur zu finanzieren. Die Konsequenz daraus ist eindeutig: KI wird kapitalintensiver. Unternehmen sollten deshalb nicht nur Tools auswählen, sondern ihre Abhängigkeit von Infrastruktur, Plattformen und Kostenmodellen verstehen."
+      }
+    }
+  ],
+  "podcast": {
+    "de": {
+      "audio": "audio/2026-06-09/podcast-de.mp3",
+      "duration_sec": 195
+    }
+  }
+}

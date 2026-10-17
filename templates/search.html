@@ -1,0 +1,75 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="hero small">
+  <h1 class="hero-title"><span class="line">{{ t.search_title }}</span></h1>
+  <p class="hero-sub">{{ t.search_intro }}</p>
+</section>
+<form class="search" id="search-form" role="search" onsubmit="return false">
+  <label class="sr-only" for="q">{{ t.search_title }}</label>
+  <input id="q" type="search" placeholder="{{ t.search_placeholder }}" autocomplete="off" autofocus>
+  <div class="filters">
+    <label>{{ t.search_category }}
+      <select id="f-cat"><option value="">{{ t.search_all }}</option>
+      {% for c in categories %}<option value="{{ c.key }}">{{ c.icon }} {{ c.label }}</option>{% endfor %}</select>
+    </label>
+    <label>{{ t.search_source }}
+      <select id="f-src"><option value="">{{ t.search_all }}</option>
+      {% for s in sources %}<option value="{{ s }}">{{ s }}</option>{% endfor %}</select>
+    </label>
+    <label>{{ t.search_year }}
+      <select id="f-year"><option value="">{{ t.search_all }}</option>
+      {% for y in years %}<option value="{{ y }}">{{ y }}</option>{% endfor %}</select>
+    </label>
+  </div>
+</form>
+<p class="muted" id="count" aria-live="polite"></p>
+<div class="cards" id="results"></div>
+{% endblock %}
+{% block scripts %}
+<script>
+(function(){
+  const T = {{ js_strings|safe }};
+  const CATS = {{ js_cats|safe }};
+  const q = document.getElementById('q'), fc = document.getElementById('f-cat'),
+        fs = document.getElementById('f-src'), fy = document.getElementById('f-year'),
+        out = document.getElementById('results'), cnt = document.getElementById('count');
+  let data = null;
+  function norm(s){ return (s||'').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,''); }
+  function esc(s){ return (s||'').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
+  function hl(text, terms){
+    let h = esc(text);
+    terms.forEach(t => { if(t.length>1){ h = h.replace(new RegExp('(' + t.replace(/[.*+?^${}()|[\]\\]/g,'\\$&') + ')','ig'), '<mark>$1</mark>'); } });
+    return h;
+  }
+  function render(){
+    if(!data) return;
+    const terms = norm(q.value).split(/\s+/).filter(Boolean);
+    const cat = fc.value, src = fs.value, year = fy.value;
+    const hits = data.filter(it => {
+      if(cat && it.c !== cat) return false;
+      if(src && it.s !== src) return false;
+      if(year && !it.d.startsWith(year)) return false;
+      if(!terms.length) return true;
+      const hay = norm(it.t + ' ' + it.y + ' ' + it.s);
+      return terms.every(t => hay.includes(t));
+    });
+    cnt.textContent = hits.length + ' ' + T.results;
+    const show = hits.slice(0, 120);
+    out.innerHTML = show.map(it => `
+      <article class="card">
+        <p class="card-meta"><span class="pill">${esc(it.s)}</span><span>${CATS[it.c] || ''}</span><time>${esc(it.d)}</time></p>
+        <h3><a href="${esc(it.u)}" target="_blank" rel="noopener">${hl(it.t, terms)}</a></h3>
+        <p>${hl(it.y, terms)}</p>
+        <p class="card-links"><a class="more" href="${esc(it.e)}">${T.in_edition} ${esc(it.d)} →</a></p>
+      </article>`).join('') || `<p class="muted">${T.none}</p>`;
+    const params = new URLSearchParams(); if(q.value) params.set('q', q.value);
+    history.replaceState(null, '', params.toString() ? '?' + params : location.pathname);
+  }
+  fetch('{{ root }}search-index-{{ lang }}.json').then(r => r.json()).then(d => {
+    data = d; const p = new URLSearchParams(location.search); if(p.get('q')) q.value = p.get('q'); render();
+  });
+  let timer; q.addEventListener('input', () => { clearTimeout(timer); timer = setTimeout(render, 120); });
+  [fc, fs, fy].forEach(el => el.addEventListener('change', render));
+})();
+</script>
+{% endblock %}

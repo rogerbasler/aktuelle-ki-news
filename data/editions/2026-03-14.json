@@ -1,0 +1,161 @@
+{
+  "date": "2026-03-14",
+  "week": 11,
+  "languages": [
+    "de"
+  ],
+  "migrated_from_commit": "ca13b52",
+  "items": [
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Die größten K.I.-Geschichten des Jahres bisher",
+        "summary": "TechCrunch fasst die prägendsten K.I.-Entwicklungen des Jahres zusammen – von Militärdebatten über Plattformkonflikte bis hin zu agentischen Systemen. Der Beitrag liefert den breiten Überblick über die Dynamik im Markt."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com/technik/ki/ki-warum-die-kuenstliche-intelligenz-gerade-eine-neue-stufe-erreicht-04/100197888.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Warum K.I. gerade eine neue Entwicklungsstufe erreicht",
+        "summary": "Das Handelsblatt beschreibt, wie K.I.-Agenten und leistungsfähigere Modelle eine neue Phase der Technologie einläuten. Gleichzeitig rücken Risiken, Steuerungsfragen und potenzielle Folgen für Gesellschaft und Wirtschaft stärker in den Vordergrund."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.heise.de/news/Google-Maps-bekommt-Gemini-KI-fuer-komplexe-Suche-und-Immersive-Navigation-11209604.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "Google Maps erhält Gemini-K.I. für komplexe Suche und Navigation",
+        "summary": "Heise berichtet über das große Maps-Update von Google: Gemini soll künftig komplexe Suchanfragen verstehen und die visuelle Navigation verbessern. Damit rückt K.I. tiefer in Alltagsprodukte mit Milliardenreichweite vor."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.heise.de/news/Metas-KI-Beschleuniger-sollen-2027-Nvidia-Co-ueberholen-11209305.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "Meta plant K.I.-Beschleuniger, die Nvidia überholen sollen",
+        "summary": "Meta arbeitet laut heise an einer neuen Generation eigener K.I.-Beschleuniger mit RISC-V-Kernen. Das Ziel ist mehr Unabhängigkeit von Nvidia und eine deutlich stärkere Infrastruktur für Training und Inferenz."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "xAI startet seine Coding-Offensive erneut",
+        "summary": "TechCrunch meldet, dass Elon Musks xAI seine Strategie für ein K.I.-Coding-Produkt neu aufsetzt. Neue Führungskräfte und ein Neustart zeigen, wie hart umkämpft der Markt für agentisches Programmieren inzwischen ist."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Rox AI erreicht 1,2 Milliarden Dollar Bewertung",
+        "summary": "Das Sales-Automation-Start-up Rox AI hat laut TechCrunch eine neue Finanzierungsrunde zu einer Bewertung von 1,2 Milliarden Dollar abgeschlossen. Das unterstreicht das anhaltend hohe Investoreninteresse an agentischen B2B-K.I.-Tools."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://www.handelsblatt.com/technik/ki/ki-start-up-fuer-anwaelte-legora-sammelt-550-millionen-dollar-ein/100206874.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Legora sammelt 550 Millionen Dollar für K.I. im Rechtsmarkt ein",
+        "summary": "Handelsblatt berichtet über die massive Finanzierung des Legal-Tech-Start-ups Legora. Der Fall zeigt, wie stark vertikale K.I.-Anwendungen in regulierten Branchen inzwischen skalieren."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Nyne will K.I.-Agenten mehr menschlichen Kontext geben",
+        "summary": "Das von Vater und Sohn gegründete Start-up Nyne entwickelt Systeme, die öffentlichen digitalen Kontext in K.I.-Agenten einfließen lassen. Laut TechCrunch soll dadurch die Handlungsfähigkeit agentischer Software verbessert werden."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://t3n.de/news/openclaw-warum-firmen-den-ki-agenten-verbieten-aberheimlich-trotzdem-testen-1730627/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Openclaw: Warum Unternehmen K.I.-Agenten verbieten und trotzdem testen",
+        "summary": "t3n zeigt das Spannungsfeld rund um Openclaw: Viele Firmen sehen enormes Potenzial in agentischen Systemen, fürchten aber zugleich Sicherheits-, Compliance- und Kontrollprobleme im operativen Einsatz."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Anwalt warnt vor Massenrisiken durch K.I.-Psychosen",
+        "summary": "TechCrunch beleuchtet Fälle, in denen Chatbots mit psychischen Krisen in Verbindung gebracht werden. Die Debatte um Produkthaftung, Sicherheitsgrenzen und psychologische Risiken von K.I.-Systemen gewinnt damit weiter an Schärfe."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Ein Fahrplan für K.I. – wenn endlich jemand zuhört",
+        "summary": "Der TechCrunch-Beitrag argumentiert für einen menschenzentrierten Rahmen im Umgang mit K.I. und verbindet politische Leitlinien mit der Frage, wie sich Innovation und Schutz demokratischer Werte besser austarieren lassen."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.heise.de/news/Macrohard-Elon-Musk-kuendigt-gemeinsames-Projekt-von-xAI-und-Tesla-an-11207897.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "„Macrohard“: Musk kündigt gemeinsames K.I.-Projekt von xAI und Tesla an",
+        "summary": "Heise berichtet über Musks angekündigte Zusammenarbeit von xAI und Tesla. Der Schritt wirft Fragen zu Marktmacht, Datenzugang, industrieller Nutzung und Governance großer K.I.-Ökosysteme auf."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://t3n.de/magazin/nachsitzen-wegen-ki-workslop-warum-generierte-inhalte-mehr-arbeit-schaffen-als-sie-sparen-1730373/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "KI-Workslop: Warum generierte Inhalte oft mehr Arbeit erzeugen",
+        "summary": "t3n analysiert, warum schlecht gesteuerte generative Systeme nicht nur Effizienz schaffen, sondern auch Mehraufwand produzieren können. Der Beitrag liefert eine wichtige Gegenperspektive zum üblichen Produktivitätsversprechen."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://techcrunch.com/2026/03/10/ai-powered-apps-struggle-with-long-term-retention-new-report-shows/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "K.I.-Apps tun sich schwer mit langfristiger Nutzerbindung",
+        "summary": "Ein neuer Bericht, den TechCrunch aufgreift, zeigt: K.I.-Apps monetarisieren früh gut, kämpfen aber oft mit schneller Kündigung und schwacher Langzeitbindung. Das verändert die Perspektive auf nachhaltige K.I.-Geschäftsmodelle."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://www.handelsblatt.com/dpa/kuenstliche-intelligenz-hoffnung-auf-tausende-jobs-dank-der-microsoft-rechenzentren/100207871.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Hoffnung auf Tausende Jobs dank Microsoft-Rechenzentren",
+        "summary": "Handelsblatt berichtet über neue Hoffnungen auf zusätzliche Arbeitsplätze durch den Ausbau von Rechenzentren für datenintensive K.I.-Anwendungen. Der Beitrag zeigt die reale wirtschaftliche und regionale Wirkung der K.I.-Infrastruktur."
+      }
+    }
+  ],
+  "podcast": {}
+}

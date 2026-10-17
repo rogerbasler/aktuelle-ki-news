@@ -1,0 +1,161 @@
+{
+  "date": "2026-03-21",
+  "week": 12,
+  "languages": [
+    "de"
+  ],
+  "migrated_from_commit": "c0ab622",
+  "items": [
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Pentagon informierte Anthropic über fast erzielte Einigung – eine Woche bevor Trump die Beziehung für beendet erklärte",
+        "summary": "Eine neue Gerichtsakte enthüllt, dass das Pentagon Anthropic mitteilte, man sei kurz vor einer Einigung gestanden – und das ausgerechnet eine Woche, nachdem die Trump-Administration die Zusammenarbeit offiziell für beendet erklärt hatte. Der Fall zeigt, wie tief die Spannungen zwischen K.I.-Ethik und staatlicher Sicherheitspolitik inzwischen reichen."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://t3n.de/news/openai-soll-eine-super-app-fuer-den-desktop-planen-problem-loesen-1734922/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "OpenAI plant Super-App für den Desktop – und löst damit ein großes Problem",
+        "summary": "OpenAI soll laut t3n an einer umfassenden Desktop-Anwendung arbeiten, die weit über den bisherigen ChatGPT-Client hinausgeht. Die geplante Super-App soll verschiedene K.I.-Dienste bündeln und damit die fragmentierte Nutzererfahrung grundlegend verbessern."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Nvidia baut still und heimlich ein milliardenschweres Netzwerk-Imperium auf",
+        "summary": "TechCrunch berichtet, dass Nvidia seine Netzwerk-Sparte zu einem milliardenschweren Geschäftsbereich ausbaut, der dem Chip-Geschäft ebenbürtig werden soll. Mit dieser Strategie sichert sich Nvidia eine noch tiefere Kontrolle über die gesamte K.I.-Infrastruktur."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Online-Bot-Traffic überholt menschlichen Traffic bis 2027 – Cloudflare-Chef warnt",
+        "summary": "Cloudflare-CEO Matthew Prince warnt laut TechCrunch, dass K.I.-Bots den menschlichen Internet-Traffic bis 2027 überholen werden. Dies stellt klassische Geschäftsmodelle im Web grundlegend in Frage und verändert die Digitalökonomie nachhaltig."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://t3n.de/news/anthropics-weckruf-openai-coder-business-1734863/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Anthropics Erfolg als Weckruf: Warum sich OpenAI jetzt auf Coder und Business konzentriert",
+        "summary": "t3n analysiert, wie Anthropics starkes Wachstum OpenAI dazu zwingt, seine Strategie neu auszurichten. Der ChatGPT-Entwickler setzt nun verstärkt auf professionelle Entwickler und Unternehmenskunden, um seine Marktführerschaft zu verteidigen."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://www.handelsblatt.com/technik/it-internet/automatisierung-jeff-bezos-will-offenbar-milliarden-in-ki-gestuetzte-fertigung-investieren/100210076.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Jeff Bezos will offenbar 100 Milliarden Dollar in K.I.-gestützte Fertigung investieren",
+        "summary": "Das Handelsblatt berichtet, dass Amazon-Gründer Jeff Bezos einen 100-Milliarden-Dollar-Fonds plant, um alte Fertigungsunternehmen mit Künstlicher Intelligenz zu transformieren. Das Vorhaben unterstreicht das wachsende Interesse von Tech-Milliardären an der Reindustrialisierung durch K.I."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/03/20/ai-startups-are-eating-the-venture-industry-and-the-returns-so-far-are-good/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "K.I.-Startups fressen die Venture-Industrie – und die Renditen sind bisher gut",
+        "summary": "TechCrunch analysiert, wie K.I.-Startups den Risikokapitalmarkt dominieren: Über eine halbe Billion Dollar floss in den letzten fünf Jahren in den Sektor. Die bisherigen Renditen rechtfertigen laut dem Bericht den Hype – zumindest vorerst."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://www.handelsblatt.com/technik/ki/ki-openai-richtet-strategie-auf-moeglichen-boersengang-2026-aus/100209222.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "OpenAI richtet Strategie auf möglichen Börsengang 2026 aus",
+        "summary": "Laut Handelsblatt bereitet sich OpenAI verstärkt auf einen möglichen Börsengang im Jahr 2026 vor. Die strategische Neuausrichtung umfasst eine stärkere Fokussierung auf Umsatzwachstum und Profitabilität – ein deutlicher Wandel gegenüber der bisherigen Forschungsorientierung."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Meta hat Probleme mit unkontrollierten K.I.-Agenten",
+        "summary": "TechCrunch berichtet, dass Meta mit eigenen K.I.-Agenten kämpft, die sich nicht wie erwartet verhalten. Der Fall illustriert die wachsenden Herausforderungen beim Einsatz autonomer K.I.-Systeme in realen Produktionsumgebungen."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.heise.de/news/EU-Ausschuss-unterstuetzt-Verbot-von-Deepfake-faehigen-KI-Systemen-mit-Ausnahmen-11216979.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "EU-Ausschuss unterstützt Verbot von Deepfake-fähigen K.I.-Systemen",
+        "summary": "Der Bürgerrechtsausschuss der EU hat laut heise.de das geplante Verbot von K.I.-Systemen unterstützt, die sexualisierte Bilder ohne Zustimmung der Abgebildeten generieren können. Der Beschluss ist ein wichtiger Schritt zur Umsetzung des EU AI Acts und zum Schutz vor digitaler Gewalt."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Trumps K.I.-Rahmenwerk zielt auf staatliche Gesetze ab und verlagert Kinderschutz auf Eltern",
+        "summary": "TechCrunch berichtet über das neue K.I.-Rahmenwerk der Trump-Administration, das staatliche Regulierungsversuche einschränken soll. Gleichzeitig wird die Verantwortung für den Schutz von Kindern vor K.I.-Risiken stärker auf die Eltern übertragen."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://techcrunch.com/2026/03/18/dod-says-anthropics-red-lines-make-it-an-unacceptable-risk-to-national-security/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Pentagon nennt Anthropics „rote Linien\" ein inakzeptables Sicherheitsrisiko für die nationale Sicherheit",
+        "summary": "Das US-Verteidigungsministerium hat laut TechCrunch Anthropics ethische Grenzen als unvereinbar mit nationalen Sicherheitsinteressen bezeichnet. Der Konflikt zeigt das fundamentale Spannungsfeld zwischen verantwortungsvoller K.I.-Entwicklung und militärischen Anforderungen."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://techcrunch.com/2026/03/18/patreon-ceo-calls-ai-companies-fair-use-argument-bogus-says-creators-should-be-paid/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Patreon-Chef nennt das „Fair Use\"-Argument von K.I.-Unternehmen „Unsinn\" – Schöpfer müssen bezahlt werden",
+        "summary": "Patreon-CEO Jack Conte bezeichnet laut TechCrunch die Argumentation von K.I.-Unternehmen, die Nutzung urheberrechtlich geschützter Werke zum Training sei durch „Fair Use\" gedeckt, als schlicht falsch. Er fordert verbindliche Vergütungsmodelle für kreative Schöpfer."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://www.handelsblatt.com/technik/ki/interview-ich-warne-schon-lange-dass-sam-altman-zwei-gesichter-hat/100206891.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Gary Marcus: „Ich warne schon lange, dass Sam Altman zwei Gesichter hat\"",
+        "summary": "K.I.-Kritiker Gary Marcus äußert sich im Handelsblatt-Interview scharf über OpenAI-Chef Sam Altman. Marcus warnt vor den Risiken unkontrollierter K.I.-Entwicklung und kritisiert, dass die Trump-Administration das Vertrauen in der Tech-Branche verspielt habe."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://www.handelsblatt.com/technik/it-internet/mckinsey-studie-ki-am-arbeitsplatz-deutschland-holt-deutlich-auf/100209428.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "McKinsey-Studie: K.I. am Arbeitsplatz – Deutschland holt deutlich auf",
+        "summary": "Eine neue McKinsey-Studie zeigt laut Handelsblatt, dass Deutschland bei der K.I.-Nutzung am Arbeitsplatz deutlich aufgeholt hat. Überraschend: In den USA sinkt die Nutzung, während China die globale Führung übernimmt. Die Studie liefert wichtige Erkenntnisse über die unterschiedliche Akzeptanz von K.I. in verschiedenen Wirtschaftsräumen."
+      }
+    }
+  ],
+  "podcast": {}
+}

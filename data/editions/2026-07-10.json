@@ -1,0 +1,166 @@
+{
+  "date": "2026-07-10",
+  "week": 28,
+  "languages": [
+    "de"
+  ],
+  "migrated_from_commit": "414e95b",
+  "items": [
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "OpenAI stellt GPT-5.6-Familie vor: Sol, Terra und Luna im Wettbewerb",
+        "summary": "OpenAI hat seine neue Modellfamilie GPT-5.6 veröffentlicht, bestehend aus Sol (Flaggschiff), Terra (Mittelklasse) und Luna (Budget). Sol soll 54 Prozent token-effizienter sein und Anthropics Fable 5 beim Coding übertreffen. Das stärkste Cybersecurity-Modell, das OpenAI je gebaut hat. Die US-Regierung hatte den Rollout zuvor aus Sicherheitsgründen verzögert. Preise: Sol 5 Dollar Input / 30 Dollar Output pro Million Token."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "SpaceXAI veröffentlicht Grok 4.5: Opus-Klasse, aber günstiger",
+        "summary": "SpaceXAI hat Grok 4.5 veröffentlicht, das erste Modell seit dem Börsengang des Unternehmens. Elon Musk beschreibt es als \"Opus-Klasse, aber schneller und kosteneffizienter\". Preis: 2 Dollar Input / 6 Dollar Output pro Million Token, verglichen mit 5 / 25 Dollar für Anthropics Opus 4.7. Doppelte Token-Effizienz gegenüber Konkurrenzmodellen. EU-Nutzer müssen noch auf den Zugang warten."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com/technik/it-internet/ki-warum-immer-mehr-kunden-gegen-openai-und-anthropic-rebellieren/100236877.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Kunden rebellieren gegen OpenAI und Anthropic: Über eine Billion Dollar K.I.-Kosten pro Jahr",
+        "summary": "Das Handelsblatt hat dokumentiert, warum immer mehr Unternehmen gegen die Preispolitik der K.I.-Marktführer rebellieren. Weltweit zahlen Firmen bereits mehr als eine Billion Dollar pro Jahr für K.I. Das IT-Budget vieler Konzerne war im ersten Quartal 2026 bereits aufgebraucht. SAP, Palantir und andere kontrollieren die Ausgaben jetzt strenger. Altman selbst nennt die Kostenfrage ein \"Meme\" und verspricht Effizienzgewinne."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "New York Times wirft OpenAI vor, Beweise im Copyright-Prozess versteckt zu haben",
+        "summary": "Die New York Times und The Daily News behaupten, OpenAI habe intern bereits gewusst, wie stark ChatGPT urheberrechtlich geschützte Inhalte reproduziert, und das vor Gericht verschwiegen. OpenAI soll ein Tool namens \"Project Giraffe\" gehabt haben, das Regurgitation in Outputs erkannte. Die Kläger fordern Sanktionen und die Anerkennung der Fakten durch das Gericht. OpenAI bestreitet alle Vorwürfe."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Nvidia verliert Boden: Aktienkurs fällt 15 Prozent, während Speicherchips boomen",
+        "summary": "Nvidias Aktienkurs ist seit Mai um 15 Prozent gefallen, obwohl die Umsätze weiter wachsen. Der Grund: Alle bauen ihre eigenen Chips, die GPU-Knappheit hat sich entspannt. Gleichzeitig hat sich Micron verdreifacht, weil DRAM zum neuen Engpass in Rechenzentren geworden ist. Der Spot-Preis für eine Stunde H100-GPU ist von 3,20 Dollar im Mai auf unter 2 Dollar gefallen. Der eigentliche Kampf findet im Speicher statt."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Ollama sammelt 65 Millionen Dollar ein: Lokale K.I. für 9 Millionen Entwickler",
+        "summary": "Ollama, das Tool zur lokalen Ausführung von K.I.-Modellen auf dem eigenen PC, hat eine Series-B-Finanzierung von 65 Millionen Dollar abgeschlossen. 8,9 Millionen Entwickler nutzen es monatlich, 85 Prozent der Fortune-500-Unternehmen setzen es ein. 14 Mitarbeitende. Das Unternehmen bietet auch eine Cloud-Lösung für grössere Modelle an. Die Gegenbewegung zu Cloud-K.I. ist real und wird finanziert."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Meta startet im September Produktion eigener K.I.-Chips",
+        "summary": "Meta ist auf Kurs, im September die Produktion der neuesten Version seiner K.I.-spezifischen Chips zu starten. Entwickelt mit Broadcom, gefertigt von TSMC. Meta plant, 7 Gigawatt Rechenkapazität in diesem Jahr zu deployen und das im nächsten Jahr zu verdoppeln. Das Unternehmen investiert zwischen 125 und 145 Milliarden Dollar in Kapitalausgaben 2026. Ziel: Unabhängigkeit von Nvidia."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Lovable verhandelt über Verdoppelung der Bewertung auf 13,2 Milliarden Dollar",
+        "summary": "Das K.I.-Coding-Startup Lovable soll laut Berichten über eine neue Finanzierungsrunde verhandeln, die seine Bewertung auf 13,2 Milliarden Dollar verdoppeln würde. Lovable ermöglicht es Nutzern, Web-Apps durch natürlichsprachliche Prompts zu erstellen. Das Unternehmen ist eines der am schnellsten wachsenden K.I.-Startups in Europa und zeigt: Der Markt für \"Vibe-Coding\"-Tools ist noch lange nicht gesättigt."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "OpenAI veröffentlicht neue Sprachmodelle für natürlichere Konversationen",
+        "summary": "OpenAI hat GPT-Live vorgestellt, eine neue Generation von Sprachmodellen für natürlichere menschlich-K.I.-Interaktionen. Die Modelle sollen Gespräche flüssiger und menschenähnlicher gestalten. Gleichzeitig hat OpenAI ChatGPT Work gestartet, einen Arbeitsbegleiter für Unternehmensteams, der auf Desktop, Web und Mobile läuft und bei Dokumenten, Tabellen und Präsentationen hilft."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.heise.de/news/Nicht-nur-aussereuropaeische-Loesungen-EU-will-KI-Sperren-vorbeugen-11358285.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "EU stärkt K.I.-Sicherheit nach US-Modell-Blockade: 200-Milliarden-Programm für K.I.-Gigafactories",
+        "summary": "Die EU-Kommission reagiert auf die US-Modell-Blockade vom Juni, als Anthropic auf Anweisung der Trump-Regierung den Zugang zu Mythos 5 und Fable 5 für Ausländer sperrte. EU-Digitalkommissarin Virkkunen: \"Wir können uns bei sicherheitsrelevanten K.I.-Fähigkeiten nicht allein auf aussereuropäische Lösungen verlassen.\" Ein Aktionsplan Cybersicherheit und K.I. soll bis Ende 2026 Notfallmassnahmen entwickeln. Das 200-Milliarden-Programm für K.I.-Gigafactories soll Abhilfe schaffen."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.heise.de/news/China-reguliert-emotionale-KI-ByteDance-und-Alibaba-schalten-App-Funktionen-ab-11355417.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "China reguliert emotionale K.I.: ByteDance und Alibaba schalten App-Funktionen ab",
+        "summary": "Nachdem China die Regeln für menschenähnliche K.I.-Begleiter verschärft hat, entfernen ByteDance und Alibaba entsprechende Funktionen aus ihren K.I.-Apps. China reguliert damit als erstes grosses Land explizit emotionale K.I. und K.I.-Freundschaften. Was oft unterschätzt wird: China ist beim Thema K.I.-Regulierung nicht nur Nachzügler, sondern in bestimmten Bereichen deutlich schneller als Europa oder die USA."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.heise.de/news/KI-Synchronisation-Gericht-weist-Eilantrag-des-Bundesverbands-Schauspiel-ab-11359914.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "K.I.-Synchronisation: Gericht weist Eilantrag des Bundesverbands Schauspiel ab",
+        "summary": "Ein deutsches Gericht hat den Eilantrag des Bundesverbands Schauspiel gegen K.I.-Synchronisation abgewiesen. Schauspieler hatten versucht, K.I.-generierte Synchronstimmen gerichtlich zu stoppen. Das Gericht sieht die Nutzung von K.I. für Synchronisationen als von der Meinungsfreiheit gedeckt. Der entscheidende Unterschied liegt darin: Rechtliche Schutzlücken für Kreativberufe werden sich nicht durch Eilanträge schliessen lassen."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Fidji Simo tritt als OpenAIs Nummer zwei zurück",
+        "summary": "Fidji Simo, die als CEO of Applications die Nummer zwei bei OpenAI war, tritt zurück. Simo hatte zuvor Instacart geleitet und war erst 2024 zu OpenAI gestossen. Ihr Abgang kommt in einer Phase, in der OpenAI gleichzeitig neue Modelle lanciert und intern mit Führungsfragen kämpft. Was oft unterschätzt wird: Kontinuität im Management ist für Unternehmenskunden ein entscheidender Faktor bei der K.I.-Anbieterwahl."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Können K.I.-Modelle die 3-Billionen-Dollar-Frage beantworten?",
+        "summary": "TechCrunch stellt die Frage, ob K.I. die Herausforderungen der US-Gesundheitsversorgung lösen kann, einem Markt mit 3 Billionen Dollar Jahresumsatz. Die Analyse zeigt: K.I. könnte Diagnosen verbessern, Bürokratie reduzieren und Kosten senken. Aber das eigentliche Problem ist nicht die Technologie, sondern die Anreizstrukturen eines Systems, das von Ineffizienz profitiert. K.I. löst keine politischen Probleme."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Anthropic, OpenAI und SpaceX sind grösser als alle Tech-Exits der letzten 25 Jahre zusammen",
+        "summary": "Eine Analyse von TechCrunch zeigt: Die kombinierten Bewertungen von Anthropic, OpenAI und SpaceX übersteigen die Summe aller grossen Tech-Exits der letzten 25 Jahre. Das ist keine Übertreibung, sondern eine nüchterne Bestandsaufnahme der Kapitalkonzentration im K.I.-Sektor. Die Konsequenz daraus ist: Wer nicht in diesem Ökosystem ist, wird zunehmend von den Infrastrukturentscheidungen dieser drei Unternehmen abhängig."
+      }
+    }
+  ],
+  "podcast": {
+    "de": {
+      "audio": "audio/2026-07-10/podcast-de.mp3",
+      "duration_sec": 178
+    }
+  }
+}

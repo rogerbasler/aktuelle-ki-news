@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom"><channel>
+<title>KI Power Update Podcast (DE)</title><link>https://news.fragroger.ai/</link>
+<description>Die Woche in zweieinhalb Minuten, gesprochen von einer synthetischen Stimme. Die 15 wichtigsten KI-Meldungen der Woche aus t3n, heise, Handelsblatt und TechCrunch, eingeordnet für Entscheider:innen, mit Podcast. Jeden Samstag neu.</description><language>de-CH</language>
+<itunes:author>Roger Basler de Roca</itunes:author><itunes:explicit>false</itunes:explicit>
+<itunes:image href="https://news.fragroger.ai/assets/podcast-cover.png"/>
+<itunes:category text="Technology"/><itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
+<atom:link href="https://news.fragroger.ai/podcast-de.xml" rel="self" type="application/rss+xml"/>
+<item><title>KI Power Update 10. Oktober 2026</title>
+<link>https://news.fragroger.ai/archiv/2026-10-10/</link><guid isPermaLink="false">kipu-de-2026-10-10</guid><pubDate>Sat, 10 Oct 2026 05:00:00 +0000</pubDate>
+<description></description><enclosure url="https://news.fragroger.ai/audio/2026-10-10/podcast-de.mp3" length="4483492" type="audio/mpeg"/>
+<itunes:duration>4:40</itunes:duration><itunes:explicit>false</itunes:explicit></item><item><title>KI Power Update 3. Oktober 2026</title>
+<link>https://news.fragroger.ai/archiv/2026-10-03/</link><guid isPermaLink="false">kipu-de-2026-10-03</guid><pubDate>Sat, 03 Oct 2026 05:00:00 +0000</pubDate>
+<description></description><enclosure url="https://news.fragroger.ai/audio/2026-10-03/podcast-de.mp3" length="3840671" type="audio/mpeg"/>
+<itunes:duration>4:00</itunes:duration><itunes:explicit>false</itunes:explicit></item><item><title>KI Power Update 26. September 2026</title>
+<link>https://news.fragroger.ai/archiv/2026-09-26/</link><guid isPermaLink="false">kipu-de-2026-09-26</guid><pubDate>Sat, 26 Sep 2026 05:00:00 +0000</pubDate>
+<description></description><enclosure url="https://news.fragroger.ai/audio/2026-09-26/podcast-de.mp3" length="3735763" type="audio/mpeg"/>
+<itunes:duration>3:53</itunes:duration><itunes:explicit>false</itunes:explicit></item><item><title>KI Power Update 19. September 2026</title>
+<link>https://news.fragroger.ai/archiv/2026-09-19/</link><guid isPermaLink="false">kipu-de-2026-09-19</guid><pubDate>Sat, 19 Sep 2026 05:00:00 +0000</pubDate>
+<description></description><enclosure url="https://news.fragroger.ai/audio/2026-09-19/podcast-de.mp3" length="3635453" type="audio/mpeg"/>
+<itunes:duration>3:47</itunes:duration><itunes:explicit>false</itunes:explicit></item><item><title>KI Power Update 12. September 2026</title>
+<link>https://news.fragroger.ai/archiv/2026-09-12/</link><guid isPermaLink="false">kipu-de-2026-09-12</guid><pubDate>Sat, 12 Sep 2026 05:00:00 +0000</pubDate>
+<description></description><enclosure url="https://news.fragroger.ai/audio/2026-09-12/podcast-de.mp3" length="3641304" type="audio/mpeg"/>
+<itunes:duration>3:48</itunes:duration><itunes:explicit>false</itunes:explicit></item><item><title>KI Power Update 5. September 2026</title>
+<link>https://news.fragroger.ai/archiv/2026-09-05/</link><guid isPermaLink="false">kipu-de-2026-09-05</guid><pubDate>Sat, 05 Sep 2026 05:00:00 +0000</pubDate>
+<description></description><enclosure url="https://news.fragroger.ai/audio/2026-09-05/podcast-de.mp3" length="3329506" type="audio/mpeg"/>
+<itunes:duration>3:28</itunes:duration><itunes:explicit>false</itunes:explicit></item><item><title>KI Power Update 29. August 2026</title>
+<link>https://news.fragroger.ai/archiv/2026-08-29/</link><guid isPermaLink="false">kipu-de-2026-08-29</guid><pubDate>Sat, 29 Aug 2026 05:00:00 +0000</pubDate>
+<description></description><enclosure url="https://news.fragroger.ai/audio/2026-08-29/podcast-de.mp3" length="3445699" type="audio/mpeg"/>
+<itunes:duration>3:35</itunes:duration><itunes:explicit>false</itunes:explicit></item><item><title>KI Power Update 22. August 2026</title>
+<link>https://news.fragroger.ai/archiv/2026-08-22/</link><guid isPermaLink="false">kipu-de-2026-08-22</guid><pubDate>Sat, 22 Aug 2026 05:00:00 +0000</pubDate>
+<description></description><enclosure url="https://news.fragroger.ai/audio/2026-08-22/podcast-de.mp3" length="3361689" type="audio/mpeg"/>
+<itunes:duration>3:30</itunes:duration><itunes:explicit>false</itunes:explicit></item><item><title>KI Power Update 15. August 2026</title>
+<link>https://news.fragroger.ai/archiv/2026-08-15/</link><guid isPermaLink="false">kipu-de-2026-08-15</guid><pubDate>Sat, 15 Aug 2026 05:00:00 +0000</pubDate>
+<description></description><enclosure url="https://news.fragroger.ai/audio/2026-08-15/podcast-de.mp3" length="3354166" type="audio/mpeg"/>
+<itunes:duration>3:30</itunes:duration><itunes:explicit>false</itunes:explicit></item><item><title>KI Power Update 8. August 2026</title>
+<link>https://news.fragroger.ai/archiv/2026-08-08/</link><guid isPermaLink="false">kipu-de-2026-08-08</guid><pubDate>Sat, 08 Aug 2026 05:00:00 +0000</pubDate>
+<description></description><enclosure url="https://news.fragroger.ai/audio/2026-08-08/podcast-de.mp3" length="2495260" type="audio/mpeg"/>
+<itunes:duration>2:36</itunes:duration><itunes:explicit>false</itunes:explicit></item><item><title>KI Power Update 1. August 2026</title>
+<link>https://news.fragroger.ai/archiv/2026-08-01/</link><guid isPermaLink="false">kipu-de-2026-08-01</guid><pubDate>Sat, 01 Aug 2026 05:00:00 +0000</pubDate>
+<description></description><enclosure url="https://news.fragroger.ai/audio/2026-08-01/podcast-de.mp3" length="2641964" type="audio/mpeg"/>
+<itunes:duration>2:45</itunes:duration><itunes:explicit>false</itunes:explicit></item><item><title>KI Power Update 25. Juli 2026</title>
+<link>https://news.fragroger.ai/archiv/2026-07-25/</link><guid isPermaLink="false">kipu-de-2026-07-25</guid><pubDate>Sat, 25 Jul 2026 05:00:00 +0000</pubDate>
+<description></description><enclosure url="https://news.fragroger.ai/audio/2026-07-25/podcast-de.mp3" length="3219583" type="audio/mpeg"/>
+<itunes:duration>3:21</itunes:duration><itunes:explicit>false</itunes:explicit></item><item><title>KI Power Update 18. Juli 2026</title>
+<link>https://news.fragroger.ai/archiv/2026-07-18/</link><guid isPermaLink="false">kipu-de-2026-07-18</guid><pubDate>Sat, 18 Jul 2026 05:00:00 +0000</pubDate>
+<description></description><enclosure url="https://news.fragroger.ai/audio/2026-07-18/podcast-de.mp3" length="3090852" type="audio/mpeg"/>
+<itunes:duration>3:13</itunes:duration><itunes:explicit>false</itunes:explicit></item><item><title>KI Power Update 11. Juli 2026</title>
+<link>https://news.fragroger.ai/archiv/2026-07-11/</link><guid isPermaLink="false">kipu-de-2026-07-11</guid><pubDate>Sat, 11 Jul 2026 05:00:00 +0000</pubDate>
+<description></description><enclosure url="https://news.fragroger.ai/audio/2026-07-11/podcast-de.mp3" length="5593591" type="audio/mpeg"/>
+<itunes:duration>5:50</itunes:duration><itunes:explicit>false</itunes:explicit></item><item><title>KI Power Update 10. Juli 2026</title>
+<link>https://news.fragroger.ai/archiv/2026-07-10/</link><guid isPermaLink="false">kipu-de-2026-07-10</guid><pubDate>Fri, 10 Jul 2026 05:00:00 +0000</pubDate>
+<description></description><enclosure url="https://news.fragroger.ai/audio/2026-07-10/podcast-de.mp3" length="1753149" type="audio/mpeg"/>
+<itunes:duration>2:58</itunes:duration><itunes:explicit>false</itunes:explicit></item><item><title>KI Power Update 7. Juli 2026</title>
+<link>https://news.fragroger.ai/archiv/2026-07-07/</link><guid isPermaLink="false">kipu-de-2026-07-07</guid><pubDate>Tue, 07 Jul 2026 05:00:00 +0000</pubDate>
+<description></description><enclosure url="https://news.fragroger.ai/audio/2026-07-07/podcast-de.mp3" length="1657461" type="audio/mpeg"/>
+<itunes:duration>2:48</itunes:duration><itunes:explicit>false</itunes:explicit></item><item><title>KI Power Update 4. Juli 2026</title>
+<link>https://news.fragroger.ai/archiv/2026-07-04/</link><guid isPermaLink="false">kipu-de-2026-07-04</guid><pubDate>Sat, 04 Jul 2026 05:00:00 +0000</pubDate>
+<description></description><enclosure url="https://news.fragroger.ai/audio/2026-07-04/podcast-de.mp3" length="5041467" type="audio/mpeg"/>
+<itunes:duration>5:15</itunes:duration><itunes:explicit>false</itunes:explicit></item><item><title>KI Power Update 27. Juni 2026</title>
+<link>https://news.fragroger.ai/archiv/2026-06-27/</link><guid isPermaLink="false">kipu-de-2026-06-27</guid><pubDate>Sat, 27 Jun 2026 05:00:00 +0000</pubDate>
+<description></description><enclosure url="https://news.fragroger.ai/audio/2026-06-27/podcast-de.mp3" length="1865325" type="audio/mpeg"/>
+<itunes:duration>3:53</itunes:duration><itunes:explicit>false</itunes:explicit></item><item><title>KI Power Update 23. Juni 2026</title>
+<link>https://news.fragroger.ai/archiv/2026-06-23/</link><guid isPermaLink="false">kipu-de-2026-06-23</guid><pubDate>Tue, 23 Jun 2026 05:00:00 +0000</pubDate>
+<description>Wann hast du zuletzt einem Tool vertraut, das du täglich nutzt – und wann hast du aufgehört, es zu hinterfragen?
+
+Genau das zeigt eine neue Pew-Studie: 49 Prozent der Amerikaner nutzen AI regelmässig – aber nur 16 Prozent glauben, dass AI einen positiven Einfluss auf die Gesellschaft haben wird. Nutzung und Vertrauen driften auseinander. Das ist kein Widerspruch. Das ist ein Warnsignal.
+
+Willkomme</description><enclosure url="https://news.fragroger.ai/audio/2026-06-23/podcast-de.mp3" length="3497517" type="audio/mpeg"/>
+<itunes:duration>3:39</itunes:duration><itunes:explicit>false</itunes:explicit></item><item><title>KI Power Update 20. Juni 2026</title>
+<link>https://news.fragroger.ai/archiv/2026-06-20/</link><guid isPermaLink="false">kipu-de-2026-06-20</guid><pubDate>Sat, 20 Jun 2026 05:00:00 +0000</pubDate>
+<description></description><enclosure url="https://news.fragroger.ai/audio/2026-06-20/podcast-de.mp3" length="1809453" type="audio/mpeg"/>
+<itunes:duration>3:46</itunes:duration><itunes:explicit>false</itunes:explicit></item><item><title>KI Power Update 16. Juni 2026</title>
+<link>https://news.fragroger.ai/archiv/2026-06-16/</link><guid isPermaLink="false">kipu-de-2026-06-16</guid><pubDate>Tue, 16 Jun 2026 05:00:00 +0000</pubDate>
+<description></description><enclosure url="https://news.fragroger.ai/audio/2026-06-16/podcast-de.mp3" length="1346997" type="audio/mpeg"/>
+<itunes:duration>2:38</itunes:duration><itunes:explicit>false</itunes:explicit></item><item><title>KI Power Update 13. Juni 2026</title>
+<link>https://news.fragroger.ai/archiv/2026-06-13/</link><guid isPermaLink="false">kipu-de-2026-06-13</guid><pubDate>Sat, 13 Jun 2026 05:00:00 +0000</pubDate>
+<description></description><enclosure url="https://news.fragroger.ai/audio/2026-06-13/podcast-de.mp3" length="1979757" type="audio/mpeg"/>
+<itunes:duration>4:07</itunes:duration><itunes:explicit>false</itunes:explicit></item><item><title>KI Power Update 9. Juni 2026</title>
+<link>https://news.fragroger.ai/archiv/2026-06-09/</link><guid isPermaLink="false">kipu-de-2026-06-09</guid><pubDate>Tue, 09 Jun 2026 05:00:00 +0000</pubDate>
+<description></description><enclosure url="https://news.fragroger.ai/audio/2026-06-09/podcast-de.mp3" length="3119661" type="audio/mpeg"/>
+<itunes:duration>3:15</itunes:duration><itunes:explicit>false</itunes:explicit></item>
+</channel></rss>

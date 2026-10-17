@@ -1,0 +1,176 @@
+{
+  "date": "2026-06-20",
+  "week": 25,
+  "languages": [
+    "de"
+  ],
+  "migrated_from_commit": "df2d9f7",
+  "items": [
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com/technik/ki/ki-briefing/ki-briefing-der-tag-an-dem-ki-zur-waffe-wurde/100234086.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Der Tag, an dem K.I. zur Waffe wurde",
+        "summary": "Die US-Exportbeschränkungen für Anthropics Modelle waren nur ein Vorgeschmack. Die USA leiten eine Welt ein, in der K.I.-Modelle gehütet werden wie Atomwaffen – mit fatalen Folgen für die globale Zusammenarbeit. Strenge Exportbeschränkungen sind wahrscheinlich, wenn die USA und China davon ausgehen, dass mit K.I. nicht nur bessere Produkte gebaut werden, sondern auch Kriege gewonnen."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "OpenAI holt grosse Namen für den Börsengang: K.I.-Legende Noam Shazeer und Trump-Berater",
+        "summary": "OpenAI bringt K.I.-Legende Noam Shazeer von Google DeepMind und den ehemaligen Trump-K.I.-Berater David Sacks an Bord – kurz vor dem geplanten Börsengang. Das eigentliche Problem ist nicht das IPO, sondern die Frage: Kann ein Unternehmen, das die Welt verändern will, gleichzeitig Aktionärsinteressen bedienen?"
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.europarl.europa.eu/news/de/press-room/20260611IPR45207/ki-gesetz-vereinfachte-vorschriften-und-verbot-von-nudifier-apps",
+      "url_is_article": true,
+      "source": "europarl.europa.eu",
+      "de": {
+        "title": "EU-Parlament verabschiedet K.I.-Gesetz-Änderungen und verbietet Nudifier-Apps",
+        "summary": "Das EU-Parlament hat Änderungen am K.I.-Gesetz verabschiedet: Nudifier-Apps werden verboten, Vorschriften für Unternehmen vereinfacht. Was oft unterschätzt wird: Europa reguliert nicht nur Risiken, sondern auch Chancen weg. Siri K.I. kommt nicht in die EU – und das ist erst der Anfang."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com/technik/it-internet/technologie-ki-wird-ploetzlich-teuer-wir-haben-eine-kostenexplosion-gesehen/100233464.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "K.I. wird plötzlich teuer: 'Wir haben eine Kostenexplosion gesehen'",
+        "summary": "Token werden für Unternehmen zur zunehmend kostspieligen Ressource. Wer K.I. im grossen Massstab einsetzt, merkt: Die Rechnung kommt später – und sie ist höher als erwartet. Der entscheidende Unterschied liegt darin, ob Unternehmen K.I.-Kosten als Investition oder als Betriebskosten verbuchen."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Weltführer wollen amerikanische K.I. – aber nicht, dass Amerika den Schalter umlegen kann",
+        "summary": "Die Anthropic-Sperre hat eine globale Debatte ausgelöst: Länder, die auf US-K.I.-Infrastruktur setzen, sind abhängig von US-Exportpolitik. Die Konsequenz daraus ist: Souveräne K.I.-Infrastruktur wird zur geopolitischen Notwendigkeit – nicht nur für China, sondern auch für Europa."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://thenextweb.com/news/midjourney-scanner-midjourney-medical-ultrasound",
+      "url_is_article": true,
+      "source": "thenextweb.com",
+      "de": {
+        "title": "Midjourney steigt ins Gesundheitswesen ein: Ganzkörper-Scanner und Medizin-Division",
+        "summary": "Midjourney – bekannt für K.I.-Bildgenerierung – hat eine Medizin-Division gegründet und einen Ganzkörper-Ultraschall-Scanner vorgestellt. 60-Sekunden-Scans, keine Strahlung, kein FDA-Zertifikat. Was oft unterschätzt wird: Der Sprung von Bildgenerierung zu medizinischer Bildgebung ist kleiner als er klingt."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Amazon greift Nvidia an: Eigene K.I.-Chips Trainium sollen extern verkauft werden",
+        "summary": "Amazon Web Services plant, seine eigenen Trainium K.I.-Chips auch an externe Rechenzentren zu verkaufen. Das jährliche Umsatzpotenzial: 50 Milliarden Dollar. Der entscheidende Unterschied liegt darin: Amazon kämpft nicht nur um Marktanteile, sondern um die gesamte K.I.-Infrastruktur-Wertschöpfungskette."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://t3n.de/news/von-sidekick-bis-storefront-agent-shopify-ruestet-sich-fuer-den-ki-gesteuerten-handel-1748280/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Shopify rüstet sich für den K.I.-gesteuerten Handel: Von Sidekick bis Storefront Agent",
+        "summary": "Shopify baut K.I.-Agenten in seine gesamte Plattform ein – vom Sidekick-Assistenten bis zum autonomen Storefront Agent. Das ist kein Feature, das ist eine Plattform-Transformation. Die Konsequenz daraus ist: E-Commerce wird agentic – Shops handeln bald selbstständig."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Snap lagert K.I.-Videoteam in neues Unternehmen Dotmo aus – wegen Kosten",
+        "summary": "Snap hat sein K.I.-Videoteam in ein eigenständiges Unternehmen namens Dotmo ausgelagert. Grund: zu hohe Betriebskosten. Das ist ein Muster, das sich wiederholt: Grosse Tech-Konzerne bauen K.I.-Einheiten auf, lagern sie aus, wenn die Kosten explodieren."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Nur 16 Prozent der Amerikaner glauben, K.I. habe positiven Einfluss auf die Gesellschaft",
+        "summary": "Eine neue Studie zeigt: Nur 16 Prozent der Amerikaner glauben, K.I. werde einen positiven Einfluss auf die Gesellschaft haben. Das eigentliche Problem ist nicht die Technologie, sondern das Vertrauen. Wer K.I. ohne gesellschaftlichen Konsens einführt, riskiert Backlash – nicht nur politisch, sondern kommerziell."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://t3n.de/news/schufa-vor-gericht-ein-ueberholter-streit-mit-folgen-fuer-die-zukunft-der-ki-1748344/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Schufa vor Gericht: Ein überholter Streit mit Folgen für die Zukunft der K.I.",
+        "summary": "Der Schufa-Prozess ist mehr als ein Datenschutzstreit: Er entscheidet, ob algorithmische Entscheidungssysteme in Deutschland legal sind. Was oft unterschätzt wird: Das Urteil wird Präzedenzwirkung für alle K.I.-basierten Bewertungssysteme haben – von Kreditscoring bis zu HR-Algorithmen."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.heise.de/news/KI-Workloads-Trendwende-zur-Private-Cloud-meint-Broadcom-11334253.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "K.I.-Workloads wandern wegen Kosten aus der Public Cloud in Private-Cloud-Infrastruktur",
+        "summary": "Ein Broadcom-Report prognostiziert eine Trendwende: Unternehmen verlagern K.I.-Workloads zunehmend in die Private Cloud, weil Public-Cloud-Kosten explodieren. Die Konsequenz daraus ist: Der Cloud-Markt wird sich neu ordnen – und Hyperscaler müssen ihre Preismodelle überdenken."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://t3n.de/news/claude-code-artifacts-ki-aufgaben-erledigt-1748437/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Artifacts in Claude Code: So zeigt die K.I. jetzt, wie sie Aufgaben bewältigt hat",
+        "summary": "Anthropic hat Claude Code mit Artifacts ausgestattet: Die K.I. zeigt jetzt transparent, welche Schritte sie bei der Aufgabenbewältigung durchgeführt hat. Das ist nicht nur ein UX-Feature, das ist ein Schritt in Richtung erklärbarer K.I. – und damit ein Argument gegen den Blackbox-Vorwurf."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Anthropic wird erstes K.I.-Startup in der Frontier Carbon Removal Coalition",
+        "summary": "Anthropic ist das erste K.I.-Unternehmen, das der Frontier Carbon Removal Coalition beitritt – einem Programm, das Technologien zur CO2-Entfernung finanziert. Das ist kein Marketing, das ist eine strategische Positionierung: Wer Safety ernst nimmt, nimmt auch Klimaverantwortung ernst."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://t3n.de/news/28-gigatonnen-co%e2%82%82-2031-ki-umweltfreundlich-1748345/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "2,8 Gigatonnen CO2 bis 2031 durch K.I.-Ausbau – wenn K.I. nicht grüner wird",
+        "summary": "Der K.I.-Ausbau könnte bis 2031 rund 2,8 Gigatonnen CO2 verursachen – wenn K.I. nicht in umweltfreundlichere Prozesse eingebettet wird. Das eigentliche Problem ist nicht der Stromverbrauch, sondern die Quelle: Wer K.I. mit Kohlestrom betreibt, zahlt zweimal – einmal die Stromrechnung, einmal den Klimapreis."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://t3n.de/news/influencer-bayern-steuerpruefungen-nachzahlungen-1748434/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Influencer in Bayern müssen nach K.I.-gestützten Steuerprüfungen tausende Euro nachzahlen",
+        "summary": "Das bayerische Finanzamt setzt K.I. für Steuerprüfungen ein – und Influencer müssen tausende Euro nachzahlen. Das ist kein Einzelfall, das ist ein Signal: K.I. macht Steuerbehörden effizienter. Die Konsequenz daraus ist: Wer seine Einnahmen nicht korrekt deklariert, wird mit höherer Wahrscheinlichkeit erwischt."
+      }
+    }
+  ],
+  "podcast": {
+    "de": {
+      "audio": "audio/2026-06-20/podcast-de.mp3",
+      "duration_sec": 226
+    }
+  }
+}

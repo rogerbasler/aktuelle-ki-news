@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="hero small">
+  <h1 class="hero-title"><span class="line">{{ heading }}</span></h1>
+</section>
+<section class="prose legal">
+{{ body|safe }}
+</section>
+{% endblock %}

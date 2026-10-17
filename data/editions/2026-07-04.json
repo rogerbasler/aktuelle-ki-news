@@ -1,0 +1,166 @@
+{
+  "date": "2026-07-04",
+  "week": 27,
+  "languages": [
+    "de"
+  ],
+  "migrated_from_commit": "35ad2fa",
+  "items": [
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Zuckerberg gibt intern zu: K.I.-Agenten machen nicht so schnell Fortschritte wie erhofft",
+        "summary": "Meta-CEO Mark Zuckerberg hat Mitarbeitern mitgeteilt, dass K.I.-Agenten langsamer vorankommen als erwartet. Das ist bemerkenswert ehrlich – und zeigt: Selbst die grössten K.I.-Investoren kämpfen mit der Lücke zwischen Versprechen und Realität. Das eigentliche Problem ist nicht die Technologie, sondern die Erwartungshaltung, die der Markt aufgebaut hat."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://t3n.de/news/yann-lecun-weltmodell-ki-startup-1749951/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "890-Millionen-Dollar-Startup: Was Yann LeCuns Weltmodell anders macht als andere K.I.s",
+        "summary": "Meta-K.I.-Chefwissenschaftler Yann LeCun hat ein Startup gegründet, das auf sogenannte Weltmodelle setzt – K.I., die die physische Realität versteht, nicht nur Text. Das ist ein fundamentaler Ansatz, der sich von grossen Sprachmodellen unterscheidet. Der entscheidende Unterschied liegt darin: Weltmodelle könnten die Grundlage für echte Robotik und autonome Systeme sein."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "SpaceX entwickelt K.I.-Gerät-Prototyp – und er klingt sehr nach einem Smartphone",
+        "summary": "SpaceX arbeitet an einem K.I.-Gerät, das sich von der Beschreibung her wie ein Smartphone anhört. Elon Musk baut damit eine eigene K.I.-Hardware-Plattform auf – parallel zu xAI und Grok. Die Konsequenz daraus ist: Wer K.I.-Hardware kontrolliert, kontrolliert den Zugang – das ist die eigentliche strategische Dimension."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://the-decoder.de/ki-agenten-95-prozent-der-pilotprojekte-scheitern-ohne-gewinn/",
+      "url_is_article": true,
+      "source": "The Decoder",
+      "de": {
+        "title": "K.I.-Agenten: 95 Prozent der Pilotprojekte scheitern ohne messbaren Gewinn",
+        "summary": "Neue Daten zeigen: Nur 5 Prozent der K.I.-Agenten-Pilotprojekte erzielen einen messbaren wirtschaftlichen Gewinn. Das ist die nüchterne Realität hinter dem Agenten-Hype. Was oft unterschätzt wird: Wer K.I.-Agenten ohne klare Erfolgskriterien einführt, verbrennt Budget – und Vertrauen im Unternehmen."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Jersey Mike's IPO zeigt, wie schlimm der K.I.-Hype geworden ist",
+        "summary": "Der US-Sandwichladen Jersey Mike's hat K.I. in seinen Börsenprospekt geschrieben – und wurde dafür von Investoren belohnt. TechCrunch kommentiert: Das ist ein Warnsignal. Die Konsequenz daraus ist: Wenn K.I. als Buzzword im IPO-Prospekt eines Sandwichladens auftaucht, ist der Hype-Zyklus auf dem Höhepunkt."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Anthropic startet Claude Sonnet 5 als günstigere Lösung für K.I.-Agenten",
+        "summary": "Anthropic hat Claude Sonnet 5 veröffentlicht – ein Modell, das fast so leistungsfähig wie Opus 4.8 ist, aber deutlich weniger kostet. Das ist die richtige Strategie: K.I. für Agenten-Workflows muss erschwinglich sein, damit Unternehmen echten ROI erzielen können. Der Markt für günstige, leistungsstarke Modelle wächst rasant."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Anthropic diskutiert eigenen K.I.-Chip mit Samsung",
+        "summary": "Nach OpenAIs Jalapeño-Chip mit Broadcom ist Anthropic der nächste grosse K.I.-Anbieter, der Nvidia-Unabhängigkeit anstrebt. Gespräche mit Samsung über einen eigenen Inferenz-Chip laufen. Was oft unterschätzt wird: Wer die Chips kontrolliert, kontrolliert die Kosten – und damit die Margen im K.I.-Geschäft."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Nvidia-Konkurrent Etched erreicht 5 Mrd. Dollar Bewertung und 1 Mrd. Dollar Umsatz",
+        "summary": "Etched, ein Startup für K.I.-Chips, hat 5 Milliarden Dollar Bewertung und 1 Milliarde Dollar Umsatz erreicht. Das zeigt: Der K.I.-Chip-Markt ist gross genug für mehrere Spieler. Die Konsequenz daraus ist: Nvidias Dominanz bleibt, aber der Markt diversifiziert sich – das senkt langfristig die Preise."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Google stellt schnelleren, günstigeren Bildgenerator Nano Banana 2 Lite vor",
+        "summary": "Google hat Nano Banana 2 Lite vorgestellt – eine schnellere und günstigere Version seines Bildgenerators. Googles Strategie ist klar: Mehr Modelle, niedrigere Preise, breitere Verfügbarkeit. Das eigentliche Problem für Konkurrenten wie Midjourney und Adobe Firefly ist nicht die Qualität, sondern der Preis."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-usa-wollen-standards-fuer-neue-ki-modelle-schaffen/100237345.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "USA wollen freiwillige Standards für neue K.I.-Modelle schaffen",
+        "summary": "Die US-Regierung plant freiwillige Standards für die Veröffentlichung neuer K.I.-Modelle. Freiwillig bedeutet: kein Zwang, aber ein Signal. Was oft unterschätzt wird: Freiwillige Standards sind oft der erste Schritt zu verbindlichen Regeln – und setzen den Rahmen für die nächste Regulierungswelle."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.heise.de/news/Bundesregierung-will-Taskforce-Deutschland-soll-KI-Nation-werden-11349992.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "Bundesregierung gründet K.I.-Taskforce: Deutschland soll K.I.-Nation werden",
+        "summary": "Die Bundesregierung hat eine Taskforce gegründet, um Deutschland zur K.I.-Nation zu machen. Gut gemeint – aber wie immer liegt der Teufel im Detail der Umsetzung. Der entscheidende Unterschied liegt darin, ob Taskforces konkrete Massnahmen produzieren oder nur Berichte. Die bisherige Bilanz ist gemischt."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://t3n.de/news/signal-chefin-whittaker-warnt-ki-chatbots-1749083/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Signal-Chefin Meredith Whittaker warnt: K.I.-Chatbots sind ein Sicherheitsrisiko",
+        "summary": "Signal-CEO Meredith Whittaker warnt vor K.I.-Chatbots als Datenlecks in Verkleidung. Ihre Kernthese: Wer K.I.-Assistenten mit sensiblen Daten füttert, verliert die Kontrolle darüber. Das sollte jedes Unternehmen ernst nehmen – besonders in regulierten Branchen wie Finanzen, Gesundheit und Recht."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://www.handelsblatt.com/technik/ki/ki-briefing/ki-briefing-grevenbroich-und-der-ki-boom-in-der-provinz/100237526.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Handelsblatt K.I.-Briefing: Grevenbroich und der K.I.-Boom in der Provinz",
+        "summary": "Das Handelsblatt K.I.-Briefing beleuchtet, wie Grevenbroich im Rheinischen Revier zum Zentrum des K.I.-Booms wird. Vom Kohlestandort zum Rechenzentrum-Hub. Was oft unterschätzt wird: Die Transformation von Industriestandorten durch K.I.-Infrastruktur ist eine der grössten wirtschaftlichen Chancen für strukturschwache Regionen in Deutschland."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Microsoft gründet eigene K.I.-Deployment-Firma mit 2,5 Milliarden Dollar Kapital",
+        "summary": "Microsoft hat eine eigenständige K.I.-Deployment-Firma gegründet, die mit 2,5 Milliarden Dollar ausgestattet ist. Das ist keine Produktankündigung – das ist eine strategische Infrastrukturentscheidung. Die Konsequenz daraus ist: Microsoft trennt K.I.-Entwicklung von K.I.-Deployment – ein Modell, das andere grosse Tech-Firmen folgen könnten."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "OpenAI bietet US-Staatsfonds 5 Prozent Eigenkapital an",
+        "summary": "OpenAI hat dem US-Staatsfonds angeboten, 5 Prozent seines Eigenkapitals abzugeben. Das ist politisches Kalkül: Wer den Staat zum Miteigentümer macht, schützt sich vor Regulierung und sichert sich politischen Rückhalt. Was oft unterschätzt wird: Das verändert die Governance-Struktur von OpenAI fundamental."
+      }
+    }
+  ],
+  "podcast": {
+    "de": {
+      "audio": "audio/2026-07-04/podcast-de.mp3",
+      "duration_sec": 315
+    }
+  }
+}

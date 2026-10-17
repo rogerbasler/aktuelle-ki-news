@@ -1,0 +1,161 @@
+{
+  "date": "2026-01-18",
+  "week": 3,
+  "languages": [
+    "de"
+  ],
+  "migrated_from_commit": "10fa708",
+  "items": [
+    {
+      "category": "news",
+      "url": "https://t3n.de/news/ki-studie-kuenstliche-intelligenz-macht-mehr-als-erwartet-und-das-ist-ein-problem-1725664/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "KI-Studie: Künstliche Intelligenz macht mehr als erwartet – und das ist ein Problem",
+        "summary": "Laut einer neuen Anthropic-Studie übernehmen KI-Systeme entgegen der ursprünglichen Erwartung nicht primär Routinetätigkeiten, sondern komplexe Aufgaben. Dies führt zu einem \"Deskilling\" vieler Berufe. Typische Aufgaben, die ohne KI drei Stunden dauern würden, lassen sich mit KI in rund 15 Minuten erledigen."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/video/the-ai-healthcare-gold-rush-is-here/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "KI-Unternehmen stürzen sich massiv auf den Gesundheitssektor",
+        "summary": "In nur einer Woche kaufte OpenAI das Gesundheits-Startup Torch, Anthropic startete Claude for healthcare, und Sam Altman-backed MergeLabs schloss eine 250 Millionen Dollar Seed-Runde bei 850 Millionen Dollar Bewertung. Die KI-Welt ist plötzlich besessen von Gesundheitsversorgung."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.heise.de/news/Siri-2-0-Apple-zahlt-angeblich-Milliarden-fuer-Googles-KI-Modelle-11143988.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "Apple zahlt angeblich Milliarden für Googles KI-Modelle",
+        "summary": "Die Partnerschaft zwischen Apple und Google wird deutlich vertieft. Mit dem Rückgriff auf Gemini-Modelle für die Apple-KI wird die Kooperation massiv ausgebaut. Apple kehrt diese Partnerschaft gerne unter den Teppich."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-chinesische-ki-start-ups-fliehen-nach-singapur/100191390.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Chinesische KI-Start-ups fliehen nach Singapur",
+        "summary": "Nach der Übernahme des abgewanderten KI-Start-ups Manus durch Meta droht ein Konflikt mit den Behörden in Peking. Chinesische KI-Start-ups wandern massiv nach Singapur ab, um Zugang zu westlichem Kapital und Kunden zu erhalten. Peking befürchtet Abwanderung von KI-Talenten."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com/technik/kuenstliche-intelligenz-ki-ausgaben-steigen-2026-auf-25-billionen-dollar/100191851.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "KI-Ausgaben steigen 2026 auf 2,5 Billionen Dollar",
+        "summary": "Einer Studie zufolge wird sich das starke Wachstum der weltweiten Ausgaben für KI-Technologie fortsetzen. 2026 werden weltweit 2,5 Billionen Dollar für KI ausgegeben – ein massiver Anstieg von 44 Prozent im Vergleich zum Vorjahr."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://www.handelsblatt.com/technik/it-internet/ki-openai-schaltet-werbung-in-chatgpt-einnahmen-fuer-ki-ausbau/100192320.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "OpenAI schaltet Werbung in ChatGPT – Geld fließt in KI-Ausbau",
+        "summary": "US-Kunden mit einem kostenlosen oder dem „Go\"-Abo werden ab kommender Woche Werbeanzeigen in ChatGPT sehen. Der Schritt markiert eine Abkehr vom bisherigen Geschäftsmodell und soll Einnahmen für den KI-Ausbau generieren."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/01/15/ai-journalism-startup-symbolic-ai-signs-deal-with-rupert-murdochs-news-corp/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "KI-Journalismus-Startup Symbolic.ai schließt Deal mit Rupert Murdochs News Corp",
+        "summary": "Das KI-Journalismus-Startup Symbolic.ai hat einen Deal mit Rupert Murdochs News Corp abgeschlossen. Das Startup behauptet, seine KI-Plattform könne helfen, redaktionelle Prozesse und Recherche zu optimieren."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/01/15/ai-video-startup-higgsfield-founded-by-ex-snap-exec-lands-1-3b-valuation/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "AI-Video-Startup Higgsfield erreicht 1,3 Milliarden Dollar Bewertung",
+        "summary": "Das AI-Video-Startup Higgsfield, gegründet von einem Ex-Snap-Executive, erreicht eine Bewertung von 1,3 Milliarden Dollar. Das Unternehmen läuft auf einem jährlichen Umsatz von 200 Millionen Dollar."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://t3n.de/news/ki-hype-trifft-apple-warum-der-iphone-hersteller-jetzt-um-seinen-chipnachschub-kaempfen-muss-1725630/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "KI-Hype trifft Apple: iPhone-Hersteller kämpft um Chipnachschub",
+        "summary": "Der Chiphersteller TSMC gerät durch die stark wachsende KI-Nachfrage an seine Kapazitätsgrenzen. Apple kämpft um seinen Chipnachschub, da die KI-Branche massiv Kapazitäten bindet."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://techcrunch.com/2026/01/16/california-ag-sends-musks-xai-a-cease-and-desist-order-over-sexual-deepfakes/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Kaliforniens Generalstaatsanwalt geht gegen xAI und Grok wegen sexualisierter KI-Bilder vor",
+        "summary": "Kaliforniens Generalstaatsanwalt sendet eine Unterlassungserklärung an xAI wegen sexualisierter KI-Deepfakes, die von Grok generiert wurden. Elon Musk behauptet, keine Kenntnis von KI-generierten Kindernacktbildern auf X gehabt zu haben."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.heise.de/hintergrund/Analyse-Warum-dem-Grok-Desaster-mit-geltendem-Recht-schwer-beizukommen-ist-11143788.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "Analyse: Warum dem Grok-Desaster mit geltendem Recht schwer beizukommen ist",
+        "summary": "Angesichts des Skandals um sexualisierte KI-Deepfakes auf X wurden Rufe nach einer Sperre von X in der EU laut. Doch die ist kurzfristig kaum durchzusetzen. Eine rechtliche Analyse zeigt die Grenzen des geltenden Rechts."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.heise.de/news/Confer-Signal-Gruender-startet-sicheren-KI-Chatbot-11143800.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "Confer: Signal-Gründer startet sicheren KI-Chatbot",
+        "summary": "Moxie Marlinspike hat einen Privacy-freundlichen KI-Chatbot entwickelt. Er warnt vor KI-Anbietern und deren Umgang mit Daten. Der neue Chatbot soll datenschutzsicher sein."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://t3n.de/news/cyberkriminelle-bringen-copilot-plaudern-microsofts-ki-austricksen-daten-1725442/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Cyberkriminelle bringen Copilot zum Plaudern: Wie sie Microsofts KI austricksen",
+        "summary": "Sicherheitslücken bei Microsoft Copilot ermöglichen Cyberkriminellen Zugriff auf Daten. Experten zeigen, wie die KI ausgetrickst wird, um an sensible Informationen zu gelangen."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://t3n.de/news/forscher-trainieren-ki-sicherheitsluecken-mordphantasien-1725705/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Forscher trainieren KI auf Sicherheitslücken – und die produziert plötzlich Mordphantasien",
+        "summary": "Wissenschaftler manipulierten eine KI dahingehend, dass sie gefährliche Inhalte produziert. Die Studie zeigt, wie anfällig KI-Systeme für gezielte Manipulation sind."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://t3n.de/news/nach-us-kritik-machen-ki-rechenzentren-auch-unseren-strom-teurer-1725678/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Nach US-Kritik: Machen KI-Rechenzentren auch unseren Strom teurer?",
+        "summary": "Analyse über die Auswirkungen von KI-Rechenzentren auf Strompreise nach US-Kritik. Der massive Energiebedarf von KI-Infrastruktur könnte auch in Deutschland die Strompreise in die Höhe treiben."
+      }
+    }
+  ],
+  "podcast": {}
+}

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="{{ t.html_lang }}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ page_title }}</title>
+<meta name="description" content="{{ page_description }}">
+<meta name="theme-color" content="#000000">
+<link rel="canonical" href="{{ canonical }}">
+{% for l, url in alternates.items() %}<link rel="alternate" hreflang="{{ l }}" href="{{ url }}">
+{% endfor %}<link rel="alternate" hreflang="x-default" href="{{ alternates.de }}">
+<link rel="alternate" type="application/rss+xml" title="KI Power Update ({{ lang|upper }})" href="{{ root }}feed-{{ lang }}.xml">
+<link rel="alternate" type="application/rss+xml" title="KI Power Update Podcast ({{ lang|upper }})" href="{{ root }}podcast-{{ lang }}.xml">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="KI Power Update">
+<meta property="og:title" content="{{ page_title }}">
+<meta property="og:description" content="{{ page_description }}">
+<meta property="og:url" content="{{ canonical }}">
+<meta property="og:locale" content="{{ t.locale }}">
+<meta property="og:image" content="{{ site_url }}/assets/og-image.svg">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="{{ root }}assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="{{ root }}assets/style.css?v={{ build_id }}">
+{% block head %}{% endblock %}
+</head>
+<body>
+<a class="skip" href="#main">{{ t.jump_to }} Content</a>
+<header class="site-header">
+  <div class="wrap bar">
+    <a class="brand" href="{{ root }}{{ lang_prefix }}" aria-label="KI Power Update">
+      <span class="brand-mark"><span class="brand-hash">#</span>frag<span class="brand-blue">Roger</span></span>
+      <span class="brand-sub">KI Power Update</span>
+    </a>
+    <nav class="nav" aria-label="Navigation">
+      <a href="{{ root }}{{ lang_prefix }}" {% if section == 'current' %}class="active"{% endif %}>{{ t.nav_current }}</a>
+      <a href="{{ root }}{{ lang_prefix }}archiv/" {% if section == 'archive' %}class="active"{% endif %}>{{ t.nav_archive }}</a>
+      <a href="{{ root }}{{ lang_prefix }}suche/" {% if section == 'search' %}class="active"{% endif %}>{{ t.nav_search }}</a>
+    </nav>
+    <div class="langs" aria-label="Language">
+      {% for l, url in alternates.items() %}<a href="{{ url }}" hreflang="{{ l }}" {% if l == lang %}class="on" aria-current="true"{% endif %}>{{ l|upper }}</a>{% endfor %}
+    </div>
+  </div>
+</header>
+<main id="main" class="wrap">
+{% block content %}{% endblock %}
+</main>
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="foot-grid">
+      <div>
+        <p class="foot-brand"><span class="brand-hash">#</span>frag<span class="brand-blue">Roger</span></p>
+        <p class="foot-line"><a href="https://ki-power.me/" rel="noopener">ki-power.me</a>: {{ t.footer_line }}</p>
+        <p class="foot-small">{{ t.footer_by }} <a href="https://fragroger.ai" rel="noopener">Roger Basler de Roca</a>, {{ t.footer_partner }} <a href="https://ki-power.me/" rel="noopener">ki-power.me</a>.</p>
+      </div>
+      <div class="foot-disclaimer">
+        <p class="foot-title">{{ t.disclaimer_title }}</p>
+        <p>{{ t.disclaimer }}</p>
+      </div>
+    </div>
+    <div class="foot-bottom">
+      <nav class="foot-nav">
+        <a href="{{ root }}{{ lang_prefix }}archiv/">{{ t.nav_archive }}</a>
+        <a href="{{ root }}{{ lang_prefix }}suche/">{{ t.nav_search }}</a>
+        <a href="{{ root }}podcast-{{ lang }}.xml">{{ t.podcast_feed }}</a>
+        <a href="{{ root }}feed-{{ lang }}.xml">RSS</a>
+        <a href="{{ root }}{{ lang_prefix }}impressum/">{{ t.nav_imprint }}</a>
+        <a href="{{ root }}{{ lang_prefix }}datenschutz/">{{ t.nav_privacy }}</a>
+      </nav>
+      <p>&copy; {{ year }} Roger Basler de Roca. {{ t.copyright }}</p>
+    </div>
+  </div>
+</footer>
+{% block scripts %}{% endblock %}
+</body>
+</html>

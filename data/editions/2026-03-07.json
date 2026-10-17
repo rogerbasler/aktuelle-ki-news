@@ -1,0 +1,161 @@
+{
+  "date": "2026-03-07",
+  "week": 10,
+  "languages": [
+    "de"
+  ],
+  "migrated_from_commit": "36b7455",
+  "items": [
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com/technik/ki/ki-briefing-pentagon-vs.-anthropic-der-erste-grosse-machtkampf-der-ki-aera/100205997.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Pentagon vs. Anthropic – Der erste große Machtkampf der KI-Ära",
+        "summary": "Anthropic weigert sich, seine Modelle für autonome Waffen und Massenüberwachung freizugeben. Jetzt geht das Pentagon frontal gegen das Unternehmen vor – der erste große Machtkampf der KI-Ära mit weitreichenden Folgen für die gesamte Branche."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/03/05/openai-launches-gpt-5-4-with-pro-and-thinking-versions/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "OpenAI startet GPT-5.4 mit Pro- und Thinking-Versionen",
+        "summary": "OpenAI veröffentlicht GPT-5.4 mit nativer Computer-Steuerung und verbesserter Effizienz für Profis. Das neue Modell vereint erstmals Reasoning, Coding und Computer-Steuerung in einem System und setzt neue Maßstäbe für KI-Assistenten."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com/technik/ki/ki-software-rekordumsatz-rekorddownloads-anthropic-holt-gewaltig-auf/100205391.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Anthropic holt gewaltig auf: Rekordumsatz und Rekorddownloads",
+        "summary": "Neue Zahlen zeigen: KI-Anbieter Anthropic schließt zum Marktführer OpenAI auf. Mit einem prognostizierten Umsatz von 20 Milliarden Dollar rückt Anthropic in eine neue Größenordnung vor. Der Konflikt mit dem Pentagon könnte dem Unternehmen langfristig sogar helfen."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-tech-konzerne-sagen-selbstfinanzierung-von-ki-strom-zu/100205626.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Tech-Konzerne sagen Selbstfinanzierung von KI-Strom zu",
+        "summary": "Sieben Tech-Konzerne verpflichten sich, den Strombedarf ihrer KI-Rechenzentren selbst zu finanzieren und eigene Kraftwerke zu bauen. Der Energiehunger von Rechenzentren wächst rasant – Trump will verhindern, dass die Kosten auf die Bevölkerung abgewälzt werden."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/03/04/father-sues-google-claiming-gemini-chatbot-drove-son-into-fatal-delusion/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Vater klagt gegen Google: Gemini-Chatbot soll Sohn in fatale Wahnvorstellung getrieben haben",
+        "summary": "Ein Vater verklagt Google und behauptet, der Gemini-Chatbot habe seinen Sohn in eine fatale Wahnvorstellung getrieben. Der Fall wirft grundlegende Fragen zur psychologischen Sicherheit von KI-Assistenten auf und könnte weitreichende rechtliche Folgen haben."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/03/05/exclusive-luma-launches-creative-ai-agents-powered-by-its-new-unified-intelligence-models/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Luma startet kreative KI-Agenten mit neuen \"Unified Intelligence\"-Modellen",
+        "summary": "Luma AI startet kreative KI-Agenten, die Audio-, Bild- und Videoprojekte mithilfe neuer \"Unified Intelligence\"-Modelle erstellen können. Die Web-App kombiniert verschiedene Medienformate in einem einheitlichen KI-System."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/03/05/cursor-is-rolling-out-a-new-system-for-agentic-coding/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Cursor bringt neues agentisches Coding-Tool auf den Markt",
+        "summary": "Cursor führt ein neues agentisches Coding-System ein, das Entwicklern hilft, ihr Coding-Chaos in den Griff zu bekommen. Das Tool ermöglicht es KI-Agenten, eigenständig komplexe Programmieraufgaben zu übernehmen und zu lösen."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://www.handelsblatt.com/technik/ki/milliardenbewertung-tether-investiert-wohl-in-metzinger-roboter-start-up-neura/100205753.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Tether investiert in Roboter-Start-up Neura – Bewertung steigt auf vier Milliarden Euro",
+        "summary": "Mit einer Finanzierungsrunde will das Metzinger Start-up Neura rund eine Milliarde Euro für die Entwicklung humanoider Roboter einsammeln. Ein prominenter Investor kommt aus der Kryptobranche – Tether steigt als strategischer Partner ein."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://www.heise.de/news/KI-Modell-Claude-findet-Firefox-Bugs-schneller-als-die-Community-11202759.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "KI-Modell Claude findet über 100 Firefox-Bugs in zwei Wochen",
+        "summary": "In einem internen Test fand Anthropics KI Claude Opus 4.6 binnen zwei Wochen mehr als 100 Sicherheitslücken im Firefox-Browser – schneller als die gesamte Community. Das Ergebnis zeigt das enorme Potenzial von KI in der Sicherheitsforschung."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.handelsblatt.com/technik/ki/ki-streit-pentagon-stuft-anthropic-offiziell-als-sicherheitsrisiko-ein/100206069.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Pentagon stuft Anthropic offiziell als Sicherheitsrisiko ein",
+        "summary": "Verteidigungsminister Pete Hegseth macht seine Drohung wahr und versucht, Anthropic von Regierungsaufträgen auszuschließen. Anthropic-Chef Dario Amodei kündigt an, die Einstufung als Lieferkettenrisiko vor Gericht anzufechten."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.heise.de/news/KI-und-Urheberrechte-EU-Abgeordnete-wollen-Abkuerzung-nehmen-11202275.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "KI und Urheberrechte: EU-Abgeordnete wollen Abkürzung nehmen",
+        "summary": "Das Urheberrecht wegen der Probleme mit KI-Anbietern anzufassen, hält die EU-Kommission für zu aufwendig. EU-Abgeordnete wollen nun einen anderen Weg gehen und suchen nach schnelleren Lösungen für den Schutz kreativer Werke vor KI-Training."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://techcrunch.com/2026/03/05/meta-sued-over-ai-smartglasses-privacy-concerns-after-workers-reviewed-nudity-sex-and-other-footage/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Meta verklagt wegen Datenschutzbedenken bei KI-Smartbrille",
+        "summary": "Meta wird wegen Datenschutzverletzungen bei seinen KI-Smartbrillen verklagt, nachdem bekannt wurde, dass Mitarbeiter intime Aufnahmen der Nutzer gesichtet haben. Der Fall wirft grundlegende Fragen zum Datenschutz bei tragbaren KI-Geräten auf."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Anthropic-Chef Dario Amodei nennt OpenAIs Aussagen zum Militärdeal \"glatte Lügen\"",
+        "summary": "Anthropic-Chef Dario Amodei bezeichnet OpenAIs Kommunikation rund um den Militärdeal als \"glatte Lügen\" – der Konflikt zwischen den beiden KI-Giganten eskaliert weiter. Während OpenAI einen Vertrag mit dem Pentagon unterzeichnet hat, beharrt Anthropic auf seinen Sicherheitsstandards."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://www.heise.de/hintergrund/KI-fuer-mehr-Effizienz-Forscher-warnt-vor-Wissensverlust-in-Unternehmen-11199856.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "KI-Forscher warnt vor Wissensverlust in Unternehmen durch KI-Effizienz",
+        "summary": "Prof. Jin Gerlach warnt: Wenn Unternehmen KI für mehr Effizienz einsetzen, riskieren sie den Verlust von wertvollem internem Wissen und Kompetenz. Der Forscher plädiert für einen bewussten Umgang mit KI-Tools im Unternehmensalltag."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://techcrunch.com/2026/03/05/netflix-buys-ben-afflecks-ai-filmmaking-company-interpositive/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Netflix kauft Ben Afflecks KI-Filmproduktionsfirma InterPositive",
+        "summary": "Netflix übernimmt das KI-Filmproduktions-Start-up InterPositive des US-Schauspielers Ben Affleck. Das Unternehmen entwickelt KI-Werkzeuge für die Filmproduktion – ein Zeichen dafür, wie tief KI bereits in die Unterhaltungsindustrie eingedrungen ist."
+      }
+    }
+  ],
+  "podcast": {}
+}

@@ -1,0 +1,161 @@
+{
+  "date": "2026-02-21",
+  "week": 8,
+  "languages": [
+    "de"
+  ],
+  "migrated_from_commit": "6530a43",
+  "items": [
+    {
+      "category": "news",
+      "url": "https://t3n.de/news/warum-tech-unternehmen-openclaw-nur-auf-ausgemusterten-computern-nutzen-1730627/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "OpenClaw: Warum Tech-Unternehmen den KI-Agenten nur auf ausgemusterten Computern nutzen",
+        "summary": "Das Open-Source-Tool OpenClaw hat innerhalb kürzester Zeit Millionen Nutzer gewonnen. Doch Unternehmen wie Meta verbieten die Nutzung auf Firmenlaptops wegen erheblicher Sicherheitsrisiken – Tests sind nur auf ausgemusterten Geräten erlaubt."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.heise.de/news/KI-Agenten-Popularitaet-steigt-rasant-trotz-mangelnder-Sicherheit-11184780.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "KI-Agenten: Popularität steigt rasant – trotz mangelnder Sicherheit",
+        "summary": "Der AI Agent Index 2025 des MIT zeigt: KI-Agenten boomen, doch 25 von 30 untersuchten Systemen veröffentlichen keine Sicherheitsbewertungen. Verhaltensstandards fehlen nahezu vollständig – ein alarmierendes Ergebnis für die Branche."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.heise.de/news/Wirtschaftlich-bedeutsam-KI-sorgt-fuer-Produktivitaet-11183966.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "KI sorgt für Produktivität – aber nicht für alle Arbeitnehmer gleichermassen",
+        "summary": "Eine neue Studie zeigt: KI steigert die Produktivität in Unternehmen messbar und führt zu höheren Gehältern. Doch die Vorteile sind ungleich verteilt – nicht alle Arbeitnehmer profitieren von der KI-Revolution."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://t3n.de/news/dieser-oxford-professor-warnt-vor-einer-ki-krise-und-zieht-einen-beunruhigenden-vergleich-1730396/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Oxford-Professor warnt vor KI-Krise und zieht beunruhigenden Vergleich",
+        "summary": "Ein Oxford-Forscher sieht das Risiko eines „Hindenburg-Moments\" für die KI-Branche: Unkontrollierte Entwicklung könnte zu einem spektakulären Scheitern führen, das das Vertrauen in KI nachhaltig erschüttert."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.heise.de/news/KI-in-Unternehmen-Tausende-Chefs-sehen-noch-keinen-Effekt-11183994.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "KI in Unternehmen: Tausende Chefs sehen noch keinen messbaren Effekt",
+        "summary": "Erneut zeigt eine Studie: Der KI-Hype kommt auf den Prüfstand. Trotz massiver Investitionen sehen viele Führungskräfte keinen messbaren Produktivitätsgewinn durch KI in ihren Unternehmen."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/02/19/openai-reportedly-finalizing-100b-deal-at-more-than-850b-valuation/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "OpenAI finalisiert 100-Milliarden-Dollar-Deal bei über 850 Milliarden Bewertung",
+        "summary": "OpenAI steht kurz vor einem Mega-Deal: Über 100 Milliarden Dollar sollen bei einer Bewertung von mehr als 850 Milliarden Dollar eingesammelt werden. Investoren: Amazon, SoftBank, Nvidia und Microsoft."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://www.heise.de/news/Google-bringt-Gemini-3-1-Pro-heraus-11183839.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "Google bringt Gemini 3.1 Pro heraus – mit Rekord-Benchmark-Scores",
+        "summary": "Google legt mit Gemini 3.1 Pro nach: Das neue Standardmodell setzt Rekord-Benchmark-Scores und übertrifft seinen Vorgänger beim logischen Schlussfolgern und bei komplexen Programmieraufgaben deutlich."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://www.handelsblatt.com/technik/ki/open-claw-so-soll-es-nach-peter-steinbergers-wechsel-zu-openai-weitergehen/100201088.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "OpenClaw-Entwickler Peter Steinberger wechselt zu OpenAI",
+        "summary": "Der Schöpfer des KI-Agenten OpenClaw wechselt zu OpenAI, um dort die nächste Generation persönlicher KI-Agenten zu entwickeln. OpenClaw soll als Open-Source-Projekt weitergeführt werden."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/02/17/here-are-the-17-us-based-ai-companies-that-have-raised-100m-or-more-in-2026/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "17 US-amerikanische KI-Unternehmen sammelten 2026 bereits über 100 Millionen Dollar ein",
+        "summary": "Drei US-KI-Unternehmen sammelten bereits Runden über einer Milliarde Dollar ein. Insgesamt haben 17 Firmen in den ersten Wochen 2026 mindestens 100 Millionen Dollar erhalten – ein Zeichen für anhaltenden Investitionsboom."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.heise.de/news/ZDF-zieht-nach-KI-Fiasko-Korrespondentin-ab-11184878.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "ZDF zieht nach KI-Fiasko Korrespondentin ab – Debatte über KI im Journalismus",
+        "summary": "Das ZDF-„heute journal\" verwendete KI-generierte Bilder in einem Nachrichtenfilm. Die Folge: Die New Yorker Korrespondentin wird abgezogen. Der Vorfall entfacht eine heftige Debatte über den Einsatz von KI im Journalismus."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.handelsblatt.com/politik/international/ki-internationale-forscher-warnen-vor-kontrollverlust-durch-open-claw-01/100201569.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Internationale Forscher warnen auf KI-Gipfel vor Kontrollverlust durch KI-Agenten",
+        "summary": "Auf dem KI-Gipfel in Neu-Delhi warnen prominente Experten vor katastrophalen Gefahren durch unkontrollierte KI-Agenten und fordern klare politische Maßnahmen zur Regulierung autonomer Systeme."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.heise.de/news/Falsche-KI-Erweiterungen-fuer-Chrome-gefaehrden-260-000-Nutzer-11177317.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "Falsche KI-Erweiterungen für Chrome gefährden 260.000 Nutzer",
+        "summary": "IT-Forscher haben Dutzende gefälschte Chrome-Erweiterungen entdeckt, die vorgeben, KI-Tools zu sein. Sie sind Teil einer koordinierten Kampagne, die Daten von 260.000 Nutzern gefährdet."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://www.handelsblatt.com/technik/ki/ki-briefing-was-ein-verweigerter-handschlag-ueber-das-ki-wettrennen-aussagt/100201644.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "KI-Briefing: Was ein verweigerter Handschlag über das globale KI-Wettrennen aussagt",
+        "summary": "Auf der Bühne in Neu-Delhi wird die Rivalität der KI-Giganten sichtbar: OpenAI-Chef Altman und Anthropic-Chef Amodei verweigern sich den Handschlag. Hinter der Geste steht ein geopolitischer Machtkampf um die KI-Vorherrschaft."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://techcrunch.com/2026/02/16/after-all-the-hype-some-ai-experts-dont-think-openclaw-is-all-that-exciting/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "KI-Experten zweifeln: Ist OpenClaw wirklich so aufregend wie behauptet?",
+        "summary": "Nach dem Hype um OpenClaw melden sich kritische Stimmen: Einige KI-Experten halten die Fähigkeiten des Agenten für überschätzt und warnen vor unrealistischen Erwartungen an autonome KI-Systeme."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://www.heise.de/news/Accenture-Aufstieg-in-hoechste-Ebenen-nur-mit-KI-Nutzung-11184464.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "Accenture: Aufstieg in höchste Ebenen nur noch mit nachgewiesener KI-Nutzung",
+        "summary": "Accenture macht KI-Nutzung zur Karrierebedingung: Berater, die in die höchsten Ebenen aufsteigen wollen, müssen KI aktiv einsetzen. Bei einigen Mitarbeitern werden sogar die Logins in KI-Tools getrackt."
+      }
+    }
+  ],
+  "podcast": {}
+}

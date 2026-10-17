@@ -1,0 +1,166 @@
+{
+  "date": "2026-07-11",
+  "week": 28,
+  "languages": [
+    "de"
+  ],
+  "migrated_from_commit": "1b36905",
+  "items": [
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "OpenAI startet neue Modellfamilie mit GPT-5.6: Sol, Terra und Luna",
+        "summary": "OpenAI hat die GPT-5.6-Modellfamilie mit drei Modellen gestartet: Sol, Terra und Luna. Gleichzeitig ist GPT-5.6 das bevorzugte Modell für Microsoft Copilot 365. Das ist mehr als ein Produktlaunch: Es ist ein Signal, dass OpenAI und Microsoft trotz Gerüchten über eine Trennung enger zusammenrücken als je zuvor."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "OpenAI: GPT-5.6 ist das bevorzugte Modell für Microsoft Copilot 365",
+        "summary": "OpenAI hat bestätigt, dass GPT-5.6 das Standardmodell für Microsoft Copilot 365 wird – trotz Gerüchten über eine mögliche Trennung der beiden Firmen. Der entscheidende Unterschied liegt darin: Die Integration in Copilot 365 bedeutet Zugang zu Millionen von Unternehmensnutzern – das ist OpenAIs wichtigster Vertriebskanal."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "SpaceXAI veröffentlicht Grok 4.5 – Elon Musk nennt es ein Opus-Klasse-Modell",
+        "summary": "SpaceXAI hat Grok 4.5 veröffentlicht. Elon Musk beschreibt es als Opus-Klasse-Modell – also auf Augenhöhe mit Anthropics Flaggschiff. Das eigentliche Problem ist nicht die Qualität, sondern die Glaubwürdigkeit: Wer Musk glaubt, kauft ein Modell. Wer Benchmarks liest, prüft nach."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "OpenAI stellt K.I.-Browser Atlas ein – aber die Browser-Ambitionen wachsen weiter",
+        "summary": "OpenAI hat seinen K.I.-Browser Atlas eingestellt – aber gleichzeitig signalisiert, dass K.I.-Browser weiter eine strategische Priorität bleiben. Das zeigt: Nicht jedes Produkt überlebt, aber die Richtung bleibt. K.I.-Browser sind der nächste grosse Kampfplatz zwischen OpenAI, Google und Anthropic."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Meta betritt den K.I.-Coding-Markt mit Muse Spark 1.1",
+        "summary": "Meta greift mit Muse Spark 1.1 direkt GitHub Copilot und Cursor an. Was oft unterschätzt wird: Meta hat die Nutzerbasis – und kann K.I.-Coding-Tools in bestehende Entwicklerworkflows integrieren, ohne dass Nutzer die Plattform wechseln müssen. Das ist ein struktureller Vorteil gegenüber reinen K.I.-Coding-Startups."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "K.I.-Agenten-Startup liess seinen Agenten die eigene 100-Mio.-Dollar-Finanzierung leiten",
+        "summary": "Ein K.I.-Agenten-Startup hat seinen eigenen Agenten die 100-Millionen-Dollar-Finanzierungsrunde leiten lassen – von der Investorenansprache bis zum Term Sheet. Das ist entweder brillantes Marketing oder ein echter Beweis, dass K.I.-Agenten Geschäftsprozesse übernehmen können. Wahrscheinlich beides."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://t3n.de/news/software-vom-bsi-und-fraunhofer-wie-ki-ihre-eigenen-deepfakes-entlarvt-1751408/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "BSI und Fraunhofer: Wie K.I. ihre eigenen Deepfakes entlarvt",
+        "summary": "BSI und Fraunhofer haben Software entwickelt, die K.I.-generierte Deepfakes erkennt. Das ist ein wichtiger Schritt – aber kein Endpunkt. Die Konsequenz daraus ist: K.I. und Anti-K.I. befinden sich in einem Wettrüsten, das kein klares Ende hat. Unternehmen brauchen Prozesse, nicht nur Tools."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Apple klagt OpenAI wegen angeblichem Diebstahl von Geschäftsgeheimnissen",
+        "summary": "Apple hat OpenAI wegen angeblichem Diebstahl von Geschäftsgeheimnissen verklagt. Das ist der erste grosse Rechtsstreit zwischen zwei der mächtigsten K.I.-Akteure. Der entscheidende Unterschied liegt darin: Das ist kein Urheberrechtsstreit – das ist ein Kampf um K.I.-Infrastruktur, Talente und strategische Kontrolle."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "New York Times: OpenAI hat Beweise im ChatGPT-Urheberrechtsprozess versteckt",
+        "summary": "Die New York Times wirft OpenAI vor, Beweise im laufenden Urheberrechtsprozess rund um ChatGPT-Training versteckt zu haben. Das ist eine schwere Anschuldigung – und könnte den gesamten Urheberrechtsdiskurs rund um K.I.-Training neu entfachen. Was oft unterschätzt wird: Prozessverluste könnten das gesamte K.I.-Trainingsmodell infrage stellen."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Google kennzeichnet ab sofort K.I.-generierte Werbung",
+        "summary": "Google hat angekündigt, K.I.-generierte Werbeanzeigen künftig zu kennzeichnen – in der EU, in Indien und in New York direkt auf der Anzeige. Das ist die richtige Richtung. Die Frage ist, ob Nutzer den Unterschied wahrnehmen oder ignorieren – und ob Werbetreibende die Kennzeichnung als Vorteil oder Nachteil erleben."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Elon Musk lobt Anthropics Mythos/Fable und verspricht, es nicht abzuschneiden",
+        "summary": "Elon Musk hat Anthropics Modelle Mythos und Fable öffentlich gelobt und versprochen, Anthropic nicht vom Zugang zu xAI-Infrastruktur abzuschneiden. Das klingt grosszügig – ist aber strategisches Kalkül: Musk braucht ein starkes K.I.-Ökosystem, um xAI zu positionieren. Freundschaft in der K.I.-Branche ist immer auch Wettbewerbsstrategie."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Fidji Simo verlässt OpenAIs Führungsposition Nr. 2",
+        "summary": "Fidji Simo, OpenAIs Nummer zwei in der Führungsebene, verlässt das Unternehmen. Das ist die zweite grosse Führungskrise bei OpenAI in weniger als zwei Jahren. Was oft unterschätzt wird: Führungsinstabilität kostet Vertrauen – bei Kunden, Investoren und Mitarbeitern. Und Vertrauen ist in der K.I.-Branche die knappste Ressource."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://www.handelsblatt.com/technik/ki/ki-briefing/ki-briefing-was-sie-jetzt-gegen-hohe-ki-kosten-unternehmen-sollten/100239059.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Handelsblatt K.I.-Briefing: Was Sie jetzt gegen hohe K.I.-Kosten unternehmen sollten",
+        "summary": "Das Handelsblatt K.I.-Briefing erklärt, wie Unternehmen K.I.-Kosten senken können: Modelle vergleichen, Abhängigkeiten begrenzen, Kosten steuern. Die Kernthese: Lange diktierten die grossen K.I.-Labore Tempo und Preise. Nun lernen Kunden, selbst zu steuern. Das ist keine Option – das ist eine Überlebensstrategie."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://www.handelsblatt.com/politik/deutschland/kuenstliche-intelligenz-deutsche-industrie-verschlaeft-ki-transformation/100238445.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Deutsche Industrie verschläft die K.I.-Transformation",
+        "summary": "Die Monopolkommission attestiert deutschen Unternehmen eine gefährliche Trägheit bei der K.I.-Einführung. Das eigentliche Problem ist nicht fehlendes Wissen, sondern fehlender Wille zur Transformation. Die Konsequenz daraus ist: Wer jetzt nicht investiert, kauft in drei Jahren teuer ein – oder verliert den Anschluss an internationale Wettbewerber."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "SK Hynix sammelt 26,5 Mrd. Dollar im grössten ausländischen Börsengang der US-Geschichte",
+        "summary": "Der südkoreanische Chiphersteller SK Hynix hat 26,5 Milliarden Dollar im grössten ausländischen Börsengang der US-Geschichte eingesammelt. Das ist ein klares Signal: K.I.-Chip-Infrastruktur ist das heisseste Investmentthema des Jahrzehnts – und Investoren setzen auf die Lieferkette, nicht nur auf die Modelle."
+      }
+    }
+  ],
+  "podcast": {
+    "de": {
+      "audio": "audio/2026-07-11/podcast-de.mp3",
+      "duration_sec": 350
+    }
+  }
+}

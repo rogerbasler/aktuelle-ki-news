@@ -1,0 +1,121 @@
+{
+  "date": "2025-12-06",
+  "week": 49,
+  "languages": [
+    "de"
+  ],
+  "migrated_from_commit": "d9961bb",
+  "items": [
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2025/12/02/amazon-releases-an-impressive-new-ai-chip-and-teases-a-nvidia-friendly-roadmap/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Amazon stellt beeindruckenden neuen KI-Chip Trainium3 vor",
+        "summary": "Amazon Web Services (AWS) hat auf der re:Invent 2025 seinen neuen KI-Trainingschip Trainium3 vorgestellt. Der in einem 3-Nanometer-Prozess gefertigte Chip soll eine mehr als viermal höhere Leistung und viermal mehr Speicher als sein Vorgänger bieten. Zudem kündigte AWS an, dass die nächste Generation, Trainium4, bereits in Entwicklung ist und Nvidias NVLink Fusion unterstützen wird, was eine Interoperabilität mit Nvidia-GPUs ermöglicht."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com/technik/ki/ki-briefing-fuer-diese-drei-rivalen-ist-die-krise-bei-openai-die-grosse-chance/100180164.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "OpenAI in strategischer Krise – Chance für Wettbewerber",
+        "summary": "OpenAI-CEO Sam Altman hat intern \"Code Red\" ausgerufen, was auf eine strategische Krise hindeutet. Das Unternehmen will sich nun darauf konzentrieren, sein Kernprodukt ChatGPT zu verbessern. Diese Entwicklung eröffnet Chancen für Wettbewerber aus China, Deutschland und den USA, die mit innovativen Produkten auf den Markt drängen."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com/dpa/kuenstliche-intelligenz-meta-holt-sich-fuer-ki-geraete-design-experten-von-apple/100180841.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Meta wirbt Apple-Design-Experten für KI-Geräte ab",
+        "summary": "Meta verstärkt seine Bemühungen im Bereich KI-Hardware und hat dafür Alan Dye, einen führenden Designer von Apple, abgeworben. Dye, der für die Benutzeroberfläche von Apple-Produkten verantwortlich war, soll bei Meta an der Entwicklung von Geräten für die KI-Ära arbeiten. Dieser Schritt unterstreicht die wachsende Bedeutung von dedizierter Hardware für KI-Anwendungen."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2025/12/02/aws-launches-new-nova-ai-models-and-a-service-that-gives-customers-more-control/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "AWS launcht neue Nova 2 KI-Modelle und Custom-Model-Service",
+        "summary": "Amazon Web Services hat seine neue Nova 2-Modellfamilie vorgestellt, die vier spezialisierte KI-Modelle umfasst: Nova 2 Lite, Pro, Sonic und Omni. Zusätzlich bietet AWS mit \"Nova Forge\" einen neuen Service an, mit dem Unternehmen für 100.000 US-Dollar pro Jahr ihre eigenen KI-Modelle trainieren können."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.heise.de/en/news/Nvidia-s-AI-is-now-part-of-all-major-chip-design-EDA-tools-11099708.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "Nvidia integriert KI in alle großen Chip-Design-Tools",
+        "summary": "Nvidia hat Partnerschaften mit den drei größten Anbietern von Chip-Design-Software (EDA) – Synopsys, Cadence und Siemens EDA – geschlossen. Ziel ist die Integration von Nvidias KI-Algorithmen, um den Chip-Entwurfsprozess zu beschleunigen. Zudem investiert Nvidia 2 Milliarden US-Dollar in Synopsys."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://t3n.de/news/kuenstliche-intelligenz-adobe-features-neuerungen-firefly-agentic-ai-1716942/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Adobe MAX 2025: Revolution für Kreative mit Agentic AI",
+        "summary": "Auf der Adobe MAX 2025 wurden zahlreiche KI-Neuerungen vorgestellt, darunter das Firefly Image Model 5, ein Firefly Video Editor und \"Agentic AI\" – mitdenkende KI-Assistenten. Eine neue Partnerschaft mit YouTube soll zudem die Videoproduktion für Creator vereinfachen."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2025/12/02/amazon-previews-3-ai-agents-including-kiro-that-can-code-on-its-own-for-days/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Amazon stellt drei neue KI-Agenten vor",
+        "summary": "Amazon Web Services hat drei neue KI-Agenten vorgestellt: den \"Kiro Autonomous Agent\" für Software-Entwicklung, den \"AWS Security Agent\" zur Identifizierung von Sicherheitsproblemen und den \"DevOps Agent\" zur Automatisierung von Code-Tests. Kiro soll in der Lage sein, tagelang eigenständig zu arbeiten."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.heise.de/en/news/US-Patent-Office-Changes-Rules-for-AI-Assisted-Inventions-11097331.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "US-Patentamt ändert Regeln für KI-unterstützte Erfindungen",
+        "summary": "Das US-Patentamt hat klargestellt, dass KI-Systeme als Werkzeuge zu betrachten sind und nicht als Erfinder genannt werden können. Eine Erfindung ist nur dann patentierbar, wenn ein Mensch eine \"definitive und dauerhafte Idee der vollständigen Erfindung\" hatte. Diese Regelung schafft mehr Rechtssicherheit für KI-gestützte Innovationen."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://t3n.de/news/von-wegen-arbeitslos-nvidia-ceo-huang-glaubt-dass-ki-zu-noch-mehr-arbeit-fuehrt-1720250/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Nvidia-CEO Huang: KI führt zu mehr Arbeit, nicht weniger",
+        "summary": "Nvidia-CEO Jensen Huang prognostiziert, dass KI durch Produktivitätssteigerungen zu mehr Arbeit führen wird, anstatt Arbeitsplätze zu vernichten. Er argumentiert, dass Menschen durch die gewonnene Zeit neue Ideen verfolgen können. Demgegenüber warnt Anthropic-CEO Dario Amodei vor dem Verlust von Millionen von Büro-Jobs."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://t3n.de/news/menschen-bald-ueberfluessig-ki-sorgt-fuer-wachsende-sorgen-auf-dem-arbeitsmarkt-1719388/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Jeder sechste Beschäftigte in Deutschland fürchtet Jobverlust durch KI",
+        "summary": "Eine aktuelle Umfrage zeigt, dass 16 Prozent der deutschen Beschäftigten Angst haben, ihren Job durch KI zu verlieren. Gleichzeitig glauben 29 Prozent, dass KI menschliche Arbeitskräfte überflüssig machen wird. Eine Studie des IAB prognostiziert zwar einen Strukturwandel, aber eine stabile Gesamtzahl an Arbeitsplätzen."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://www.heise.de/en/news/The-AI-Energy-Dilemma-When-the-Digital-Boom-Overloads-the-Grids-11099105.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "KI-Energiedilemma: Stromverbrauch von Rechenzentren steigt bis 2030 um das Elffache",
+        "summary": "Der Energiehunger von KI-Anwendungen wird zu einer enormen Belastung für die Stromnetze. Experten warnen, dass der Stromverbrauch von KI-Rechenzentren bis 2030 um das Elffache ansteigen könnte. Dies hat nicht nur ökologische Folgen, sondern könnte auch zu steigenden Strompreisen für Endkunden führen."
+      }
+    }
+  ],
+  "podcast": {}
+}

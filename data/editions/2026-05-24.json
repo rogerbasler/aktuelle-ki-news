@@ -1,0 +1,176 @@
+{
+  "date": "2026-05-24",
+  "week": 21,
+  "languages": [
+    "de"
+  ],
+  "migrated_from_commit": "99658e4",
+  "items": [
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "OpenAI plant Börsengang im September 2026",
+        "summary": "OpenAI beschleunigt seine IPO-Pläne und könnte bereits im September 2026 an die Börse gehen. Das Unternehmen hat seine Strukturen für eine Aktiengesellschaft umgebaut. Der entscheidende Unterschied liegt nicht im Timing, sondern in der Frage, wie ein börsennotiertes OpenAI seine Sicherheits- und Forschungsmission mit Renditedruck vereinbart."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Anthropic steht kurz vor dem ersten profitablen Quartal",
+        "summary": "Anthropic, lange als reines Forschungsunternehmen wahrgenommen, meldet das erste profitable Quartal seiner Geschichte. Das ist ein Meilenstein, der zeigt: Safety-first und Profitabilität schliessen sich nicht aus. Was oft unterschätzt wird: Anthropic zahlt xAI gleichzeitig 1,25 Milliarden Dollar monatlich für Rechenkapazität."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "OpenAI löst 80 Jahre altes Mathematik-Problem",
+        "summary": "OpenAI behauptet, ein seit 80 Jahren offenes mathematisches Problem gelöst zu haben. Die Forschungsgemeinschaft prüft die Ergebnisse noch. Was die Meldung unabhängig vom Ergebnis zeigt: KI-Systeme werden zunehmend als Werkzeug für wissenschaftliche Grundlagenforschung eingesetzt, nicht nur für Produktivitätsanwendungen."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Nvidia meldet Rekordquartal und hält 43 Milliarden Dollar in KI-Startups",
+        "summary": "Nvidia hat erneut ein Rekordquartal gemeldet und hält inzwischen 43 Milliarden Dollar an Beteiligungen in KI-Startups. Jensen Huang spricht von einem brandneuen 200-Milliarden-Dollar-Markt. Die Konsequenz daraus ist: Nvidia ist nicht mehr nur Chip-Lieferant, sondern Kapitalzentrum des KI-Ökosystems."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-weltweite-ki-ausgaben-steigen-2026-auf-259-billionen-dollar/100226234.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Weltweite KI-Ausgaben steigen 2026 auf 2,59 Billionen Dollar",
+        "summary": "Die globalen Ausgaben für Künstliche Intelligenz übertreffen 2026 alle bisherigen Prognosen und erreichen 2,59 Billionen Dollar. In den nächsten Jahren sollen sie sich verdreifachen. Das ist keine Blase, das ist Infrastruktur – mit denselben Risiken wie jede Infrastrukturinvestition im Übergang."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Hark sammelt 700 Millionen Dollar für universelles KI-Interface ein",
+        "summary": "Hark, ein bisher kaum bekanntes KI-Startup, hat 700 Millionen Dollar in einer Series-A-Runde eingesammelt. Das Produkt: ein sogenanntes universelles KI-Interface. Details bleiben geheim. Was das zeigt: Investoren wetten auf KI-Schnittstellen, nicht nur auf Modelle."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Spotify schliesst KI-Deal mit Universal Music für Fan-Covers",
+        "summary": "Spotify und Universal Music haben eine Vereinbarung getroffen, die KI-generierte Fan-Covers und Remixes erlaubt. Gleichzeitig lanciert Spotify KI-Features für Podcasts und ein ElevenLabs-gestütztes Audiobook-Tool. Der entscheidende Unterschied liegt darin, dass hier erstmals ein Major-Label KI-generierte Inhalte aktiv lizenziert statt bekämpft."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Google testet KI-Brille: Fast gut, aber noch nicht da",
+        "summary": "TechCrunch hat Googles neue KI-Brille getestet. Das Urteil: vielversprechend, aber noch nicht alltagstauglich. Die Brille erkennt Kontext, übersetzt in Echtzeit und liefert Informationen per Einblendung. Was oft unterschätzt wird: Der Formfaktor entscheidet über Adoption, nicht die Modellqualität."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Google stellt KI-Agenten-Ökosystem für Konsumenten vor",
+        "summary": "Google hat auf der I/O-Konferenz sein KI-Agenten-Ökosystem für Endkonsumenten präsentiert. Die Frage, ob Konsumenten das wirklich wollen, bleibt offen. Die Konsequenz daraus ist: Wer KI-Agenten in Alltagsanwendungen bringt, braucht nicht nur Technologie, sondern Vertrauen und Gewohnheitsänderung."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Trump verschiebt KI-Sicherheits-Executive-Order",
+        "summary": "US-Präsident Trump hat die Unterzeichnung einer Executive Order zur KI-Cybersicherheit kurzfristig verschoben. Begründung: Die Formulierungen könnten Innovationen blockieren. Das eigentliche Problem ist nicht die Verschiebung, sondern das Signal: In den USA wird Regulierung als Innovationsbremse gerahmt, nicht als Sicherheitsnetz."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-studie-ki-bleibt-oft-im-testlauf-stecken/100227593.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "KI bleibt in deutschen Unternehmen oft im Testlauf stecken",
+        "summary": "Eine neue Studie unter 500 IT-Verantwortlichen zeigt: KI-Projekte in deutschen Unternehmen kommen häufig nicht über den Pilotbetrieb hinaus. Der Weg vom Testlauf zur produktiven Nutzung ist länger als gedacht. Was oft unterschätzt wird: Das Problem liegt selten an der Technologie, sondern an Prozessen, Daten und Organisationskultur."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://t3n.de/news/ki-claude-knackt-bitcoin-wallet-400000-dollar-1742871/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Claude knackt Bitcoin-Wallet mit 400.000 Dollar nach 11 Jahren",
+        "summary": "Anthropics KI-Modell Claude hat nach 11 Jahren das Passwort einer Bitcoin-Wallet mit 400.000 Dollar Inhalt geknackt. Der Fall zeigt, was KI-gestützte Kryptoanalyse heute leisten kann. Die Konsequenz daraus ist: Passwortschutz, der vor einem Jahrzehnt als sicher galt, ist es heute nicht mehr."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://www.handelsblatt.com/technik/ki/ki-arbeit-wird-zum-luxus-der-nur-einer-elite-vorbehalten-ist/100223312.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "KI könnte Arbeit zum Luxus machen, der nur einer Elite vorbehalten ist",
+        "summary": "Eine Expertin warnt im Handelsblatt: Wenn KI alle Arbeit ersetzt, verlieren Menschen ihre Würde. Künftig könnte vor allem eine Fähigkeit zählen. Das ist keine dystopische Spekulation, sondern eine Verteilungsfrage, die heute politisch entschieden wird, nicht morgen."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://t3n.de/news/produktivitaetsparadoxon-ki-fuehrungskraefte-1742316/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "82 Prozent der Führungskräfte zweifeln trotz KI-Investitionen",
+        "summary": "Eine aktuelle Studie zeigt: 82 Prozent der Führungskräfte sehen KI-Probleme trotz hoher Investitionen. Das Produktivitätsparadoxon ist real. Was oft unterschätzt wird: KI-Investitionen ohne klare Anwendungsstrategie erzeugen Kosten, nicht Mehrwert."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "xAI verbrennt 6,4 Milliarden Dollar und kauft für 2,8 Milliarden neue Generatoren",
+        "summary": "Elon Musks xAI hat laut SpaceX-Börsengang-Unterlagen im letzten Jahr 6,4 Milliarden Dollar verbrannt. Gleichzeitig kauft das Unternehmen für weitere 2,8 Milliarden Dollar neue Rechenzentrum-Generatoren, obwohl es wegen bestehender Generatoren bereits verklagt wird. Die Konsequenz daraus ist: KI-Infrastruktur hat einen ökologischen und rechtlichen Fussabdruck, der nicht wegoptimiert werden kann."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://t3n.de/news/krebs-psychotherapie-antibiotika-wie-ki-diagnose-und-behandlung-vorantreibt-1743818/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "KI in der Medizin: Fortschritte bei Krebs, Psychotherapie und Antibiotika",
+        "summary": "KI treibt Diagnose und Behandlung in der Medizin voran: bei Krebserkennung, psychotherapeutischer Unterstützung und der Entwicklung neuer Antibiotika gegen resistente Keime. Der entscheidende Unterschied liegt darin, dass KI hier nicht Ärzte ersetzt, sondern Mustererkennung in Datenmassen ermöglicht, die kein Mensch allein bewältigen kann."
+      }
+    }
+  ],
+  "podcast": {
+    "de": {
+      "audio": "audio/2026-05-24/podcast-de.mp3",
+      "duration_sec": 274
+    }
+  }
+}

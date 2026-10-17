@@ -1,0 +1,67 @@
+{% extends "base.html" %}
+{% block head %}
+<script type="application/ld+json">{{ jsonld|safe }}</script>
+{% endblock %}
+{% block content %}
+<section class="hero">
+  <p class="kicker">{% if is_latest %}{{ t.edition_of }} {{ date_text }} · {{ t.week }} {{ edition.week }}{% else %}<span class="badge">{{ t.archive_badge }}</span> {{ date_text }} · {{ t.week }} {{ edition.week }}{% endif %}</p>
+  <h1 class="hero-title"><span class="line">KI Power</span><span class="line outline">Update</span></h1>
+  <p class="hero-sub">{{ t.tagline }}</p>
+  {% if not is_latest %}<p><a class="btn ghost" href="{{ root }}{{ lang_prefix }}">{{ t.latest_link }} →</a></p>{% endif %}
+  {% if lang != 'de' and lang not in edition.languages %}<p class="notice">{{ t.only_de }}</p>{% endif %}
+</section>
+
+<section class="podcast" id="podcast">
+  <div class="podcast-head">
+    <p class="section-label"><span class="icon">🎙️</span> {{ t.podcast_title }}</p>
+    <p class="muted">{{ t.podcast_hint }}</p>
+  </div>
+  {% if podcast and podcast.audio %}
+  <audio controls preload="metadata" src="{{ root }}{{ podcast.audio }}">{{ t.podcast_missing }}</audio>
+  <p class="podcast-meta">
+    {% if podcast.duration_sec %}<span>{{ t.duration }}: {{ (podcast.duration_sec // 60) }}:{{ '%02d' % (podcast.duration_sec % 60) }} {{ t.minutes }}</span>{% endif %}
+    <a href="{{ root }}{{ podcast.audio }}" download>{{ t.podcast_download }}</a>
+    <a href="{{ root }}podcast-{{ lang }}.xml">{{ t.podcast_feed }}</a>
+    {% if podcast.script %}<a href="#script">{{ t.podcast_transcript }}</a>{% endif %}
+  </p>
+  {% else %}
+  <p class="muted">{{ t.podcast_missing }}</p>
+  {% endif %}
+</section>
+
+<nav class="jump" aria-label="{{ t.jump_to }}">
+  {% for cat in categories %}{% if cat.entries %}<a href="#{{ cat.key }}">{{ cat.icon }} {{ cat.label }} <span class="count">{{ cat.entries|length }}</span></a>{% endif %}{% endfor %}
+</nav>
+
+{% if edition.editorial_note and lang == 'de' %}
+<p class="editorial"><strong>{{ t.editorial_note }}:</strong> {{ edition.editorial_note }}</p>
+{% endif %}
+
+{% for cat in categories %}{% if cat.entries %}
+<section class="category" id="{{ cat.key }}">
+  <h2 class="cat-title"><span class="cat-num">{{ '%02d' % loop.index }}</span><span class="cat-icon">{{ cat.icon }}</span> {{ cat.label }}</h2>
+  <div class="cards">
+  {% for item in cat.entries %}
+    <article class="card" id="{{ item.id }}">
+      <p class="card-meta"><span class="pill">{{ item.source }}</span>{% if item.published %}<time datetime="{{ item.published }}">{{ item.published_text }}</time>{% endif %}</p>
+      <h3><a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.title }}</a></h3>
+      <p>{{ item.summary }}</p>
+      <a class="more" href="{{ item.url }}" target="_blank" rel="noopener">{% if item.url_is_article is sameas false %}{{ t.no_article_link }}{% else %}{{ t.read_article }}{% endif %} →</a>
+    </article>
+  {% endfor %}
+  </div>
+</section>
+{% endif %}{% endfor %}
+
+{% if podcast and podcast.script %}
+<section class="script" id="script">
+  <h2 class="cat-title"><span class="cat-icon">📄</span> {{ t.podcast_transcript }}</h2>
+  <div class="prose">
+  {% for p in podcast.script.split('\n\n') %}<p>{{ p|trim }}</p>
+  {% endfor %}
+  </div>
+</section>
+{% endif %}
+
+<p class="sources-line">{{ t.sources_label }}: {{ sources|join(', ') }}</p>
+{% endblock %}

@@ -1,0 +1,161 @@
+{
+  "date": "2026-07-14",
+  "week": 29,
+  "languages": [
+    "de"
+  ],
+  "migrated_from_commit": "b1641a8",
+  "items": [
+    {
+      "category": "news",
+      "url": "https://t3n.de/news/europas-ki-problem-nur-jedes-zehnte-deutsche-unternehmen-nutzt-ein-europaeisches-modell-1752608/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Europas KI-Problem: Nur jedes zehnte deutsche Unternehmen nutzt ein europäisches Modell",
+        "summary": "Von 185 deutschen KI-Unternehmen mit offengelegtem Anbieter setzen rund 60 Prozent auf US-Modelle. Mistral erreicht nur etwa jedes zehnte Unternehmen. Digitale Souveränität wird gern versprochen, technisch aber oft an US-Anbieter delegiert."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Satya Nadella warnt Unternehmen vor dem doppelten Preis proprietärer KI",
+        "summary": "Microsoft-Chef Satya Nadella argumentiert, Firmen zahlten nicht nur mit Geld, sondern auch mit ihrem institutionellen Wissen. Seine Konsequenz: Datenhoheit, Modellwechsel und eigene Lernumgebungen werden zur strategischen Pflicht."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "OpenAI richtet ChatGPT stärker auf Familien und Haushalte aus",
+        "summary": "OpenAI sucht Produktverantwortliche für Familien, Betreuungspersonen und ältere Menschen. Der Schritt zeigt, dass ChatGPT vom individuellen Werkzeug zur Haushaltsinfrastruktur werden soll, inklusive neuer Sicherheits- und Aufsichtsfragen."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com/technik/ki/technologie-deutschlands-juengste-professorin-klaert-ueber-ki-mythen-auf-03/100188740.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Deutschlands jüngste Professorin räumt mit KI-Mythen auf",
+        "summary": "Alicia von Schenk leitet mit 30 Jahren einen Lehrstuhl für «Economics of AI and Human Behavior». Ihre zentrale Kritik: KI ist kein einheitliches System, sondern ein Sammelbegriff, der in der Debatte oft zu undifferenziert verwendet wird."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Anthropic lokalisiert Claude-Preise für Indien, seinen zweitgrössten Markt",
+        "summary": "Indien steht für 5,8 Prozent der weltweiten Claude-Nutzung. Anthropic führt Preise in Rupien ein, verlangt inklusive Steuern jedoch mehr als in den USA und bietet noch keine UPI-Zahlungen an. Lokalisierung ohne lokale Zahlungslogik bleibt halbe Marktbearbeitung."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Video-KI-Startup PixVerse sammelt 439 Millionen Dollar ein",
+        "summary": "PixVerse wird nach der Finanzierungsrunde mit mehr als zwei Milliarden Dollar bewertet. Das Unternehmen meldet 150 Millionen registrierte und 15 Millionen monatlich aktive Nutzer, will aber nun vor allem das Geschäft mit Unternehmen ausbauen."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Nous Research verhandelt über Finanzierung bei 1,5 Milliarden Dollar Bewertung",
+        "summary": "Der Anbieter des quelloffenen Hermes-Agenten will mindestens 75 Millionen Dollar aufnehmen. Rund 214'000 GitHub-Sterne zeigen Reichweite, doch die entscheidende Frage ist nun, wie sich Open Source in ein tragfähiges Geschäftsmodell übersetzen lässt."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://www.handelsblatt.com/technik/ki/ki-neue-entwicklerplattform-fuer-ki-agenten-will-marktfuehrer-herausfordern/100238135.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Neue Entwicklerplattform für KI-Agenten fordert GitHub heraus",
+        "summary": "Der frühere GitHub-Chef Thomas Dohmke baut eine Plattform, auf der Menschen und autonome KI-Agenten gemeinsam Software entwickeln sollen. Bestehende Plattformen geraten unter Druck, weil Agenten den Datenverkehr und die Zahl automatisierter Änderungen massiv erhöhen."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Waze erhält neue KI-Funktionen und personalisierte Navigation",
+        "summary": "Waze integriert Gemini für dialogbasierte Zielsuche, natürliche Meldungen zu Strassenänderungen und personalisierte Routen. KI verschwindet damit zunehmend aus dem sichtbaren Produkt und wird zur stillen Bedien- und Entscheidungsschicht."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.handelsblatt.com/technik/ki/ki-medienunternehmen-beschuldigen-openai-in-urheberrechtsstreit/100239192.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Medienunternehmen werfen OpenAI das Zurückhalten von Beweisen vor",
+        "summary": "Mehrere Zeitungen fordern Sanktionen, weil OpenAI Datensätze und ChatGPT-Aufzeichnungen im Urheberrechtsstreit nicht herausgegeben haben soll. Der Konflikt betrifft nicht nur Trainingsdaten, sondern die Beweisfähigkeit digitaler Systeme vor Gericht."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Apples Klage gegen OpenAI enthält schwere Vorwürfe zum Diebstahl von Geschäftsgeheimnissen",
+        "summary": "Apple behauptet, OpenAI habe vertrauliche Informationen und sogar Hardwareteile systematisch von aktuellen und ehemaligen Apple-Mitarbeitenden beschafft. OpenAI weist ein Interesse an fremden Geschäftsgeheimnissen zurück."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Soll eine KI beim perfekten Verbrechen helfen dürfen?",
+        "summary": "Die Debatte um vollständig nutzerorientierte, lokal kontrollierte KI zeigt einen Zielkonflikt: Individuelle Freiheit endet dort, wo Systeme Schaden skalieren. Das eigentliche Problem ist nicht technische Fähigkeit, sondern fehlende Verantwortungsgrenzen."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Warum erfolgreiche Tech-Gründer für KI wieder ganz von vorn beginnen",
+        "summary": "Ehemalige Gründer und Spitzenmanager wechseln in operative KI-Rollen, teils ohne prestigeträchtige Titel. Das signalisiert weniger Romantik als strategische Furcht, den prägenden Technologiezyklus ihrer Generation zu verpassen."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Sam Altman hält Rechenzentren im All kurzfristig für unrealistisch",
+        "summary": "Fachleute teilen Altmans Skepsis: Ohne deutlich billigere, wiederverwendbare Raketen und eine skalierbare Satellitenproduktion bleiben orbitale Rechenzentren vorerst Vision. Kapitalmärkte bewerten hier Zukunft, als wäre sie bereits Infrastruktur."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://www.heise.de/news/S-P-stuft-Oracle-auf-BBB-herab-nur-noch-eine-Stufe-ueber-Ramschniveau-11360639.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "S&P senkt Oracles Rating wegen massiver KI-Investitionen",
+        "summary": "Oracle steht nur noch eine Stufe über dem Ramschniveau. Für 2027 werden bis zu 95 Milliarden Dollar Investitionen und rund 42 Milliarden Dollar negativer freier Cashflow erwartet. Besonders riskant ist die starke Abhängigkeit von OpenAI als Grosskunde."
+      }
+    }
+  ],
+  "podcast": {}
+}

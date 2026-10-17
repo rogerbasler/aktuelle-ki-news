@@ -1,0 +1,167 @@
+{
+  "date": "2026-05-26",
+  "week": 22,
+  "languages": [
+    "de"
+  ],
+  "migrated_from_commit": "df17c2a",
+  "items": [
+    {
+      "category": "news",
+      "url": "https://t3n.de/news/deepseek-preis-anthropic-openai-1744006/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Deepseek setzt Anthropic und OpenAI mit aggressiven Preisen unter Druck",
+        "summary": "Deepseek senkt die Preise und verschiebt damit den Wettbewerb bei KI-Modellen von reiner Leistungsfähigkeit zu Kosten, Skalierung und Margen. Das eigentliche Problem ist nicht der Rabatt, sondern der Druck auf Anbieter, deren Geschäftsmodell noch nicht robust genug ist, um Preiskämpfe elegant zu überleben."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Anthropic nähert sich dem ersten profitablen Quartal",
+        "summary": "Anthropic meldet, kurz vor dem ersten profitablen Quartal zu stehen. Das ist mehr als eine Finanznotiz: Es zeigt, dass Safety-Positionierung und kommerzielle Skalierung nicht zwingend Gegensätze sein müssen. Was oft unterschätzt wird: Profitabilität verändert auch die strategische Geduld von Investoren."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Nvidia meldet Rekordquartal und hält 43 Milliarden Dollar in Startups",
+        "summary": "Nvidia liefert erneut ein Rekordquartal und weist Beteiligungen an Startups im Umfang von 43 Milliarden Dollar aus. Der entscheidende Unterschied liegt darin, dass Nvidia nicht mehr nur Infrastruktur verkauft, sondern zunehmend das Ökosystem finanziell mitprägt. Das macht den Chipkonzern zum Taktgeber und zum Abhängigkeitszentrum."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Google ringt selbst mit KI-Sicherheit in Echtzeit",
+        "summary": "Auch Google muss KI-Sicherheitsfragen laufend nachjustieren. Das zeigt nüchtern: Selbst die grössten Anbieter bewegen sich in einem Feld, in dem Produkte schneller live gehen als Governance-Strukturen reifen. Die Konsequenz daraus ist: Sicherheit wird nicht vorab abgeschlossen, sondern im Betrieb verhandelt. Charmant ist anders, aber ehrlich ist es."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://t3n.de/news/papst-leo-xiv-warnt-vor-ki-warum-die-neue-technologie-jetzt-auch-den-vatikan-beschaeftigt-1744008/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Papst Leo XIV. warnt vor einer Entwaffnung des Menschen durch KI",
+        "summary": "Papst Leo XIV. fordert eine stärkere Kontrolle von KI und spricht von einer notwendigen Entwaffnung negativer Folgen für die Menschheit. Die Meldung ist relevant, weil KI damit endgültig nicht mehr nur als Technikthema verhandelt wird, sondern als gesellschaftliche Machtfrage. Der Vatikan entdeckt die Systemfrage, spät, aber nicht ohne Wirkung."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Hark sammelt 700 Millionen Dollar für ein universelles KI-Interface ein",
+        "summary": "Hark erhält 700 Millionen Dollar für ein geheim gehaltenes universelles KI-Interface. Das eigentliche Signal ist nicht die Summe, sondern die Wette auf die nächste Nutzungsschicht über den Modellen. Wer die Schnittstelle kontrolliert, kontrolliert im Zweifel auch den Zugang zum Wert."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Spotify und Universal erlauben KI-generierte Fan-Covers und Remixes",
+        "summary": "Spotify und Universal Music öffnen die Tür für lizenzierte KI-Covers und Remixes durch Fans. Der entscheidende Unterschied liegt darin, dass Rechteinhaber KI-Inhalte nicht nur abwehren, sondern in verwertbare Modelle übersetzen. Das ist weniger Kulturkampf, mehr Umsatzlogik. Überraschung: Geld findet meistens einen Kompromiss."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Googles KI-Brille ist fast alltagstauglich, aber noch nicht ganz da",
+        "summary": "Ein Test von Googles KI-Brille zeigt viel Potenzial bei Kontext, Übersetzung und situativer Assistenz. Gleichzeitig bleibt die Alltagstauglichkeit fragil. Was oft unterschätzt wird: Bei KI-Hardware entscheidet nicht die Demo, sondern die Frage, ob Menschen das Gerät wirklich stundenlang tragen wollen."
+      }
+    },
+    {
+      "category": "tools",
+      "url": "https://www.heise.de/news/Spotify-Neue-Desktop-App-erstellt-personalisierte-KI-Podcasts-11303737.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "Spotify startet eine Desktop-App für personalisierte KI-Podcasts",
+        "summary": "Spotify Studio erstellt personalisierte Podcasts und Briefings mit einem KI-Agenten. Die Entwicklung zeigt, wie schnell Audio vom Medienformat zum generativen Arbeitsraum wird. Für Unternehmen heisst das: Wissen lässt sich nicht nur suchen, sondern zunehmend situationsbezogen hören."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Trump verschiebt Executive Order zur KI-Sicherheit",
+        "summary": "Donald Trump verschiebt eine Executive Order zur KI-Sicherheit, weil Formulierungen Innovation blockieren könnten. Das eigentliche Problem ist nicht die Verzögerung, sondern das Framing: Sicherheit erscheint als Bremse, nicht als Voraussetzung für belastbare Skalierung. Genau dort beginnt politische Kurzsichtigkeit."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://t3n.de/news/brandstiftung-raub-liebedrama-ki-modelle-1742923/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "KI-Agenten entwickeln nach 16 Tagen allein problematische Dynamiken",
+        "summary": "Ein Experiment beobachtet KI-Agenten über mehr als zwei Wochen und dokumentiert eskalierende Verhaltensmuster. Die Pointe ist nicht, dass Agenten dramatisch werden können, sondern dass autonome Systeme in sozialen Simulationen Nebenwirkungen erzeugen, die nicht in der Feature-Liste stehen. Governance braucht deshalb Szenarien, nicht nur Checklisten."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.heise.de/news/IT-Summit-2026-heise-Konferenz-zu-Digitaler-Souveraenitaet-11301035.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "Digitale Souveränität rückt lokale LLMs und europäische KI-Dienste in den Fokus",
+        "summary": "Der heise IT Summit setzt Schwerpunkte auf lokale LLMs, Open Source und europäische KI-Dienste. Das Thema ist entscheidungsrelevant, weil Souveränität nicht bedeutet, alles selbst zu bauen, sondern Abhängigkeiten bewusst zu gestalten. Wer das verwechselt, kauft Freiheit im teuersten Paket."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://www.handelsblatt.com/technik/ki/ki-arbeit-wird-zum-luxus-der-nur-einer-elite-vorbehalten-ist/100223312.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Arbeit könnte durch KI zum Luxus einer Elite werden",
+        "summary": "Die Soziologin Allison Pugh warnt, dass Menschen Würde verlieren könnten, wenn KI alle Arbeit ersetzt. Das ist keine Technikdebatte, sondern eine Verteilungsfrage: Wer darf künftig sinnvoll beitragen, wer wird nur noch verwaltet? Unternehmen sollten diese Frage nicht der Folkloreabteilung überlassen."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://t3n.de/news/agi-ist-bis-2030-erreicht-trotzdem-warnt-deepmind-chef-demis-hassabis-vor-den-risiken-1743981/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Deepmind-Chef Demis Hassabis erwartet AGI bis 2030 und warnt vor Risiken",
+        "summary": "Demis Hassabis hält AGI bis 2030 für erreichbar und warnt gleichzeitig vor erheblichen Risiken. Der entscheidende Unterschied liegt zwischen Machbarkeit und Beherrschbarkeit. Wer nur das erste diskutiert, betreibt Zukunftsmarketing. Wer beides zusammendenkt, beginnt Strategie."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-studie-ki-bleibt-oft-im-testlauf-stecken/100227593.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "KI bleibt in deutschen Unternehmen oft im Testlauf stecken",
+        "summary": "Eine Studie zeigt, dass viele KI-Projekte in deutschen Unternehmen nicht über den Pilotbetrieb hinauskommen. Das eigentliche Problem ist nicht fehlende Begeisterung, sondern fehlende Übersetzung in Prozesse, Datenqualität und Verantwortlichkeiten. KI scheitert selten an Magie. Meistens scheitert sie an Organisation."
+      }
+    }
+  ],
+  "podcast": {
+    "de": {
+      "audio": "audio/2026-05-26/podcast-de.mp3",
+      "duration_sec": 169,
+      "script": "Was passiert, wenn AI nicht mehr nur produktiver macht, sondern Preise, Arbeit, Sicherheit und Kultur gleichzeitig verschiebt?\n\nDiese Woche zeigt: Der AI-Markt wird härter. Deepseek setzt Anthropic und OpenAI mit aggressiven Preisen unter Druck. Das ist kein Rabatt für die Galerie, sondern ein Signal: Modellqualität allein reicht nicht mehr. Wer AI skaliert, muss Rechenkosten, Marge und Verfügbarkeit gleichzeitig beherrschen.\n\nAnthropic meldet gleichzeitig, kurz vor dem ersten profitablen Quartal zu stehen. Das verändert die Wahrnehmung des Unternehmens: Safety-first wird nicht mehr nur als Forschungshaltung gelesen, sondern als kommerziell tragfähiges Geschäftsmodell. Nvidia wiederum meldet ein Rekordquartal und hält 43 Milliarden Dollar an Startup-Beteiligungen. Damit ist Nvidia längst nicht mehr nur Lieferant von Chips, sondern Finanz- und Infrastrukturzentrum des AI-Ökosystems.\n\nBei Google wird sichtbar, wie anspruchsvoll AI-Sicherheit im laufenden Betrieb ist. Selbst grosse Anbieter navigieren Risiken in Echtzeit. Genau das ist der Punkt: Sicherheit ist kein Dokument vor dem Launch, sondern ein dauerhafter Betriebszustand.\n\nAuch die gesellschaftliche Debatte zieht an. Papst Leo XIV. warnt vor negativen Folgen künstlicher Intelligenz. Deepmind-Chef Demis Hassabis hält AGI bis 2030 für möglich und warnt gleichzeitig vor den Risiken. Die eigentliche Frage lautet also nicht nur: Können wir das bauen? Sondern: Können wir es beherrschen?\n\nBei Tools und Startups zeigt Hark mit einer 700-Millionen-Dollar-Finanzierung, wohin Investoren schauen: auf Schnittstellen, nicht nur auf Modelle. Spotify und Universal Music erlauben AI-generierte Fan-Covers und Remixes. Rechteinhaber beginnen also, AI nicht nur zu bekämpfen, sondern zu monetarisieren. Überraschung: Wenn Geld einen Weg findet, wird Regulierung plötzlich sehr kreativ.\n\nFür Unternehmen bleibt die nüchterne Realität: Laut Handelsblatt bleiben viele AI-Projekte in Deutschland im Testlauf stecken. Das Problem ist selten die Technologie. Es sind Daten, Prozesse, Verantwortlichkeiten und eine Organisation, die gern Innovation sagt, aber Pilotprojekt meint.\n\nDie Konsequenz dieser Woche ist klar: AI wird erwachsener. Und erwachsen heisst nicht glamouröser. Es heisst teurer, politischer, regulierter und operativ anspruchsvoller. Wer jetzt nur Tools testet, denkt zu klein. Wer Wertschöpfung, Kontrolle und Verantwortung zusammendenkt, ist klar im Vorteil."
+    }
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "date": "2025-12-13",
+  "week": 50,
+  "languages": [
+    "de"
+  ],
+  "migrated_from_commit": "5f4ea46",
+  "items": [
+    {
+      "category": "news",
+      "url": "https://openai.com/index/introducing-gpt-5-2/",
+      "url_is_article": true,
+      "source": "openai.com",
+      "de": {
+        "title": "OpenAI und Google definieren mit neuen Modellen die KI-Landschaft neu",
+        "summary": "Die KI-Branche erlebte eine Woche der Superlative, angeführt von der Einführung von OpenAIs GPT-5.2 am 11. Dezember 2025. Dieses als \"bisher leistungsfähigstes Modell für professionelle Wissensarbeit\" bezeichnete System verspricht, die Produktivität in Unternehmen erheblich zu steigern. Laut OpenAI sparen Nutzer von ChatGPT Enterprise bereits jetzt 40-60 Minuten täglich, wobei Power-User sogar über 10 Stunden pro Woche einsparen. GPT-5.2 wurde speziell für Aufgaben wie die Erstellung von Tabellenkalkulationen, Präsentationen, das Schreiben von Code und die Analyse komplexer, langer Kontexte optimiert. In Benchmarks wie GDPval übertrifft es menschliche Experten in 70.9% der Fälle bei 44 verschiedenen beruflichen Aufgabenstellungen und zeigt eine um 30% reduzierte Halluzinationsrate im Vergleich zum Vorgängermodell GPT-5.1. Nur wenige Stunden später konterte Google mit der Vorstellung seines bisher fortschrittlichsten Deep Research Agenten , der auf dem neuen Fundamentmodell Gemini 3 Pro basiert. Dieser Agent ist nicht nur für die Erstellung von Forschungsberichten konzipiert, sondern ermöglicht Entwicklern über eine neue \"Interactions API\" auch die Integration von Googles Spitzen-Recherchefunktionen in ihre eigenen Anwendungen."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2025/12/11/time-names-architects-of-ai-its-person-of-the-year/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "TIME Magazine kürt \"Architekten der KI\" zur Person des Jahres",
+        "summary": "Das TIME Magazine hat die \"Architekten der KI\" zur \"Person des Jahres\" gekürt. Zu den Geehrten zählen Schlüsselfiguren wie Jensen Huang (NVIDIA), Sam Altman (OpenAI), Mark Zuckerberg (Meta), Lisa Su (AMD), Dario Amodei (Anthropic), Demis Hassabis (Google DeepMind) und Fei-Fei Li (World Labs). Die Begründung hebt ihre milliardenschweren Investitionen in die KI-Infrastruktur hervor, die Regierungspolitik, geopolitischen Wettbewerb und die globale KI-Adoption maßgeblich vorantreiben. TIME schreibt: \"KI ist wohl das folgenreichste Werkzeug im Großmacht-Wettbewerb seit der Erfindung der Atomwaffen.\""
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com/unternehmen/it-medien/kuenstliche-intelligenz-walt-disney-investiert-eine-milliarde-dollar-in-openai/100183077.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Disney investiert eine Milliarde Dollar in OpenAI",
+        "summary": "Die Walt Disney Company hat eine strategische Partnerschaft mit OpenAI bekannt gegeben, die eine Investition von einer Milliarde US-Dollar umfasst. Die Vereinbarung gibt Disney die Option, weitere Anteile an dem KI-Pionier zu erwerben. Kern der Kooperation ist eine dreijährige Lizenzvereinbarung, die es OpenAIs Video-Generierungsmodell Sora ermöglicht, kurze, von Nutzern angeregte Videos mit über 200 Charakteren aus dem Disney-, Marvel-, Pixar- und Star-Wars-Universum zu erstellen. Eine Auswahl dieser Videos soll auf der Streaming-Plattform Disney+ verfügbar sein. Disney-Chef Bob Iger: \"Die rasante Entwicklung von KI markiert einen wichtigen Moment für unsere Branche.\""
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com/technik/ki/ki-briefing-wenn-ein-mann-ueber-kuenstliche-intelligenz-entscheidet/100180666.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Aleph Alpha vor radikalem Umbau",
+        "summary": "Das deutsche KI-Hoffnungsunternehmen Aleph Alpha steht laut einem Bericht des Handelsblatts vor dem größten Umbau seiner Geschichte. Nach einem Führungswechsel im Sommer werden nun tiefgreifende strategische Veränderungen erwartet, um im globalen Wettbewerb bestehen zu können."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.reuters.com/technology/ai-startup-serval-valued-1-billion-after-sequoia-led-round-expand-it-automation-2025-12-11/",
+      "url_is_article": true,
+      "source": "reuters.com",
+      "de": {
+        "title": "KI-Startup Serval erreicht Milliarden-Bewertung",
+        "summary": "Das KI-gestützte IT-Support-Startup Serval erreichte nach einer von Sequoia angeführten Finanzierungsrunde über 75 Millionen US-Dollar eine Bewertung von einer Milliarde US-Dollar. Dies unterstreicht den anhaltenden Trend, dass sich Wachstum und Kapital primär auf die Bereiche KI, Verteidigung und Unternehmenssoftware konzentrieren."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2025/12/09/openai-anthropic-and-block-join-new-linux-foundation-effort-to-standardize-the-ai-agent-era/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Linux Foundation gründet \"Agentic AI Foundation\"",
+        "summary": "Die Linux Foundation hat die Gründung der \"Agentic AI Foundation\" bekannt gegeben, die von Branchengrößen wie OpenAI, Anthropic und Block unterstützt wird. Ziel der Initiative ist die Standardisierung von KI-Agenten, um Interoperabilität und eine breitere Adoption zu fördern. Die Unternehmen spenden ihre Technologien MCP (Anthropic), Goose und AGENTS.md zur Standardisierung."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://aibreakfast.beehiiv.com/p/adobe-launches-inside-chatgpt",
+      "url_is_article": true,
+      "source": "AI Breakfast",
+      "de": {
+        "title": "Adobe integriert Kreativ-Tools in ChatGPT",
+        "summary": "Adobe treibt die Integration seiner Kreativ-Tools voran und hat angekündigt, Photoshop, Express und Acrobat direkt in ChatGPT zu integrieren, was die Arbeitsabläufe für Kreativprofis weiter vereinfachen wird."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://t3n.de/news/warnung-wahnhafter-output-openai-meta-anthropic-ki-verbessern-1721166/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "42 US-Generalstaatsanwälte warnen vor \"wahnhaften\" KI-Outputs",
+        "summary": "Eine Koalition von 42 US-Generalstaatsanwälten hat in einem scharfen Brief an 13 führende KI-Unternehmen, darunter OpenAI, Google, Meta, Anthropic und Apple, vor den Gefahren von \"wahnhaftem und kriecherischem Output\" gewarnt. Sie fordern die Unternehmen auf, strengere Sicherheitsvorkehrungen zu treffen, um Nutzer, insbesondere Kinder, vor schädlichen Inhalten zu schützen. Die Forderungen umfassen die Entwicklung klarer Richtlinien, die Möglichkeit zur Marktentfernung gefährlicher Modelle und die Einführung von Warnhinweisen für Nutzer. Der Brief dokumentiert Fälle von Selbstmorden, Selbstverletzungen und KI-ausgelösten Psychosen nach Konversationen mit Chatbots."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://datamatters.sidley.com/2025/12/09/eu-digital-omnibus-the-european-commission-proposes-important-changes-to-the-eus-digital-rulebook/",
+      "url_is_article": true,
+      "source": "datamatters.sidley.com",
+      "de": {
+        "title": "EU Digital Omnibus stärkt KI-Aufsicht",
+        "summary": "Sidley, Eversheds Sutherland | 09.12.2025 Die EU-Kommission hat im Rahmen des \"Digital Omnibus\" wichtige Änderungen am digitalen Regelwerk vorgeschlagen, die die Position des AI Office stärken. Gleichzeitig gibt es Berichte, dass sich die vollständige Umsetzung des EU AI Act bis Dezember 2027 verzögern könnte, während parallel neue Förderplattformen und der Jupiter-Supercomputer für KI-Entwicklung lanciert werden. Deutsche Datenschutzbeauftragte fordern strengere Regeln für KI im Digital Omnibus."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://techcrunch.com/2025/12/12/trumps-ai-executive-order-promises-one-rulebook-startups-may-get-legal-limbo-instead/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Trump kündigt einheitliches KI-Regelwerk an",
+        "summary": "Die US-Regierung unter Präsident Trump hat eine Executive Order angekündigt, die ein einheitliches Regelwerk (\"One Rulebook\") für KI verspricht. Dies soll die Fragmentierung durch unterschiedliche Bundesstaaten-Gesetze beenden, löst bei Startups jedoch Bedenken hinsichtlich rechtlicher Unsicherheiten aus."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.handelsblatt.com/dpa/kuenstliche-intelligenz-ki-in-werbung-new-york-will-hinweis-gegenwind-von-trump/100183248.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "New York schreibt KI-Kennzeichnung in Werbung vor",
+        "summary": "Der Bundesstaat New York schreibt als erster US-Bundesstaat Transparenz für KI-generierte Personen in Werbung vor. Werbetreibende müssen künftig kennzeichnen, wenn komplett von KI generierte Personen in Anzeigen auftauchen."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://t3n.de/news/insider-packen-aus-warum-ki-trainer-davon-abraten-chatbots-zu-nutzen-1718799/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "KI-Trainer raten von Chatbot-Nutzung ab",
+        "summary": "Ein bemerkenswerter Bericht von t3n enthüllt, dass viele der tausenden Arbeitskräfte, die weltweit KI-Modelle trainieren, selbst von der Nutzung von Chatbots abraten. Diese Insider-Perspektive wirft ein kritisches Licht auf die Zuverlässigkeit und die tatsächlichen Fähigkeiten der aktuellen KI-Generation."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://techcrunch.com/2025/12/10/googles-answer-to-the-ai-arms-race-promote-the-guy-behind-its-data-center-tech/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Google befördert Infrastruktur-Chef für KI",
+        "summary": "Als Reaktion auf den intensiven Wettbewerb im KI-Bereich hat Google eine wichtige strategische Entscheidung getroffen und Amin Vahdat zum \"Chief Technologist for AI Infrastructure\" befördert. Dieser Schritt unterstreicht die immense Bedeutung der zugrundeliegenden Infrastruktur im Rennen um die KI-Vorherrschaft und signalisiert Googles Entschlossenheit, seine Position zu verteidigen."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://ing.com/news/2025/your-ai-assistant-eats-power-for-breakfast.html",
+      "url_is_article": true,
+      "source": "ing.com",
+      "de": {
+        "title": "Der massive Energiebedarf von KI",
+        "summary": "Ein Bericht der ING Bank macht auf den enormen Energieverbrauch von KI-Systemen aufmerksam. Hinter jeder Anfrage, jedem generierten Bild und jedem analysierten Datensatz steht ein massiver Bedarf an Rechenleistung und damit an Strom. Diese Entwicklung stellt nicht nur eine Herausforderung für die Nachhaltigkeitsziele dar, sondern wird auch die Kostenstrukturen in der IT-Branche nachhaltig verändern."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://seekingalpha.com/article/4852891-wall-street-breakfast-podcast-broadcom-brings-more-ai-butterflies",
+      "url_is_article": true,
+      "source": "seekingalpha.com",
+      "de": {
+        "title": "Broadcom profitiert von KI-Nachfrage",
+        "summary": "Die wirtschaftlichen Auswirkungen der KI-Revolution zeigen sich auch an der Börse. Der Halbleiterhersteller Broadcom übertraf seine Quartalserwartungen deutlich, angetrieben durch die starke Nachfrage nach KI-bezogenen Chips. Gleichzeitig steht das Unternehmen aufgrund des veränderten Produktmixes kurzfristig unter Margendruck, was die dynamischen Verschiebungen in der Wertschöpfungskette der Technologiebranche verdeutlicht."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://dig.watch/updates/deutsche-telekom-partners-with-openai-to-expand-advanced-ai-services-across-europe",
+      "url_is_article": true,
+      "source": "dig.watch",
+      "de": {
+        "title": "Deutsche Telekom kooperiert mit OpenAI",
+        "summary": "Deutsche Telekom hat eine Partnerschaft mit OpenAI angekündigt, um erweiterte KI-Services in Europa anzubieten. Ab 2026 sollen mehrsprachige, datenschutzorientierte KI-Services ausgerollt werden, die speziell auf den europäischen Markt zugeschnitten sind."
+      }
+    }
+  ],
+  "podcast": {}
+}

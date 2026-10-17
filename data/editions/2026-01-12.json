@@ -1,0 +1,161 @@
+{
+  "date": "2026-01-12",
+  "week": 3,
+  "languages": [
+    "de"
+  ],
+  "migrated_from_commit": "c4a63f9",
+  "items": [
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/01/12/googles-gemini-to-power-apples-ai-features-like-siri/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Apple setzt auf Google Gemini für KI-Funktionen wie Siri",
+        "summary": "Apple hat offiziell eine mehrjährige Partnerschaft mit Google bekannt gegeben. Künftig wird Apple Googles Gemini-Modelle und Cloud-Technologie für seine KI-Funktionen nutzen – einschließlich der lang erwarteten Siri-Überarbeitung, die im Frühjahr erscheinen soll. Der Deal hat ein geschätztes Volumen von einer Milliarde Dollar."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://t3n.de/news/auf-dem-weg-zur-agi-openai-testet-neue-ki-modelle-an-echten-auftraegen-1724848/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Auf dem Weg zur AGI: OpenAI testet neue KI-Modelle an echten Aufträgen",
+        "summary": "OpenAI bittet Freelancer, reale Arbeitsaufträge hochzuladen, um die Leistungsfähigkeit der KI-Modelle unter praxisnahen Bedingungen zu bewerten. Doch die Ergebnisse sind ernüchternd: Der \"Remote Labor Index\" zeigt, dass selbst das leistungsfähigste Modell nur rund 3 Prozent der Aufgaben zufriedenstellend erledigen kann. Der Weg zur AGI ist offenbar noch weit."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com/dpa/kuenstliche-intelligenz-musks-ki-firma-sichert-sich-20-milliarden-dollar/100189163.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Musks KI-Firma xAI sichert sich 20 Milliarden Dollar",
+        "summary": "Elon Musks KI-Firma xAI hat sich 20 Milliarden US-Dollar (17,1 Milliarden Euro) frisches Geld besorgt. Unter den Geldgebern sind Chip-Riese Nvidia und das Finanzinstitut Fidelity. Nach Bloomberg-Informationen plante xAI, rund 12,5 Milliarden Dollar als Schulden aufzunehmen. Nvidia plante, bis zu zwei Milliarden Dollar zu investieren."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com/technik/ki/ki-openai-rivale-anthropic-gewinnt-die-allianz-als-grosskunden/100189993.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "OpenAI-Rivale Anthropic gewinnt Allianz als Großkunden",
+        "summary": "Der Versicherungskonzern Allianz schließt eine Partnerschaft mit Anthropic ab und wird zu einem Referenzkunden in Europa. Allianz-Mitarbeiter sollen die KI-Systeme von Anthropic unter anderem für Recherche, Analyse und den Zugriff auf interne Wissensbestände nutzen können."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.heise.de/news/Boom-um-KI-Start-up-Gruendungen-steigen-2025-auf-Rekordwert-11133733.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "Deutschland erlebt Gründungsboom dank Künstlicher Intelligenz",
+        "summary": "Die Euphorie um KI ermöglicht neue Geschäftsmodelle und treibt die Zahl der Start-up-Gründungen in Deutschland auf Rekordwert. Die KI-Branche zeigt sich als wichtiger Wachstumstreiber für die deutsche Startup-Szene und schafft zahlreiche neue Arbeitsplätze."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/01/11/google-announces-a-new-protocol-to-facilitate-commerce-using-ai-agents/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Google kündigt neues Protokoll für KI-Agenten im E-Commerce an",
+        "summary": "Google hat auf der National Retail Federation ein neues offenes Protokoll namens Universal Commerce Protocol (UCP) für KI-Agenten-basiertes Shopping angekündigt. Das Protokoll soll den Handel mit KI-Agenten erleichtern und neue Möglichkeiten für automatisierte Einkaufsprozesse schaffen."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/01/07/caterpillar-taps-nvidia-to-bring-ai-to-its-construction-equipment/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Caterpillar nutzt Nvidia für KI in Baumaschinen",
+        "summary": "Caterpillar testet Cat AI Assistant, ein System von KI-Agenten in einem seiner Bagger, das auf Nvidias Physical AI-Plattform basiert. Die KI soll Baumaschinen intelligenter und effizienter machen und könnte die Baubranche revolutionieren."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://techcrunch.com/2026/01/11/motional-puts-ai-at-center-of-robotaxi-reboot-as-it-targets-2026-for-driverless-service/",
+      "url_is_article": true,
+      "source": "TechCrunch",
+      "de": {
+        "title": "Motional setzt auf KI für Robotaxi-Neustart",
+        "summary": "Motional kündigt an, noch vor Ende 2026 einen fahrerlosen Robotaxi-Service in Las Vegas zu starten. KI steht im Zentrum des Neustarts des Unternehmens, das damit im hart umkämpften Markt für autonome Fahrzeuge Fuß fassen will."
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com/dpa/tech-show-in-las-vegas-die-wichtigsten-trends-der-techmesse-ces-2026/100189605.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Die wichtigsten Trends der Techmesse CES 2026",
+        "summary": "Auf der CES 2026 in Las Vegas zeigen Unternehmen, wie Künstliche Intelligenz in immer mehr Alltagsgeräte einzieht. KI steuert Waschmaschinen, faltet Wäsche und hilft in Fabriken. Die Messe zeigt: KI wird zum Standard in Consumer-Elektronik."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://t3n.de/news/elon-musk-ki-sexualisierte-bilder-1724985/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Wer hat Angst vor Elon Musk? Der Grok-Skandal und seine Folgen",
+        "summary": "Anfang Januar 2026 nutzten immer mehr User Elon Musks KI-Tool Grok, um Menschen auf Fotos auszuziehen oder in sexuell eindeutige Posen zu bringen. Laut der Plattform Copyleaks erzeugte Grok zeitweise mindestens ein solches Bild pro Minute – darunter auch sexualisierte Bilder von Kindern. Ein Skandal, der Fragen zur KI-Regulierung aufwirft."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.heise.de/news/EU-Cyberagentur-nutzt-heimlich-KI-fuer-Berichte-und-fliegt-auf-11136924.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "EU-Cyberagentur nutzt heimlich KI für Berichte – und fliegt auf",
+        "summary": "Verantwortliche der EU-Cybersicherheitsagentur Enisa räumen ein, dass zwei ihrer Berichte zahlreiche halluzinierte Quellen enthielten. Die Behörde hatte KI heimlich für offizielle Berichte genutzt – ein Vertrauensverlust für eine Institution, die eigentlich für Sicherheit stehen sollte."
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.heise.de/news/Gericht-streicht-Honorar-KI-Einsatz-fuehrt-zu-Unverwertbarkeit-eines-Gutachtens-11135211.html",
+      "url_is_article": true,
+      "source": "heise",
+      "de": {
+        "title": "Gericht: KI-Einsatz führt zu Unverwertbarkeit eines medizinischen Gutachtens",
+        "summary": "Ein Landgericht hat die Vergütung eines medizinischen Sachverständigen verweigert. Weite Teile seines Gutachtens seien ohne Hinweis per KI erstellt worden, was zur Unverwertbarkeit führte. Das Urteil setzt ein wichtiges Signal für den Umgang mit KI in professionellen Kontexten."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://t3n.de/news/nach-dem-ki-hype-1722430/",
+      "url_is_article": true,
+      "source": "t3n",
+      "de": {
+        "title": "Nach dem KI-Hype: Es wird Zeit, auf die wirklich wichtigen Dinge zu achten",
+        "summary": "Entwickler und Nutzer von KI neigen dazu, KI über einen Kamm zu scheren. Der Artikel plädiert für einen wichtigen Unterschied und eine differenziertere Betrachtung der verschiedenen KI-Technologien. Nicht jede KI ist gleich – und das sollten wir bei der Bewertung berücksichtigen."
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://www.handelsblatt.com/unternehmen/management/management-mitarbeiter-verschwenden-stunden-mit-ki-schrott-01/100182004.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Mitarbeiter verschwenden Stunden mit „KI-Schrott\"",
+        "summary": "Künstliche Intelligenz kommt im Job immer häufiger zum Einsatz, liefert aber oft substanzlosen Einheitsbrei. Unternehmen können diesen Trend jedoch stoppen, wenn sie KI richtig einsetzen und Mitarbeiter entsprechend schulen. Die Qualität der KI-Ausgaben hängt stark von der Qualität der Eingaben ab."
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://www.handelsblatt.com/technik/ki/ki-briefing-warum-2026-fuer-chinas-chips-zum-schluesseljahr-werden-koennte/100189412.html",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "KI-Briefing: Warum 2026 für Chinas Chips zum Schlüsseljahr werden könnte",
+        "summary": "Neue KI-Modelle von Nvidia, große Auftritte auf der CES – und chinesische Chipfirmen, die an die Börse drängen. 2026 entscheidet sich, wer die Führung im globalen KI-Chip-Rennen übernimmt. Die geopolitischen Spannungen verschärfen den Wettbewerb zusätzlich."
+      }
+    }
+  ],
+  "podcast": {}
+}

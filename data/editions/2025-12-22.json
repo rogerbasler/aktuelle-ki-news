@@ -1,0 +1,261 @@
+{
+  "date": "2025-12-22",
+  "week": 52,
+  "languages": [
+    "de"
+  ],
+  "migrated_from_commit": "c6fe878",
+  "items": [
+    {
+      "category": "news",
+      "url": "https://www.heise.de/thema/Kuenstliche-Intelligenz",
+      "url_is_article": false,
+      "source": "heise",
+      "de": {
+        "title": "Top 10: Die zehn meistgelesenen Entwickler-Artikel im Jahr 2025",
+        "summary": "Die meistgelesenen Fachartikel des Jahres umfassen eine große Spannbreite an Themen, darunter Beiträge zu KI, Entwurfsmustern, RCS, Architektur und Angular"
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com/technik/ki",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Für diese drei Rivalen ist die Krise bei OpenAI die große Chance",
+        "summary": "ChatGPT-Erfinder OpenAI steckt in einer strategischen Krise. Drei Wettbewerber haben besonderes Potenzial"
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com/technik/ki",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "OpenAI ruft „Alarmstufe Rot\" aus – Anleger setzen auf Google",
+        "summary": "OpenAI muss um seine Vormachtstellung kämpfen. Google holt auf"
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com/technik/ki",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "„Alles ist schärfer und schneller\": Hängt Google gerade OpenAI ab?",
+        "summary": "Mit Gemini 3 verunsichert Google plötzlich die Konkurrenz"
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com/technik/ki",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Flux 2 oder Nano Banana Pro – wer liefert die besten KI-Bilder?",
+        "summary": "Das deutsche Start-up Black Forest Labs hat sein neues Bildmodell veröffentlicht"
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.heise.de/thema/Kuenstliche-Intelligenz",
+      "url_is_article": false,
+      "source": "heise",
+      "de": {
+        "title": "Milliarden-Boost für Deep Tech: Regierung und KfW zünden den Deutschlandfonds",
+        "summary": "Mit einer Hebelwirkung von 130 Milliarden Euro soll der Deutschlandfonds private Investoren in Hochtechnologien wie KI, Quantencomputing und Biotech locken"
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.heise.de/thema/Kuenstliche-Intelligenz",
+      "url_is_article": false,
+      "source": "heise",
+      "de": {
+        "title": "HPE: Erstes AMD-basiertes KI-Turnkey-System",
+        "summary": "HPE bringt ein Turnkey-System mit AMDs KI-Rack-Scale-Architektur \"Helios\" und 72 Instinct MI455X GPUs pro Rack auf den Markt"
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com/technik/ki",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "OpenAI, Anthropic, Cohere: Wird 2026 das Jahr der KI-Exits?",
+        "summary": "In den USA treiben Anthropic und OpenAI ihre Börsenpläne voran, in Europa kursieren Verkaufsgerüchte um Mistral"
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com/technik/ki",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "„Momentan sind wir auf Haushaltsroboter noch komplett unvorbereitet\" – Was humanoide Haushaltsroboter können",
+        "summary": "Immer mehr Start-ups bauen Roboter fürs Zuhause. Durch Künstliche Intelligenz sollen diese zu unverzichtbaren Assistenten werden"
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com/technik/ki",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Die Berliner Firma Peec AI gehört zu den KI-Start-ups, die in Europa am schnellsten wachsen",
+        "summary": "Von null auf fünf Millionen Euro Umsatz in zwölf Monaten: Peec AI hilft Marken, bei KI-Suchmaschinen sichtbar zu sein"
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com/technik/ki",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Bekannter KI-Investor steigt bei Start-up in Tübingen ein",
+        "summary": "Mirelo AI will mit KI-Modellen für Soundeffekte Hollywood verändern"
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com/technik/ki",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Mit 20 wurde Aidan Gomez zum Vordenker von ChatGPT – jetzt will er den deutschen Markt erobern",
+        "summary": "Der Gründer positioniert sein kanadisches Start-up Cohere als datensichere Alternative zu den US-Anbietern"
+      }
+    },
+    {
+      "category": "news",
+      "url": "https://www.handelsblatt.com/technik/ki",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Black Forest Labs steigt zur wertvollsten KI-Firma Deutschlands auf",
+        "summary": "Das Freiburger Start-up hat in einer aktuellen Finanzierungsrunde 300 Millionen Dollar eingesammelt"
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.heise.de/thema/Kuenstliche-Intelligenz",
+      "url_is_article": false,
+      "source": "heise",
+      "de": {
+        "title": "Montag: Rückkehr der Vorratsdatenspeicherung, Deutschlandfonds für Tech-Boost",
+        "summary": "Gesetzentwurf in ministerieller Abstimmung + Milliarden-Boost für Big-Tech + Warnung von US-Firmen vor Visa-Prüfung + Avatar-Spiel unterschätzt + Trump pro Mond"
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.handelsblatt.com/technik/ki",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "EU startet Kartelluntersuchung gegen Meta",
+        "summary": "Wegen der Einführung von KI-Funktionen bei Whatsapp ermitteln die Kartellwächter der EU gegen Meta"
+      }
+    },
+    {
+      "category": "regulierung",
+      "url": "https://www.handelsblatt.com/technik/ki",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "OpenAI muss im Streit mit „New York Times\" KI-Chats offenlegen",
+        "summary": "Eine US-Richterin verpflichtet OpenAI, 20 Millionen anonymisierte ChatGPT-Protokolle offenzulegen"
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://www.handelsblatt.com/technik/ki",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Deutschland wird unterschätzt – auch von sich selbst",
+        "summary": "Funklöcher in San Francisco, Investorenjagd in Tübingen und neue Stärke europäischer KI-Firmen"
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://www.handelsblatt.com/technik/ki",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Wenn ein Mann über Künstliche Intelligenz entscheidet",
+        "summary": "Palantir-Chef Alex Karp macht eine Generalabrechnung mit Deutschland"
+      }
+    },
+    {
+      "category": "stimmen",
+      "url": "https://www.handelsblatt.com/technik/ki",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Gründer von Black Forest Labs: „Wir sind bei KI-Bildern inzwischen der größte Konkurrent von Google\"",
+        "summary": "Robin Rombach hat Deutschlands wertvollstes KI-Start-up gegründet"
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://www.heise.de/thema/Kuenstliche-Intelligenz",
+      "url_is_article": false,
+      "source": "heise",
+      "de": {
+        "title": "Cloud-Markt: Gartner prognostiziert Billion US-Dollar bis 2027",
+        "summary": "Der weltweite Cloud-Markt soll bis 2027 eine Billion US-Dollar erreichen. KI-Nutzung und digitale Souveränität prägen die Zukunft"
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://www.handelsblatt.com/technik/ki",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "KI-Müll wird zur Gefahr für Tech-Konzerne: Pinterest steht als erste Plattform vor dem Kipppunkt",
+        "summary": "Mit kreativen Heimwerkertipps wurde Pinterest groß. Jetzt verzeichnet die Plattform drastisch mehr unsinnige, durch KI generierte Inhalte"
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://www.handelsblatt.com/technik/ki",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Amazon prüft offenbar Investment von mehr als zehn Milliarden Dollar in OpenAI",
+        "summary": "Die Tech-Unternehmen verhandeln über den Ausbau ihrer Kooperation. Der Deal könnte Amazons KI-Chipstrategie stärken"
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://www.handelsblatt.com/technik/ki",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Deutschlands bekannteste KI-Firma: Große Zäsur bei Aleph Alpha",
+        "summary": "Nach dem CEO-Wechsel im August sollen zahlreiche Führungskräfte und Beschäftigte gehen"
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://www.handelsblatt.com/technik/ki",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Apple verliert prominente Designer an Meta",
+        "summary": "Mark Zuckerberg wildert wieder bei der Konkurrenz: Diesmal muss Apple Spitzenkräfte aus dem Designteam ziehen lassen"
+      }
+    },
+    {
+      "category": "business",
+      "url": "https://www.handelsblatt.com/technik/ki",
+      "url_is_article": true,
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Telekom und Schwarz-Gruppe planen gemeinsame KI-Gigafactory",
+        "summary": "Im Wettbewerb um das Mega-Rechenzentrum steht eine Kooperation bevor"
+      }
+    }
+  ],
+  "podcast": {}
+}
