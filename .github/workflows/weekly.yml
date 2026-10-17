@@ -99,8 +99,11 @@ jobs:
         if: steps.gate.outputs.run == 'true'
         run: |
           sleep 90
-          for url in https://news.fragroger.ai/ https://news.fragroger.ai/en/ https://news.fragroger.ai/es/; do
-            code=$(curl -s -o /tmp/page.html -w "%{http_code}" -L "$url")
-            n=$(grep -c 'class="card"' /tmp/page.html || true)
+          ok=0
+          for url in https://rogerbasler.github.io/aktuelle-ki-news/ https://news.fragroger.ai/ https://news.fragroger.ai/en/ https://news.fragroger.ai/es/; do
+            code=$(curl -s -o /tmp/page.html -w "%{http_code}" -L --max-time 30 "$url" || echo 000)
+            n=$(grep -c 'class="card"' /tmp/page.html 2>/dev/null || true)
             echo "$url -> HTTP $code, $n Meldungen"
+            if [ "$code" = "200" ] && [ "$n" = "15" ]; then ok=1; fi
           done
+          if [ "$ok" = "0" ]; then echo "::error::Keine Live-Adresse liefert 15 Meldungen"; exit 1; fi

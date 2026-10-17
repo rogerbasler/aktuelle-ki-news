@@ -175,7 +175,7 @@ def main():
                 "voice": voice, "speed": config.PODCAST_SPEED, "engine": "HeyGen v3",
             })
             report.append(f"- {lang}: {len(parts)} Chunks, Dauer {secs:.0f} s, Datei {final.name}")
-            if not (90 <= secs <= 240):
+            if not (115 <= secs <= 200):
                 report.append(f"  WARNUNG: Dauer ausserhalb 2 bis 3 Minuten (plus Toleranz)")
         except Exception as e:  # noqa: BLE001
             ok_all = False

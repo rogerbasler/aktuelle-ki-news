@@ -39,8 +39,8 @@ Schreibstil (verbindlich für DE, EN und ES):
 """
 
 PODCAST = """
-Podcast-Skripte (je Sprache eines, 2 bis 3 Minuten gesprochen, ca. 330 bis 420 Wörter bei
-Sprechtempo 1.4; also eher 400 bis 480 Wörter Text):
+Podcast-Skripte (je Sprache eines, 2 bis 3 Minuten gesprochen bei Sprechtempo 1.4; das entspricht
+520 bis 680 Wörtern Text, Zielwert 600):
 - Keine Begrüssung, kein Intro, kein Abschiedsgruss. Erster Satz ist eine konkrete Frage zur
   wichtigsten Meldung der Woche.
 - Struktur: Frage als Einstieg, dann die 5 bis 6 wichtigsten Meldungen in einer Argumentationslinie
@@ -134,7 +134,7 @@ def validate(result):
     assert counts == targets, f"Kategorienverteilung {counts} statt {targets}"
     for lang in config.LANGS:
         words = len(result["podcast"][lang].split())
-        assert 250 <= words <= 650, f"Podcast {lang}: {words} Wörter"
+        assert 450 <= words <= 800, f"Podcast {lang}: {words} Wörter"
 
 
 def main():
