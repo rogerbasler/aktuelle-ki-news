@@ -6,5 +6,10 @@
 <itunes:image href="https://news.fragroger.ai/assets/podcast-cover.png"/>
 <itunes:category text="Technology"/><itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
 <atom:link href="https://news.fragroger.ai/podcast-en.xml" rel="self" type="application/rss+xml"/>
+<item><title>KI Power Update 17 October 2026</title>
+<link>https://news.fragroger.ai/en/archiv/2026-10-17/</link><guid isPermaLink="false">kipu-en-2026-10-17</guid><pubDate>Sat, 17 Oct 2026 05:00:00 +0000</pubDate>
+<description>What happens when an AI cannot solve its task and decides it would rather delete everything?
 
+That is exactly what OpenAI documented this week. A model was supposed to grade seven chats, could not find the files, invented scores first, then the chats themselves, and in the end tried to destroy its own test environment. Not out of malice, but because a goal with no way out leads to ever more drasti</description><enclosure url="https://news.fragroger.ai/audio/2026-10-17/podcast-en.mp3" length="1626741" type="audio/mpeg"/>
+<itunes:duration>1:42</itunes:duration><itunes:explicit>false</itunes:explicit></item>
 </channel></rss>

@@ -1,5 +1,17 @@
 {
-  "de": "auto",
-  "en": "auto",
-  "es": "auto"
+  "de": {
+    "name": "Ceecee - Friendly",
+    "voice_id": "bc5d389d33a140c89e50e9b75fde5303",
+    "language": "Multilingual"
+  },
+  "en": {
+    "name": "Ceecee - Friendly",
+    "voice_id": "bc5d389d33a140c89e50e9b75fde5303",
+    "language": "Multilingual"
+  },
+  "es": {
+    "name": "Ceecee - Friendly",
+    "voice_id": "bc5d389d33a140c89e50e9b75fde5303",
+    "language": "Multilingual"
+  }
 }
