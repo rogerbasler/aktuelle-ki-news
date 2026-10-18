@@ -40,7 +40,7 @@ Lokal: `pip install -r pipeline/requirements.txt`, ffmpeg installieren, `ANTHROP
 
 ## Secrets (Repository Settings → Secrets and variables → Actions)
 
-- `ANTHROPIC_API_KEY` (Redaktion und Übersetzung)
+- `ANTHROPIC_API_KEY` (Redaktion und Übersetzung). Am einfachsten einen Key anlegen, der in der Console innerhalb eines Workspace erstellt wurde. Ist der Key nicht workspace-gebunden, zusätzlich `ANTHROPIC_WORKSPACE_ID` (Workspace-ID aus der Console, beginnt mit `wrkspc_`) als Secret hinterlegen.
 - `HEYGEN_API_KEY` (Audio). Fehlt der Key oder antwortet HeyGen nicht, bleibt das bisherige Audio
   unverändert; es gibt keinen Fallback auf eine andere Stimme oder einen anderen Dienst.
 - Optional Variable `CLAUDE_MODEL` (Standard `claude-sonnet-5-5`).

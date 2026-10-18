@@ -32,6 +32,7 @@ jobs:
       TZ: Europe/Zurich
       ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
       HEYGEN_API_KEY: ${{ secrets.HEYGEN_API_KEY }}
+      ANTHROPIC_WORKSPACE_ID: ${{ secrets.ANTHROPIC_WORKSPACE_ID }}
       CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL || 'claude-sonnet-5-5' }}
     steps:
       - name: Zeitfenster prüfen (nur 05:00 Zürich läuft)

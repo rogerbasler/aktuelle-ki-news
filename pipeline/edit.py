@@ -103,7 +103,10 @@ Antworte ausschliesslich mit einem JSON-Objekt in genau dieser Form, ohne Markdo
 
 
 def call_claude(prompt, allow_search):
-    client = anthropic.Anthropic()
+    headers = {}
+    if os.environ.get("ANTHROPIC_WORKSPACE_ID"):
+        headers["anthropic-workspace-id"] = os.environ["ANTHROPIC_WORKSPACE_ID"]
+    client = anthropic.Anthropic(default_headers=headers or None)
     kwargs = dict(model=MODEL, max_tokens=16000,
                   messages=[{"role": "user", "content": prompt}])
     if allow_search:
