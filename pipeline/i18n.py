@@ -32,6 +32,7 @@ STRINGS = {
         "imprint_title": "Impressum", "privacy_title": "Datenschutzerklärung",
         "only_de": "Diese Ausgabe liegt nur auf Deutsch vor.",
         "listen": "Anhören",
+        "theme_toggle": "Hell- und Dunkelmodus wechseln",
     },
     "en": {
         "lang_name": "English", "locale": "en_GB", "html_lang": "en",
@@ -64,6 +65,7 @@ STRINGS = {
         "imprint_title": "Imprint", "privacy_title": "Privacy policy",
         "only_de": "This edition is available in German only.",
         "listen": "Listen",
+        "theme_toggle": "Toggle light and dark mode",
     },
     "es": {
         "lang_name": "Español", "locale": "es_ES", "html_lang": "es",
@@ -96,6 +98,7 @@ STRINGS = {
         "imprint_title": "Aviso legal", "privacy_title": "Política de privacidad",
         "only_de": "Esta edición solo está disponible en alemán.",
         "listen": "Escuchar",
+        "theme_toggle": "Cambiar entre modo claro y oscuro",
     },
 }
 
