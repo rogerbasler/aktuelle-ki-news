@@ -180,3 +180,12 @@ mark { background: rgba(255,20,144,0.35); color: inherit; border-radius: 3px; pa
 .theme-toggle .icon-sun { display: none; }
 :root[data-theme="light"] .theme-toggle .icon-sun { display: block; }
 :root[data-theme="light"] .theme-toggle .icon-moon { display: none; }
+
+/* Mobile: Marke, Sprachen und Modus-Knopf in Zeile 1, Navigation in Zeile 2 */
+@media (max-width: 719px) {
+  .bar { row-gap: 8px; }
+  .brand { order: 1; }
+  .langs { order: 2; }
+  .theme-toggle { order: 3; }
+  .nav { order: 4; width: 100%; }
+}
