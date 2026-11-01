@@ -88,7 +88,7 @@ Aufgabe:
 Kandidaten:
 {cands}
 
-Antworte ausschliesslich mit einem JSON-Objekt in genau dieser Form, ohne Markdown-Zaun:
+Liefere das Ergebnis über das Tool ausgabe_abliefern ab, mit genau dieser Struktur:
 {{
   "items": [
     {{"candidate": 3, "category": "news", "url": "...", "source": "t3n",
@@ -113,35 +113,72 @@ def _extract_json(text):
     return json.loads(m.group(0)) if m else None
 
 
+_LANG_OBJ = {"type": "object", "properties": {"title": {"type": "string"}, "summary": {"type": "string"}},
+             "required": ["title", "summary"]}
+_ITEM = {"type": "object",
+         "properties": {"candidate": {"type": ["integer", "null"]},
+                        "category": {"type": "string", "enum": config.CATEGORY_KEYS},
+                        "url": {"type": "string"}, "source": {"type": "string"},
+                        "de": _LANG_OBJ, "en": _LANG_OBJ, "es": _LANG_OBJ},
+         "required": ["category", "url", "source", "de", "en", "es"]}
+EDITION_TOOL = {
+    "name": "ausgabe_abliefern",
+    "description": "Liefert die fertige Wochenausgabe als strukturierte Daten ab.",
+    "input_schema": {
+        "type": "object",
+        "properties": {
+            "items": {"type": "array", "items": _ITEM},
+            "reserves": {"type": "array", "items": _ITEM},
+            "podcast": {"type": "object",
+                        "properties": {"de": {"type": "string"}, "en": {"type": "string"}, "es": {"type": "string"}},
+                        "required": ["de", "en", "es"]},
+            "editorial_note": {"type": "string"},
+        },
+        "required": ["items", "reserves", "podcast", "editorial_note"],
+    },
+}
+
+
 def call_claude(prompt, allow_search, model=None):
-    """Ruft die Claude API per Streaming auf (lange Antworten) und gibt das JSON zurück.
-    Bei leerer oder nicht parsbarer Antwort werden stop_reason, Blocktypen und Usage geloggt,
-    damit ein Fehlschlag im Actions-Log nachvollziehbar ist."""
+    """Ruft die Claude API auf. Die Ausgabe wird als erzwungener Tool-Aufruf mit JSON-Schema
+    abgeholt, damit das JSON garantiert gültig ist (kein Parsen von Fliesstext). Thinking ist
+    deaktiviert, damit das Antwortbudget nicht vom Denken aufgebraucht wird (Sonnet 5.5 hatte 24k Tokens nur gedacht)."""
     model = model or MODEL
     headers = {}
     if os.environ.get("ANTHROPIC_WORKSPACE_ID"):
         headers["anthropic-workspace-id"] = os.environ["ANTHROPIC_WORKSPACE_ID"]
-    client = anthropic.Anthropic(default_headers=headers or None, max_retries=3, timeout=900)
-    kwargs = dict(model=model, max_tokens=24000,
-                  system="Du antwortest ausschliesslich mit einem einzigen JSON-Objekt, ohne Erklärungen, "
-                         "ohne Markdown-Codefences, ohne Text davor oder danach.",
-                  messages=[{"role": "user", "content": prompt}])
+    client = anthropic.Anthropic(default_headers=headers or None, max_retries=3, timeout=1200)
+    tools = [EDITION_TOOL]
+    tool_choice = {"type": "tool", "name": "ausgabe_abliefern"}
     if allow_search:
-        kwargs["tools"] = [{"type": "web_search_20250305", "name": "web_search", "max_uses": 12}]
-    with client.messages.stream(**kwargs) as stream:
-        stream.until_done()
-        resp = stream.get_final_message()
-    text = "".join(getattr(b, "text", "") for b in resp.content if getattr(b, "type", "") == "text")
-    result = _extract_json(text)
-    if result is None:
+        tools.append({"type": "web_search_20250305", "name": "web_search", "max_uses": 12})
+        tool_choice = {"type": "any"}
+    kwargs = dict(model=model, max_tokens=32000,
+                  # Erzwungener Tool-Aufruf verträgt sich nicht mit Extended Thinking, darum aus.
+                  thinking={"type": "disabled"},
+                  system="Du bist Redaktor:in. Du lieferst das Ergebnis ausschliesslich über das Tool "
+                         "ausgabe_abliefern ab, nie als Fliesstext.",
+                  tools=tools, tool_choice=tool_choice,
+                  messages=[{"role": "user", "content": prompt}])
+    messages = kwargs["messages"]
+    for _round in range(8):
+        with client.messages.stream(**kwargs) as stream:
+            stream.until_done()
+            resp = stream.get_final_message()
+        for b in resp.content:
+            if getattr(b, "type", "") == "tool_use" and b.name == "ausgabe_abliefern":
+                return b.input
+        # Web-Suche-Runde (server tool) ohne Abgabe: Verlauf fortsetzen und Abgabe erzwingen
+        if resp.stop_reason == "tool_use" or any(getattr(b, "type", "") == "server_tool_use" for b in resp.content):
+            messages.append({"role": "assistant", "content": resp.content})
+            messages.append({"role": "user", "content": "Liefere jetzt die Ausgabe über das Tool ausgabe_abliefern ab."})
+            kwargs["tool_choice"] = {"type": "tool", "name": "ausgabe_abliefern"}
+            continue
         types = [getattr(b, "type", "?") for b in resp.content]
-        diag = (f"model={resp.model} stop_reason={resp.stop_reason} "
-                f"stop_details={getattr(resp, 'stop_details', None)} "
-                f"diagnostics={getattr(resp, 'diagnostics', None)} usage={resp.usage} "
-                f"blocks={types} textlen={len(text)}")
+        diag = (f"model={resp.model} stop_reason={resp.stop_reason} usage={resp.usage} blocks={types}")
         print("Antwortdiagnose: " + diag, file=sys.stderr)
-        raise RuntimeError("Keine JSON-Antwort erhalten (" + diag + ")\n" + text[:2000])
-    return result
+        raise RuntimeError("Keine Ausgabe über das Tool erhalten (" + diag + ")")
+    raise RuntimeError("Keine Ausgabe nach mehreren Runden")
 
 
 def validate(result):
