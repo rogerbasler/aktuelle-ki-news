@@ -113,23 +113,24 @@ def _extract_json(text):
     return json.loads(m.group(0)) if m else None
 
 
-_LANG_OBJ = {"type": "object", "properties": {"title": {"type": "string"}, "summary": {"type": "string"}},
+_LANG_OBJ = {"type": "object", "additionalProperties": False,
+             "properties": {"title": {"type": "string"}, "summary": {"type": "string"}},
              "required": ["title", "summary"]}
-_ITEM = {"type": "object",
+_ITEM = {"type": "object", "additionalProperties": False,
          "properties": {"candidate": {"type": ["integer", "null"]},
                         "category": {"type": "string", "enum": config.CATEGORY_KEYS},
                         "url": {"type": "string"}, "source": {"type": "string"},
                         "de": _LANG_OBJ, "en": _LANG_OBJ, "es": _LANG_OBJ},
-         "required": ["category", "url", "source", "de", "en", "es"]}
+         "required": ["candidate", "category", "url", "source", "de", "en", "es"]}
 EDITION_TOOL = {
     "name": "ausgabe_abliefern",
     "description": "Liefert die fertige Wochenausgabe als strukturierte Daten ab.",
     "input_schema": {
-        "type": "object",
+        "type": "object", "additionalProperties": False,
         "properties": {
             "items": {"type": "array", "items": _ITEM},
             "reserves": {"type": "array", "items": _ITEM},
-            "podcast": {"type": "object",
+            "podcast": {"type": "object", "additionalProperties": False,
                         "properties": {"de": {"type": "string"}, "en": {"type": "string"}, "es": {"type": "string"}},
                         "required": ["de", "en", "es"]},
             "editorial_note": {"type": "string"},
