@@ -7,7 +7,7 @@ Stufen (--stage):
   build-only  build -> report         (nur Website neu generieren)
   text-only   fetch -> edit -> verify -> build -> report (ohne Audio)
 
-Aufruf: python3 pipeline/run.py --stage full [--date YYYY-MM-DD]
+Aufruf: python3 pipeline/run.py --stage full|text-only|audio-only|build-only|from-research [--date YYYY-MM-DD]
 """
 import argparse
 import json
@@ -65,16 +65,19 @@ def report(run_date, stage, audio_rc):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--stage", default="full", choices=["full", "audio-only", "build-only", "text-only"])
+    ap.add_argument("--stage", default="full", choices=["full", "audio-only", "build-only", "text-only", "from-research"])
     ap.add_argument("--date", default=date.today().isoformat())
     args = ap.parse_args()
     d = args.date
     audio_rc = None
     if args.stage in ("full", "text-only"):
         step("fetch_sources", "--date", d)
+    if args.stage in ("full", "text-only", "from-research"):
+        # from-research: nutzt eine vorhandene data/research/<date>.json (z.B. manuell
+        # nachrecherchierte Woche), ohne die Feeds erneut abzufragen.
         step("edit", "--date", d)
         step("verify_links", "--date", d)
-    if args.stage in ("full", "audio-only"):
+    if args.stage in ("full", "audio-only", "from-research"):
         audio_rc = step("tts", "--date", d, allow_fail=True)
     step("build_site")
     report(d, args.stage, audio_rc)

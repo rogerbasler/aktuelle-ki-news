@@ -61,8 +61,11 @@ def build_prompt(run_date, candidates, min_candidates):
     cats = "\n".join(f"- {c['key']}: {c['label']['de']} ({c['target']} Meldungen)" for c in config.CATEGORIES)
     search_note = ""
     if len(candidates) < min_candidates:
+        from datetime import timedelta
+        start = (run_date - timedelta(days=7)).strftime('%d.%m.%Y')
         search_note = (f"\nEs liegen nur {len(candidates)} Kandidaten vor. Recherchiere mit der Web-Suche "
-                       "zusätzliche Meldungen der letzten 7 Tage, ausschliesslich von t3n.de, heise.de, "
+                       f"zusätzliche Meldungen, die zwischen dem {start} und dem {run_date.strftime('%d.%m.%Y')} "
+                       "erschienen sind (nichts Neueres), ausschliesslich von t3n.de, heise.de, "
                        "handelsblatt.com und techcrunch.com, und verwende nur vollständige Artikel-URLs, "
                        "nie Übersichts- oder Tag-Seiten.\n")
     return f"""Du bist Redaktor:in des wöchentlichen "KI Power Update" (news.fragroger.ai) von Roger Basler de Roca.
