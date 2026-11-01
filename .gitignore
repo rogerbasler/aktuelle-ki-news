@@ -65,3 +65,7 @@ Thumbs.db
 # Arbeitsdateien der Pipeline
 audio/*/part-*.mp3
 audio/*/concat.txt
+
+# Python-Bytecode
+__pycache__/
+*.pyc
