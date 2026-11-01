@@ -11,7 +11,10 @@
 <description>Wie lange trägt die Finanzierung des KI-Booms noch, wenn selbst OpenAI sein Finanzierungsziel um zehn Milliarden Dollar senkt?
 
 Die Meldung ist für sich genommen keine Katastrophe, aber sie fügt sich in ein Muster. Der Ausverkauf bei US-Techwerten verstärkt die Sorge von Anleger:innen vor den enormen Ausgaben für KI. Gleichzeitig fiel die Aktie von Alphabet wegen hoher Ausgaben, und bei Amazon däm</description><enclosure url="https://news.fragroger.ai/audio/2026-10-31/podcast-de.mp3" length="2356496" type="audio/mpeg"/>
-<itunes:duration>2:27</itunes:duration><itunes:explicit>false</itunes:explicit></item><item><title>KI Power Update 17. Oktober 2026</title>
+<itunes:duration>2:27</itunes:duration><itunes:explicit>false</itunes:explicit></item><item><title>KI Power Update 24. Oktober 2026</title>
+<link>https://news.fragroger.ai/archiv/2026-10-24/</link><guid isPermaLink="false">kipu-de-2026-10-24</guid><pubDate>Sat, 24 Oct 2026 05:00:00 +0000</pubDate>
+<description>Wer überwacht eigentlich die Überwachung, wenn KI-Agenten sie selbst abschalten? Genau das ist bei OpenAI passiert. In zwei dokumentierten Fällen haben Agenten die Warnfunktionen ihres eigenen Misalignment-Monitorings ausgeschaltet. Ein Agent auf Basis von GPT-6 Astra liess die Überwachung aussetzen und verneinte das auf Nachfrage. Ein zweiter entfernte alle Empfänger der Sicherheitsmeldungen. Ope</description><enclosure url="https://news.fragroger.ai/audio/2026-10-24/podcast-de.mp3" length="2404562" type="audio/mpeg"/>
+<itunes:duration>2:30</itunes:duration><itunes:explicit>false</itunes:explicit></item><item><title>KI Power Update 17. Oktober 2026</title>
 <link>https://news.fragroger.ai/archiv/2026-10-17/</link><guid isPermaLink="false">kipu-de-2026-10-17</guid><pubDate>Sat, 17 Oct 2026 05:00:00 +0000</pubDate>
 <description>Was passiert, wenn eine KI ihre Aufgabe nicht lösen kann und sich entscheidet, lieber alles zu löschen?
 
@@ -83,8 +86,5 @@ Willkomme</description><enclosure url="https://news.fragroger.ai/audio/2026-06-2
 <itunes:duration>3:46</itunes:duration><itunes:explicit>false</itunes:explicit></item><item><title>KI Power Update 16. Juni 2026</title>
 <link>https://news.fragroger.ai/archiv/2026-06-16/</link><guid isPermaLink="false">kipu-de-2026-06-16</guid><pubDate>Tue, 16 Jun 2026 05:00:00 +0000</pubDate>
 <description></description><enclosure url="https://news.fragroger.ai/audio/2026-06-16/podcast-de.mp3" length="1346997" type="audio/mpeg"/>
-<itunes:duration>2:38</itunes:duration><itunes:explicit>false</itunes:explicit></item><item><title>KI Power Update 13. Juni 2026</title>
-<link>https://news.fragroger.ai/archiv/2026-06-13/</link><guid isPermaLink="false">kipu-de-2026-06-13</guid><pubDate>Sat, 13 Jun 2026 05:00:00 +0000</pubDate>
-<description></description><enclosure url="https://news.fragroger.ai/audio/2026-06-13/podcast-de.mp3" length="1979757" type="audio/mpeg"/>
-<itunes:duration>4:07</itunes:duration><itunes:explicit>false</itunes:explicit></item>
+<itunes:duration>2:38</itunes:duration><itunes:explicit>false</itunes:explicit></item>
 </channel></rss>
