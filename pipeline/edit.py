@@ -88,7 +88,7 @@ Aufgabe:
 Kandidaten:
 {cands}
 
-Liefere das Ergebnis über das Tool ausgabe_abliefern ab, mit genau dieser Struktur:
+Antworte ausschliesslich mit einem JSON-Objekt in genau dieser Struktur:
 {{
   "items": [
     {{"candidate": 3, "category": "news", "url": "...", "source": "t3n",
@@ -153,44 +153,34 @@ def _thinking_config(model):
 
 
 def call_claude(prompt, allow_search, model=None):
-    """Ruft die Claude API auf. Die Ausgabe wird als erzwungener Tool-Aufruf mit JSON-Schema
-    abgeholt, damit das JSON garantiert gültig ist (kein Parsen von Fliesstext). Thinking ist
-    deaktiviert, damit das Antwortbudget nicht vom Denken aufgebraucht wird (Sonnet 5.5 hatte 24k Tokens nur gedacht)."""
+    """Ruft die Claude API auf. Die Antwort wird per Structured Output (output_config.format mit
+    JSON-Schema) erzwungen, damit sie garantiert gültiges JSON ist. Erzwungenes tool_choice wird
+    von den 5.5er-Modellen nicht unterstützt (400), darum dieser Weg."""
     model = model or MODEL
     headers = {}
     if os.environ.get("ANTHROPIC_WORKSPACE_ID"):
         headers["anthropic-workspace-id"] = os.environ["ANTHROPIC_WORKSPACE_ID"]
     client = anthropic.Anthropic(default_headers=headers or None, max_retries=3, timeout=1200)
-    tools = [EDITION_TOOL]
-    tool_choice = {"type": "tool", "name": "ausgabe_abliefern"}
-    if allow_search:
-        tools.append({"type": "web_search_20250305", "name": "web_search", "max_uses": 12})
-        tool_choice = {"type": "any"}
-    kwargs = dict(model=model, max_tokens=32000,
-                  **_thinking_config(model),
-                  system="Du bist Redaktor:in. Du lieferst das Ergebnis ausschliesslich über das Tool "
-                         "ausgabe_abliefern ab, nie als Fliesstext.",
-                  tools=tools, tool_choice=tool_choice,
+    cfg = _thinking_config(model)
+    output_config = dict(cfg.pop("output_config", {}))
+    output_config["format"] = {"type": "json_schema", "schema": EDITION_TOOL["input_schema"]}
+    kwargs = dict(model=model, max_tokens=32000, output_config=output_config, **cfg,
+                  system="Du bist Redaktor:in des KI Power Update. Du antwortest ausschliesslich mit dem "
+                         "JSON-Objekt gemäss Schema, ohne Text davor oder danach.",
                   messages=[{"role": "user", "content": prompt}])
-    messages = kwargs["messages"]
-    for _round in range(8):
-        with client.messages.stream(**kwargs) as stream:
-            stream.until_done()
-            resp = stream.get_final_message()
-        for b in resp.content:
-            if getattr(b, "type", "") == "tool_use" and b.name == "ausgabe_abliefern":
-                return b.input
-        # Web-Suche-Runde (server tool) ohne Abgabe: Verlauf fortsetzen und Abgabe erzwingen
-        if resp.stop_reason == "tool_use" or any(getattr(b, "type", "") == "server_tool_use" for b in resp.content):
-            messages.append({"role": "assistant", "content": resp.content})
-            messages.append({"role": "user", "content": "Liefere jetzt die Ausgabe über das Tool ausgabe_abliefern ab."})
-            kwargs["tool_choice"] = {"type": "tool", "name": "ausgabe_abliefern"}
-            continue
+    if allow_search:
+        kwargs["tools"] = [{"type": "web_search_20250305", "name": "web_search", "max_uses": 12}]
+    with client.messages.stream(**kwargs) as stream:
+        stream.until_done()
+        resp = stream.get_final_message()
+    text = "".join(getattr(b, "text", "") for b in resp.content if getattr(b, "type", "") == "text")
+    result = _extract_json(text)
+    if result is None:
         types = [getattr(b, "type", "?") for b in resp.content]
-        diag = (f"model={resp.model} stop_reason={resp.stop_reason} usage={resp.usage} blocks={types}")
+        diag = f"model={resp.model} stop_reason={resp.stop_reason} usage={resp.usage} blocks={types} textlen={len(text)}"
         print("Antwortdiagnose: " + diag, file=sys.stderr)
-        raise RuntimeError("Keine Ausgabe über das Tool erhalten (" + diag + ")")
-    raise RuntimeError("Keine Ausgabe nach mehreren Runden")
+        raise RuntimeError("Keine JSON-Antwort erhalten (" + diag + ")\n" + text[:1500])
+    return result
 
 
 def validate(result):
