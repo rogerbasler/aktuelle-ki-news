@@ -105,22 +105,43 @@ Antworte ausschliesslich mit einem JSON-Objekt in genau dieser Form, ohne Markdo
 """
 
 
-def call_claude(prompt, allow_search):
+def _extract_json(text):
+    text = (text or "").strip()
+    # Codefences entfernen, dann das grösste {...}-Objekt nehmen
+    text = re.sub(r"^```(?:json)?\s*|\s*```$", "", text, flags=re.S)
+    m = re.search(r"\{.*\}", text, re.S)
+    return json.loads(m.group(0)) if m else None
+
+
+def call_claude(prompt, allow_search, model=None):
+    """Ruft die Claude API per Streaming auf (lange Antworten) und gibt das JSON zurück.
+    Bei leerer oder nicht parsbarer Antwort werden stop_reason, Blocktypen und Usage geloggt,
+    damit ein Fehlschlag im Actions-Log nachvollziehbar ist."""
+    model = model or MODEL
     headers = {}
     if os.environ.get("ANTHROPIC_WORKSPACE_ID"):
         headers["anthropic-workspace-id"] = os.environ["ANTHROPIC_WORKSPACE_ID"]
-    client = anthropic.Anthropic(default_headers=headers or None)
-    kwargs = dict(model=MODEL, max_tokens=16000,
+    client = anthropic.Anthropic(default_headers=headers or None, max_retries=3, timeout=900)
+    kwargs = dict(model=model, max_tokens=24000,
+                  system="Du antwortest ausschliesslich mit einem einzigen JSON-Objekt, ohne Erklärungen, "
+                         "ohne Markdown-Codefences, ohne Text davor oder danach.",
                   messages=[{"role": "user", "content": prompt}])
     if allow_search:
         kwargs["tools"] = [{"type": "web_search_20250305", "name": "web_search", "max_uses": 12}]
-    resp = client.messages.create(**kwargs)
-    text = "".join(b.text for b in resp.content if getattr(b, "type", "") == "text")
-    text = text.strip()
-    m = re.search(r"\{.*\}", text, re.S)
-    if not m:
-        raise RuntimeError("Keine JSON-Antwort erhalten:\n" + text[:2000])
-    return json.loads(m.group(0))
+    with client.messages.stream(**kwargs) as stream:
+        stream.until_done()
+        resp = stream.get_final_message()
+    text = "".join(getattr(b, "text", "") for b in resp.content if getattr(b, "type", "") == "text")
+    result = _extract_json(text)
+    if result is None:
+        types = [getattr(b, "type", "?") for b in resp.content]
+        diag = (f"model={resp.model} stop_reason={resp.stop_reason} "
+                f"stop_details={getattr(resp, 'stop_details', None)} "
+                f"diagnostics={getattr(resp, 'diagnostics', None)} usage={resp.usage} "
+                f"blocks={types} textlen={len(text)}")
+        print("Antwortdiagnose: " + diag, file=sys.stderr)
+        raise RuntimeError("Keine JSON-Antwort erhalten (" + diag + ")\n" + text[:2000])
+    return result
 
 
 def validate(result):
@@ -152,9 +173,12 @@ def main():
     candidates = json.loads((config.RESEARCH / f"{run_date}.json").read_text(encoding="utf-8"))
     prompt = build_prompt(run_date, candidates, args.min_candidates)
     last_err = None
-    for attempt in range(3):
+    fallback = os.environ.get("CLAUDE_MODEL_FALLBACK", "claude-opus-5-5")
+    for attempt in range(4):
+        model = MODEL if attempt < 2 else fallback
+        print(f"Redaktion, Versuch {attempt+1} mit {model}", file=sys.stderr)
         try:
-            result = call_claude(prompt, allow_search=len(candidates) < args.min_candidates)
+            result = call_claude(prompt, allow_search=len(candidates) < args.min_candidates, model=model)
             validate(result)
             break
         except Exception as e:  # noqa: BLE001
