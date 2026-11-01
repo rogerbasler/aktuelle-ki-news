@@ -139,6 +139,19 @@ EDITION_TOOL = {
 }
 
 
+def _thinking_config(model):
+    """Thinking so einstellen, dass das Antwortbudget nicht vom Denken aufgebraucht wird.
+    Die Modellfamilien verlangen unterschiedliche Werte (Rückmeldung der API, Nov 2026):
+    Sonnet 5.5: "between_tools" (denkt nicht vor der Antwort), Opus 5.5: "adaptive" + output_config.effort,
+    ältere Modelle: "disabled"."""
+    m = model.lower()
+    if "sonnet-5" in m or "haiku-5" in m:
+        return {"thinking": {"type": "between_tools"}}
+    if "opus-5" in m or "fable" in m or "mythos" in m:
+        return {"thinking": {"type": "adaptive"}, "output_config": {"effort": "medium"}}
+    return {"thinking": {"type": "disabled"}}
+
+
 def call_claude(prompt, allow_search, model=None):
     """Ruft die Claude API auf. Die Ausgabe wird als erzwungener Tool-Aufruf mit JSON-Schema
     abgeholt, damit das JSON garantiert gültig ist (kein Parsen von Fliesstext). Thinking ist
@@ -154,8 +167,7 @@ def call_claude(prompt, allow_search, model=None):
         tools.append({"type": "web_search_20250305", "name": "web_search", "max_uses": 12})
         tool_choice = {"type": "any"}
     kwargs = dict(model=model, max_tokens=32000,
-                  # Erzwungener Tool-Aufruf verträgt sich nicht mit Extended Thinking, darum aus.
-                  thinking={"type": "disabled"},
+                  **_thinking_config(model),
                   system="Du bist Redaktor:in. Du lieferst das Ergebnis ausschliesslich über das Tool "
                          "ausgabe_abliefern ab, nie als Fliesstext.",
                   tools=tools, tool_choice=tool_choice,
