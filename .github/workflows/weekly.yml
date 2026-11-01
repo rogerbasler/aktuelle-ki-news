@@ -10,6 +10,7 @@ on:
     - cron: "0 4 * * 6"
     - cron: "0 7 * * 6"
     - cron: "0 11 * * 6"
+    - cron: "0 14 * * 6"   # späte Reserve: läuft nur, wenn bis dahin keine Ausgabe entstanden ist
   workflow_dispatch:
     inputs:
       stage:
@@ -23,6 +24,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 concurrency:
   group: weekly-update
@@ -115,7 +117,25 @@ jobs:
           for url in https://rogerbasler.github.io/aktuelle-ki-news/ https://news.fragroger.ai/ https://news.fragroger.ai/en/ https://news.fragroger.ai/es/; do
             code=$(curl -s -o /tmp/page.html -w "%{http_code}" -L --max-time 30 "$url" || echo 000)
             n=$(grep -c 'class="card"' /tmp/page.html 2>/dev/null || true)
-            echo "$url -> HTTP $code, $n Meldungen"
-            if [ "$code" = "200" ] && [ "$n" = "15" ]; then ok=1; fi
+            d=$(grep -c "audio/$DATE/" /tmp/page.html 2>/dev/null || true)
+            echo "$url -> HTTP $code, $n Meldungen, Ausgabe $DATE: $d Treffer"
+            if [ "$code" = "200" ] && [ "$n" = "15" ] && [ "$d" != "0" ]; then ok=1; fi
           done
-          if [ "$ok" = "0" ]; then echo "::error::Keine Live-Adresse liefert 15 Meldungen"; exit 1; fi
+          if [ "$ok" = "0" ]; then echo "::error::Keine Live-Adresse zeigt die Ausgabe $DATE mit 15 Meldungen"; exit 1; fi
+
+      - name: Bei Fehler GitHub-Issue anlegen (löst E-Mail aus)
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TITLE="KI Power Update fehlgeschlagen: Lauf vom $(date +%F)"
+          BODY="Der Workflow-Lauf ist fehlgeschlagen: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+
+          Auslöser: ${{ github.event_name }}, Stufe: ${{ github.event.inputs.stage || 'full' }}
+
+          Nächste Schritte: Log öffnen, Schritt mit dem Fehler lesen. Bei Schlüsselproblemen die Secrets ANTHROPIC_API_KEY und HEYGEN_API_KEY prüfen. Danach den Workflow manuell mit demselben Datum erneut starten."
+          if gh issue list --repo "${{ github.repository }}" --state open --search "\"$TITLE\" in:title" --json number --jq 'length' | grep -q '^0$'; then
+            gh issue create --repo "${{ github.repository }}" --title "$TITLE" --body "$BODY" --label "pipeline"
+          else
+            echo "Issue für heute existiert bereits."
+          fi
