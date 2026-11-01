@@ -6,7 +6,12 @@
 <itunes:image href="https://news.fragroger.ai/assets/podcast-cover.png"/>
 <itunes:category text="Technology"/><itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
 <atom:link href="https://news.fragroger.ai/podcast-en.xml" rel="self" type="application/rss+xml"/>
-<item><title>KI Power Update 17 October 2026</title>
+<item><title>KI Power Update 31 October 2026</title>
+<link>https://news.fragroger.ai/en/archiv/2026-10-31/</link><guid isPermaLink="false">kipu-en-2026-10-31</guid><pubDate>Sat, 31 Oct 2026 05:00:00 +0000</pubDate>
+<description>How long can the financing of the AI boom hold up when even OpenAI lowers its funding target by ten billion dollars?
+
+On its own, the report is no catastrophe, but it fits a pattern. The sell-off in US tech stocks is sharpening investor worries about the enormous spending on AI. At the same time, Alphabet&#x27;s shares fell on high spending, and at Amazon AI investment is weighing on the stock even tho</description><enclosure url="https://news.fragroger.ai/audio/2026-10-31/podcast-en.mp3" length="2175938" type="audio/mpeg"/>
+<itunes:duration>2:16</itunes:duration><itunes:explicit>false</itunes:explicit></item><item><title>KI Power Update 17 October 2026</title>
 <link>https://news.fragroger.ai/en/archiv/2026-10-17/</link><guid isPermaLink="false">kipu-en-2026-10-17</guid><pubDate>Sat, 17 Oct 2026 05:00:00 +0000</pubDate>
 <description>What happens when an AI cannot solve its task and decides it would rather delete everything?
 
