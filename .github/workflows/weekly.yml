@@ -2,10 +2,14 @@ name: KI Power Update (wöchentlich)
 
 on:
   schedule:
-    # Samstag 05:00 Europe/Zurich. Cron kennt keine Sommerzeit, darum zwei Trigger;
-    # der Schritt "Zeitfenster prüfen" lässt nur den Lauf durch, bei dem es in Zürich 05:00 ist.
+    # Ziel: Samstag ab 05:00 Europe/Zurich. GitHub startet Cron-Jobs oft Stunden verspätet,
+    # darum mehrere Trigger. Der Schritt "Ausgabe prüfen" lässt den ersten Lauf durch, der
+    # an einem Samstag läuft und für den noch keine Ausgabe des Tages existiert; alle
+    # weiteren Trigger desselben Tages überspringen.
     - cron: "0 3 * * 6"
     - cron: "0 4 * * 6"
+    - cron: "0 7 * * 6"
+    - cron: "0 11 * * 6"
   workflow_dispatch:
     inputs:
       stage:
@@ -35,20 +39,27 @@ jobs:
       ANTHROPIC_WORKSPACE_ID: ${{ secrets.ANTHROPIC_WORKSPACE_ID }}
       CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL || 'claude-sonnet-5-5' }}
     steps:
-      - name: Zeitfenster prüfen (nur 05:00 Zürich läuft)
-        id: gate
-        run: |
-          if [ "${{ github.event_name }}" = "schedule" ] && [ "$(date +%H)" != "05" ]; then
-            echo "Nicht 05:00 in Zürich ($(date)), dieser Trigger wird übersprungen."
-            echo "run=false" >> "$GITHUB_OUTPUT"
-          else
-            echo "run=true" >> "$GITHUB_OUTPUT"
-          fi
-
       - uses: actions/checkout@v4
-        if: steps.gate.outputs.run == 'true'
         with:
           fetch-depth: 1
+
+      - name: Ausgabe prüfen (Samstag, noch keine Ausgabe heute)
+        id: gate
+        run: |
+          TODAY="$(date +%F)"
+          if [ "${{ github.event_name }}" != "schedule" ]; then
+            echo "Manueller Lauf, wird ausgeführt."
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          elif [ "$(date +%u)" != "6" ]; then
+            echo "In Zürich ist nicht Samstag ($(date)), dieser Trigger wird übersprungen."
+            echo "run=false" >> "$GITHUB_OUTPUT"
+          elif [ -f "data/editions/$TODAY.json" ]; then
+            echo "Ausgabe $TODAY existiert bereits, dieser Trigger wird übersprungen."
+            echo "run=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "Samstag $TODAY, noch keine Ausgabe ($(date)), Lauf startet."
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          fi
 
       - uses: actions/setup-python@v5
         if: steps.gate.outputs.run == 'true'
