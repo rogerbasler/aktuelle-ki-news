@@ -1,0 +1,495 @@
+{
+  "date": "2026-11-07",
+  "week": 45,
+  "languages": [
+    "de",
+    "en",
+    "es"
+  ],
+  "editorial_note": "Diese Woche dominiert die Reaktion auf die US-Zwischenwahlen: Widerstand gegen Rechenzentren, Börseneinbruch und stagnierende KI-Ausgaben zeigen, dass das Wachstum der Branche auf politische und wirtschaftliche Grenzen trifft. Ergänzend haben wir Meldungen zu KI-Sicherheit, Trainingsdaten-Rechten und europäischer Souveränität gewählt, Mehrfachberichte zu OpenAI-Finanzierung, GPT-6 Cyber und Midterms jeweils nur einmal aufgenommen.",
+  "items": [
+    {
+      "candidate": 21,
+      "category": "news",
+      "url": "https://www.heise.de/news/Nach-US-Zwischenwahlen-Skepsis-zum-KI-Boom-loest-heftigen-Boersenabsturz-aus-11514310.html",
+      "source": "heise",
+      "de": {
+        "title": "Nach US-Zwischenwahlen: Skepsis gegenüber KI-Boom lässt Börsen einbrechen",
+        "summary": "Nach den US-Zwischenwahlen haben die Börsen mit einem Tag Verzögerung heftig reagiert, nachdem die breite Ablehnung von Rechenzentren sichtbar geworden war. Der Kursrutsch zeigt, wie stark die Bewertungen von Tech-Konzernen an der Annahme eines ungebremsten Infrastrukturausbaus hängen. Unternehmen, die ihre KI-Strategie auf stetig sinkende Rechenkosten stützen, sollten politische Standortrisiken künftig in ihre Planung einbeziehen."
+      },
+      "en": {
+        "title": "After US midterms, scepticism about the AI boom triggers a sharp market sell-off",
+        "summary": "After the US midterm elections, stock markets reacted sharply with a one-day delay, once the extent of opposition to data centers became clear. The sell-off shows how closely tech valuations depend on the assumption of unrestricted infrastructure growth. Companies that base their AI strategy on steadily falling compute costs should now factor political and local siting risks into their planning."
+      },
+      "es": {
+        "title": "Tras las elecciones intermedias en EE. UU., el escepticismo sobre la IA hunde las bolsas",
+        "summary": "Tras las elecciones de medio mandato en Estados Unidos, las bolsas reaccionaron con fuerza y un día de retraso, cuando quedó clara la magnitud del rechazo a los centros de datos. La caída muestra cuánto dependen las valoraciones tecnológicas de un crecimiento sin freno de la infraestructura. Las empresas que basan su estrategia de IA en costos de cómputo decrecientes deberían considerar también los riesgos políticos y de ubicación."
+      },
+      "published": "2026-11-06",
+      "url_is_article": true
+    },
+    {
+      "candidate": 29,
+      "category": "news",
+      "url": "https://www.handelsblatt.com/technik/ki/ki-finanzierung-openai-sammelt-laut-bericht-elf-milliarden-dollar-bei-investoren-ein/100268028.html",
+      "source": "Handelsblatt",
+      "de": {
+        "title": "OpenAI sammelt elf Milliarden Dollar bei einer Bewertung von 1,25 Billionen ein",
+        "summary": "OpenAI hat Berichten zufolge elf Milliarden Dollar bei Investoren eingesammelt, bei einer Bewertung von 1,25 Billionen Dollar. Wegen des Ausverkaufs bei KI-Aktien und Sorgen über hohe Kosten hat das Unternehmen seine Ziele allerdings gesenkt. Das Kapital fliesst weiter, doch Investoren achten stärker auf Kosten und Rentabilität, was mittelfristig auch Preise und Konditionen für Unternehmenskund:innen beeinflussen dürfte."
+      },
+      "en": {
+        "title": "OpenAI reportedly raises 11 billion dollars at a 1.25 trillion dollar valuation",
+        "summary": "OpenAI has reportedly raised 11 billion dollars from investors at a valuation of 1.25 trillion dollars. Because of the sell-off in AI stocks and concerns about high costs, the company has lowered its targets. Capital is still flowing, but investors are paying closer attention to costs and profitability, which is likely to affect pricing and terms for enterprise customers over time."
+      },
+      "es": {
+        "title": "OpenAI recauda 11.000 millones de dólares con una valoración de 1,25 billones",
+        "summary": "OpenAI habría recaudado 11.000 millones de dólares entre inversores, con una valoración de 1,25 billones de dólares. Debido a la venta masiva de acciones de IA y a la preocupación por los altos costos, la empresa redujo sus objetivos. El capital sigue llegando, pero los inversores miran con más atención costos y rentabilidad, lo que probablemente influirá en precios y condiciones para clientes empresariales."
+      },
+      "published": "2026-11-07",
+      "url_is_article": true
+    },
+    {
+      "candidate": 23,
+      "category": "news",
+      "url": "https://www.heise.de/news/OpenAIs-fuer-Cybersecurity-verbessertes-KI-Modell-GPT-6-Cyber-haelt-sich-an-Regeln-11514280.html",
+      "source": "heise",
+      "de": {
+        "title": "GPT-6 Cyber: OpenAI stellt Sicherheitsmodell mit festen Grenzen vor",
+        "summary": "OpenAI hat mit GPT-6 Cyber ein Modell vorgestellt, das mehr Schwachstellen finden, dabei aber innerhalb vorgegebener Grenzen bleiben soll. Damit will das Unternehmen Ausbrüche aus den definierten Regeln verhindern, die bei leistungsfähigen Sicherheitsmodellen ein reales Risiko darstellen. Für Sicherheitsteams entsteht ein zusätzliches Werkzeug, zugleich steigt der Druck, eigene Systeme schneller zu prüfen und zu patchen."
+      },
+      "en": {
+        "title": "GPT-6 Cyber: OpenAI launches a security model designed to stay within set limits",
+        "summary": "OpenAI has introduced GPT-6 Cyber, a model intended to find more vulnerabilities while staying within predefined boundaries. The company aims to prevent the model from breaking out of its rules, a real risk with capable security models. Security teams gain an additional tool, while pressure increases to test and patch their own systems faster."
+      },
+      "es": {
+        "title": "GPT-6 Cyber: OpenAI presenta un modelo de seguridad con límites definidos",
+        "summary": "OpenAI presentó GPT-6 Cyber, un modelo que debe encontrar más vulnerabilidades sin salirse de límites predefinidos. La empresa busca evitar que el modelo eluda sus reglas, un riesgo real en modelos de seguridad potentes. Los equipos de seguridad obtienen una herramienta adicional, mientras aumenta la presión para revisar y corregir sus propios sistemas con mayor rapidez."
+      },
+      "published": "2026-11-06",
+      "url_is_article": true
+    },
+    {
+      "candidate": 30,
+      "category": "news",
+      "url": "https://www.handelsblatt.com/technik/ki/cloud-microsoft-beendet-laut-einem-bericht-den-ki-vertrag-mit-oracle/100268017.html",
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Microsoft beendet Berichten zufolge KI-Cloud-Vertrag mit Oracle",
+        "summary": "Microsoft hat Berichten zufolge einen KI-Vertrag mit Oracle beendet, weil ältere Nvidia-Chips den Anforderungen nicht mehr genügten. Zudem soll der Konzern weitere Cloud-Partnerschaften in Milliardenhöhe überprüfen. Der Fall zeigt, wie schnell KI-Hardware an Wert verliert und dass langfristige Infrastrukturverträge für Anbieter wie Kund:innen ein erhebliches Abschreibungsrisiko bergen."
+      },
+      "en": {
+        "title": "Microsoft reportedly ends AI cloud contract with Oracle",
+        "summary": "Microsoft has reportedly terminated an AI contract with Oracle because older Nvidia chips no longer met its requirements. The company is also said to be reviewing other cloud partnerships worth billions. The case shows how quickly AI hardware loses value and that long-term infrastructure contracts carry considerable depreciation risk for both providers and customers."
+      },
+      "es": {
+        "title": "Microsoft pondría fin a su contrato de nube para IA con Oracle",
+        "summary": "Microsoft habría rescindido un contrato de IA con Oracle porque los chips Nvidia más antiguos ya no cumplían sus requisitos. Además, la empresa estaría revisando otras alianzas en la nube por valor de miles de millones. El caso muestra la rapidez con la que pierde valor el hardware de IA y el riesgo de depreciación que implican los contratos de infraestructura a largo plazo."
+      },
+      "published": "2026-11-06",
+      "url_is_article": true
+    },
+    {
+      "candidate": 38,
+      "category": "news",
+      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "source": "TechCrunch",
+      "de": {
+        "title": "Ramp-Daten: KI-Nutzung steigt, Ausgaben stagnieren vor Anthropics Börsengang",
+        "summary": "Daten von Ramp zeigen, dass die KI-Nutzung in Unternehmen weiter zunimmt, die Ausgaben dafür aber stagnieren. Preissenkungen und bessere Kostenkontrolle bei den grössten Abnehmern gelten als Gründe. Kurz vor dem Börsengang von Anthropic stellt das die Annahme eines ungebremsten Umsatzwachstums infrage, während Anwenderunternehmen von sinkenden Preisen und mehr Verhandlungsmacht profitieren."
+      },
+      "en": {
+        "title": "Ramp data: AI usage rises while spending stalls ahead of Anthropic's IPO",
+        "summary": "Data from Ramp shows that AI usage in companies keeps rising while spending has stalled. Price cuts and tighter cost controls among the largest spenders are cited as reasons. With Anthropic nearing its IPO, this challenges assumptions of unchecked revenue growth, while companies using AI benefit from lower prices and stronger negotiating positions."
+      },
+      "es": {
+        "title": "Datos de Ramp: el uso de IA crece, pero el gasto se estanca antes de la salida a bolsa de Anthropic",
+        "summary": "Los datos de Ramp muestran que el uso de IA en las empresas sigue aumentando, mientras el gasto se ha estancado. Las rebajas de precios y un mejor control de costos entre los mayores clientes explican la tendencia. Con Anthropic cerca de su salida a bolsa, esto cuestiona la idea de un crecimiento ilimitado, mientras las empresas usuarias ganan poder de negociación."
+      },
+      "published": "2026-11-06",
+      "url_is_article": true
+    },
+    {
+      "candidate": 42,
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "source": "TechCrunch",
+      "de": {
+        "title": "Palo Alto Networks verhandelt über Kauf von Clutch für 500 Millionen Dollar",
+        "summary": "Palo Alto Networks führt Gespräche über die Übernahme von Clutch, einem Start-up für die Absicherung von KI-Agenten, für rund 500 Millionen Dollar. Clutch wurde zuletzt mit 85 Millionen Dollar bewertet. Der mögliche Preis zeigt, wie hoch etablierte Sicherheitsanbieter den Bedarf an Kontrolle über autonome Agenten einschätzen, die in Unternehmen zunehmend Zugriff auf Systeme und Daten erhalten."
+      },
+      "en": {
+        "title": "Palo Alto Networks in talks to acquire AI agent security startup Clutch for $500M",
+        "summary": "Palo Alto Networks is in talks to acquire Clutch, a startup focused on securing AI agents, for around 500 million dollars. Clutch was last valued at 85 million dollars. The potential price shows how highly established security vendors rate the need to control autonomous agents that increasingly gain access to corporate systems and data."
+      },
+      "es": {
+        "title": "Palo Alto Networks negocia la compra de Clutch por 500 millones de dólares",
+        "summary": "Palo Alto Networks negocia la adquisición de Clutch, una startup dedicada a la seguridad de agentes de IA, por unos 500 millones de dólares. Clutch había sido valorada en 85 millones. El precio posible muestra la importancia que los grandes proveedores de seguridad dan al control de agentes autónomos con acceso creciente a sistemas y datos empresariales."
+      },
+      "published": "2026-11-06",
+      "url_is_article": true
+    },
+    {
+      "candidate": 49,
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+      "source": "TechCrunch",
+      "de": {
+        "title": "Axiom Math setzt auf formale Verifikation gegen ungeprüfte KI-Beweise",
+        "summary": "Das Start-up Axiom Math hat mit KI-Agenten das Stacks Project, eine der grössten mathematischen Bibliotheken, formal verifiziert. Das Unternehmen reagiert damit auf die wachsende Zahl ungeprüfter, KI-generierter Beweise. Der Ansatz ist über die Mathematik hinaus relevant: Wo KI Ergebnisse in grosser Menge erzeugt, wird die verlässliche Prüfung zum Engpass und damit zu einem eigenen Geschäftsfeld."
+      },
+      "en": {
+        "title": "Axiom Math bets on formal verification to keep unchecked AI proofs out of maths",
+        "summary": "Startup Axiom Math has used AI agents to formally verify the Stacks Project, one of the largest libraries in mathematics. The company is responding to a growing number of unchecked AI-generated proofs. The approach matters beyond mathematics: where AI produces results at scale, reliable verification becomes the bottleneck and therefore a business opportunity in its own right."
+      },
+      "es": {
+        "title": "Axiom Math apuesta por la verificación formal frente a pruebas de IA sin revisar",
+        "summary": "La startup Axiom Math utilizó agentes de IA para verificar formalmente el Stacks Project, una de las mayores bibliotecas matemáticas. La empresa responde así al aumento de demostraciones generadas por IA sin comprobar. El enfoque es relevante más allá de las matemáticas: cuando la IA produce resultados a gran escala, la verificación fiable se convierte en el cuello de botella y en un negocio propio."
+      },
+      "published": "2026-11-05",
+      "url_is_article": true
+    },
+    {
+      "candidate": 10,
+      "category": "tools",
+      "url": "https://www.heise.de/news/NVKE-Nvidia-bringt-eigene-Kubernetes-Engine-als-Preview-11515947.html",
+      "source": "heise",
+      "de": {
+        "title": "Nvidia stellt eigene Kubernetes Engine NVKE als Preview vor",
+        "summary": "Nvidia hat mit NVKE eine eigene Kubernetes Engine als Preview veröffentlicht, mit der Betreiber von GPU-Rechenzentren Managed Kubernetes anbieten können. Der Chiphersteller erweitert damit seine Rolle in Richtung Software und Plattformbetrieb. Für Cloud-Anbieter und Unternehmen mit eigener GPU-Infrastruktur kann das den Betrieb vereinfachen, erhöht aber zugleich die Abhängigkeit von einem einzelnen Anbieter."
+      },
+      "en": {
+        "title": "Nvidia releases its own Kubernetes Engine NVKE as a preview",
+        "summary": "Nvidia has released NVKE, its own Kubernetes Engine, as a preview that allows GPU data center operators to offer managed Kubernetes. The chipmaker is thereby extending its role into software and platform operations. For cloud providers and companies running their own GPU infrastructure, this may simplify operations but also increases dependence on a single vendor."
+      },
+      "es": {
+        "title": "Nvidia lanza en versión preliminar su propio motor de Kubernetes, NVKE",
+        "summary": "Nvidia publicó NVKE, su propio motor de Kubernetes, en versión preliminar para que los operadores de centros de datos con GPU ofrezcan Kubernetes gestionado. El fabricante de chips amplía así su papel hacia el software y la operación de plataformas. Para proveedores de nube y empresas con infraestructura propia, puede simplificar la operación, pero aumenta la dependencia de un solo proveedor."
+      },
+      "published": "2026-11-07",
+      "url_is_article": true
+    },
+    {
+      "candidate": 48,
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+      "source": "TechCrunch",
+      "de": {
+        "title": "Claude analysiert mit Personal Finance künftig Bank- und Kartendaten",
+        "summary": "Mit der neuen Funktion Personal Finance können Nutzer:innen ihre Bank- und Kartenkonten über Plaid mit Claude verbinden und Fragen zu ihren Finanzen stellen. KI-Assistenten rücken damit direkt an sensible Finanzdaten heran. Für Banken und Fintechs entsteht eine neue Schnittstelle zur Kundschaft, die sie nicht selbst kontrollieren, für Nutzer:innen stellen sich Fragen zu Datenschutz und Vertrauen."
+      },
+      "en": {
+        "title": "Claude can now analyse bank and card data with its Personal Finance tool",
+        "summary": "With the new Personal Finance feature, users can connect their bank and card accounts to Claude through Plaid and ask questions about their finances. AI assistants are thus moving directly into sensitive financial data. For banks and fintechs, a new customer interface emerges that they do not control, while users face questions about privacy and trust."
+      },
+      "es": {
+        "title": "Claude analiza datos bancarios y de tarjetas con su función Personal Finance",
+        "summary": "Con la nueva función Personal Finance, los usuarios pueden conectar sus cuentas bancarias y tarjetas a Claude mediante Plaid y hacer preguntas sobre sus finanzas. Los asistentes de IA acceden así directamente a datos financieros sensibles. Para bancos y fintech surge una nueva interfaz con la clientela que no controlan, y para los usuarios, preguntas sobre privacidad y confianza."
+      },
+      "published": "2026-11-05",
+      "url_is_article": true
+    },
+    {
+      "candidate": 24,
+      "category": "regulierung",
+      "url": "https://www.heise.de/news/Brasilien-Gericht-verbietet-Meta-die-Nutzung-von-Medieninhalten-fuer-KI-Training-11514246.html",
+      "source": "heise",
+      "de": {
+        "title": "Brasilien: Gericht untersagt Meta KI-Training mit Medieninhalten",
+        "summary": "Ein Gericht in Brasilien hat Metas neue Nutzungsbedingungen für unzulässig erklärt, die eine kostenlose Überlassung von Medieninhalten für das KI-Training vorsahen, und droht mit Zwangsgeld. Das Urteil stärkt die Position von Inhalteanbietern gegenüber grossen Plattformen. Es zeigt, dass Nutzungsrechte an Trainingsdaten zunehmend gerichtlich geklärt werden, was Lizenzmodelle und Kosten für KI-Anbieter verändern dürfte."
+      },
+      "en": {
+        "title": "Brazil: court bars Meta from using media content for AI training",
+        "summary": "A court in Brazil has ruled that Meta's new terms of service, which required content to be handed over free of charge for AI training, are unlawful, and has threatened penalty payments. The ruling strengthens content owners against large platforms. It shows that rights to training data are increasingly settled in court, which is likely to change licensing models and costs for AI providers."
+      },
+      "es": {
+        "title": "Brasil: un tribunal prohíbe a Meta usar contenidos mediáticos para entrenar IA",
+        "summary": "Un tribunal de Brasil declaró ilícitas las nuevas condiciones de uso de Meta, que preveían la cesión gratuita de contenidos para entrenar IA, y amenazó con multas coercitivas. El fallo fortalece a los titulares de contenidos frente a las grandes plataformas. Muestra que los derechos sobre datos de entrenamiento se dirimen cada vez más en los tribunales, lo que cambiará licencias y costos."
+      },
+      "published": "2026-11-05",
+      "url_is_article": true
+    },
+    {
+      "candidate": 36,
+      "category": "regulierung",
+      "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+      "source": "TechCrunch",
+      "de": {
+        "title": "US-Wähler:innen stimmen fast überall für strengere Regeln für Rechenzentren",
+        "summary": "Bei den US-Zwischenwahlen wurde über 41 Vorlagen zu Rechenzentren abgestimmt, in allen ausser einer stimmte die Mehrheit für mehr Einschränkungen. Zugleich erzielten die Demokraten deutliche Gewinne. Für die KI-Branche wird lokale Akzeptanz damit zur Voraussetzung für Wachstum: Standortwahl und Belastungen für Anwohnende werden politisch verhandelt und nicht mehr nur technisch geplant."
+      },
+      "en": {
+        "title": "US voters back stricter data center rules in almost every local ballot",
+        "summary": "In the US midterm elections, voters decided on 41 data center-related ballot measures, and in all but one the majority supported more restrictions. Democrats also achieved historic gains. For the AI industry, local acceptance becomes a precondition for growth: site selection and the burden on residents are now negotiated politically rather than planned purely on technical grounds."
+      },
+      "es": {
+        "title": "Los votantes de EE. UU. apoyan casi siempre reglas más estrictas para centros de datos",
+        "summary": "En las elecciones de medio mandato se votaron 41 iniciativas sobre centros de datos y, en todas salvo una, la mayoría apoyó más restricciones. Al mismo tiempo, los demócratas lograron victorias históricas. Para la industria de la IA, la aceptación local pasa a ser condición para crecer: la ubicación y la carga para los vecinos se negocian políticamente, no solo técnicamente."
+      },
+      "published": "2026-11-06",
+      "url_is_article": true
+    },
+    {
+      "candidate": 2,
+      "category": "regulierung",
+      "url": "https://t3n.de/news/ki-zwang-umgangen-wegen-religion-1770567/",
+      "source": "t3n",
+      "de": {
+        "title": "Religiöse Ausnahme: Angestellter muss am Arbeitsplatz keine KI mehr nutzen",
+        "summary": "David Durman hat eine religiöse Ausnahmegenehmigung erwirkt und muss bei der Arbeit keine KI mehr nutzen, weil die Technologie aus seiner Sicht seine Fähigkeit untergräbt, moralisch zu handeln. Der Einzelfall wirft eine grundsätzliche Frage auf: Wie verbindlich dürfen Arbeitgebende die Nutzung von KI-Werkzeugen vorschreiben? Unternehmen mit KI-Pflicht brauchen klare Regeln für Ausnahmen und Gewissensgründe."
+      },
+      "en": {
+        "title": "Religious exemption: employee no longer required to use AI at work",
+        "summary": "David Durman obtained a religious exemption and no longer has to use AI at work, arguing that the technology undermines his ability to act morally. The individual case raises a broader question: how far can employers mandate the use of AI tools? Companies that require AI in daily work need clear rules for exemptions and objections of conscience."
+      },
+      "es": {
+        "title": "Exención religiosa: un empleado ya no está obligado a usar IA en el trabajo",
+        "summary": "David Durman obtuvo una exención por motivos religiosos y ya no debe usar IA en su trabajo, porque considera que la tecnología socava su capacidad de actuar moralmente. El caso individual plantea una pregunta de fondo: ¿hasta qué punto pueden los empleadores imponer herramientas de IA? Las empresas que las exigen necesitan reglas claras para excepciones y objeciones de conciencia."
+      },
+      "published": "2026-11-07",
+      "url_is_article": true
+    },
+    {
+      "candidate": 8,
+      "category": "stimmen",
+      "url": "https://t3n.de/news/europaeische-ki-es-ist-riskanter-zu-sagen-der-zug-ist-abgefahren-1772038/",
+      "source": "t3n",
+      "de": {
+        "title": "Politologin Nicole Lemke: Europa sollte bei grossen KI-Modellen nicht aufgeben",
+        "summary": "Die Politologin Nicole Lemke erklärt, auf welche Technologie europäische KI-Start-ups setzen und warum Europa trotzdem nicht auf eigene, grosse KI-Modelle verzichten sollte. Riskanter als der Rückstand sei die Annahme, der Zug sei bereits abgefahren. Für europäische Unternehmen geht es um strategische Unabhängigkeit bei einer Technologie, die zunehmend Kernprozesse prägt."
+      },
+      "en": {
+        "title": "Political scientist Nicole Lemke: Europe should not give up on large AI models",
+        "summary": "Political scientist Nicole Lemke explains which technology European AI startups are betting on and why Europe should still not forgo its own large AI models. In her view, assuming the train has already left is riskier than the current gap itself. For European companies, the issue is strategic independence in a technology that increasingly shapes core processes."
+      },
+      "es": {
+        "title": "La politóloga Nicole Lemke: Europa no debe renunciar a grandes modelos de IA",
+        "summary": "La politóloga Nicole Lemke explica en qué tecnología apuestan las startups europeas de IA y por qué Europa no debería renunciar a sus propios grandes modelos. A su juicio, dar por perdido el tren es más arriesgado que el retraso actual. Para las empresas europeas está en juego la independencia estratégica en una tecnología que define cada vez más procesos centrales."
+      },
+      "published": "2026-11-06",
+      "url_is_article": true
+    },
+    {
+      "candidate": 16,
+      "category": "stimmen",
+      "url": "https://www.heise.de/news/KI-Update-Deep-Dive-Wie-Mistral-mit-ML4-im-KI-Rennen-aufholen-will-11513626.html",
+      "source": "heise",
+      "de": {
+        "title": "Mistral-Forschungsleiter Pierre Stock über ML4 und offene Modelle für Europa",
+        "summary": "Pierre Stock, wissenschaftlicher Leiter von Mistral, erläutert, wie das neue Modell ML4 entstanden ist und warum Offenheit für Europas Souveränität zählt. Mistral will damit im KI-Wettbewerb aufholen. Für europäische Unternehmen sind offene Modelle eine Option, um Abhängigkeiten von wenigen Anbietern zu verringern und Modelle in eigenen Umgebungen zu betreiben."
+      },
+      "en": {
+        "title": "Mistral's chief scientist Pierre Stock on ML4 and open models for Europe",
+        "summary": "Pierre Stock, chief scientist at Mistral, explains how the new ML4 model was developed and why openness matters for Europe's sovereignty. Mistral aims to catch up in the AI race with it. For European companies, open models offer a way to reduce dependence on a few providers and to run models in their own environments."
+      },
+      "es": {
+        "title": "Pierre Stock, de Mistral, sobre ML4 y los modelos abiertos para Europa",
+        "summary": "Pierre Stock, director científico de Mistral, explica cómo se desarrolló el nuevo modelo ML4 y por qué la apertura es importante para la soberanía europea. Con él, Mistral quiere recuperar terreno en la carrera de la IA. Para las empresas europeas, los modelos abiertos permiten reducir la dependencia de pocos proveedores y operar modelos en entornos propios."
+      },
+      "published": "2026-11-06",
+      "url_is_article": true
+    },
+    {
+      "candidate": 25,
+      "category": "business",
+      "url": "https://www.heise.de/news/Nach-US-Zwischenwahlen-OpenAI-verspricht-anwohnerfreundliche-Rechenzentren-11513473.html",
+      "source": "heise",
+      "de": {
+        "title": "OpenAI kündigt Regeln für anwohnerfreundlichere Rechenzentren an",
+        "summary": "Zwei Tage nach den US-Zwischenwahlen hat OpenAI neue Regeln für sozialverträglichere Rechenzentren angekündigt, die Anwohnende entlasten sollen. Die Ankündigung reagiert direkt auf den wachsenden lokalen Widerstand gegen KI-Infrastruktur. Ob die Zusagen tragen, entscheidet sich bei der Umsetzung vor Ort, doch gesellschaftliche Akzeptanz wird für KI-Anbieter erkennbar zu einem eigenen Kostenfaktor."
+      },
+      "en": {
+        "title": "OpenAI announces rules for more neighbour-friendly data centers",
+        "summary": "Two days after the US midterm elections, OpenAI announced new rules for more socially acceptable data centers intended to ease the burden on local residents. The announcement responds directly to growing local opposition to AI infrastructure. Whether the commitments hold will depend on local implementation, but social acceptance is clearly becoming a cost factor of its own for AI providers."
+      },
+      "es": {
+        "title": "OpenAI anuncia reglas para centros de datos más respetuosos con los vecinos",
+        "summary": "Dos días después de las elecciones de medio mandato, OpenAI anunció nuevas reglas para centros de datos socialmente más aceptables, con el fin de aliviar a los vecinos. El anuncio responde directamente a la creciente oposición local a la infraestructura de IA. Su eficacia dependerá de la aplicación local, pero la aceptación social se convierte en un costo propio para los proveedores."
+      },
+      "published": "2026-11-05",
+      "url_is_article": true
+    }
+  ],
+  "podcast": {
+    "de": {
+      "script": "Was passiert mit dem KI-Boom, wenn die Menschen vor Ort keine Rechenzentren mehr wollen? Diese Woche gab es darauf eine erstaunlich direkte Antwort. Bei den US-Zwischenwahlen wurde über einundvierzig Vorlagen zu Rechenzentren abgestimmt. In allen ausser einer entschied sich die Mehrheit für strengere Regeln.\n\nDie Börsen brauchten einen Tag, um das zu verarbeiten, dann reagierten sie umso heftiger. Rund drei Billionen Dollar Börsenwert verschwanden an einem einzigen Tag an der Wall Street, vor allem bei Tech-Aktien. Die Logik dahinter ist schlicht: Die Bewertungen der grossen KI-Konzerne beruhen auf der Annahme, dass Rechenleistung praktisch unbegrenzt wachsen kann. Wenn Gemeinden Fläche, Strom und Belastungen zu politischen Fragen machen, wird diese Annahme verhandelbar.\n\nInteressant ist, dass die Zweifel älter sind als das Wahlergebnis. Ausgabendaten von Ramp zeigen, dass Unternehmen KI immer intensiver nutzen, aber nicht mehr entsprechend mehr dafür bezahlen. Preissenkungen und bessere Kostenkontrolle bei den grössten Kunden bremsen das Umsatzwachstum. Für Anwenderunternehmen ist das eine gute Nachricht. Für Investoren, die auf Hyperwachstum gesetzt haben, eher nicht, und das ausgerechnet kurz vor dem erwarteten Börsengang von Anthropic.\n\nAuch auf der Infrastrukturseite zeigt sich, wie fragil die Rechnung ist. Microsoft hat Berichten zufolge einen KI-Vertrag mit Oracle beendet, weil ältere Nvidia-Chips den Anforderungen nicht mehr genügten, und prüft weitere Cloud-Partnerschaften in Milliardenhöhe. Hardware, die vor kurzem noch als knappes Gut galt, wird in wenigen Jahren zum Abschreibungsposten. Wer langfristige Verträge über Rechenkapazität abschliesst, kauft also nicht nur Leistung, sondern auch ein Alterungsrisiko.\n\nOpenAI steht mitten in diesem Spannungsfeld. Das Unternehmen hat Berichten zufolge elf Milliarden Dollar zusätzlich eingesammelt, bei einer Bewertung von eineinviertel Billionen Dollar. Wegen des Ausverkaufs und der Sorgen um hohe Kosten wurden die Ziele allerdings gesenkt. Zwei Tage nach der Wahl kündigte OpenAI zudem neue Regeln für anwohnerfreundlichere Rechenzentren an. Man könnte sagen: Die Nachbarschaft ist jetzt offiziell Teil der Lieferkette.\n\nParallel verschiebt sich der Wettbewerb dorthin, wo KI tatsächlich arbeitet und Schaden anrichten kann. OpenAI hat mit GPT-6 Cyber ein Modell vorgestellt, das mehr Sicherheitslücken finden, aber innerhalb vorgegebener Grenzen bleiben soll. Gleichzeitig verhandelt Palo Alto Networks über den Kauf des Start-ups Clutch, das KI-Agenten absichert, für rund fünfhundert Millionen Dollar. Die letzte Bewertung lag bei fünfundachtzig Millionen. Dieser Aufpreis sagt viel darüber, wie dringend Unternehmen Kontrolle über Software brauchen, die eigenständig handelt.\n\nAuch rechtlich wird der Rahmen enger. Ein Gericht in Brasilien hat Meta untersagt, Medieninhalte ohne Gegenleistung für das KI-Training zu nutzen, und droht mit Zwangsgeld. Und ein Angestellter hat aus religiösen Gründen erwirkt, dass er am Arbeitsplatz keine KI nutzen muss. Zwei sehr unterschiedliche Fälle mit einer gemeinsamen Linie: Wer KI unter welchen Bedingungen nutzt und mit Daten versorgt, entscheiden nicht mehr allein die Anbieter.\n\nFür Europa ergibt sich daraus eine eigene Perspektive. Mistral setzt mit seinem neuen Modell ML4 auf Offenheit als Beitrag zur Souveränität. Die Politologin Nicole Lemke hält es für riskanter, Europa bereits abzuschreiben, als weiter in eigene grosse Modelle zu investieren. Wenn Infrastruktur in den USA politisch teurer wird, verschieben sich auch die relativen Chancen anderer Standorte.\n\nDiese Woche hat gezeigt, dass Rechenleistung nicht nur aus Chips und Kapital besteht, sondern auch aus Zustimmung, und diese Ressource lässt sich in keiner Finanzierungsrunde einsammeln.",
+      "audio": "audio/2026-11-07/podcast-de.mp3",
+      "duration_sec": 165,
+      "voice": {
+        "name": "Ceecee - Friendly",
+        "voice_id": "bc5d389d33a140c89e50e9b75fde5303",
+        "language": "Multilingual"
+      },
+      "speed": 1.4,
+      "engine": "HeyGen v3"
+    },
+    "en": {
+      "script": "What happens to the AI boom when local communities simply stop wanting data centers? This week delivered a surprisingly direct answer. In the US midterm elections, voters decided on forty-one ballot measures related to data centers. In all but one, the majority chose stricter rules.\n\nMarkets took a day to process this, then reacted all the more forcefully. Roughly three trillion dollars in market value disappeared from Wall Street in a single day, mostly in tech stocks. The logic is simple: valuations of the large AI companies rest on the assumption that computing capacity can grow almost without limit. Once communities turn land, power and local burdens into political questions, that assumption becomes negotiable.\n\nWhat stands out is that the doubts predate the election result. Spending data from Ramp shows that companies keep using AI more intensively, but are no longer paying correspondingly more for it. Price cuts and tighter cost control among the biggest customers are slowing revenue growth. For companies using AI, that is good news. For investors who bet on hypergrowth, less so, and the timing is awkward, with Anthropic nearing its IPO.\n\nOn the infrastructure side, the calculation looks just as fragile. Microsoft has reportedly ended an AI contract with Oracle because older Nvidia chips no longer met its requirements, and is said to be reviewing other cloud partnerships worth billions. Hardware that was recently considered scarce becomes a depreciation item within a few years. Anyone signing long-term compute contracts is buying not only capacity but also ageing risk.\n\nOpenAI sits right in the middle of this tension. The company has reportedly raised an additional eleven billion dollars at a valuation of one point two five trillion dollars. Because of the sell-off and concerns about high costs, however, its targets were lowered. Two days after the election, OpenAI also announced new rules for more neighbour-friendly data centers. One could say the neighbourhood is now officially part of the supply chain.\n\nAt the same time, competition is moving to where AI actually acts and can cause damage. OpenAI introduced GPT-6 Cyber, a model meant to find more vulnerabilities while staying within defined limits. Meanwhile, Palo Alto Networks is in talks to buy Clutch, a startup that secures AI agents, for around five hundred million dollars. Its last valuation was eighty-five million. That premium says a lot about how urgently companies need control over software that acts on its own.\n\nThe legal framework is tightening as well. A court in Brazil has barred Meta from using media content for AI training without compensation and threatened penalty payments. And one employee obtained a religious exemption from having to use AI at work. Two very different cases, one common thread: who uses AI, and who feeds it data, under which conditions, is no longer decided by the providers alone.\n\nFor Europe, this opens a distinct perspective. Mistral is positioning its new ML4 model around openness as a contribution to sovereignty. Political scientist Nicole Lemke argues that writing Europe off is riskier than continuing to invest in its own large models. If infrastructure in the United States becomes politically more expensive, the relative chances of other locations shift too.\n\nThis week showed that computing power is made not only of chips and capital, but also of consent, and that resource cannot be raised in any funding round.",
+      "audio": "audio/2026-11-07/podcast-en.mp3",
+      "duration_sec": 155,
+      "voice": {
+        "name": "Ceecee - Friendly",
+        "voice_id": "bc5d389d33a140c89e50e9b75fde5303",
+        "language": "Multilingual"
+      },
+      "speed": 1.4,
+      "engine": "HeyGen v3"
+    },
+    "es": {
+      "script": "¿Qué le pasa al auge de la IA cuando las comunidades locales ya no quieren centros de datos? Esta semana llegó una respuesta sorprendentemente directa. En las elecciones de medio mandato en Estados Unidos se votaron cuarenta y una iniciativas sobre centros de datos. En todas salvo una, la mayoría eligió reglas más estrictas.\n\nLos mercados tardaron un día en asimilarlo y luego reaccionaron con más fuerza. Cerca de tres billones de dólares de valor bursátil desaparecieron de Wall Street en una sola jornada, sobre todo en acciones tecnológicas. La lógica es sencilla: las valoraciones de las grandes empresas de IA se basan en la idea de que la capacidad de cómputo puede crecer casi sin límites. Cuando las comunidades convierten el suelo, la energía y las molestias locales en cuestiones políticas, esa idea pasa a ser negociable.\n\nLo llamativo es que las dudas son anteriores al resultado electoral. Los datos de gasto de Ramp muestran que las empresas usan la IA cada vez más, pero ya no pagan proporcionalmente más por ella. Las rebajas de precios y un mayor control de costos entre los grandes clientes frenan el crecimiento de los ingresos. Para las empresas usuarias es una buena noticia. Para los inversores que apostaron por un hipercrecimiento, no tanto, y justo cuando Anthropic se acerca a su salida a bolsa.\n\nEn la infraestructura, el cálculo resulta igual de frágil. Microsoft habría rescindido un contrato de IA con Oracle porque los chips Nvidia más antiguos ya no cumplían sus requisitos, y estaría revisando otras alianzas en la nube por miles de millones. El hardware que hace poco era un bien escaso se convierte en pocos años en una partida de depreciación. Quien firma contratos de cómputo a largo plazo no compra solo capacidad, sino también riesgo de obsolescencia.\n\nOpenAI está en el centro de esta tensión. La empresa habría recaudado once mil millones de dólares adicionales con una valoración de uno coma veinticinco billones de dólares. Sin embargo, por la caída del mercado y la preocupación por los costos, redujo sus objetivos. Dos días después de las elecciones, OpenAI anunció además nuevas reglas para centros de datos más respetuosos con los vecinos. Podría decirse que el vecindario ya forma parte oficial de la cadena de suministro.\n\nAl mismo tiempo, la competencia se desplaza hacia donde la IA actúa y puede causar daños. OpenAI presentó GPT-6 Cyber, un modelo que debe encontrar más vulnerabilidades sin salirse de límites definidos. Por su parte, Palo Alto Networks negocia la compra de Clutch, una startup que protege agentes de IA, por unos quinientos millones de dólares. Su última valoración era de ochenta y cinco millones. Esa prima dice mucho sobre la urgencia con la que las empresas necesitan controlar software que actúa por su cuenta.\n\nEl marco jurídico también se estrecha. Un tribunal de Brasil prohibió a Meta usar contenidos mediáticos sin compensación para entrenar IA y amenazó con multas. Y un empleado obtuvo una exención religiosa para no tener que usar IA en su trabajo. Son casos muy distintos con un hilo común: quién usa la IA y quién la alimenta con datos, y en qué condiciones, ya no lo deciden solo los proveedores.\n\nPara Europa se abre así una perspectiva propia. Mistral presenta su nuevo modelo ML4 apostando por la apertura como aporte a la soberanía. La politóloga Nicole Lemke considera más arriesgado dar a Europa por perdida que seguir invirtiendo en grandes modelos propios. Si la infraestructura en Estados Unidos se encarece políticamente, también cambian las oportunidades relativas de otros lugares.\n\nEsta semana dejó claro que la capacidad de cómputo no se compone solo de chips y capital, sino también de consentimiento, y ese recurso no se consigue en ninguna ronda de financiación.",
+      "audio": "audio/2026-11-07/podcast-es.mp3",
+      "duration_sec": 171,
+      "voice": {
+        "name": "Ceecee - Friendly",
+        "voice_id": "bc5d389d33a140c89e50e9b75fde5303",
+        "language": "Multilingual"
+      },
+      "speed": 1.4,
+      "engine": "HeyGen v3"
+    }
+  },
+  "model": "claude-sonnet-5-5",
+  "link_check": {
+    "checked_at": "2026-11-07",
+    "results": [
+      {
+        "url": "https://www.heise.de/news/Nach-US-Zwischenwahlen-Skepsis-zum-KI-Boom-loest-heftigen-Boersenabsturz-aus-11514310.html",
+        "ok": true,
+        "status": [
+          200,
+          200
+        ],
+        "final_url": "https://www.heise.de/news/Nach-US-Zwischenwahlen-Skepsis-zum-KI-Boom-loest-heftigen-Boersenabsturz-aus-11514310.html"
+      },
+      {
+        "url": "https://www.handelsblatt.com/technik/ki/ki-finanzierung-openai-sammelt-laut-bericht-elf-milliarden-dollar-bei-investoren-ein/100268028.html",
+        "ok": true,
+        "status": [
+          200,
+          200
+        ],
+        "final_url": "https://www.handelsblatt.com/technik/ki/ki-finanzierung-openai-sammelt-laut-bericht-elf-milliarden-dollar-bei-investoren-ein/100268028.html"
+      },
+      {
+        "url": "https://www.heise.de/news/OpenAIs-fuer-Cybersecurity-verbessertes-KI-Modell-GPT-6-Cyber-haelt-sich-an-Regeln-11514280.html",
+        "ok": true,
+        "status": [
+          200,
+          200
+        ],
+        "final_url": "https://www.heise.de/news/OpenAIs-fuer-Cybersecurity-verbessertes-KI-Modell-GPT-6-Cyber-haelt-sich-an-Regeln-11514280.html"
+      },
+      {
+        "url": "https://www.handelsblatt.com/technik/ki/cloud-microsoft-beendet-laut-einem-bericht-den-ki-vertrag-mit-oracle/100268017.html",
+        "ok": true,
+        "status": [
+          200,
+          200
+        ],
+        "final_url": "https://www.handelsblatt.com/technik/ki/cloud-microsoft-beendet-laut-einem-bericht-den-ki-vertrag-mit-oracle/100268017.html"
+      },
+      {
+        "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+        "ok": true,
+        "status": [
+          200,
+          200
+        ],
+        "final_url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/"
+      },
+      {
+        "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+        "ok": true,
+        "status": [
+          200,
+          200
+        ],
+        "final_url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/"
+      },
+      {
+        "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+        "ok": true,
+        "status": [
+          200,
+          200
+        ],
+        "final_url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/"
+      },
+      {
+        "url": "https://www.heise.de/news/NVKE-Nvidia-bringt-eigene-Kubernetes-Engine-als-Preview-11515947.html",
+        "ok": true,
+        "status": [
+          200,
+          200
+        ],
+        "final_url": "https://www.heise.de/news/NVKE-Nvidia-bringt-eigene-Kubernetes-Engine-als-Preview-11515947.html"
+      },
+      {
+        "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+        "ok": true,
+        "status": [
+          200,
+          200
+        ],
+        "final_url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/"
+      },
+      {
+        "url": "https://www.heise.de/news/Brasilien-Gericht-verbietet-Meta-die-Nutzung-von-Medieninhalten-fuer-KI-Training-11514246.html",
+        "ok": true,
+        "status": [
+          200,
+          200
+        ],
+        "final_url": "https://www.heise.de/news/Brasilien-Gericht-verbietet-Meta-die-Nutzung-von-Medieninhalten-fuer-KI-Training-11514246.html"
+      },
+      {
+        "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+        "ok": true,
+        "status": [
+          200,
+          200
+        ],
+        "final_url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/"
+      },
+      {
+        "url": "https://t3n.de/news/ki-zwang-umgangen-wegen-religion-1770567",
+        "ok": true,
+        "status": [
+          200,
+          200
+        ],
+        "final_url": "https://t3n.de/news/ki-zwang-umgangen-wegen-religion-1770567/"
+      },
+      {
+        "url": "https://t3n.de/news/europaeische-ki-es-ist-riskanter-zu-sagen-der-zug-ist-abgefahren-1772038",
+        "ok": true,
+        "status": [
+          200,
+          200
+        ],
+        "final_url": "https://t3n.de/news/europaeische-ki-es-ist-riskanter-zu-sagen-der-zug-ist-abgefahren-1772038/"
+      },
+      {
+        "url": "https://www.heise.de/news/KI-Update-Deep-Dive-Wie-Mistral-mit-ML4-im-KI-Rennen-aufholen-will-11513626.html",
+        "ok": true,
+        "status": [
+          200,
+          200
+        ],
+        "final_url": "https://www.heise.de/news/KI-Update-Deep-Dive-Wie-Mistral-mit-ML4-im-KI-Rennen-aufholen-will-11513626.html"
+      },
+      {
+        "url": "https://www.heise.de/news/Nach-US-Zwischenwahlen-OpenAI-verspricht-anwohnerfreundliche-Rechenzentren-11513473.html",
+        "ok": true,
+        "status": [
+          200,
+          200
+        ],
+        "final_url": "https://www.heise.de/news/Nach-US-Zwischenwahlen-OpenAI-verspricht-anwohnerfreundliche-Rechenzentren-11513473.html"
+      }
+    ],
+    "visible_items": 15
+  },
+  "reports": {
+    "audio": "## Audio (2026-11-07)\nSprechgeschwindigkeit: 1.4 (HeyGen speed-Parameter)\n- de: konfigurierte Stimme Ceecee - Friendly (bc5d389d33a140c89e50e9b75fde5303)\n- de: 4 Chunks, Dauer 165 s, Datei podcast-de.mp3\n- en: konfigurierte Stimme Ceecee - Friendly (bc5d389d33a140c89e50e9b75fde5303)\n- en: 3 Chunks, Dauer 155 s, Datei podcast-en.mp3\n- es: konfigurierte Stimme Ceecee - Friendly (bc5d389d33a140c89e50e9b75fde5303)\n- es: 3 Chunks, Dauer 171 s, Datei podcast-es.mp3"
+  }
+}

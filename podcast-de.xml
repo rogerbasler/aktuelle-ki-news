@@ -6,7 +6,12 @@
 <itunes:image href="https://news.fragroger.ai/assets/podcast-cover.png"/>
 <itunes:category text="Technology"/><itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
 <atom:link href="https://news.fragroger.ai/podcast-de.xml" rel="self" type="application/rss+xml"/>
-<item><title>KI Power Update 31. Oktober 2026</title>
+<item><title>KI Power Update 7. November 2026</title>
+<link>https://news.fragroger.ai/archiv/2026-11-07/</link><guid isPermaLink="false">kipu-de-2026-11-07</guid><pubDate>Sat, 07 Nov 2026 05:00:00 +0000</pubDate>
+<description>Was passiert mit dem KI-Boom, wenn die Menschen vor Ort keine Rechenzentren mehr wollen? Diese Woche gab es darauf eine erstaunlich direkte Antwort. Bei den US-Zwischenwahlen wurde über einundvierzig Vorlagen zu Rechenzentren abgestimmt. In allen ausser einer entschied sich die Mehrheit für strengere Regeln.
+
+Die Börsen brauchten einen Tag, um das zu verarbeiten, dann reagierten sie umso heftiger.</description><enclosure url="https://news.fragroger.ai/audio/2026-11-07/podcast-de.mp3" length="2633603" type="audio/mpeg"/>
+<itunes:duration>2:45</itunes:duration><itunes:explicit>false</itunes:explicit></item><item><title>KI Power Update 31. Oktober 2026</title>
 <link>https://news.fragroger.ai/archiv/2026-10-31/</link><guid isPermaLink="false">kipu-de-2026-10-31</guid><pubDate>Sat, 31 Oct 2026 05:00:00 +0000</pubDate>
 <description>Wie lange trägt die Finanzierung des KI-Booms noch, wenn selbst OpenAI sein Finanzierungsziel um zehn Milliarden Dollar senkt?
 
@@ -83,8 +88,5 @@ Willkomme</description><enclosure url="https://news.fragroger.ai/audio/2026-06-2
 <itunes:duration>3:39</itunes:duration><itunes:explicit>false</itunes:explicit></item><item><title>KI Power Update 20. Juni 2026</title>
 <link>https://news.fragroger.ai/archiv/2026-06-20/</link><guid isPermaLink="false">kipu-de-2026-06-20</guid><pubDate>Sat, 20 Jun 2026 05:00:00 +0000</pubDate>
 <description></description><enclosure url="https://news.fragroger.ai/audio/2026-06-20/podcast-de.mp3" length="1809453" type="audio/mpeg"/>
-<itunes:duration>3:46</itunes:duration><itunes:explicit>false</itunes:explicit></item><item><title>KI Power Update 16. Juni 2026</title>
-<link>https://news.fragroger.ai/archiv/2026-06-16/</link><guid isPermaLink="false">kipu-de-2026-06-16</guid><pubDate>Tue, 16 Jun 2026 05:00:00 +0000</pubDate>
-<description></description><enclosure url="https://news.fragroger.ai/audio/2026-06-16/podcast-de.mp3" length="1346997" type="audio/mpeg"/>
-<itunes:duration>2:38</itunes:duration><itunes:explicit>false</itunes:explicit></item>
+<itunes:duration>3:46</itunes:duration><itunes:explicit>false</itunes:explicit></item>
 </channel></rss>

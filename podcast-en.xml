@@ -6,7 +6,12 @@
 <itunes:image href="https://news.fragroger.ai/assets/podcast-cover.png"/>
 <itunes:category text="Technology"/><itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
 <atom:link href="https://news.fragroger.ai/podcast-en.xml" rel="self" type="application/rss+xml"/>
-<item><title>KI Power Update 31 October 2026</title>
+<item><title>KI Power Update 7 November 2026</title>
+<link>https://news.fragroger.ai/en/archiv/2026-11-07/</link><guid isPermaLink="false">kipu-en-2026-11-07</guid><pubDate>Sat, 07 Nov 2026 05:00:00 +0000</pubDate>
+<description>What happens to the AI boom when local communities simply stop wanting data centers? This week delivered a surprisingly direct answer. In the US midterm elections, voters decided on forty-one ballot measures related to data centers. In all but one, the majority chose stricter rules.
+
+Markets took a day to process this, then reacted all the more forcefully. Roughly three trillion dollars in market </description><enclosure url="https://news.fragroger.ai/audio/2026-11-07/podcast-en.mp3" length="2481884" type="audio/mpeg"/>
+<itunes:duration>2:35</itunes:duration><itunes:explicit>false</itunes:explicit></item><item><title>KI Power Update 31 October 2026</title>
 <link>https://news.fragroger.ai/en/archiv/2026-10-31/</link><guid isPermaLink="false">kipu-en-2026-10-31</guid><pubDate>Sat, 31 Oct 2026 05:00:00 +0000</pubDate>
 <description>How long can the financing of the AI boom hold up when even OpenAI lowers its funding target by ten billion dollars?
 

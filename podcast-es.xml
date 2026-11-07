@@ -6,7 +6,12 @@
 <itunes:image href="https://news.fragroger.ai/assets/podcast-cover.png"/>
 <itunes:category text="Technology"/><itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
 <atom:link href="https://news.fragroger.ai/podcast-es.xml" rel="self" type="application/rss+xml"/>
-<item><title>KI Power Update 31 de octubre de 2026</title>
+<item><title>KI Power Update 7 de noviembre de 2026</title>
+<link>https://news.fragroger.ai/es/archiv/2026-11-07/</link><guid isPermaLink="false">kipu-es-2026-11-07</guid><pubDate>Sat, 07 Nov 2026 05:00:00 +0000</pubDate>
+<description>¿Qué le pasa al auge de la IA cuando las comunidades locales ya no quieren centros de datos? Esta semana llegó una respuesta sorprendentemente directa. En las elecciones de medio mandato en Estados Unidos se votaron cuarenta y una iniciativas sobre centros de datos. En todas salvo una, la mayoría eligió reglas más estrictas.
+
+Los mercados tardaron un día en asimilarlo y luego reaccionaron con más </description><enclosure url="https://news.fragroger.ai/audio/2026-11-07/podcast-es.mp3" length="2744363" type="audio/mpeg"/>
+<itunes:duration>2:51</itunes:duration><itunes:explicit>false</itunes:explicit></item><item><title>KI Power Update 31 de octubre de 2026</title>
 <link>https://news.fragroger.ai/es/archiv/2026-10-31/</link><guid isPermaLink="false">kipu-es-2026-10-31</guid><pubDate>Sat, 31 Oct 2026 05:00:00 +0000</pubDate>
 <description>¿Cuánto tiempo aguantará la financiación del auge de la IA si hasta OpenAI reduce su objetivo en diez mil millones de dólares?
 
