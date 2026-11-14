@@ -1,0 +1,495 @@
+{
+  "date": "2026-11-14",
+  "week": 46,
+  "languages": [
+    "de",
+    "en",
+    "es"
+  ],
+  "editorial_note": "Die Woche wird vom Rücktritt Jensen Huangs und seinen Folgen für Finanzierung, Politik und Lieferketten dominiert, deshalb stehen drei Meldungen dazu im Zentrum. Ergänzt wurden sie durch Meldungen zu agentischem Handel, Regulierung und dem bevorstehenden Anthropic-Börsengang, mit Quellen aus t3n, heise, Handelsblatt und TechCrunch.",
+  "items": [
+    {
+      "candidate": 29,
+      "category": "news",
+      "url": "https://www.handelsblatt.com/technik/it-internet/nach-chef-abgang-wie-geht-es-weiter-nach-dem-nvidia-eklat/100269564.html",
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Nvidia ohne Jensen Huang: Der Chip-Riese steht vor einer Zäsur",
+        "summary": "Jensen Huang ist als Nvidia-Chef zurückgetreten, Colette Kress führt das Unternehmen kommissarisch. Huang prägte Nvidia als Motor des KI-Booms, sein plötzlicher Abgang könnte Folgen bis in die US-Regierung haben. Für Unternehmen, die von Nvidia-Hardware abhängen, stellt sich die Frage nach der strategischen Kontinuität des Lieferanten."
+      },
+      "en": {
+        "title": "Nvidia without Jensen Huang: the chip giant faces a turning point",
+        "summary": "Jensen Huang has stepped down as Nvidia's chief executive, with Colette Kress leading the company on an interim basis. Huang shaped Nvidia into the engine of the AI boom, and his sudden exit could have consequences reaching into the US administration. Companies that depend on Nvidia hardware now have to ask how stable the supplier's strategy will remain."
+      },
+      "es": {
+        "title": "Nvidia sin Jensen Huang: el gigante de los chips ante un punto de inflexión",
+        "summary": "Jensen Huang ha dimitido como director ejecutivo de Nvidia y Colette Kress asume el cargo de forma interina. Huang convirtió a Nvidia en el motor del auge de la IA, y su salida repentina podría tener consecuencias hasta el gabinete estadounidense. Las empresas que dependen del hardware de Nvidia deben preguntarse por la continuidad estratégica de su proveedor."
+      },
+      "published": "2026-11-13",
+      "url_is_article": true
+    },
+    {
+      "candidate": 35,
+      "category": "news",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "source": "TechCrunch",
+      "de": {
+        "title": "Huangs Abgang reisst Lücke in die Finanzierung von KI-Startups",
+        "summary": "Nvidia hat unter Huang zweistellige Milliardenbeträge in KI-Startups investiert. Ohne ihn rechnen Gründer:innen und Investor:innen mit kleineren Finanzierungsrunden und niedrigeren Bewertungen. Für junge KI-Unternehmen bedeutet das, die Abhängigkeit von einem einzelnen strategischen Geldgeber zu überprüfen und Finanzierungsquellen zu breiter aufzustellen."
+      },
+      "en": {
+        "title": "Huang's departure leaves a hole in AI startup funding",
+        "summary": "Under Huang, Nvidia poured tens of billions of dollars into AI startups. Without him at the helm, founders and venture investors are bracing for smaller cheques and lower valuations. Young AI companies may need to reassess their reliance on a single strategic backer and broaden their sources of capital."
+      },
+      "es": {
+        "title": "La salida de Huang abre un vacío en la financiación de startups de IA",
+        "summary": "Bajo la dirección de Huang, Nvidia invirtió decenas de miles de millones en startups de IA. Sin él al frente, fundadores e inversores esperan cheques más pequeños y valoraciones más bajas. Las empresas jóvenes de IA deberán revisar su dependencia de un único socio estratégico y diversificar sus fuentes de capital."
+      },
+      "published": "2026-11-13",
+      "url_is_article": true
+    },
+    {
+      "candidate": 37,
+      "category": "news",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "source": "TechCrunch",
+      "de": {
+        "title": "Chinas leistungsstärkste KI-Modelle wurden auf gesperrten Nvidia-Chips trainiert",
+        "summary": "Neue Forschung zeigt, dass die fortgeschrittensten KI-Modelle aus China auf Nvidia-Chips trainiert wurden, die unter Exportverbot stehen. Das stellt die Wirksamkeit der US-Exportkontrollen infrage. Für Unternehmen mit internationalen Lieferketten steigt damit das Risiko weiterer Verschärfungen und Compliance-Anforderungen."
+      },
+      "en": {
+        "title": "China's most powerful AI models were trained on export-banned Nvidia chips",
+        "summary": "New research shows that the most advanced AI models from China were trained on Nvidia chips subject to export bans. This raises questions about how effective US export controls really are. Companies with international supply chains should expect further tightening and growing compliance requirements."
+      },
+      "es": {
+        "title": "Los modelos de IA más potentes de China se entrenaron con chips de Nvidia prohibidos",
+        "summary": "Una nueva investigación muestra que los modelos de IA más avanzados de China se entrenaron con chips de Nvidia sujetos a prohibición de exportación. Esto cuestiona la eficacia de los controles de exportación de Estados Unidos. Las empresas con cadenas de suministro internacionales deben prever nuevas restricciones y mayores exigencias de cumplimiento."
+      },
+      "published": "2026-11-13",
+      "url_is_article": true
+    },
+    {
+      "candidate": 6,
+      "category": "news",
+      "url": "https://t3n.de/news/spacex-strategiewechsel-anthropic-ki-nasa-1770765/",
+      "source": "t3n",
+      "de": {
+        "title": "SpaceX erzielt ein Drittel des Umsatzes mit Anthropic",
+        "summary": "Ein Drittel des SpaceX-Umsatzes stammt inzwischen von der KI-Firma Anthropic, die US-Regierung ist nicht mehr der grösste Kunde. Das Raumfahrtunternehmen wird damit zum Infrastrukturanbieter für KI. Die Verschiebung zeigt, wie stark der KI-Bedarf Geschäftsmodelle ausserhalb der klassischen Softwarebranche verändert."
+      },
+      "en": {
+        "title": "SpaceX now earns a third of its revenue from Anthropic",
+        "summary": "A third of SpaceX's revenue now comes from the AI company Anthropic, and the US government is no longer its largest customer. The space company is effectively becoming an infrastructure provider for AI. The shift shows how strongly AI demand is reshaping business models far beyond the traditional software industry."
+      },
+      "es": {
+        "title": "SpaceX obtiene un tercio de sus ingresos de Anthropic",
+        "summary": "Un tercio de los ingresos de SpaceX procede ya de la empresa de IA Anthropic, y el gobierno estadounidense ha dejado de ser su mayor cliente. La compañía espacial se convierte así en proveedor de infraestructura para la IA. El cambio muestra cómo la demanda de IA transforma modelos de negocio muy alejados del software tradicional."
+      },
+      "published": "2026-11-13",
+      "url_is_article": true
+    },
+    {
+      "candidate": 47,
+      "category": "news",
+      "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+      "source": "TechCrunch",
+      "de": {
+        "title": "Google verbessert den KI-Modus der Suche mit Gemini 4 Hydrogen",
+        "summary": "Der KI-Modus der Google-Suche läuft nun mit Gemini 4 Hydrogen und soll komplexe Anfragen besser verstehen, relevantere Links liefern und visuell reichhaltigere Antworten geben. Für Unternehmen verändert sich damit, wie Inhalte gefunden und dargestellt werden. Die Sichtbarkeit in der Suche hängt stärker von der Aufbereitung für KI-Antworten ab."
+      },
+      "en": {
+        "title": "Google upgrades Search's AI Mode with Gemini 4 Hydrogen",
+        "summary": "Google's AI Mode in Search now runs on Gemini 4 Hydrogen and is meant to handle complex queries better, surface more relevant links and give richer visual answers. For businesses, this changes how content is found and presented. Visibility in search increasingly depends on how well content is prepared for AI-generated answers."
+      },
+      "es": {
+        "title": "Google mejora el modo IA de su buscador con Gemini 4 Hydrogen",
+        "summary": "El modo IA de la búsqueda de Google funciona ahora con Gemini 4 Hydrogen y promete entender mejor las consultas complejas, mostrar enlaces más relevantes y ofrecer respuestas visuales más ricas. Para las empresas cambia la forma en que se encuentra y se presenta el contenido. La visibilidad en las búsquedas depende cada vez más de su preparación para respuestas generadas por IA."
+      },
+      "published": "2026-11-12",
+      "url_is_article": true
+    },
+    {
+      "candidate": 38,
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "source": "TechCrunch",
+      "de": {
+        "title": "ChatGPT Wallet: KI-Agenten kaufen und bezahlen im Auftrag der Nutzer:innen",
+        "summary": "ChatGPT Wallet erlaubt KI-Agenten, im Namen der Nutzer:innen einzukaufen und zu bezahlen, zunächst in einem begrenzten Rollout für Pro-Abonnent:innen in den USA. Damit rückt der agentische Handel näher an den Alltag. Händler müssen sich darauf einstellen, dass Kaufentscheidungen künftig teilweise von Software getroffen werden."
+      },
+      "en": {
+        "title": "ChatGPT Wallet lets AI agents shop and check out on users' behalf",
+        "summary": "ChatGPT Wallet allows AI agents to shop and pay on behalf of users, starting with a limited rollout to Pro subscribers in the US. Agent-driven commerce moves a step closer to everyday use. Retailers need to prepare for purchase decisions that are partly made by software rather than people."
+      },
+      "es": {
+        "title": "ChatGPT Wallet permite que agentes de IA compren y paguen por los usuarios",
+        "summary": "ChatGPT Wallet permite que agentes de IA compren y paguen en nombre de los usuarios, con un despliegue limitado inicial para suscriptores Pro en Estados Unidos. El comercio mediante agentes se acerca así al uso cotidiano. Los comerciantes deben prepararse para decisiones de compra tomadas en parte por software."
+      },
+      "published": "2026-11-13",
+      "url_is_article": true
+    },
+    {
+      "candidate": 36,
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "source": "TechCrunch",
+      "de": {
+        "title": "LangChain erreicht Bewertung von drei Milliarden Dollar",
+        "summary": "Das Startup LangChain meldet 7000 Kund:innen für sein modell- und plattformunabhängiges Agenten-Managementwerkzeug LangSmith. Die Bewertung von drei Milliarden Dollar zeigt, dass Kontrolle und Überwachung von KI-Agenten zu einem eigenen Markt werden. Unternehmen, die Agenten einsetzen, brauchen dafür zunehmend eigene Werkzeuge."
+      },
+      "en": {
+        "title": "LangChain reaches a $3 billion valuation",
+        "summary": "The startup LangChain says 7,000 customers use LangSmith, its model- and platform-agnostic tool for managing AI agents. The $3 billion valuation suggests that oversight and control of agents is becoming a market of its own. Companies deploying agents will increasingly need dedicated tooling to manage them."
+      },
+      "es": {
+        "title": "LangChain alcanza una valoración de tres mil millones de dólares",
+        "summary": "La startup LangChain afirma tener 7000 clientes para LangSmith, su herramienta de gestión de agentes independiente del modelo y de la plataforma. La valoración de tres mil millones de dólares indica que el control y la supervisión de agentes se convierte en un mercado propio. Las empresas que usan agentes necesitarán cada vez más herramientas específicas."
+      },
+      "published": "2026-11-13",
+      "url_is_article": true
+    },
+    {
+      "candidate": 40,
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+      "source": "TechCrunch",
+      "de": {
+        "title": "ElevenLabs lanciert App für Meeting-Protokolle und Diktat",
+        "summary": "ElevenLabs bringt mit ElevenAI eine App auf den Markt, die Meeting-Protokollierung und Diktierfunktion für Teams und Unternehmen verbindet. Das Unternehmen erweitert sich damit von der Sprachsynthese in den Bürobereich. Für Organisationen entsteht eine weitere Option im bereits dichten Markt der KI-Assistenten für Besprechungen."
+      },
+      "en": {
+        "title": "ElevenLabs launches an app for meeting notes and dictation",
+        "summary": "ElevenLabs has launched ElevenAI, an app that combines meeting note-taking and dictation for teams and enterprises. The company is expanding from voice synthesis into the workplace. Organisations gain another option in an already crowded market of AI assistants for meetings."
+      },
+      "es": {
+        "title": "ElevenLabs lanza una app de actas de reuniones y dictado",
+        "summary": "ElevenLabs presenta ElevenAI, una aplicación que combina la toma de notas en reuniones y el dictado para equipos y empresas. La compañía se expande así de la síntesis de voz al entorno de oficina. Las organizaciones obtienen otra opción en un mercado ya saturado de asistentes de IA para reuniones."
+      },
+      "published": "2026-11-13",
+      "url_is_article": true
+    },
+    {
+      "candidate": 9,
+      "category": "tools",
+      "url": "https://www.heise.de/news/Developer-Haeppchen-Kiro-schickt-Bots-los-Rider-durchleuchtet-Godot-Szenen-11523808.html",
+      "source": "heise",
+      "de": {
+        "title": "Entwicklerwerkzeuge: AWS Kiro schickt Bots los, Spring AI und Rider im Update",
+        "summary": "Neue Meldungen aus der Entwicklerwelt betreffen unter anderem AWS Kiro, Spring AI, Rider, ReSharper, PhpStorm, Laravel und Node.js. Agentische Funktionen halten damit zunehmend Einzug in gängige Entwicklungsumgebungen. Für Entwicklungsteams lohnt sich die Prüfung, welche dieser Funktionen den eigenen Workflow tatsächlich entlasten."
+      },
+      "en": {
+        "title": "Developer tools: AWS Kiro sends out bots, Spring AI and Rider updated",
+        "summary": "The latest developer news covers AWS Kiro, Spring AI, Rider, ReSharper, PhpStorm, Laravel and Node.js, among others. Agentic features are steadily making their way into mainstream development environments. Engineering teams should check which of these functions actually relieve their own workflow."
+      },
+      "es": {
+        "title": "Herramientas para desarrolladores: AWS Kiro lanza bots, actualizaciones de Spring AI y Rider",
+        "summary": "Las novedades para desarrolladores incluyen AWS Kiro, Spring AI, Rider, ReSharper, PhpStorm, Laravel y Node.js, entre otras. Las funciones agénticas llegan de forma gradual a los entornos de desarrollo habituales. Los equipos técnicos deberían comprobar cuáles de ellas alivian realmente su flujo de trabajo."
+      },
+      "published": "2026-11-14",
+      "url_is_article": true
+    },
+    {
+      "candidate": 11,
+      "category": "regulierung",
+      "url": "https://www.heise.de/news/KI-ueberflutet-EU-Institutionen-mit-Antraegen-und-Halluzinationen-11525079.html",
+      "source": "heise",
+      "de": {
+        "title": "Generative KI überflutet EU-Institutionen mit Anträgen und Anfragen",
+        "summary": "Chatbots erzeugen in Brüssel und Strassburg eine Flut an Änderungsanträgen und Anfragen. Beamte und Abgeordnete warnen vor demokratischen Risiken, auch wegen fehlerhafter Inhalte. Die Meldung zeigt, dass KI nicht nur Unternehmen, sondern auch Verwaltungs- und Entscheidungsprozesse an ihre Kapazitätsgrenzen bringt."
+      },
+      "en": {
+        "title": "Generative AI floods EU institutions with amendments and enquiries",
+        "summary": "Chatbots are generating a flood of amendments and enquiries in Brussels and Strasbourg. Officials and members of parliament warn of democratic risks, including from inaccurate content. The case shows that AI is pushing not only companies but also administrative and decision-making processes to their capacity limits."
+      },
+      "es": {
+        "title": "La IA generativa inunda las instituciones de la UE con enmiendas y consultas",
+        "summary": "Los chatbots generan en Bruselas y Estrasburgo una avalancha de enmiendas y consultas. Funcionarios y eurodiputados alertan de riesgos democráticos, también por contenidos erróneos. El caso muestra que la IA lleva al límite de su capacidad no solo a las empresas, sino también a los procesos administrativos y de decisión."
+      },
+      "published": "2026-11-13",
+      "url_is_article": true
+    },
+    {
+      "candidate": 13,
+      "category": "regulierung",
+      "url": "https://www.heise.de/news/Lizenz-zum-Einbruch-Bundestag-winkt-umkaempfte-Geheimdienstreform-durch-11524886.html",
+      "source": "heise",
+      "de": {
+        "title": "Bundestag verabschiedet Geheimdienstreform mit KI-Überwachung",
+        "summary": "Der Bundestag hat die umstrittene Reform beschlossen: BND und Verfassungsschutz erhalten weitreichende Befugnisse für Wohnungseinbrüche, KI-Überwachung und Datenmanipulation. Warnungen vor Grundrechtsverletzungen blieben ohne Wirkung. Für Unternehmen und Bürger:innen verschiebt sich damit die Balance zwischen Sicherheit und Datenschutz spürbar."
+      },
+      "en": {
+        "title": "Bundestag passes intelligence reform including AI surveillance",
+        "summary": "The German Bundestag has passed the contested reform: the BND and the domestic intelligence service gain far-reaching powers for home break-ins, AI surveillance and data manipulation. Warnings about violations of fundamental rights went unheeded. For companies and citizens, the balance between security and data protection shifts noticeably."
+      },
+      "es": {
+        "title": "El Bundestag aprueba la reforma de los servicios secretos con vigilancia mediante IA",
+        "summary": "El Bundestag ha aprobado la polémica reforma: el BND y los servicios de inteligencia interior obtienen amplias facultades para allanamientos, vigilancia con IA y manipulación de datos. Las advertencias sobre vulneraciones de derechos fundamentales no tuvieron efecto. Para empresas y ciudadanos, el equilibrio entre seguridad y protección de datos cambia de forma notable."
+      },
+      "published": "2026-11-13",
+      "url_is_article": true
+    },
+    {
+      "candidate": 43,
+      "category": "regulierung",
+      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+      "source": "TechCrunch",
+      "de": {
+        "title": "Demokraten leiten zweite Kongressuntersuchung gegen Nvidia ein",
+        "summary": "Eine weitere Untersuchung des US-Kongresses richtet sich gegen Nvidias China-Geschäft und die Beziehungen zu Präsident Trump. Es ist die zweite Untersuchung seit Bekanntwerden der mutmasslichen Spionageaffäre. Für Nvidia und seine Kunden steigt der regulatorische Druck, was Lieferfähigkeit und Exportstrategie beeinflussen kann."
+      },
+      "en": {
+        "title": "Democrats open a second congressional investigation into Nvidia",
+        "summary": "A further US congressional investigation targets Nvidia's China sales and its dealings with President Trump. It is the second probe since news of the alleged spy affair broke. Regulatory pressure on Nvidia and its customers is rising, which may affect supply and export strategy."
+      },
+      "es": {
+        "title": "Los demócratas abren una segunda investigación del Congreso contra Nvidia",
+        "summary": "Una nueva investigación del Congreso de Estados Unidos se centra en las ventas de Nvidia a China y su relación con el presidente Trump. Es la segunda investigación desde que se conoció el presunto caso de espionaje. La presión regulatoria sobre Nvidia y sus clientes aumenta, lo que puede afectar al suministro y a la estrategia de exportación."
+      },
+      "published": "2026-11-12",
+      "url_is_article": true
+    },
+    {
+      "candidate": 28,
+      "category": "stimmen",
+      "url": "https://www.handelsblatt.com/technik/it-internet/anthropic-chef-dario-amodei-spricht-ueber-chancen-profit-und-ki-sicherheit/100269790.html",
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Amodei äussert sich vor dem Börsengang zu Chancen, Profit und KI-Sicherheit",
+        "summary": "Kurz vor einem der grössten Börsengänge der Geschichte werben Anthropic-Chef Dario Amodei und Jamie Dimon von JP Morgan gemeinsam um Anleger. Die Aktie ist bereits sechsfach überzeichnet. Amodei muss dabei Wachstumserwartungen und den Anspruch auf KI-Sicherheit glaubwürdig verbinden."
+      },
+      "en": {
+        "title": "Amodei on opportunity, profit and AI safety ahead of the IPO",
+        "summary": "Shortly before one of the largest listings in history, Anthropic chief executive Dario Amodei and JP Morgan's Jamie Dimon are jointly courting investors. The shares are already six times oversubscribed. Amodei has to reconcile growth expectations with the company's credibility on AI safety."
+      },
+      "es": {
+        "title": "Amodei habla de oportunidades, beneficios y seguridad de la IA antes de la salida a bolsa",
+        "summary": "Poco antes de una de las mayores salidas a bolsa de la historia, el director de Anthropic, Dario Amodei, y Jamie Dimon, de JP Morgan, cortejan juntos a los inversores. Las acciones ya están sobresuscritas seis veces. Amodei debe conciliar las expectativas de crecimiento con la credibilidad en seguridad de la IA."
+      },
+      "published": "2026-11-13",
+      "url_is_article": true
+    },
+    {
+      "candidate": 32,
+      "category": "stimmen",
+      "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-mit-der-neuen-nvidia-chefin-kehrt-endlich-ruhe-im-ki-theater-ein/100269648.html",
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Kommentar: Warum die neue Nvidia-Chefin der Branche guttut",
+        "summary": "Interims-CEO Colette Kress wird als blass beschrieben, doch das kann in der aufgeheizten Stimmung eine Stärke sein. Der Kommentar argumentiert, dass es ein Fehler wäre, sie zu unterschätzen. Für Partner und Kunden von Nvidia könnte nüchterne Führung mehr Planbarkeit bedeuten als eine charismatische Leitfigur."
+      },
+      "en": {
+        "title": "Commentary: why Nvidia's new chief is good for the industry",
+        "summary": "Interim chief executive Colette Kress is often described as low-key, which can be a strength in an overheated climate. The commentary argues that underestimating her would be a mistake. For Nvidia's partners and customers, sober leadership may offer more predictability than a charismatic figurehead."
+      },
+      "es": {
+        "title": "Opinión: por qué la nueva directora de Nvidia beneficia al sector",
+        "summary": "A la directora ejecutiva interina Colette Kress se la describe como discreta, lo que puede ser una fortaleza en un clima tan caldeado. El comentario sostiene que subestimarla sería un error. Para los socios y clientes de Nvidia, un liderazgo sobrio podría ofrecer más previsibilidad que una figura carismática."
+      },
+      "published": "2026-11-13",
+      "url_is_article": true
+    },
+    {
+      "candidate": 51,
+      "category": "business",
+      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+      "source": "TechCrunch",
+      "de": {
+        "title": "United Airlines sperrt KI-Agenten für Flugbuchungen",
+        "summary": "United Airlines erlaubt Kund:innen nicht, KI-Agenten für Flugbuchungen und die Verwaltung von Reservierungen zu nutzen, und nennt Cybersicherheitsrisiken als Grund. Der Schritt steht im Kontrast zu Angeboten wie ChatGPT Wallet. Unternehmen müssen entscheiden, ob und unter welchen Bedingungen sie automatisierte Agenten als Kunden zulassen."
+      },
+      "en": {
+        "title": "United Airlines blocks AI agents from booking flights",
+        "summary": "United Airlines will not allow customers to use AI agents to book flights and manage reservations, citing cybersecurity risks. The move contrasts with offerings such as ChatGPT Wallet. Companies must decide whether, and under what conditions, they will accept automated agents as customers."
+      },
+      "es": {
+        "title": "United Airlines bloquea a los agentes de IA para reservar vuelos",
+        "summary": "United Airlines no permitirá que los clientes usen agentes de IA para reservar vuelos y gestionar reservas, alegando riesgos de ciberseguridad. La medida contrasta con ofertas como ChatGPT Wallet. Las empresas deben decidir si aceptan agentes automatizados como clientes y bajo qué condiciones."
+      },
+      "published": "2026-11-12",
+      "url_is_article": true
+    }
+  ],
+  "podcast": {
+    "de": {
+      "script": "Was bedeutet es für die KI-Branche, wenn ihr wichtigster Hardwareanbieter plötzlich seinen Chef verliert? Jensen Huang ist als Nvidia-Chef zurückgetreten, Colette Kress führt das Unternehmen kommissarisch. Huang hat Nvidia zum Motor des KI-Booms gemacht, und sein Abgang wirkt deshalb weit über den Konzern hinaus.\n\nDer erste Mechanismus ist Geld. Nvidia hat unter Huang zweistellige Milliardenbeträge in KI-Startups gesteckt. Ohne ihn rechnen Gründer:innen und Investor:innen mit kleineren Finanzierungsrunden und niedrigeren Bewertungen. Wer als junges Unternehmen auf einen einzigen strategischen Geldgeber gesetzt hat, muss seine Finanzierung nun breiter aufstellen.\n\nDer zweite Mechanismus ist Politik. Die Demokraten haben eine zweite Kongressuntersuchung eingeleitet, die sich gegen das China-Geschäft und die Beziehungen zu Präsident Trump richtet. Dazu passt eine neue Studie, nach der Chinas leistungsstärkste KI-Modelle auf Nvidia-Chips trainiert wurden, die unter Exportverbot stehen. Das stellt die Wirksamkeit der Exportkontrollen infrage und erhöht das Risiko weiterer Verschärfungen für alle, die international liefern.\n\nWie robust die Branche trotzdem ist, zeigt ein Blick auf die Kundenseite. Ein Drittel des SpaceX-Umsatzes stammt inzwischen von Anthropic, die US-Regierung ist nicht mehr der grösste Kunde. Der Raumfahrtkonzern wird damit auch zum Infrastrukturanbieter für KI. Und Anthropic selbst steht kurz vor einem der grössten Börsengänge der Geschichte, die Aktie ist bereits sechsfach überzeichnet. Amodei muss dabei Wachstumserwartungen mit dem Anspruch auf KI-Sicherheit verbinden, und beides gleichzeitig zu versprechen, ist eine Übung, die selten ohne Kompromisse endet.\n\nWährend die Infrastruktur wackelt und wächst, verschiebt sich die Anwendungsebene. Google betreibt den KI-Modus seiner Suche nun mit Gemini 4 Hydrogen und will komplexe Fragen besser beantworten. Für Unternehmen heisst das, dass Sichtbarkeit zunehmend davon abhängt, wie gut Inhalte für KI-Antworten aufbereitet sind. ChatGPT Wallet geht noch einen Schritt weiter: KI-Agenten kaufen und bezahlen im Auftrag der Nutzer:innen, zunächst für Pro-Abonnent:innen in den USA.\n\nDass nicht alle diese Entwicklung mittragen, zeigt United Airlines. Die Fluggesellschaft sperrt KI-Agenten für Buchungen und nennt Cybersicherheitsrisiken als Grund. Händler stehen damit vor einer echten Entscheidung: Agenten als Kunden willkommen heissen oder aussperren. Beides hat Kosten, und beides lässt sich nicht aussitzen.\n\nAuch die öffentliche Hand spürt den Druck der Technologie. In Brüssel und Strassburg erzeugen Chatbots eine Flut an Änderungsanträgen und Anfragen, Beamte warnen vor demokratischen Risiken. Gleichzeitig hat der Bundestag eine Geheimdienstreform beschlossen, die BND und Verfassungsschutz weitreichende Befugnisse für KI-Überwachung und Datenmanipulation gibt. Die Technik beschleunigt also sowohl die Eingaben an den Staat als auch die Eingriffe des Staates.\n\nVerbindet man diese Linien, entsteht ein konsistentes Bild. Die KI-Wirtschaft hängt an wenigen Knotenpunkten, bei Chips, Kapital und Rechenleistung, und jeder Knoten ist anfälliger für Personen und Politik, als die Wachstumszahlen vermuten lassen. Wer Agenten einsetzt oder zulässt, braucht deshalb nicht nur Werkzeuge, sondern auch eine Position zu Abhängigkeit und Kontrolle. Stabilität im KI-Geschäft ist derzeit weniger eine Frage der Technik als eine Frage der Führung.",
+      "audio": "audio/2026-11-14/podcast-de.mp3",
+      "duration_sec": 145,
+      "voice": {
+        "name": "Ceecee - Friendly",
+        "voice_id": "bc5d389d33a140c89e50e9b75fde5303",
+        "language": "Multilingual"
+      },
+      "speed": 1.4,
+      "engine": "HeyGen v3"
+    },
+    "en": {
+      "script": "What does it mean for the AI industry when its most important hardware supplier suddenly loses its chief executive? Jensen Huang has resigned as head of Nvidia, and Colette Kress is running the company on an interim basis. Huang turned Nvidia into the engine of the AI boom, so his exit reaches far beyond one company.\n\nThe first mechanism is money. Under Huang, Nvidia put tens of billions of dollars into AI startups. Without him, founders and investors expect smaller rounds and lower valuations. A young company that counted on a single strategic backer now has to broaden its funding.\n\nThe second mechanism is politics. Democrats have opened a second congressional investigation into Nvidia's China sales and its dealings with President Trump. Alongside that, new research finds that China's most powerful AI models were trained on Nvidia chips under export bans. That questions how effective export controls really are, and it raises the risk of further tightening for anyone supplying internationally.\n\nThe customer side shows how resilient the industry still is. A third of SpaceX's revenue now comes from Anthropic, and the US government is no longer its largest customer. The space company is becoming an AI infrastructure provider. Anthropic itself is close to one of the biggest listings in history, with shares already six times oversubscribed. Amodei has to square growth expectations with a commitment to AI safety, and promising both at once is an exercise that rarely ends without compromise.\n\nWhile the infrastructure wobbles and grows, the application layer is moving. Google now runs the AI Mode in Search on Gemini 4 Hydrogen and aims to answer complex questions better. For businesses, that means visibility increasingly depends on how well content is prepared for AI answers. ChatGPT Wallet goes a step further: AI agents shop and pay on users' behalf, starting with Pro subscribers in the United States.\n\nNot everyone is going along with this. United Airlines blocks AI agents from booking flights, citing cybersecurity risks. Retailers therefore face a real decision: welcome agents as customers or keep them out. Both options carry costs, and neither can be waited out.\n\nThe public sector feels the pressure as well. In Brussels and Strasbourg, chatbots are producing a flood of amendments and enquiries, and officials warn of democratic risks. At the same time, the Bundestag has passed an intelligence reform giving the BND and domestic intelligence far-reaching powers for AI surveillance and data manipulation. The technology accelerates both the inputs to the state and the state's reach.\n\nPut these threads together and the picture is consistent. The AI economy hangs on a few nodes, chips, capital and compute, and each node is more exposed to personalities and politics than the growth figures suggest. Anyone deploying or admitting agents needs not only tools but also a position on dependence and control. Stability in AI is currently less a question of technology than a question of leadership.",
+      "audio": "audio/2026-11-14/podcast-en.mp3",
+      "duration_sec": 135,
+      "voice": {
+        "name": "Ceecee - Friendly",
+        "voice_id": "bc5d389d33a140c89e50e9b75fde5303",
+        "language": "Multilingual"
+      },
+      "speed": 1.4,
+      "engine": "HeyGen v3"
+    },
+    "es": {
+      "script": "¿Qué significa para la industria de la IA que su principal proveedor de hardware pierda de repente a su director? Jensen Huang ha dimitido como jefe de Nvidia y Colette Kress dirige la empresa de forma interina. Huang convirtió a Nvidia en el motor del auge de la IA, así que su salida repercute mucho más allá de una sola compañía.\n\nEl primer mecanismo es el dinero. Bajo Huang, Nvidia invirtió decenas de miles de millones en startups de IA. Sin él, fundadores e inversores esperan rondas más pequeñas y valoraciones más bajas. Una empresa joven que contaba con un único socio estratégico ahora debe diversificar su financiación.\n\nEl segundo mecanismo es la política. Los demócratas han abierto una segunda investigación en el Congreso sobre las ventas de Nvidia a China y su relación con el presidente Trump. A ello se suma un nuevo estudio según el cual los modelos de IA más potentes de China se entrenaron con chips de Nvidia sujetos a prohibición de exportación. Eso cuestiona la eficacia de los controles y aumenta el riesgo de nuevas restricciones para quien suministra a nivel internacional.\n\nEl lado de los clientes muestra cuán resistente sigue siendo el sector. Un tercio de los ingresos de SpaceX procede ya de Anthropic, y el gobierno estadounidense ha dejado de ser su mayor cliente. La compañía espacial se convierte en proveedor de infraestructura de IA. La propia Anthropic está a punto de realizar una de las mayores salidas a bolsa de la historia, con las acciones ya sobresuscritas seis veces. Amodei debe conciliar las expectativas de crecimiento con el compromiso con la seguridad de la IA, y prometer ambas cosas a la vez rara vez termina sin concesiones.\n\nMientras la infraestructura tambalea y crece, la capa de aplicaciones se mueve. Google ejecuta ahora el modo IA de su buscador con Gemini 4 Hydrogen y quiere responder mejor a preguntas complejas. Para las empresas, la visibilidad depende cada vez más de lo bien preparado que esté el contenido para las respuestas de IA. ChatGPT Wallet va un paso más allá: agentes de IA compran y pagan en nombre del usuario, de momento para suscriptores Pro en Estados Unidos.\n\nNo todos aceptan este rumbo. United Airlines bloquea a los agentes de IA para reservar vuelos y cita riesgos de ciberseguridad. Los comerciantes se enfrentan así a una decisión real: dar la bienvenida a los agentes como clientes o dejarlos fuera. Ambas opciones tienen costes y ninguna se puede posponer.\n\nTambién el sector público siente la presión. En Bruselas y Estrasburgo, los chatbots generan una avalancha de enmiendas y consultas, y los funcionarios advierten de riesgos democráticos. Al mismo tiempo, el Bundestag ha aprobado una reforma de los servicios secretos que otorga al BND y a la inteligencia interior amplias facultades de vigilancia con IA y manipulación de datos. La tecnología acelera tanto las entradas hacia el Estado como el alcance del Estado.\n\nSi se unen estos hilos, el cuadro es coherente. La economía de la IA depende de pocos nodos, chips, capital y capacidad de cómputo, y cada nodo es más vulnerable a personas y políticas de lo que sugieren las cifras de crecimiento. Quien despliega o admite agentes necesita no solo herramientas, sino también una posición sobre dependencia y control. La estabilidad en la IA es hoy menos una cuestión de tecnología que de liderazgo.",
+      "audio": "audio/2026-11-14/podcast-es.mp3",
+      "duration_sec": 152,
+      "voice": {
+        "name": "Ceecee - Friendly",
+        "voice_id": "bc5d389d33a140c89e50e9b75fde5303",
+        "language": "Multilingual"
+      },
+      "speed": 1.4,
+      "engine": "HeyGen v3"
+    }
+  },
+  "model": "claude-sonnet-5-5",
+  "link_check": {
+    "checked_at": "2026-11-14",
+    "results": [
+      {
+        "url": "https://www.handelsblatt.com/technik/it-internet/nach-chef-abgang-wie-geht-es-weiter-nach-dem-nvidia-eklat/100269564.html",
+        "ok": true,
+        "status": [
+          200,
+          200
+        ],
+        "final_url": "https://www.handelsblatt.com/technik/it-internet/nach-chef-abgang-wie-geht-es-weiter-nach-dem-nvidia-eklat/100269564.html"
+      },
+      {
+        "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+        "ok": true,
+        "status": [
+          200,
+          200
+        ],
+        "final_url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
+      },
+      {
+        "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+        "ok": true,
+        "status": [
+          200,
+          200
+        ],
+        "final_url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
+      },
+      {
+        "url": "https://t3n.de/news/spacex-strategiewechsel-anthropic-ki-nasa-1770765",
+        "ok": true,
+        "status": [
+          200,
+          200
+        ],
+        "final_url": "https://t3n.de/news/spacex-strategiewechsel-anthropic-ki-nasa-1770765/"
+      },
+      {
+        "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+        "ok": true,
+        "status": [
+          200,
+          200
+        ],
+        "final_url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/"
+      },
+      {
+        "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+        "ok": true,
+        "status": [
+          200,
+          200
+        ],
+        "final_url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
+      },
+      {
+        "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+        "ok": true,
+        "status": [
+          200,
+          200
+        ],
+        "final_url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
+      },
+      {
+        "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+        "ok": true,
+        "status": [
+          200,
+          200
+        ],
+        "final_url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/"
+      },
+      {
+        "url": "https://www.heise.de/news/Developer-Haeppchen-Kiro-schickt-Bots-los-Rider-durchleuchtet-Godot-Szenen-11523808.html",
+        "ok": true,
+        "status": [
+          200,
+          200
+        ],
+        "final_url": "https://www.heise.de/news/Developer-Haeppchen-Kiro-schickt-Bots-los-Rider-durchleuchtet-Godot-Szenen-11523808.html"
+      },
+      {
+        "url": "https://www.heise.de/news/KI-ueberflutet-EU-Institutionen-mit-Antraegen-und-Halluzinationen-11525079.html",
+        "ok": true,
+        "status": [
+          200,
+          200
+        ],
+        "final_url": "https://www.heise.de/news/KI-ueberflutet-EU-Institutionen-mit-Antraegen-und-Halluzinationen-11525079.html"
+      },
+      {
+        "url": "https://www.heise.de/news/Lizenz-zum-Einbruch-Bundestag-winkt-umkaempfte-Geheimdienstreform-durch-11524886.html",
+        "ok": true,
+        "status": [
+          200,
+          200
+        ],
+        "final_url": "https://www.heise.de/news/Lizenz-zum-Einbruch-Bundestag-winkt-umkaempfte-Geheimdienstreform-durch-11524886.html"
+      },
+      {
+        "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+        "ok": true,
+        "status": [
+          200,
+          200
+        ],
+        "final_url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/"
+      },
+      {
+        "url": "https://www.handelsblatt.com/technik/it-internet/anthropic-chef-dario-amodei-spricht-ueber-chancen-profit-und-ki-sicherheit/100269790.html",
+        "ok": true,
+        "status": [
+          200,
+          200
+        ],
+        "final_url": "https://www.handelsblatt.com/technik/it-internet/anthropic-chef-dario-amodei-spricht-ueber-chancen-profit-und-ki-sicherheit/100269790.html"
+      },
+      {
+        "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-mit-der-neuen-nvidia-chefin-kehrt-endlich-ruhe-im-ki-theater-ein/100269648.html",
+        "ok": true,
+        "status": [
+          200,
+          200
+        ],
+        "final_url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-mit-der-neuen-nvidia-chefin-kehrt-endlich-ruhe-im-ki-theater-ein/100269648.html"
+      },
+      {
+        "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+        "ok": true,
+        "status": [
+          200,
+          200
+        ],
+        "final_url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/"
+      }
+    ],
+    "visible_items": 15
+  },
+  "reports": {
+    "audio": "## Audio (2026-11-14)\nSprechgeschwindigkeit: 1.4 (HeyGen speed-Parameter)\n- de: konfigurierte Stimme Ceecee - Friendly (bc5d389d33a140c89e50e9b75fde5303)\n- de: 3 Chunks, Dauer 145 s, Datei podcast-de.mp3\n- en: konfigurierte Stimme Ceecee - Friendly (bc5d389d33a140c89e50e9b75fde5303)\n- en: 3 Chunks, Dauer 135 s, Datei podcast-en.mp3\n- es: konfigurierte Stimme Ceecee - Friendly (bc5d389d33a140c89e50e9b75fde5303)\n- es: 3 Chunks, Dauer 152 s, Datei podcast-es.mp3"
+  }
+}

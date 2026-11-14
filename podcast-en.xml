@@ -6,7 +6,12 @@
 <itunes:image href="https://news.fragroger.ai/assets/podcast-cover.png"/>
 <itunes:category text="Technology"/><itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
 <atom:link href="https://news.fragroger.ai/podcast-en.xml" rel="self" type="application/rss+xml"/>
-<item><title>KI Power Update 7 November 2026</title>
+<item><title>KI Power Update 14 November 2026</title>
+<link>https://news.fragroger.ai/en/archiv/2026-11-14/</link><guid isPermaLink="false">kipu-en-2026-11-14</guid><pubDate>Sat, 14 Nov 2026 05:00:00 +0000</pubDate>
+<description>What does it mean for the AI industry when its most important hardware supplier suddenly loses its chief executive? Jensen Huang has resigned as head of Nvidia, and Colette Kress is running the company on an interim basis. Huang turned Nvidia into the engine of the AI boom, so his exit reaches far beyond one company.
+
+The first mechanism is money. Under Huang, Nvidia put tens of billions of dollar</description><enclosure url="https://news.fragroger.ai/audio/2026-11-14/podcast-en.mp3" length="2159220" type="audio/mpeg"/>
+<itunes:duration>2:15</itunes:duration><itunes:explicit>false</itunes:explicit></item><item><title>KI Power Update 7 November 2026</title>
 <link>https://news.fragroger.ai/en/archiv/2026-11-07/</link><guid isPermaLink="false">kipu-en-2026-11-07</guid><pubDate>Sat, 07 Nov 2026 05:00:00 +0000</pubDate>
 <description>What happens to the AI boom when local communities simply stop wanting data centers? This week delivered a surprisingly direct answer. In the US midterm elections, voters decided on forty-one ballot measures related to data centers. In all but one, the majority chose stricter rules.
 

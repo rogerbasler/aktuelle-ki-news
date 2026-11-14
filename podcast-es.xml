@@ -6,7 +6,12 @@
 <itunes:image href="https://news.fragroger.ai/assets/podcast-cover.png"/>
 <itunes:category text="Technology"/><itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
 <atom:link href="https://news.fragroger.ai/podcast-es.xml" rel="self" type="application/rss+xml"/>
-<item><title>KI Power Update 7 de noviembre de 2026</title>
+<item><title>KI Power Update 14 de noviembre de 2026</title>
+<link>https://news.fragroger.ai/es/archiv/2026-11-14/</link><guid isPermaLink="false">kipu-es-2026-11-14</guid><pubDate>Sat, 14 Nov 2026 05:00:00 +0000</pubDate>
+<description>¿Qué significa para la industria de la IA que su principal proveedor de hardware pierda de repente a su director? Jensen Huang ha dimitido como jefe de Nvidia y Colette Kress dirige la empresa de forma interina. Huang convirtió a Nvidia en el motor del auge de la IA, así que su salida repercute mucho más allá de una sola compañía.
+
+El primer mecanismo es el dinero. Bajo Huang, Nvidia invirtió dece</description><enclosure url="https://news.fragroger.ai/audio/2026-11-14/podcast-es.mp3" length="2431311" type="audio/mpeg"/>
+<itunes:duration>2:32</itunes:duration><itunes:explicit>false</itunes:explicit></item><item><title>KI Power Update 7 de noviembre de 2026</title>
 <link>https://news.fragroger.ai/es/archiv/2026-11-07/</link><guid isPermaLink="false">kipu-es-2026-11-07</guid><pubDate>Sat, 07 Nov 2026 05:00:00 +0000</pubDate>
 <description>¿Qué le pasa al auge de la IA cuando las comunidades locales ya no quieren centros de datos? Esta semana llegó una respuesta sorprendentemente directa. En las elecciones de medio mandato en Estados Unidos se votaron cuarenta y una iniciativas sobre centros de datos. En todas salvo una, la mayoría eligió reglas más estrictas.
 
