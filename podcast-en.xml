@@ -6,7 +6,12 @@
 <itunes:image href="https://news.fragroger.ai/assets/podcast-cover.png"/>
 <itunes:category text="Technology"/><itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
 <atom:link href="https://news.fragroger.ai/podcast-en.xml" rel="self" type="application/rss+xml"/>
-<item><title>KI Power Update 14 November 2026</title>
+<item><title>KI Power Update 21 November 2026</title>
+<link>https://news.fragroger.ai/en/archiv/2026-11-21/</link><guid isPermaLink="false">kipu-en-2026-11-21</guid><pubDate>Sat, 21 Nov 2026 05:00:00 +0000</pubDate>
+<description>What does it mean when a record-setting IPO is followed one day later by a global sell-off? Anthropic raised almost 105 billion dollars at 83 dollars a share, and each of its seven founders took home roughly 280 million. By the second trading day the stock was down ten percent, the Nasdaq was selling off, and the S&amp;P 500 had slipped into correction.
+
+The market is asking an uncomfortable question:</description><enclosure url="https://news.fragroger.ai/audio/2026-11-21/podcast-en.mp3" length="2250753" type="audio/mpeg"/>
+<itunes:duration>2:21</itunes:duration><itunes:explicit>false</itunes:explicit></item><item><title>KI Power Update 14 November 2026</title>
 <link>https://news.fragroger.ai/en/archiv/2026-11-14/</link><guid isPermaLink="false">kipu-en-2026-11-14</guid><pubDate>Sat, 14 Nov 2026 05:00:00 +0000</pubDate>
 <description>What does it mean for the AI industry when its most important hardware supplier suddenly loses its chief executive? Jensen Huang has resigned as head of Nvidia, and Colette Kress is running the company on an interim basis. Huang turned Nvidia into the engine of the AI boom, so his exit reaches far beyond one company.
 

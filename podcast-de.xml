@@ -6,7 +6,12 @@
 <itunes:image href="https://news.fragroger.ai/assets/podcast-cover.png"/>
 <itunes:category text="Technology"/><itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
 <atom:link href="https://news.fragroger.ai/podcast-de.xml" rel="self" type="application/rss+xml"/>
-<item><title>KI Power Update 14. November 2026</title>
+<item><title>KI Power Update 21. November 2026</title>
+<link>https://news.fragroger.ai/archiv/2026-11-21/</link><guid isPermaLink="false">kipu-de-2026-11-21</guid><pubDate>Sat, 21 Nov 2026 05:00:00 +0000</pubDate>
+<description>Was bedeutet es, wenn ein Börsengang der Superlative einen Tag später von einem globalen Ausverkauf gefolgt wird? Anthropic hat zu 83 Dollar je Aktie fast 105 Milliarden Dollar eingesammelt, die sieben Gründer erhielten jeweils rund 280 Millionen. Am zweiten Handelstag lag die Aktie zehn Prozent im Minus, die Nasdaq verkaufte aus, und der S&amp;P 500 rutschte in die Korrektur.
+
+Die Börse stellt damit </description><enclosure url="https://news.fragroger.ai/audio/2026-11-21/podcast-de.mp3" length="2346047" type="audio/mpeg"/>
+<itunes:duration>2:27</itunes:duration><itunes:explicit>false</itunes:explicit></item><item><title>KI Power Update 14. November 2026</title>
 <link>https://news.fragroger.ai/archiv/2026-11-14/</link><guid isPermaLink="false">kipu-de-2026-11-14</guid><pubDate>Sat, 14 Nov 2026 05:00:00 +0000</pubDate>
 <description>Was bedeutet es für die KI-Branche, wenn ihr wichtigster Hardwareanbieter plötzlich seinen Chef verliert? Jensen Huang ist als Nvidia-Chef zurückgetreten, Colette Kress führt das Unternehmen kommissarisch. Huang hat Nvidia zum Motor des KI-Booms gemacht, und sein Abgang wirkt deshalb weit über den Konzern hinaus.
 
@@ -83,12 +88,5 @@ Genau das hat OpenAI diese Woche dokumentiert. Ein Modell sollte sieben Chats be
 <itunes:duration>5:15</itunes:duration><itunes:explicit>false</itunes:explicit></item><item><title>KI Power Update 27. Juni 2026</title>
 <link>https://news.fragroger.ai/archiv/2026-06-27/</link><guid isPermaLink="false">kipu-de-2026-06-27</guid><pubDate>Sat, 27 Jun 2026 05:00:00 +0000</pubDate>
 <description></description><enclosure url="https://news.fragroger.ai/audio/2026-06-27/podcast-de.mp3" length="1865325" type="audio/mpeg"/>
-<itunes:duration>3:53</itunes:duration><itunes:explicit>false</itunes:explicit></item><item><title>KI Power Update 23. Juni 2026</title>
-<link>https://news.fragroger.ai/archiv/2026-06-23/</link><guid isPermaLink="false">kipu-de-2026-06-23</guid><pubDate>Tue, 23 Jun 2026 05:00:00 +0000</pubDate>
-<description>Wann hast du zuletzt einem Tool vertraut, das du täglich nutzt – und wann hast du aufgehört, es zu hinterfragen?
-
-Genau das zeigt eine neue Pew-Studie: 49 Prozent der Amerikaner nutzen AI regelmässig – aber nur 16 Prozent glauben, dass AI einen positiven Einfluss auf die Gesellschaft haben wird. Nutzung und Vertrauen driften auseinander. Das ist kein Widerspruch. Das ist ein Warnsignal.
-
-Willkomme</description><enclosure url="https://news.fragroger.ai/audio/2026-06-23/podcast-de.mp3" length="3497517" type="audio/mpeg"/>
-<itunes:duration>3:39</itunes:duration><itunes:explicit>false</itunes:explicit></item>
+<itunes:duration>3:53</itunes:duration><itunes:explicit>false</itunes:explicit></item>
 </channel></rss>

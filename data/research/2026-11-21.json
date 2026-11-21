@@ -1,0 +1,380 @@
+[
+  {
+    "title": "Human in the Lead: Wie man KI-Agenten zähmt, ohne sie auszubremsen",
+    "url": "https://t3n.de/news/agentische-ki-human-in-the-lead-steuerung-1773694",
+    "summary": "War der Hugging-Face-Hack nur Schlamperei – oder haben wir es mit einer neuen Bedrohung zu tun? Oder lenkt beides tatsächlich von einer viel grundsätzlicheren Frage ab: Wie wird ein Fehler korrigiert, bevor er Schaden anrichtet? Wer das nicht weiß, sollte den Agenten besser gar nicht erst losschicken.",
+    "published": "2026-11-21T09:25:00+00:00",
+    "source": "t3n"
+  },
+  {
+    "title": "KI vs. Klimaziele: Warum Rechenzentren zum Problem für das Stromnetz werden",
+    "url": "https://t3n.de/news/rechenzentren-stromverbrauch-harvard-studie-1773938",
+    "summary": "Der KI-Boom und der damit verbundene Ausbau von Rechenzentren sorgen aufgrund des hohen Strom- und Wasserverbrauchs in den USA zunehmend für Gegenwind. Dank einer neuen Harvard-Studie dürften sich Kritiker:innen bestätigt sehen.",
+    "published": "2026-11-21T08:50:00+00:00",
+    "source": "t3n"
+  },
+  {
+    "title": "800 Millionen „Duft-Tokens“: So will ein US-Startup einer KI das Riechen beibringen",
+    "url": "https://t3n.de/news/800-millionen-duft-tokens-so-will-ein-us-startup-einer-ki-das-riechen-beibringen-1774212",
+    "summary": "Das Geruchsmodell von Osmo wird bereits in der Parfümindustrie eingesetzt. Künftig soll sie auch für medizinische Diagnostik und das Erschnüffeln von Gefahren g",
+    "published": "2026-11-21T07:40:28+00:00",
+    "source": "t3n"
+  },
+  {
+    "title": "KI-Kosten steigen massiv: Warum Goldman Sachs jetzt die Bremse zieht",
+    "url": "https://t3n.de/news/goldman-sachs-ki-kosten-bremse-1771271",
+    "summary": "Goldman Sachs zieht bei KI-Tools die Zügel an: Claude Code und GitHub bleiben künftig Entwicklern vorbehalten. Was das über den KI-Boom an der Wall Street verrät.",
+    "published": "2026-11-21T07:30:00+00:00",
+    "source": "t3n"
+  },
+  {
+    "title": "„Niemand will diese Arbeit machen“: Roboter übernimmt das Putzen deiner Wohnung – was dabei schief geht",
+    "url": "https://t3n.de/news/humanoider-roboter-putzen-selbstversuch-1772384",
+    "summary": "Die vom Startup Tau Robotics in San Francisco entwickelten Maschinen benötigen zwar noch viel menschliche Anleitung und scheinen nicht fürs Treppensteigen gemac",
+    "published": "2026-11-21T06:55:00+00:00",
+    "source": "t3n"
+  },
+  {
+    "title": "KI-Rechenzentrum im All: Google kooperiert mit Jeff Bezos’ Blue Origin",
+    "url": "https://t3n.de/news/ki-rechenzentrun-all-google-bezos-blue-origin-1774626",
+    "summary": "Google arbeitet für das Project Suncatcher mit Blue Origin von Amazon-Gründer Jeff Bezos zusammen. Die Schwerlastrakete New Glenn soll Satelliten für das geplante KI-Rechenzentrum im Weltall in den Orbit transportieren.",
+    "published": "2026-11-20T18:00:27+00:00",
+    "source": "t3n"
+  },
+  {
+    "title": "Googles Gemini kann bald Macs steuern: Was die KI für Nutzer erledigen soll",
+    "url": "https://t3n.de/news/google-gemini-mac-steuern-1774609",
+    "summary": "Google plant, seine KI auf Macs mit mehr Fertigkeiten auszustatten. Gemini kann künftig auch die Steuerung von macOS übernehmen. Warum das Unternehmen damit Apples Vorhaben zuvorkommt.",
+    "published": "2026-11-20T13:00:11+00:00",
+    "source": "t3n"
+  },
+  {
+    "title": "Riemannsche Vermutung: Anthropic-Mathematiker will KI-Beweis gefunden haben",
+    "url": "https://www.heise.de/news/Riemannsche-Vermutung-Anthropic-Mathematiker-will-KI-Beweis-gefunden-haben-11533452.html",
+    "summary": "Levent Alpöge will mit Claude die Riemannsche Vermutung bewiesen haben. Die Prüfung läuft, ein zweiter Ansatz ohne KI liegt vor.",
+    "published": "2026-11-21T09:09:00+00:00",
+    "source": "heise"
+  },
+  {
+    "title": "KI-Kennzeichnung und National Geographic – die Fotonews der Woche 47/2026",
+    "url": "https://www.heise.de/news/KI-Kennzeichnung-und-National-Geographic-die-Fotonews-der-Woche-47-2026-11532822.html",
+    "summary": "Frankfurter Gericht stärkt Fotografen-Rechte bei KI-Bildern. National Geographic kürt Pictures of the Year. Und VSCO startet einen Desktop-Editor.",
+    "published": "2026-11-21T09:00:00+00:00",
+    "source": "heise"
+  },
+  {
+    "title": "Developer-Häppchen: Agenten überwachen sich mit openchamber gegenseitig",
+    "url": "https://www.heise.de/news/Developer-Haeppchen-Microsoft-Sicherheits-Scanner-Managed-Open-Shift-auf-Azure-11532884.html",
+    "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Auron, WordPress, MDASH, openchamber, Rust, Cloudflare und Azure.",
+    "published": "2026-11-21T07:17:00+00:00",
+    "source": "heise"
+  },
+  {
+    "title": "Anthropics IPO: Gemischtes Fazit trotz Rekord-Börsengangs",
+    "url": "https://www.heise.de/news/Anthropics-IPO-Gemischtes-Fazit-trotz-Rekord-Boersengangs-11528169.html",
+    "summary": "Der Börsengang von Anthropic war historisch, doch der Aktienkurs sank direkt nach Handelsbeginn. Analysten wagen kaum eine Prognose, wie es weiter geht.",
+    "published": "2026-11-20T18:17:00+00:00",
+    "source": "heise"
+  },
+  {
+    "title": "GitLab 19.6 führt Audit-Log für KI-Agenten ein, NGINX bleibt verwundbar",
+    "url": "https://www.heise.de/news/GitLab-19-6-fuehrt-Audit-Log-fuer-KI-Agenten-ein-NGINX-bleibt-verwundbar-11532950.html",
+    "summary": "Agenten-Aktionen über den MCP-Server landen jetzt im Audit-Log. Patch 19.6.1 schließt Ruby2Shell, das mitgelieferte NGINX bleibt für nginx2root anfällig.",
+    "published": "2026-11-20T14:39:00+00:00",
+    "source": "heise"
+  },
+  {
+    "title": "KI-Update Deep-Dive: Smart Glasses als Alltagshilfe",
+    "url": "https://www.heise.de/news/KI-Update-Deep-Dive-Smart-Glasses-als-Alltagshilfe-11530663.html",
+    "summary": "Für blinde Menschen sind KI-Brillen eine Alltagshilfe. Doch die Technologie steht wegen Datenschutzbedenken in der Kritik. Das verunsichert Betroffene.",
+    "published": "2026-11-20T14:00:00+00:00",
+    "source": "heise"
+  },
+  {
+    "title": "heise-Angebot: iX-Workshop: Multiagentensysteme entwickeln und in eigene Software integrieren",
+    "url": "https://www.heise.de/news/iX-Workshop-Multiagentensysteme-entwickeln-und-in-eigene-Software-integrieren-11516058.html",
+    "summary": "Üben Sie direkt am Code, wie Sie aus spezialisierten KI-Agenten ein eigenes Multiagentensystem aufbauen, das komplexe Aufgaben automatisiert erledigen kann.",
+    "published": "2026-11-20T13:00:00+00:00",
+    "source": "heise"
+  },
+  {
+    "title": "KI-Mini-Workstations mit Nvidia RTX Spark jetzt ab 4600 Euro erhältlich",
+    "url": "https://www.heise.de/news/KI-Mini-Workstations-mit-Nvidia-RTX-Spark-jetzt-ab-4600-Euro-erhaeltlich-11532573.html",
+    "summary": "Asus und MSI liefern kompakte Windows-11-PCs mit RTX Spark und bis zu 128 GByte; einige Konkurrenten mit AMD Ryzen AI Max Pro sind billiger, einer hat mehr RAM.",
+    "published": "2026-11-20T12:37:00+00:00",
+    "source": "heise"
+  },
+  {
+    "title": "FFmpeg 9.1 erfindet Bilder dazu – wenn eine Nvidia-GPU hilft",
+    "url": "https://www.heise.de/news/FFmpeg-9-1-erfindet-Bilder-dazu-wenn-eine-Nvidia-GPU-hilft-11532359.html",
+    "summary": "Besserer AAC-Klang, berechnete Zwischenbilder per GPU und ein Vulkan-Encoder für APV: Version 9.1 erweitert das Medien-Framework FFmpeg an vielen Stellen.",
+    "published": "2026-11-20T11:40:00+00:00",
+    "source": "heise"
+  },
+  {
+    "title": "Metas KI-Gadget für die Hosentasche soll 300 Dollar kosten",
+    "url": "https://www.heise.de/news/Metas-KI-Gadget-fuer-die-Hosentasche-soll-300-Dollar-kosten-11532549.html",
+    "summary": "Metas KI-Gadget Muse Charm dürfte noch vor Jahresende erscheinen. Einem Bericht zufolge soll es 300 US-Dollar kosten und mit kostenlosem 5G starten.",
+    "published": "2026-11-20T11:29:00+00:00",
+    "source": "heise"
+  },
+  {
+    "title": "Stellenanzeigen verraten Apples Pläne für agentische KI",
+    "url": "https://www.heise.de/news/Stellenanzeigen-verraten-Apples-Plaene-fuer-agentische-KI-11532377.html",
+    "summary": "Stellenanzeigen zeigen, dass Apple an einem autonomen KI-Agenten arbeitet, der Code schreibt, im Web surft und Apps steuert – Start frühestens Ende 2027.",
+    "published": "2026-11-20T11:11:00+00:00",
+    "source": "heise"
+  },
+  {
+    "title": "Weltrekord: 151 Roboter tanzen binnen einer Stunde synchron",
+    "url": "https://www.heise.de/news/Guinness-Rekord-151-humanoide-Roboter-tanzen-gleichzeitig-synchron-11532204.html",
+    "summary": "In China haben Darbietungen synchroner Bewegungen von Menschenmassen Tradition. Humanoide Roboter können das auch.",
+    "published": "2026-11-20T09:47:00+00:00",
+    "source": "heise"
+  },
+  {
+    "title": "software-architektur.tv: Produktivität mit KI – das Harvard-Paper",
+    "url": "https://www.heise.de/news/software-architektur-tv-Produktivitaet-mit-KI-das-Harvard-Paper-11532159.html",
+    "summary": "KI schreibt schneller Code, doch kommen dadurch auch mehr Features bei Kunden an? Eine Harvard-Studie liefert Antworten.",
+    "published": "2026-11-20T09:32:00+00:00",
+    "source": "heise"
+  },
+  {
+    "title": "Nvidia unter Druck: Kalifornien fordert Antworten zu China-Geschäften",
+    "url": "https://www.heise.de/news/Kalifornien-will-von-Nvidia-Aufklaerung-zu-China-Lieferungen-11532235.html",
+    "summary": "Die Kontroverse um Jensen Huang ist für Nvidia mit dem Rücktritt des langjährigen Chefs nicht vorbei. Jetzt rollt die nächste Untersuchung auf den Konzern zu.",
+    "published": "2026-11-20T09:20:00+00:00",
+    "source": "heise"
+  },
+  {
+    "title": "Google baut ein künstliches Internet für seine KI-Agenten",
+    "url": "https://www.heise.de/news/Google-baut-ein-kuenstliches-Internet-fuer-seine-KI-Agenten-11532191.html",
+    "summary": "Google hat ein künstliches Internet mit Tausenden Websites geschaffen, um KI-Agenten realistischen Angriffen auszusetzen und ihre Sicherheit zu verbessern.",
+    "published": "2026-11-20T09:10:00+00:00",
+    "source": "heise"
+  },
+  {
+    "title": "heise-Angebot: iX-Sonderheft Testing-Guide – Qualitätssicherung in Zeiten von KI",
+    "url": "https://www.heise.de/news/iX-Sonderheft-Testing-Guide-Qualitaetssicherung-in-Zeiten-von-KI-11528697.html",
+    "summary": "Testing-Praxis mit, von und ohne KI – das neue Sonderheft von iX Developer berichtet über klassische und moderne Testing-Methoden, Know-how und Best Practices.",
+    "published": "2026-11-20T07:00:00+00:00",
+    "source": "heise"
+  },
+  {
+    "title": "MongoDB kauft Firebolt und holt sich Echtzeitanalyse-Engine ins Haus",
+    "url": "https://www.heise.de/news/MongoDB-kauft-Firebolt-und-holt-sich-Echtzeitanalyse-Engine-ins-Haus-11531590.html",
+    "summary": "Einst als Milliarden-Start-up gehandelt, landet Firebolt nun bei MongoDB. Die Engine soll dort Analysen für Anwendungen und KI-Agenten beschleunigen.",
+    "published": "2026-11-20T06:03:00+00:00",
+    "source": "heise"
+  },
+  {
+    "title": "KI-Sorgen: Taiwans Börse sackt ab, AMD verliert stark, Anthropic noch im Plus",
+    "url": "https://www.heise.de/news/KI-Sorgen-Taiwans-Boerse-sackt-ab-AMD-verliert-stark-Anthropic-noch-im-Plus-11531957.html",
+    "summary": "Der geglückte Börsengang von Anthropic konnte am Donnerstag nicht darüber hinwegtäuschen, dass die Stimmung an den Finanzmärkten angespannt bleibt.",
+    "published": "2026-11-20T05:56:00+00:00",
+    "source": "heise"
+  },
+  {
+    "title": "KI-Rüstung: UN-Gespräche über autonome Waffen enden ohne verbindliche Zusage",
+    "url": "https://www.handelsblatt.com/politik/international/ki-ruestung-un-gespraeche-ueber-autonome-waffen-enden-ohne-verbindliche-zusage/100271727.html",
+    "summary": "Vollautonome Waffen sollen im Krieg zum Einsatz kommen. Dem internationalen Aufruf nach einer Einigung auf Schranken sind viele Länder gefolgt, aber ein Ergebnis bleibt vorerst aus.",
+    "published": "2026-11-21T09:11:30+00:00",
+    "source": "Handelsblatt"
+  },
+  {
+    "title": "Folgenreiche KI-Entwicklung: Regeln für Killerroboter: Gespräche enden mit Minimalkonsens",
+    "url": "https://www.handelsblatt.com/politik/international/folgenreiche-ki-entwicklung-regeln-fuer-killerroboter-gespraeche-enden-mit-minimalkonsens/100271710.html",
+    "summary": "Vollautonome Waffen können selbst Ziele auswählen und tödliche Angriffe auslösen. Zwar soll es nun international Schranken für die Entwicklung geben. Aber das Wann und Wie bleibt ungeklärt.",
+    "published": "2026-11-21T04:48:41+00:00",
+    "source": "Handelsblatt"
+  },
+  {
+    "title": "IT-Sicherheit: Hackerangriff auf Immobilienverwaltung der Bundesagentur",
+    "url": "https://www.handelsblatt.com/politik/deutschland/it-sicherheit-hackerangriff-auf-immobilienverwaltung-der-bundesagentur/100271684.html",
+    "summary": "Die Bundesagentur für Arbeit ist Deutschlands größte Behörde. Ihre Immobilienverwaltung ist nun Ziel von Computerhackern geworden.",
+    "published": "2026-11-20T22:38:44+00:00",
+    "source": "Handelsblatt"
+  },
+  {
+    "title": "Chip-Konzern: Aufsicht SEC überprüft laut Bericht Nvidia-Bilanzierung – Aktie fällt weiter",
+    "url": "https://www.handelsblatt.com/technik/ki/chip-konzern-aufsicht-sec-ueberprueft-laut-bericht-nvidia-bilanzierung/100271678.html",
+    "summary": "Nvidia droht neues Ungemach: Aufseher untersuchen offenbar die Buchhaltung des Konzerns – und den Schmuggel von Chips nach China. Präsident Trump fordert derweil die Rückkehr von Ex-Chef Huang.",
+    "published": "2026-11-20T21:30:36+00:00",
+    "source": "Handelsblatt"
+  },
+  {
+    "title": "Chip-Konzern: Trump will immer noch Huang als Nvidia-Chef zurück",
+    "url": "https://www.handelsblatt.com/technik/it-internet/chip-konzern-trump-will-immer-noch-huang-als-nvidia-chef-zurueck/100271674.html",
+    "summary": "Für Nvidia ist die Ära von Jensen Huang an der Spitze beendet. Aber nicht für Donald Trump: Der US-Präsident appelliert weiter an den Chip-Riesen, den Mitgründer zurückzuholen.",
+    "published": "2026-11-20T20:51:38+00:00",
+    "source": "Handelsblatt"
+  },
+  {
+    "title": "Aktien: Anthropic-Aktie stürzt Richtung Ausgabekurs – Ist der KI-Boom nach dem Mega-Börsengang vorbei?",
+    "url": "https://www.handelsblatt.com/finanzen/maerkte/boerse-inside/aktien-ist-der-ki-boom-nach-dem-anthropic-boersengang-vorbei/100270470.html",
+    "summary": "„Alle Bären wachen auf“: Am zweiten Handelstag startet die Aktie des KI-Pioniers zehn Prozent im Minus. Die Wall Street steuert auf die längste Verluststrecke seit drei Jahren zu.",
+    "published": "2026-11-20T20:06:56+00:00",
+    "source": "Handelsblatt"
+  },
+  {
+    "title": "US-Börsen: Flucht aus Risikoassets: Ausverkauf an der Nasdaq, S&P im Korrekturmodus",
+    "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/us-boersen-us-boersenschluss-sp-500-und-dow-nach-ausverkauf-in-korrektur/100271593.html",
+    "summary": "Die Euphorie weicht einem globalen Ausverkauf: Nur einen Tag nach dem Rekord-IPO von Anthropic rutschen die Börsen weltweit ab. Anleger trennen sich von Risikowerten und fliehen in sichere Anlagen.",
+    "published": "2026-11-20T19:50:17+00:00",
+    "source": "Handelsblatt"
+  },
+  {
+    "title": "KI-Industrie: Trump warnt US-Konzerne vor Bau von KI-Rechenzentren im Ausland und droht mit „enormen Strafen“",
+    "url": "https://www.handelsblatt.com/politik/international/ki-industrie-trump-warnt-us-konzerne-vor-bau-von-ki-rechenzentren-im-ausland/100271667.html",
+    "summary": "Rechenzentren waren im US-Wahlkampf ein umstrittenes Thema: Die Demokraten wollen sie stärker regulieren. Der US-Präsident hingegen setzt sich für den Bau ein – aber nur im Inland.",
+    "published": "2026-11-20T19:15:12+00:00",
+    "source": "Handelsblatt"
+  },
+  {
+    "title": "Künstliche Intelligenz: Trump droht US-Firmen wegen Rechenzentren im Ausland",
+    "url": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-trump-droht-us-firmen-wegen-rechenzentren-im-ausland/100271664.html",
+    "summary": "Viele Amerikaner lehnen riesige Rechenzentren ab. Den Demokraten verhalf das mit zum Erdrutsch-Sieg bei der Kongresswahl. Präsident Trump will jedoch weiterhin, dass sie in den USA gebaut werden.",
+    "published": "2026-11-20T18:52:18+00:00",
+    "source": "Handelsblatt"
+  },
+  {
+    "title": "Industrielle KI: ABB erwägt bei Scheitern von SoftBank-Deal Börsengang der Robotiksparte",
+    "url": "https://www.handelsblatt.com/unternehmen/industrie/industrielle-ki-abb-erwaegt-bei-scheitern-von-softbank-deal-boersengang-der-robotiksparte/100271655.html",
+    "summary": "China blockiert den Verkauf der ABB-Robotiksparte an SoftBank. Nun prüft der Schweizer Konzern laut Insidern einen Börsengang als Alternative – versucht aber zunächst, den Deal zu retten.",
+    "published": "2026-11-20T16:51:19+00:00",
+    "source": "Handelsblatt"
+  },
+  {
+    "title": "Kraftwerke: Marktmacht von RWE ist ungebrochen",
+    "url": "https://www.handelsblatt.com/politik/deutschland/strom-marktmacht-von-rwe-ist-ungebrochen/100271608.html",
+    "summary": "Die Macht des Energiekonzerns RWE deutet laut aktuellem Monitoringbericht von Bundesnetzagentur und Bundeskartellamt auf eine marktbeherrschende Stellung hin.",
+    "published": "2026-11-20T16:47:04+00:00",
+    "source": "Handelsblatt"
+  },
+  {
+    "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+    "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+    "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+    "published": "2026-11-20T19:53:41+00:00",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+    "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+    "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+    "published": "2026-11-20T19:32:08+00:00",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Chips can survive the space environment — can their financing?",
+    "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+    "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
+    "published": "2026-11-20T17:40:01+00:00",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+    "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+    "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed calls to […]",
+    "published": "2026-11-20T14:55:44+00:00",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Six AI-powered gadgets that could make your home office smarter",
+    "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+    "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+    "published": "2026-11-20T14:00:00+00:00",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Apple may be developing its own AI agent that runs your Mac",
+    "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+    "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+    "published": "2026-11-20T00:56:01+00:00",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+    "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+    "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+    "published": "2026-11-20T00:43:50+00:00",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Meta’s new Muse Charm device may cost $300",
+    "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+    "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+    "published": "2026-11-19T21:58:06+00:00",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "These tech outages are giving Y2K, AI agent style",
+    "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+    "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+    "published": "2026-11-19T21:42:31+00:00",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "published": "2026-11-19T20:18:49+00:00",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Anthropic’s IPO could deliver $156B to charity",
+    "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+    "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
+    "published": "2026-11-19T19:10:45+00:00",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Google gives Gemini the ability to use your Mac for you",
+    "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+    "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+    "published": "2026-11-19T18:09:11+00:00",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+    "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+    "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
+    "published": "2026-11-19T17:38:40+00:00",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+    "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+    "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
+    "published": "2026-11-19T17:00:00+00:00",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+    "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+    "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
+    "published": "2026-11-19T16:59:23+00:00",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+    "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+    "summary": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
+    "published": "2026-11-19T16:19:41+00:00",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+    "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+    "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
+    "published": "2026-11-19T14:54:39+00:00",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Superhuman pushes its Go assistant everywhere",
+    "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+    "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail.",
+    "published": "2026-11-19T14:00:00+00:00",
+    "source": "TechCrunch"
+  }
+]

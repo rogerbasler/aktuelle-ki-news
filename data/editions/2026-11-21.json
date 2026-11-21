@@ -1,0 +1,495 @@
+{
+  "date": "2026-11-21",
+  "week": 47,
+  "languages": [
+    "de",
+    "en",
+    "es"
+  ],
+  "editorial_note": "Die Auswahl dieser Woche konzentriert sich auf den Anthropic-Börsengang und die anschliessende Marktkorrektur sowie auf die Kosten-, Kontroll- und Standortfragen rund um KI-Agenten und Rechenzentren. Boulevardeske Meldungen, Produktankündigungen ohne Entscheidungsrelevanz und reine Veranstaltungshinweise wurden bewusst nicht berücksichtigt.",
+  "items": [
+    {
+      "candidate": 43,
+      "category": "news",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "source": "TechCrunch",
+      "de": {
+        "title": "Anthropic-Börsengang bringt knapp 105 Milliarden Dollar Kapital ein",
+        "summary": "Anthropic hat beim Börsengang zu 83 Dollar je Aktie fast 105 Milliarden Dollar eingenommen, die sieben Gründer erhielten jeweils rund 280 Millionen Dollar. Damit steht ein führendes KI-Labor erstmals unter dem Quartalsdruck öffentlicher Märkte. Für Kunden und Partner stellt sich die Frage, wie sich Preisgestaltung und Entwicklungstempo unter Aktionärsinteressen verändern."
+      },
+      "en": {
+        "title": "Anthropic IPO raises nearly $105 billion in new capital",
+        "summary": "Anthropic priced its IPO at $83 per share, raising close to $105 billion, with each of the seven founders receiving about $280 million. A leading AI lab now answers to the quarterly scrutiny of public markets. Customers and partners will watch whether pricing and development pace shift under shareholder expectations."
+      },
+      "es": {
+        "title": "La salida a bolsa de Anthropic recauda casi 105.000 millones de dólares",
+        "summary": "Anthropic fijó su salida a bolsa en 83 dólares por acción y captó casi 105.000 millones de dólares; cada uno de los siete fundadores recibió unos 280 millones. Un laboratorio de IA líder queda así expuesto al escrutinio trimestral de los mercados. Clientes y socios observarán si los precios y el ritmo de desarrollo cambian bajo la presión de los accionistas."
+      },
+      "published": "2026-11-20",
+      "url_is_article": true
+    },
+    {
+      "candidate": 32,
+      "category": "news",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/us-boersen-us-boersenschluss-sp-500-und-dow-nach-ausverkauf-in-korrektur/100271593.html",
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Ausverkauf an der Nasdaq: S&P 500 rutscht in die Korrektur",
+        "summary": "Einen Tag nach dem Rekord-IPO von Anthropic sind die Börsen weltweit abgerutscht, der S&P 500 fiel in den Korrekturmodus. Anleger trennen sich von Risikowerten und weichen in sichere Anlagen aus. Für Unternehmen mit KI-Investitionsplänen können sich Finanzierungsbedingungen und Bewertungen spürbar verschlechtern."
+      },
+      "en": {
+        "title": "Nasdaq sell-off pushes S&P 500 into correction territory",
+        "summary": "One day after Anthropic's record IPO, markets worldwide slid and the S&P 500 entered correction territory. Investors are dumping risk assets and moving into safer holdings. Companies with AI investment plans may face tighter financing conditions and lower valuations."
+      },
+      "es": {
+        "title": "Venta masiva en el Nasdaq: el S&P 500 entra en corrección",
+        "summary": "Un día después de la salida a bolsa récord de Anthropic, los mercados mundiales cayeron y el S&P 500 entró en corrección. Los inversores se deshacen de activos de riesgo y buscan refugio. Las empresas con planes de inversión en IA podrían enfrentar condiciones de financiación más duras y valoraciones menores."
+      },
+      "published": "2026-11-20",
+      "url_is_article": true
+    },
+    {
+      "candidate": 38,
+      "category": "news",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "source": "TechCrunch",
+      "de": {
+        "title": "Riemannsche Vermutung: KI-gestützter Beweis und menschlicher Ansatz liegen vor",
+        "summary": "Ein KI-gestütztes Ergebnis zur 167 Jahre alten Riemannschen Vermutung beschäftigt die Fachwelt, parallel liegt ein menschlich erarbeiteter Lösungsansatz vor. Die Prüfung beider Arbeiten läuft noch. Gelingt die Bestätigung, wäre das ein Beleg dafür, dass KI-Systeme in der Grundlagenforschung eigenständig tragfähige Beiträge leisten."
+      },
+      "en": {
+        "title": "Riemann hypothesis: AI-assisted proof and a human approach both submitted",
+        "summary": "An AI-driven result on the 167-year-old Riemann hypothesis has stirred the mathematics community, while a competing human-derived solution also exists. Verification of both is still under way. If confirmed, it would show that AI systems can make substantive contributions to fundamental research."
+      },
+      "es": {
+        "title": "Hipótesis de Riemann: hay una prueba asistida por IA y otra humana",
+        "summary": "Un resultado impulsado por IA sobre la hipótesis de Riemann, de 167 años, ha sacudido a la comunidad matemática, y existe además una solución humana alternativa. La verificación de ambos trabajos sigue en curso. Si se confirma, demostraría que los sistemas de IA pueden aportar de forma sustancial a la investigación fundamental."
+      },
+      "published": "2026-11-20",
+      "url_is_article": true
+    },
+    {
+      "candidate": 4,
+      "category": "news",
+      "url": "https://t3n.de/news/goldman-sachs-ki-kosten-bremse-1771271/",
+      "source": "t3n",
+      "de": {
+        "title": "Goldman Sachs begrenzt KI-Tools wegen steigender Kosten",
+        "summary": "Goldman Sachs schränkt den Zugang zu KI-Werkzeugen ein: Claude Code und GitHub bleiben künftig Entwicklern vorbehalten. Der Schritt deutet darauf hin, dass die Kosten flächendeckender KI-Nutzung selbst bei grossen Banken an Grenzen stossen. Unternehmen sollten Lizenzen und Nutzungsrechte gezielt nach Wertbeitrag steuern, statt sie breit auszurollen."
+      },
+      "en": {
+        "title": "Goldman Sachs restricts AI tools as costs climb",
+        "summary": "Goldman Sachs is tightening access to AI tools, reserving Claude Code and GitHub for developers only. The move suggests that the cost of company-wide AI use is reaching limits even at large banks. Firms should allocate licences by expected value rather than rolling them out broadly."
+      },
+      "es": {
+        "title": "Goldman Sachs restringe herramientas de IA por el aumento de costes",
+        "summary": "Goldman Sachs endurece el acceso a herramientas de IA: Claude Code y GitHub quedarán reservados a los desarrolladores. La medida indica que el coste del uso generalizado de IA alcanza sus límites incluso en grandes bancos. Las empresas deberían asignar licencias según el valor aportado en lugar de desplegarlas de forma masiva."
+      },
+      "published": "2026-11-21",
+      "url_is_article": true
+    },
+    {
+      "candidate": 2,
+      "category": "news",
+      "url": "https://t3n.de/news/rechenzentren-stromverbrauch-harvard-studie-1773938/",
+      "source": "t3n",
+      "de": {
+        "title": "Harvard-Studie verschärft Debatte über Strombedarf von Rechenzentren",
+        "summary": "Der KI-Boom und der Ausbau von Rechenzentren stossen in den USA wegen hohen Strom- und Wasserverbrauchs auf wachsenden Widerstand. Eine neue Harvard-Studie dürfte die Kritiker:innen bestätigen. Für Betreiber und Standortplaner wird die Netzkapazität zum entscheidenden Faktor, und Genehmigungen werden voraussichtlich schwieriger."
+      },
+      "en": {
+        "title": "Harvard study sharpens debate over data centre power demand",
+        "summary": "The AI boom and the expansion of data centres are meeting growing resistance in the US because of heavy electricity and water use. A new Harvard study is likely to reinforce critics. For operators and site planners, grid capacity becomes a decisive factor and permits are likely to get harder to obtain."
+      },
+      "es": {
+        "title": "Un estudio de Harvard intensifica el debate sobre el consumo eléctrico de los centros de datos",
+        "summary": "El auge de la IA y la expansión de los centros de datos encuentran creciente rechazo en Estados Unidos por su elevado consumo de electricidad y agua. Un nuevo estudio de Harvard probablemente refuerce a los críticos. Para operadores y planificadores, la capacidad de la red será decisiva y los permisos serán más difíciles de obtener."
+      },
+      "published": "2026-11-21",
+      "url_is_article": true
+    },
+    {
+      "candidate": 48,
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "source": "TechCrunch",
+      "de": {
+        "title": "Gemini steuert künftig Macs: Dateien ordnen, Formulare ausfüllen, Abläufe erledigen",
+        "summary": "Ein Update bringt einen Gemini-Agenten auf den Mac, der Dateien organisiert, Formulare ausfüllt und mehrstufige Abläufe übernimmt. Damit rücken KI-Agenten vom Browser in das Betriebssystem. Unternehmen müssen klären, welche Rechte solche Agenten auf Arbeitsgeräten erhalten und wie ihre Aktionen nachvollziehbar bleiben."
+      },
+      "en": {
+        "title": "Gemini can now operate Macs: organise files, fill forms, run workflows",
+        "summary": "A new update brings a Gemini agent to the Mac that can organise files, fill out forms and handle multistep workflows. AI agents are thus moving from the browser into the operating system. Companies need to decide what permissions such agents get on work devices and how their actions stay traceable."
+      },
+      "es": {
+        "title": "Gemini podrá controlar Mac: ordenar archivos, rellenar formularios y gestionar flujos",
+        "summary": "Una actualización lleva a Mac un agente de Gemini que organiza archivos, rellena formularios y ejecuta flujos de varios pasos. Los agentes de IA pasan así del navegador al sistema operativo. Las empresas deben definir qué permisos tendrán en los equipos de trabajo y cómo se mantiene la trazabilidad de sus acciones."
+      },
+      "published": "2026-11-19",
+      "url_is_article": true
+    },
+    {
+      "candidate": 12,
+      "category": "tools",
+      "url": "https://www.heise.de/news/GitLab-19-6-fuehrt-Audit-Log-fuer-KI-Agenten-ein-NGINX-bleibt-verwundbar-11532950.html",
+      "source": "heise",
+      "de": {
+        "title": "GitLab 19.6 protokolliert Aktionen von KI-Agenten im Audit-Log",
+        "summary": "Aktionen von KI-Agenten über den MCP-Server landen in GitLab 19.6 jetzt im Audit-Log. Patch 19.6.1 schliesst die Lücke Ruby2Shell, das mitgelieferte NGINX bleibt für nginx2root anfällig. Wer Agenten in Entwicklungsprozessen einsetzt, erhält so Nachvollziehbarkeit, muss aber Updates zeitnah einspielen."
+      },
+      "en": {
+        "title": "GitLab 19.6 logs AI agent actions in its audit log",
+        "summary": "In GitLab 19.6, actions by AI agents via the MCP server now appear in the audit log. Patch 19.6.1 closes the Ruby2Shell flaw, while the bundled NGINX remains vulnerable to nginx2root. Teams using agents in development gain traceability but need to apply updates promptly."
+      },
+      "es": {
+        "title": "GitLab 19.6 registra las acciones de agentes de IA en el registro de auditoría",
+        "summary": "En GitLab 19.6, las acciones de agentes de IA a través del servidor MCP quedan ahora en el registro de auditoría. El parche 19.6.1 corrige Ruby2Shell, pero el NGINX incluido sigue expuesto a nginx2root. Quienes usan agentes en el desarrollo ganan trazabilidad, pero deben aplicar las actualizaciones con rapidez."
+      },
+      "published": "2026-11-20",
+      "url_is_article": true
+    },
+    {
+      "candidate": 22,
+      "category": "tools",
+      "url": "https://www.heise.de/news/Google-baut-ein-kuenstliches-Internet-fuer-seine-KI-Agenten-11532191.html",
+      "source": "heise",
+      "de": {
+        "title": "Google baut künstliches Internet, um KI-Agenten auf Angriffe zu testen",
+        "summary": "Google hat ein künstliches Internet mit Tausenden Websites geschaffen, um KI-Agenten realistischen Angriffen auszusetzen. Ziel ist, ihre Sicherheit unter kontrollierten Bedingungen zu verbessern. Für Unternehmen zeigt das, dass Agenten vor dem produktiven Einsatz systematisch gegen Manipulation getestet werden sollten."
+      },
+      "en": {
+        "title": "Google builds an artificial internet to test AI agents against attacks",
+        "summary": "Google has created an artificial internet with thousands of websites to expose AI agents to realistic attacks. The aim is to improve their security under controlled conditions. For companies, it signals that agents should be systematically tested against manipulation before going into production."
+      },
+      "es": {
+        "title": "Google crea un internet artificial para probar agentes de IA frente a ataques",
+        "summary": "Google ha creado un internet artificial con miles de sitios web para exponer a los agentes de IA a ataques realistas. El objetivo es mejorar su seguridad en condiciones controladas. Para las empresas, es una señal de que los agentes deben someterse a pruebas sistemáticas contra manipulación antes de su uso productivo."
+      },
+      "published": "2026-11-20",
+      "url_is_article": true
+    },
+    {
+      "candidate": 54,
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+      "source": "TechCrunch",
+      "de": {
+        "title": "Superhuman macht Go zum zentralen Agenten in Docs und Mail",
+        "summary": "Superhuman erklärt seinen Assistenten Go zum zentralen Agenten und stellt ihn in Docs und Mail bereit. Produktivitätssoftware bündelt damit KI-Funktionen zunehmend in einem einzigen Assistenten statt in verstreuten Einzelfunktionen. Für Teams lohnt der Vergleich, ob dies Arbeitsabläufe vereinfacht oder neue Abhängigkeiten schafft."
+      },
+      "en": {
+        "title": "Superhuman makes Go its central agent across Docs and Mail",
+        "summary": "Superhuman is making its Go assistant its central agent and rolling it out in Docs and Mail. Productivity software is increasingly consolidating AI features into a single assistant rather than scattered functions. Teams should assess whether this simplifies workflows or creates new dependencies."
+      },
+      "es": {
+        "title": "Superhuman convierte a Go en su agente central en Docs y Mail",
+        "summary": "Superhuman convierte a su asistente Go en el agente central y lo despliega en Docs y Mail. El software de productividad concentra cada vez más las funciones de IA en un único asistente en lugar de funciones dispersas. Los equipos deberían evaluar si esto simplifica los flujos de trabajo o crea nuevas dependencias."
+      },
+      "published": "2026-11-19",
+      "url_is_article": true
+    },
+    {
+      "candidate": 26,
+      "category": "regulierung",
+      "url": "https://www.handelsblatt.com/politik/international/ki-ruestung-un-gespraeche-ueber-autonome-waffen-enden-ohne-verbindliche-zusage/100271727.html",
+      "source": "Handelsblatt",
+      "de": {
+        "title": "UN-Gespräche über autonome Waffen enden ohne verbindliche Zusage",
+        "summary": "Die UN-Gespräche über vollautonome Waffen sind ohne verbindliches Ergebnis zu Ende gegangen, obwohl viele Länder dem Aufruf zu Schranken gefolgt sind. Es bleibt offen, ob und wann internationale Regeln entstehen. Rüstungs- und Technologieunternehmen müssen vorerst mit regulatorischer Unsicherheit und wachsendem Reputationsdruck rechnen."
+      },
+      "en": {
+        "title": "UN talks on autonomous weapons end without a binding commitment",
+        "summary": "UN talks on fully autonomous weapons ended without a binding outcome, although many countries backed calls for limits. It remains unclear whether and when international rules will emerge. Defence and technology firms face regulatory uncertainty and growing reputational pressure in the meantime."
+      },
+      "es": {
+        "title": "Las conversaciones de la ONU sobre armas autónomas terminan sin compromiso vinculante",
+        "summary": "Las conversaciones de la ONU sobre armas totalmente autónomas concluyeron sin resultado vinculante, aunque muchos países respaldaron el llamado a fijar límites. Sigue sin estar claro si habrá normas internacionales y cuándo. Las empresas de defensa y tecnología deberán convivir con incertidumbre regulatoria y mayor presión reputacional."
+      },
+      "published": "2026-11-21",
+      "url_is_article": true
+    },
+    {
+      "candidate": 33,
+      "category": "regulierung",
+      "url": "https://www.handelsblatt.com/politik/international/ki-industrie-trump-warnt-us-konzerne-vor-bau-von-ki-rechenzentren-im-ausland/100271667.html",
+      "source": "Handelsblatt",
+      "de": {
+        "title": "Trump droht US-Konzernen mit Strafen für KI-Rechenzentren im Ausland",
+        "summary": "Präsident Trump warnt US-Konzerne vor dem Bau von KI-Rechenzentren im Ausland und droht mit enormen Strafen. Rechenzentren waren im Wahlkampf umstritten, der Präsident will sie aber im Inland. Internationale Standortstrategien von Cloud- und KI-Anbietern könnten dadurch politisch riskanter werden."
+      },
+      "en": {
+        "title": "Trump threatens US firms with penalties over overseas AI data centres",
+        "summary": "President Trump warns US companies against building AI data centres abroad and threatens enormous penalties. Data centres were a contested campaign issue, yet the president wants them built at home. International siting strategies of cloud and AI providers could become politically riskier."
+      },
+      "es": {
+        "title": "Trump amenaza con sanciones a empresas de EE. UU. por centros de datos de IA en el extranjero",
+        "summary": "El presidente Trump advierte a las empresas estadounidenses contra construir centros de datos de IA en el extranjero y amenaza con enormes sanciones. Los centros de datos fueron un tema polémico en la campaña, pero el presidente quiere que se construyan dentro del país. Las estrategias internacionales de ubicación de los proveedores de nube e IA podrían volverse políticamente más arriesgadas."
+      },
+      "published": "2026-11-20",
+      "url_is_article": true
+    },
+    {
+      "candidate": 9,
+      "category": "regulierung",
+      "url": "https://www.heise.de/news/KI-Kennzeichnung-und-National-Geographic-die-Fotonews-der-Woche-47-2026-11532822.html",
+      "source": "heise",
+      "de": {
+        "title": "Frankfurter Gericht stärkt Fotografen-Rechte bei KI-Bildern",
+        "summary": "Ein Frankfurter Gericht hat die Rechte von Fotografen im Umgang mit KI-Bildern gestärkt. Das Urteil betrifft die Kennzeichnung und Nutzung von Bildmaterial. Agenturen, Medien und Marketingabteilungen sollten ihre Prozesse zu Herkunft und Kennzeichnung von Bildern prüfen."
+      },
+      "en": {
+        "title": "Frankfurt court strengthens photographers' rights over AI images",
+        "summary": "A court in Frankfurt has strengthened the rights of photographers in dealing with AI-generated images. The ruling touches on labelling and the use of image material. Agencies, publishers and marketing teams should review how they document image provenance and labelling."
+      },
+      "es": {
+        "title": "Un tribunal de Fráncfort refuerza los derechos de los fotógrafos frente a imágenes de IA",
+        "summary": "Un tribunal de Fráncfort ha reforzado los derechos de los fotógrafos frente a las imágenes generadas por IA. La sentencia afecta al etiquetado y al uso del material gráfico. Agencias, medios y equipos de marketing deberían revisar sus procesos sobre origen y etiquetado de imágenes."
+      },
+      "published": "2026-11-21",
+      "url_is_article": true
+    },
+    {
+      "candidate": 52,
+      "category": "stimmen",
+      "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+      "source": "TechCrunch",
+      "de": {
+        "title": "Amodei bekräftigt zum Börsenstart: KI-Entwicklung bleibt bewusst getaktet",
+        "summary": "In seiner Rede zum Handelsstart an der Nasdaq bekräftigte Dario Amodei, dass Anthropic die KI-Entwicklung unabhängig von wirtschaftlichem oder politischem Druck bewusst takten will. Ob das Versprechen unter Aktionärsdruck hält, wird sich an künftigen Entscheidungen messen lassen. Kunden können es als Kriterium bei der Anbieterwahl heranziehen."
+      },
+      "en": {
+        "title": "Amodei at the Nasdaq bell: AI development will stay deliberately paced",
+        "summary": "In his Nasdaq opening bell speech, Dario Amodei reiterated that Anthropic will pace AI development regardless of business or political pressure. Whether the pledge holds under shareholder scrutiny will be judged by future decisions. Customers can use it as one criterion when choosing a provider."
+      },
+      "es": {
+        "title": "Amodei en la campana del Nasdaq: el desarrollo de la IA seguirá un ritmo deliberado",
+        "summary": "En su discurso en la apertura del Nasdaq, Dario Amodei reiteró que Anthropic marcará el ritmo del desarrollo de la IA con independencia de las presiones comerciales o políticas. Si la promesa resiste la presión de los accionistas se verá en decisiones futuras. Los clientes pueden usarla como criterio al elegir proveedor."
+      },
+      "published": "2026-11-19",
+      "url_is_article": true
+    },
+    {
+      "candidate": 53,
+      "category": "stimmen",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+      "source": "TechCrunch",
+      "de": {
+        "title": "Anthropic-IPO stellt das zirkuläre Finanzierungsmodell der KI-Branche auf die Probe",
+        "summary": "Mit dem Börsengang übernimmt Anthropic enorme Rechenkapazitätsverpflichtungen, während Infrastrukturpartner wie Amazon und Google auch bei einem Verlust der Spitzenposition weiter am KI-Geschäft verdienen könnten. Die Risiken sind damit ungleich verteilt. Entscheider sollten die Abhängigkeiten zwischen Modellanbietern und Cloud-Konzernen in ihre Lieferantenanalyse einbeziehen."
+      },
+      "en": {
+        "title": "Anthropic's IPO tests the circular financing model of the AI industry",
+        "summary": "By going public, Anthropic takes on enormous compute commitments, while infrastructure partners such as Amazon and Google could keep profiting from AI even if Anthropic loses its lead. Risk is therefore unevenly distributed. Decision-makers should factor the ties between model providers and cloud groups into supplier analysis."
+      },
+      "es": {
+        "title": "La salida a bolsa de Anthropic pone a prueba la financiación circular de la IA",
+        "summary": "Al cotizar, Anthropic asume enormes compromisos de capacidad de cómputo, mientras que socios de infraestructura como Amazon y Google podrían seguir ganando con la IA aunque Anthropic pierda su liderazgo. El riesgo queda así repartido de forma desigual. Los responsables deberían incluir las dependencias entre proveedores de modelos y nubes en su análisis de proveedores."
+      },
+      "published": "2026-11-19",
+      "url_is_article": true
+    },
+    {
+      "candidate": 35,
+      "category": "business",
+      "url": "https://www.handelsblatt.com/unternehmen/industrie/industrielle-ki-abb-erwaegt-bei-scheitern-von-softbank-deal-boersengang-der-robotiksparte/100271655.html",
+      "source": "Handelsblatt",
+      "de": {
+        "title": "ABB prüft Börsengang der Robotiksparte, falls SoftBank-Deal scheitert",
+        "summary": "China blockiert den Verkauf der ABB-Robotiksparte an SoftBank, weshalb der Konzern laut Insidern einen Börsengang als Alternative prüft. Zunächst will ABB den Deal noch retten. Der Fall zeigt, wie geopolitische Genehmigungen Transaktionen im Bereich industrieller KI und Robotik bestimmen können."
+      },
+      "en": {
+        "title": "ABB weighs robotics IPO if the SoftBank deal fails",
+        "summary": "China is blocking the sale of ABB's robotics division to SoftBank, and the group is reportedly considering an IPO as an alternative. ABB will first try to rescue the deal. The case shows how geopolitical approvals can shape transactions in industrial AI and robotics."
+      },
+      "es": {
+        "title": "ABB estudia sacar a bolsa su división de robótica si fracasa el acuerdo con SoftBank",
+        "summary": "China bloquea la venta de la división de robótica de ABB a SoftBank, por lo que el grupo estudia, según fuentes internas, una salida a bolsa como alternativa. Antes intentará salvar el acuerdo. El caso muestra cómo las aprobaciones geopolíticas pueden condicionar las operaciones en IA industrial y robótica."
+      },
+      "published": "2026-11-20",
+      "url_is_article": true
+    }
+  ],
+  "podcast": {
+    "de": {
+      "script": "Was bedeutet es, wenn ein Börsengang der Superlative einen Tag später von einem globalen Ausverkauf gefolgt wird? Anthropic hat zu 83 Dollar je Aktie fast 105 Milliarden Dollar eingesammelt, die sieben Gründer erhielten jeweils rund 280 Millionen. Am zweiten Handelstag lag die Aktie zehn Prozent im Minus, die Nasdaq verkaufte aus, und der S&P 500 rutschte in die Korrektur.\n\nDie Börse stellt damit eine unbequeme Frage: Wer trägt die Last der gewaltigen Rechenkapazitätsverpflichtungen? Anthropic hat sie übernommen, während Partner wie Amazon und Google auch dann verdienen könnten, wenn Anthropic die Spitze verliert. Das Finanzierungsmodell der Branche ist zirkulär, und ein Börsengang macht diese Zirkularität sichtbar. Dario Amodei versprach zum Handelsstart, die Entwicklung unabhängig von Druck zu takten. Das ist ein Satz, der erst unter schlechtem Kurs etwas wert wird.\n\nWie hoch die Kosten flächendeckender KI-Nutzung tatsächlich sind, zeigt ein Fall aus dem Alltag einer Grossbank. Goldman Sachs beschränkt Claude Code und GitHub künftig auf Entwickler. Wenn selbst eine Bank mit dieser Finanzkraft den Zugang rationiert, wird aus der Lizenzfrage eine Steuerungsfrage: Wer bekommt welches Werkzeug, und mit welchem erwarteten Nutzen?\n\nDie Kostenseite hat eine physische Entsprechung. Eine neue Harvard-Studie verschärft die Debatte über den Strom- und Wasserbedarf von Rechenzentren in den USA, wo der Widerstand wächst. Die Politik reagiert widersprüchlich. Präsident Trump will Rechenzentren im Inland, droht aber Konzernen, die im Ausland bauen, mit enormen Strafen. Google und Blue Origin denken unterdessen über Rechenzentren im Orbit nach, was weniger nach Lösung klingt als nach Beleg dafür, wie knapp Strom und Fläche am Boden geworden sind.\n\nMit der Kostenfrage wächst die Kontrollfrage. Google lässt Gemini künftig Macs steuern, Dateien ordnen, Formulare ausfüllen, mehrstufige Abläufe erledigen. Der Agent wandert vom Browser ins Betriebssystem. Das ist praktisch, bis man fragt, was passiert, wenn er sich irrt. Metas Agent Muse soll Gespräche vermischt und fremde Kontostände angezeigt haben, und GitLab protokolliert Agenten-Aktionen jetzt im Audit-Log. Beides sind zwei Seiten derselben Medaille: Autonomie braucht Nachvollziehbarkeit.\n\nGoogle selbst baut deshalb ein künstliches Internet mit Tausenden Websites, um Agenten realistischen Angriffen auszusetzen. Wer Agenten produktiv einsetzt, sollte sie vorher ähnlich prüfen, denn die Frage, wie ein Fehler korrigiert wird, bevor er Schaden anrichtet, lässt sich nicht nach dem Rollout beantworten.\n\nDass die Fähigkeiten dennoch beeindrucken, zeigt die Mathematik. Ein KI-gestütztes Ergebnis zur Riemannschen Vermutung beschäftigt die Fachwelt, parallel liegt ein menschlicher Ansatz vor. Die Prüfung läuft. Bestätigt sie sich, wäre das mehr als ein Rekord, nämlich ein Hinweis darauf, dass Modelle in der Grundlagenforschung tragfähig mitarbeiten.\n\nBleibt die Frage nach den Regeln. Die UN-Gespräche über autonome Waffen endeten ohne verbindliche Zusage, obwohl viele Länder Schranken wollten. Die Technik läuft, die Regulierung wartet, und zwischen beiden sitzen Unternehmen, die mit Unsicherheit planen müssen.\n\nDie Kernaussage der Woche: KI wird teurer, selbstständiger und politischer zugleich, und wer sie einsetzt, muss Kosten, Kontrolle und Standort gemeinsam entscheiden.",
+      "audio": "audio/2026-11-21/podcast-de.mp3",
+      "duration_sec": 147,
+      "voice": {
+        "name": "Ceecee - Friendly",
+        "voice_id": "bc5d389d33a140c89e50e9b75fde5303",
+        "language": "Multilingual"
+      },
+      "speed": 1.4,
+      "engine": "HeyGen v3"
+    },
+    "en": {
+      "script": "What does it mean when a record-setting IPO is followed one day later by a global sell-off? Anthropic raised almost 105 billion dollars at 83 dollars a share, and each of its seven founders took home roughly 280 million. By the second trading day the stock was down ten percent, the Nasdaq was selling off, and the S&P 500 had slipped into correction.\n\nThe market is asking an uncomfortable question: who carries the weight of enormous compute commitments? Anthropic has taken them on, while partners such as Amazon and Google could keep profiting even if Anthropic loses its lead. The industry's financing model is circular, and an IPO makes that circularity visible. Dario Amodei promised at the opening bell to pace development regardless of pressure. That is a sentence that only becomes worth something when the share price is under strain.\n\nHow expensive company-wide AI use really is shows up in the daily life of a large bank. Goldman Sachs now limits Claude Code and GitHub to developers. If even a bank with that financial strength rations access, licensing turns into a governance question: who gets which tool, and for what expected return?\n\nThe cost side has a physical counterpart. A new Harvard study sharpens the debate over data centre electricity and water use in the United States, where resistance is growing. Politics responds with contradictions. President Trump wants data centres at home but threatens companies that build abroad with enormous penalties. Google and Blue Origin, meanwhile, are thinking about data centres in orbit, which sounds less like a solution than evidence of how scarce power and land have become on the ground.\n\nAs the cost question grows, so does the control question. Google will let Gemini operate Macs, organising files, filling out forms and running multistep workflows. The agent moves from the browser into the operating system. That is convenient until you ask what happens when it is wrong. Meta's Muse agent reportedly mixed up conversations and showed other people's account balances, and GitLab now logs agent actions in its audit log. These are two sides of one coin: autonomy requires traceability.\n\nGoogle itself has built an artificial internet with thousands of websites to expose agents to realistic attacks. Anyone deploying agents in production should test them in a similar spirit, because the question of how an error gets corrected before it causes harm cannot be answered after rollout.\n\nThat capabilities still impress is clear from mathematics. An AI-assisted result on the Riemann hypothesis is occupying the field, and a human approach exists alongside it. Verification is under way. If it holds, it would be more than a record; it would signal that models can contribute substantively to fundamental research.\n\nWhich leaves the question of rules. UN talks on autonomous weapons ended without a binding commitment, even though many countries wanted limits. The technology moves, regulation waits, and between them sit companies that must plan under uncertainty.\n\nThe week in one line: AI is becoming more expensive, more autonomous and more political at the same time, and anyone deploying it has to decide on cost, control and location together.",
+      "audio": "audio/2026-11-21/podcast-en.mp3",
+      "duration_sec": 141,
+      "voice": {
+        "name": "Ceecee - Friendly",
+        "voice_id": "bc5d389d33a140c89e50e9b75fde5303",
+        "language": "Multilingual"
+      },
+      "speed": 1.4,
+      "engine": "HeyGen v3"
+    },
+    "es": {
+      "script": "¿Qué significa que una salida a bolsa récord vaya seguida, un día después, de una venta masiva global? Anthropic captó casi 105.000 millones de dólares a 83 dólares por acción, y cada uno de sus siete fundadores recibió unos 280 millones. En la segunda jornada la acción cayó un diez por ciento, el Nasdaq se desplomó y el S&P 500 entró en corrección.\n\nEl mercado plantea así una pregunta incómoda: quién soporta el peso de los enormes compromisos de capacidad de cómputo. Anthropic los ha asumido, mientras que socios como Amazon y Google podrían seguir ganando aunque Anthropic pierda el liderazgo. El modelo de financiación del sector es circular, y una salida a bolsa hace visible esa circularidad. Dario Amodei prometió al abrir la sesión marcar el ritmo del desarrollo pese a las presiones. Es una frase que solo cobra valor cuando la cotización sufre.\n\nCuánto cuesta realmente el uso generalizado de la IA se ve en el día a día de un gran banco. Goldman Sachs limita ahora Claude Code y GitHub a los desarrolladores. Si hasta un banco con esa fortaleza racionaliza el acceso, la cuestión de las licencias se convierte en una cuestión de gobierno: quién recibe qué herramienta y con qué rendimiento esperado.\n\nEl lado del coste tiene su reflejo físico. Un nuevo estudio de Harvard intensifica el debate sobre el consumo de electricidad y agua de los centros de datos en Estados Unidos, donde crece la oposición. La política responde con contradicciones. El presidente Trump quiere centros de datos dentro del país, pero amenaza con enormes sanciones a las empresas que construyan fuera. Google y Blue Origin, entretanto, piensan en centros de datos en órbita, lo que suena menos a solución que a prueba de lo escasos que se han vuelto la energía y el terreno en la Tierra.\n\nA medida que crece la cuestión del coste, crece la del control. Google permitirá que Gemini controle Mac, ordene archivos, rellene formularios y ejecute flujos de varios pasos. El agente pasa del navegador al sistema operativo. Es práctico, hasta que uno pregunta qué ocurre si se equivoca. El agente Muse de Meta habría mezclado conversaciones y mostrado saldos bancarios ajenos, y GitLab ahora registra las acciones de los agentes en su registro de auditoría. Son dos caras de la misma moneda: la autonomía exige trazabilidad.\n\nGoogle mismo ha construido un internet artificial con miles de sitios para exponer a los agentes a ataques realistas. Quien use agentes en producción debería probarlos de forma similar, porque la pregunta de cómo se corrige un error antes de que cause daño no puede responderse después del despliegue.\n\nQue las capacidades siguen impresionando lo muestran las matemáticas. Un resultado asistido por IA sobre la hipótesis de Riemann ocupa al sector, y existe en paralelo un enfoque humano. La verificación está en marcha. Si se confirma, sería más que un récord: indicaría que los modelos pueden contribuir de forma sólida a la investigación fundamental.\n\nQueda la cuestión de las reglas. Las conversaciones de la ONU sobre armas autónomas terminaron sin compromiso vinculante, aunque muchos países querían límites. La tecnología avanza, la regulación espera, y entre ambas están las empresas, que deben planificar con incertidumbre.\n\nLa idea de la semana: la IA se vuelve a la vez más cara, más autónoma y más política, y quien la use debe decidir juntos el coste, el control y la ubicación.",
+      "audio": "audio/2026-11-21/podcast-es.mp3",
+      "duration_sec": 155,
+      "voice": {
+        "name": "Ceecee - Friendly",
+        "voice_id": "bc5d389d33a140c89e50e9b75fde5303",
+        "language": "Multilingual"
+      },
+      "speed": 1.4,
+      "engine": "HeyGen v3"
+    }
+  },
+  "model": "claude-sonnet-5-5",
+  "link_check": {
+    "checked_at": "2026-11-21",
+    "results": [
+      {
+        "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+        "ok": true,
+        "status": [
+          200,
+          200
+        ],
+        "final_url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
+      },
+      {
+        "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/us-boersen-us-boersenschluss-sp-500-und-dow-nach-ausverkauf-in-korrektur/100271593.html",
+        "ok": true,
+        "status": [
+          200,
+          200
+        ],
+        "final_url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/us-boersen-us-boersenschluss-sp-500-und-dow-nach-ausverkauf-in-korrektur/100271593.html"
+      },
+      {
+        "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+        "ok": true,
+        "status": [
+          200,
+          200
+        ],
+        "final_url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
+      },
+      {
+        "url": "https://t3n.de/news/goldman-sachs-ki-kosten-bremse-1771271",
+        "ok": true,
+        "status": [
+          200,
+          200
+        ],
+        "final_url": "https://t3n.de/news/goldman-sachs-ki-kosten-bremse-1771271/"
+      },
+      {
+        "url": "https://t3n.de/news/rechenzentren-stromverbrauch-harvard-studie-1773938",
+        "ok": true,
+        "status": [
+          200,
+          200
+        ],
+        "final_url": "https://t3n.de/news/rechenzentren-stromverbrauch-harvard-studie-1773938/"
+      },
+      {
+        "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+        "ok": true,
+        "status": [
+          200,
+          200
+        ],
+        "final_url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"
+      },
+      {
+        "url": "https://www.heise.de/news/GitLab-19-6-fuehrt-Audit-Log-fuer-KI-Agenten-ein-NGINX-bleibt-verwundbar-11532950.html",
+        "ok": true,
+        "status": [
+          200,
+          200
+        ],
+        "final_url": "https://www.heise.de/news/GitLab-19-6-fuehrt-Audit-Log-fuer-KI-Agenten-ein-NGINX-bleibt-verwundbar-11532950.html"
+      },
+      {
+        "url": "https://www.heise.de/news/Google-baut-ein-kuenstliches-Internet-fuer-seine-KI-Agenten-11532191.html",
+        "ok": true,
+        "status": [
+          200,
+          200
+        ],
+        "final_url": "https://www.heise.de/news/Google-baut-ein-kuenstliches-Internet-fuer-seine-KI-Agenten-11532191.html"
+      },
+      {
+        "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+        "ok": true,
+        "status": [
+          200,
+          200
+        ],
+        "final_url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/"
+      },
+      {
+        "url": "https://www.handelsblatt.com/politik/international/ki-ruestung-un-gespraeche-ueber-autonome-waffen-enden-ohne-verbindliche-zusage/100271727.html",
+        "ok": true,
+        "status": [
+          200,
+          200
+        ],
+        "final_url": "https://www.handelsblatt.com/politik/international/ki-ruestung-un-gespraeche-ueber-autonome-waffen-enden-ohne-verbindliche-zusage/100271727.html"
+      },
+      {
+        "url": "https://www.handelsblatt.com/politik/international/ki-industrie-trump-warnt-us-konzerne-vor-bau-von-ki-rechenzentren-im-ausland/100271667.html",
+        "ok": true,
+        "status": [
+          200,
+          200
+        ],
+        "final_url": "https://www.handelsblatt.com/politik/international/ki-industrie-trump-warnt-us-konzerne-vor-bau-von-ki-rechenzentren-im-ausland/100271667.html"
+      },
+      {
+        "url": "https://www.heise.de/news/KI-Kennzeichnung-und-National-Geographic-die-Fotonews-der-Woche-47-2026-11532822.html",
+        "ok": true,
+        "status": [
+          200,
+          200
+        ],
+        "final_url": "https://www.heise.de/news/KI-Kennzeichnung-und-National-Geographic-die-Fotonews-der-Woche-47-2026-11532822.html"
+      },
+      {
+        "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+        "ok": true,
+        "status": [
+          200,
+          200
+        ],
+        "final_url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/"
+      },
+      {
+        "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+        "ok": true,
+        "status": [
+          200,
+          200
+        ],
+        "final_url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/"
+      },
+      {
+        "url": "https://www.handelsblatt.com/unternehmen/industrie/industrielle-ki-abb-erwaegt-bei-scheitern-von-softbank-deal-boersengang-der-robotiksparte/100271655.html",
+        "ok": true,
+        "status": [
+          200,
+          200
+        ],
+        "final_url": "https://www.handelsblatt.com/unternehmen/industrie/industrielle-ki-abb-erwaegt-bei-scheitern-von-softbank-deal-boersengang-der-robotiksparte/100271655.html"
+      }
+    ],
+    "visible_items": 15
+  },
+  "reports": {
+    "audio": "## Audio (2026-11-21)\nSprechgeschwindigkeit: 1.4 (HeyGen speed-Parameter)\n- de: konfigurierte Stimme Ceecee - Friendly (bc5d389d33a140c89e50e9b75fde5303)\n- de: 3 Chunks, Dauer 147 s, Datei podcast-de.mp3\n- en: konfigurierte Stimme Ceecee - Friendly (bc5d389d33a140c89e50e9b75fde5303)\n- en: 3 Chunks, Dauer 141 s, Datei podcast-en.mp3\n- es: konfigurierte Stimme Ceecee - Friendly (bc5d389d33a140c89e50e9b75fde5303)\n- es: 3 Chunks, Dauer 155 s, Datei podcast-es.mp3"
+  }
+}
