@@ -33,6 +33,7 @@ Generiert (nicht von Hand bearbeiten): `index.html`, `en/`, `es/`, `archiv/`, `s
 | 3 | `verify_links.py` | jede URL zweimal prüfen, Ausfälle durch Reserven ersetzen |
 | 4 | `tts.py` | HeyGen v3 Speech API, Chunks, ffmpeg-Concat, Tempo 1.4, Dauerprüfung |
 | 5 | `build_site.py` | statische Website in drei Sprachen inkl. Archiv, Suche, Feeds |
+| | 6 | `stories.py` | 7 Instagram-Stories (1080x1920, fragRoger-CI) nach `stories/YYYY-MM-DD/`, plus ZIP |
 | | `run.py --stage full|text-only|audio-only|build-only` | Orchestrierung und Run-Report |
 
 Lokal: `pip install -r pipeline/requirements.txt`, ffmpeg installieren, `ANTHROPIC_API_KEY` und

@@ -85,6 +85,14 @@ jobs:
           python pipeline/run.py --stage "$STAGE" --date "$DATE"
           echo "DATE=$DATE" >> "$GITHUB_ENV"
 
+      - name: Instagram-Stories erzeugen
+        if: steps.gate.outputs.run == 'true'
+        continue-on-error: true
+        run: |
+          pip install -q playwright
+          python -m playwright install --with-deps chromium
+          python pipeline/stories.py --date "$DATE"
+
       - name: Veröffentlichen
         if: steps.gate.outputs.run == 'true'
         run: |
